@@ -156,3 +156,4 @@ Signed,
 - Chuck F. Sneed
 - Hubert Figuière
 - Tobias Klausmann
+- Jacob Kaplan-Moss (Django co-creator; Founder, Django Software Foundation)
