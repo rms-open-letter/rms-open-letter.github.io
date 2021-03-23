@@ -36,4 +36,5 @@ Signed,
 <!-- Any additional signees should go below this comment in chronological order -->
 
 - Josh Simmons (President of the Open Source Initiative)
+- Geoffrey Thomas
 - Matt Lee (Libre.fm, former member of the GNU Project)
