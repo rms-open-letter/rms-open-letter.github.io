@@ -184,6 +184,7 @@ Signed,
 - Julien Voisin
 - June Taylor
 - Justin W. Flory (UNICEF, Fedora Project D&I Advisor)
+- Karen Rustad Tölva (former OpenHatch and Students for Free Culture board member)
 - Kavi Laud
 - Kellegram
 - Kevin O'Brien
