@@ -62,3 +62,4 @@ Signed,
 - Chris DiBona (Google LLC.)
 - David Turner (former GPL Compliance Engineer at FSF)
 - Ignacio Torres Masdeu
+- Ben Werdmuller
