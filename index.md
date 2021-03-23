@@ -182,6 +182,7 @@ Signed,
 - Jacob Weisz
 - James Cochran
 - James Daly
+- James Spivey
 - James Troup
 - Jane Manchun Wong
 - Jan Lehnardt (Apache CouchDB PMC Chair)
