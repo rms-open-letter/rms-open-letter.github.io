@@ -210,6 +210,7 @@ Signed,
 - Martin Wimpress (Former FSF member)
 - Matt Beland
 - Matteo Tammmaccaro
+- Matthew `mattcen` Cengia
 - Matthew P. Del Buono
 - Matthew Vernon (Debian developer)
 - Matthew Wilcox (Linux kernel hacker)
