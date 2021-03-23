@@ -299,6 +299,7 @@ Signed,
 - Vipul Gupta
 - Vivia Nikolaidou (GStreamer)
 - William Theaker (Former FSF staff member)
+- Will Hawkins
 - Xavier Tilley
 - X.org Foundation Board of Directors (Lyude Paul, Eric Anholt, Mark Filion, Keith Packard, Daniel Vetter, Harry Wentland, Samuel Iglesias Gonsálvez)
 - Yao Li (former FSF Monthly Student Associate Member)
