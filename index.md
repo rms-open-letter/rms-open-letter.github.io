@@ -91,6 +91,7 @@ Signed,
 - David Reid
 - David Thompson (GNU Guile/Guix contributor, ex-FSF)
 - David Turner (former GPL Compliance Engineer at FSF)
+- Devin Buhl
 - D. Joe Anderson
 - Dmitry Porunov
 - Dominic Hayes (The Feren OS Developer)
