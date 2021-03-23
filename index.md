@@ -111,6 +111,7 @@ Signed,
 - Fridrich Strba
 - Geir Magnusson Jr.
 - Geoffrey Thomas
+- Göktuğ Kayaalp
 - Greg Grossmeier
 - Halla Rempt (maintainer of Krita)
 - Hayden Seay
