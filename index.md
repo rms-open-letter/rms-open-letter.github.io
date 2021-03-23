@@ -160,6 +160,7 @@ Signed,
 - Louis Jones
 - Lucas Bickel
 - Luis Antonio Sánchez Romero
+- Luke Faraone (Debian FTP master, Ubuntu developer, former English Wikipedia Arbitration Committee member)
 - Luna Duclos
 - Mairi Dulaney (Fedora Project contributor)
 - Máirín Duffy (Fedora Project, former FSF HPP committee member, former LP speaker)
@@ -243,4 +244,3 @@ Signed,
 - Yorik van Havre
 - Yvan Sraka
 - Zach van Rijn
-
