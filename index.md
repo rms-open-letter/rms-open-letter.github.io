@@ -52,6 +52,7 @@ Signed,
 - Amy Russell
 - Amy Troschinetz
 - Andrej Shadura
+- Andre Klapper (GNOME)
 - Andy Isaacson (@radii, founding member of Noisebridge)
 - Angus Fletcher
 - Aniol Marti (Debian Maintainer, Caliu President)
