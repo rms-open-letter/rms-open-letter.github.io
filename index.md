@@ -42,4 +42,6 @@ Signed,
 - Steve McIntyre (Former Debian Project Leader)
 - Parker Higgins
 - Noel Georgi
+- Hayden Seay
 - Lucas Bickel
+- Colin Watson (Former Debian Technical Committee member)
