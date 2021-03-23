@@ -307,6 +307,7 @@ Signed,
 - Peter Hunt
 - Peter Jones (Fedora developer)
 - Peter Van Eynde
+- Petrohs
 - Phil Dibowitz
 - Philippe Normand
 - Pierre Marijon
