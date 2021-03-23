@@ -85,6 +85,7 @@ Signed,
 - Connor Sheridan
 - Courtney Thurston (former Spark distro dev)
 - Dan Arel (owner, ThinkPrivacy.ch)
+- Dan Bornstein (@danfuzz)
 - Daniel Nazer
 - Daniel Soskel
 - Daniel Stone (freedesktop.org, Wayland)
