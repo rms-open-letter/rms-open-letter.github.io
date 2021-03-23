@@ -122,6 +122,7 @@ Signed,
 - Eriol Fox
 - Esther Payne (Librecast Project)
 - Evan Brown
+- Ezekiel Hendrickson
 - Fabio Di Peri
 - Federico Mena Quintero (GNOME)
 - Federico Pontillo
