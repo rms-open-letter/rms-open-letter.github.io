@@ -83,6 +83,7 @@ Signed,
 - Claudio Saavedra (former GNOME maintainer and GNOME Foundation member)
 - Colin Watson (Former Debian Technical Committee member)
 - Connor Sheridan
+- CookieSource (Head of Administration RebornOS)
 - Courtney Thurston (former Spark distro dev)
 - Dan Arel (owner, ThinkPrivacy.ch)
 - Daniel Nazer
