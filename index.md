@@ -131,6 +131,7 @@ Signed,
 - Fredrik Lindh
 - Fridrich Strba
 - Gabriel Volpe (Practical FP in Scala) 
+- Gareth J. Greenaway (Salt Developer, SCALE Co-Founder and former chair person)
 - Geir Magnusson Jr.
 - Geoffrey Thomas
 - Göktuğ Kayaalp
