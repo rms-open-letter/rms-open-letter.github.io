@@ -133,6 +133,7 @@ Signed,
 - Jeff Warnica
 - Jerome Charaoui (Debian Developer, former FSF member)
 - Jesse Cooke
+- Jesse Li
 - Jesse Raleigh (Sr Security Researcher)
 - Joe Harley
 - Jonathan McDowell
