@@ -174,3 +174,4 @@ Signed,
 - Sean O'Brien
 - Amy Russell
 - Nicolas Schier (Debian maintainer)
+- Anthony Shaw (Python Software Foundation Fellow, ASF Member)
