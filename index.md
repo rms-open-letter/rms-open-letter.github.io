@@ -175,6 +175,7 @@ Signed,
 - Josh Simmons (President of the Open Source Initiative)
 - Joshua Ashton
 - Joshua Peisach (Debian, Ubuntu, GNOME/Cinnamon Desktop)
+- Joshua Strobl (Solus Experience Lead, Budgie Desktop Lead)
 - Joshua Timberman
 - Joy Scharmen
 - Jules Penuchot (Paris-Saclay University)
