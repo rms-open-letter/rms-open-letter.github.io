@@ -128,6 +128,7 @@ Signed,
 - Dennis Schubert
 - Devin Buhl
 - Dillon Pentz (OBS Project Developer)
+- Dimitri John Ledkov (Debian Developer, Ubuntu Core Developer, former member of the SPI Inc board of directors)
 - D. Joe Anderson
 - Dmitry Borodaenko (Debian Developer, Former Fuel for OpenStack Project Technical Lead)
 - Dmitry Porunov
