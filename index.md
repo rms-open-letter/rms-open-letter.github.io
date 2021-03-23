@@ -160,6 +160,7 @@ Signed,
 - Louis Jones
 - Lucas Bickel
 - Luis Antonio Sánchez Romero
+- Lukas Grossar
 - Luna Duclos
 - Mairi Dulaney (Fedora Project contributor)
 - Máirín Duffy (Fedora Project, former FSF HPP committee member, former LP speaker)
