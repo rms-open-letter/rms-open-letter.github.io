@@ -12,7 +12,7 @@ We urge those in a position to do so to stop supporting the Free Software Founda
 
 [1]: https://rms-open-letter.github.io/appendix
 
-To sign, please email gogodigitalautonomy at gmail.com
+To sign, please email gogodigitalautonomy at gmail.com or [submit a pull request](https://github.com/rms-open-letter/rms-open-letter.github.io/pulls).
 
 Signed,
 
@@ -21,6 +21,7 @@ Signed,
 - Matthew Garrett (Former member of the FSF board of directors)
 - Shauna Gordon-McKeon
 - Elana Hashman (Debian Technical Committee Member, Open Source Initiative Director, Kubernetes SIG Instrumentation Chair)
+- Faidon Liambotis (Open Source Initiative Director)
 - Katherine Maher
 - Tom Marble (Software Freedom Conservancy, Evaluation Committee Chair)
 - Neil McGovern (GNOME Foundation Executive Director, Former Debian Project Leader)
@@ -29,5 +30,7 @@ Signed,
 - Julia Reda
 - Eric Schultz
 - Joan Touzet (Apache CouchDB PMC, Former Apache Software Foundation Director)
-- Luis Villa (Former director of the Open Source Initiative and the GNOME Foundation; contributor to the GPL v3 drafting process)
-- Stefano Zacchiroli (Former Debian Project Leader and Former director of the Open Source Initiative)
+- Luis Villa (Former Director of the Open Source Initiative and the GNOME Foundation; contributor to the GPL v3 drafting process)
+- Stefano Zacchiroli (Former Debian Project Leader and Former Director of the Open Source Initiative)
+
+<!-- Any additional signees should go below this comment in chronological order -->
