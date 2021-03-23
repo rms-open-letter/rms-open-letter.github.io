@@ -252,6 +252,7 @@ Signed,
 - Peter Van Eynde
 - Phil Dibowitz
 - Philippe Normand
+- Pierre Ozoux (@pierreozoux)
 - Pranav Teegavarapu
 - Richard Maw
 - Rich Felker (musl libc)
