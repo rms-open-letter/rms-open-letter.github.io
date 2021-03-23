@@ -59,3 +59,4 @@ Signed,
 - Daniel Soskel
 - Tony Colston
 - Neil Watson (Former CFEngine Community Advisory Board Member)
+- Ignacio Torres Masdeu
