@@ -122,6 +122,7 @@ Signed,
 - David Glick (Plone contributor)
 - David (gnuconsulting) Bishop
 - David Grynnerup Pedersen
+- David Jones (former FSF associate member)
 - David Reid
 - David Thompson (GNU Guile/Guix contributor, ex-FSF)
 - David Turner (former GPL Compliance Engineer at FSF)
