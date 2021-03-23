@@ -97,6 +97,7 @@ Signed,
 - Dorothea Salo
 - Efraim Flashner (GNU Guix contributor)
 - Emmanuele Bassi (GNOME Foundation)
+- Emilio Escobar (Ettercap Project)
 - Enrico Zini (Debian Developer)
 - Enum Cohrs
 - Eriol Fox
