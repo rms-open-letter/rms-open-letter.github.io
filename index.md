@@ -206,6 +206,7 @@ Signed,
 - Máirín Duffy (Fedora Project, former FSF HPP committee member, former LP speaker)
 - Malleck Braun
 - Markus Unterwaditzer
+- Martin Bayo
 - Martin Splitt
 - Martin Wimpress (Former FSF member)
 - Matt Beland
