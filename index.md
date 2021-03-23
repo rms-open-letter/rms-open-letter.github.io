@@ -205,6 +205,7 @@ Signed,
 - Mairi Dulaney (Fedora Project contributor)
 - Máirín Duffy (Fedora Project, former FSF HPP committee member, former LP speaker)
 - Malleck Braun
+- Mark Brown (Linux, Debian)
 - Markus Unterwaditzer
 - Martin Splitt
 - Martin Wimpress (Former FSF member)
