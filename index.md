@@ -156,3 +156,21 @@ Signed,
 - Chuck F. Sneed
 - Hubert Figuière
 - Tobias Klausmann
+- Jesse Raleigh (Sr Security Researcher)
+- Julian Andres Klode
+- Christina Dunbar-Hester (Author of *Hacking Diversity*)
+- Matthew Wilcox (Linux kernel hacker)
+- Rob Vincent
+- Tianon Gravi
+- Sam Pavlovic
+- Michael Downey (United Nations Foundation)
+- Robin Widegren
+- Geir Magnusson Jr.
+- Shelly Coen
+- Jordi Gutiérrez Hermoso (GNU Octave maintainer (inactive))
+- Federico Pontillo
+- Myriam Rita Schweingruber
+- Jordan Uggla
+- Sean O'Brien
+- Amy Russell
+- Nicolas Schier (Debian maintainer)
