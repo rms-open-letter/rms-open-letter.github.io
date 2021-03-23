@@ -265,6 +265,7 @@ Signed,
 - Ryan Lahfa
 - Sam Hartman (Former Debian Project Leader)
 - Sam Pavlovic
+- Santiago Torres-Arias (Arch Linux, Purdue University, in-toto)
 - Saptak S
 - Sean McGinnis
 - Sean O'Brien
