@@ -122,6 +122,7 @@ Signed,
 - Jacob Kaplan-Moss (Django co-creator; Founder, Django Software Foundation)
 - Jacob Weisz
 - James Cochran
+- James Troup
 - Jane Manchun Wong
 - Jan Lehnardt (Apache CouchDB PMC Chair)
 - Jason C. McDonald (a.k.a. CodeMouse92) (MousePaw Media)
