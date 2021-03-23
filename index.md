@@ -83,6 +83,7 @@ Signed,
 - Bert Van de Poel
 - Be Wilson (Mixxx maintainer)
 - Bill Mulligan
+- Björn Fahller
 - Bob Killen (Kubernetes Steering Committee Member)
 - Brendan O'Leary
 - Brett Sheffield (Librecast Project)
