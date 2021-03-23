@@ -174,3 +174,4 @@ Signed,
 - Sean O'Brien
 - Amy Russell
 - Nicolas Schier (Debian maintainer)
+- Ian Jackson (Former Debian Project Leader; former President, Software in the Public Interest; GNU Maintainer)
