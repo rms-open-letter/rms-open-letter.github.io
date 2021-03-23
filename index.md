@@ -80,3 +80,4 @@ Signed,
 - Peter Hunt
 - Enum Cohrs
 - Federico Mena Quintero (GNOME)
+- Tierney Cyren (Node.js Community Committee Chairperson, Electron, OpenJS Foundation CPC)
