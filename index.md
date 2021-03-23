@@ -154,6 +154,7 @@ Signed,
 - James Troup
 - Jane Manchun Wong
 - Jan Lehnardt (Apache CouchDB PMC Chair)
+- Jan Sprinz (UBports Foundation Board of Directors, Ubuntu Member)
 - Jason C. McDonald (a.k.a. CodeMouse92) (MousePaw Media)
 - Jason Crain (GNOME)
 - Jean-Philippe DUFRAIGNE
