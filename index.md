@@ -264,6 +264,7 @@ Signed,
 - Ryan Heywood
 - Ryan Lahfa
 - Sam Hartman (Former Debian Project Leader)
+- Sam Hocevar (Former Debian Project Leader)
 - Sam Pavlovic
 - Saptak S
 - Sean McGinnis
