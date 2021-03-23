@@ -157,6 +157,7 @@ Signed,
 - Lionirdeadman
 - Louis Jones
 - Lucas Bickel
+- Lucas Nussbaum (Former Debian Project Leader)
 - Luis Antonio Sánchez Romero
 - Luna Duclos
 - Mairi Dulaney (Fedora Project contributor)
