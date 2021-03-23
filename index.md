@@ -216,3 +216,4 @@ Signed,
 - Tanner Filip
 - Thaddée Tyl
 - TheEvilSkeleton
+- Matthias Schiffer (OpenWrt committer)
