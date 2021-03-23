@@ -34,3 +34,4 @@ Signed,
 - Stefano Zacchiroli (Former Debian Project Leader and Former Director of the Open Source Initiative)
 
 <!-- Any additional signees should go below this comment in chronological order -->
+- Steve McIntyre (Former Debian Project Leader)
