@@ -48,6 +48,7 @@ Signed,
 - Alan Diggs (Schykle)
 - Alan Pope
 - Alexandre Dulaunoy (former FSF associate member #53)
+- Alison Dowdney (Kubernetes SIG Contributor Experience Chair)
 - Amye Scavarda Perrin
 - Amy Russell
 - Amy Troschinetz
