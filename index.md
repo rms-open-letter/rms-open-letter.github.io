@@ -47,3 +47,4 @@ Signed,
 - Colin Watson (Former Debian Technical Committee member)
 - Xavier Tilley
 - David Thompson (GNU Guile/Guix contributor, ex-FSF)
+- Jesse Cooke
