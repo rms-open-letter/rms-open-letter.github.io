@@ -37,3 +37,4 @@ Signed,
 
 - Josh Simmons (President of the Open Source Initiative)
 - Geoffrey Thomas
+- Parker Higgins
