@@ -49,3 +49,4 @@ Signed,
 - David Thompson (GNU Guile/Guix contributor, ex-FSF)
 - Jesse Cooke
 - Andrej Shadura
+- Daniel Soskel
