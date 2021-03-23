@@ -49,4 +49,11 @@ Signed,
 - David Thompson (GNU Guile/Guix contributor, ex-FSF)
 - Jesse Cooke
 - Andrej Shadura
+- Rosanna Yuen (GNOME Foundation)
+- Steven DuBois
+- Lars Wirzenius
+- Christopher Schmidt
+- Amy Troschinetz
+- Antoine Beaupré AKA anarcat (Debian Developer, former FSF member)
+- Emmanuele Bassi (GNOME Foundation)
 - Daniel Soskel
