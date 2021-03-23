@@ -111,6 +111,7 @@ Signed,
 - Connor Sheridan
 - CookieSource (Head of Administration RebornOS)
 - Coraline Ada Ehmke (Founder, Organization for Ethical Source)
+- Corentin "codl" Delcourt
 - Courtney Thurston (former Spark distro dev)
 - Craig Maloney
 - Dan Arel (owner, ThinkPrivacy.ch)
