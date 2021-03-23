@@ -166,6 +166,7 @@ Signed,
 - Jesse Raleigh (Sr Security Researcher)
 - Jill Rouleau (Ansible Maintainer / Steering Commitee member)
 - Joe Harley
+- Jona Azizaj (Fedora Project, Open Source Diversity)
 - Jonathan McDowell
 - Jordan Petridis (GNOME)
 - Jordan Uggla
