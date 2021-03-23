@@ -109,6 +109,7 @@ Signed,
 - Filipe Laíns (Arch Linux TU, PyPA maintainer)
 - Florian Neumann
 - Fridrich Strba
+- Gabriel Volpe (Practical FP in Scala) 
 - Geir Magnusson Jr.
 - Geoffrey Thomas
 - Greg Grossmeier
