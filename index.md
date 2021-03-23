@@ -148,6 +148,7 @@ Signed,
 - Julien Voisin
 - June Taylor
 - Justin W. Flory (UNICEF, Fedora Project developer)
+- Kavi Laud
 - Kevin O'Brien
 - Kimball Johnson (Former Chair FLOSS UK aka UKUUG)
 - Kyle Mitchell
