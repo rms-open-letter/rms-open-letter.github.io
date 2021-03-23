@@ -314,6 +314,7 @@ Signed,
 - Pranav Teegavarapu
 - Rafael Silva
 - rany
+- Rémi Verschelde (Godot Engine, Mageia)
 - Richard Maw
 - Rich Felker (musl libc)
 - Roan Kattouw
