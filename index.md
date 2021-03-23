@@ -279,6 +279,7 @@ Signed,
 - Soren L. Hansen
 - Sriram Ramkrishna
 - Stefan Crain
+- Steve Langasek (former Debian Technical Committee member; Ubuntu Technical Board member)
 - Steve McIntyre (Former Debian Project Leader)
 - Steven DuBois
 - Sydney Schreckengost
