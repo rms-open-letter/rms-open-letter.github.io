@@ -305,4 +305,4 @@ Signed,
 - Yorik van Havre
 - Yvan Sraka
 - Zach van Rijn
-
+- Dmitry Borodaenko (Debian Developer, Former Fuel for OpenStack Project Technical Lead)
