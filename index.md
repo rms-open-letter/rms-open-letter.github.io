@@ -129,6 +129,7 @@ Signed,
 - Jean-Philippe DUFRAIGNE
 - Jeffrey Yoo Warren
 - Jeff Warnica
+- Jeff Forcier (aka bitprophet) (Python library maintainer, eg Fabric, Paramiko)
 - Jerome Charaoui (Debian Developer, former FSF member)
 - Jesse Cooke
 - Jesse Raleigh (Sr Security Researcher)
