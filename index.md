@@ -39,6 +39,7 @@ Signed,
 
 - Aaron Carson
 - Adam Barber
+- Adil Sadik
 - Adrian Cochrane
 - Adrien "PulkoMandy" Destugues
 - Alan Ball
