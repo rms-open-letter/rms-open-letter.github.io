@@ -80,3 +80,4 @@ Signed,
 - Peter Hunt
 - Enum Cohrs
 - Federico Mena Quintero (GNOME)
+- Orion Montoya (former rms-assist, former FSF, GPLv3 drafting-process software developer)
