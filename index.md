@@ -139,6 +139,7 @@ Signed,
 - Gustavo Costa (Fedora Project contributor)
 - Halla Rempt (maintainer of Krita)
 - Havoc Pennington (former GNOME Foundation)
+- Hayden Barnes
 - Hayden Seay
 - Haze Booth
 - Heiko Becker (Exherbo, KDE)
