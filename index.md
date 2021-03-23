@@ -94,6 +94,7 @@ Signed,
 - Cara Esten Hurtle
 - Carina C. Zona (CallbackWomen)
 - Carl Schwan (KDE)
+- Carol Willing
 - Chris DiBona (Google LLC.)
 - Chris Hoge
 - Chris Rose
