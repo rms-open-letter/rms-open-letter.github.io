@@ -202,6 +202,7 @@ Signed,
 - Jill Rouleau (Ansible Maintainer / Steering Commitee member)
 - Joe Harley
 - Joel Bethke (OBS Project)
+- John D. Martin III
 - Jona Azizaj (Fedora Project, Open Source Diversity)
 - Jonathan McDowell
 - Jordan Petridis (GNOME)
