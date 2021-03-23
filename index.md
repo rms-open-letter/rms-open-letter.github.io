@@ -88,6 +88,7 @@ Signed,
 - Chris Rose
 - Christian Heimes (Python)
 - Christina Dunbar-Hester (Author of *Hacking Diversity*)
+- Christophe Noisel
 - Christopher Allan Perry
 - Christopher Davis (GNOME)
 - Christopher Patti
