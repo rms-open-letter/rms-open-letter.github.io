@@ -199,6 +199,7 @@ Signed,
 - Peter Van Eynde
 - Phil Dibowitz
 - Philippe Normand
+- Pranav Teegavarapu
 - Richard Maw
 - Rich Felker (musl libc)
 - Roan Kattouw
