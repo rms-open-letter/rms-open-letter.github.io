@@ -36,5 +36,7 @@ Signed,
 <!-- Any additional signees should go below this comment in chronological order -->
 
 - Josh Simmons (President of the Open Source Initiative)
+- Ryan Lahfa
 - Geoffrey Thomas
 - Matt Lee (Libre.fm, former member of the GNU Project)
+- Steve McIntyre (Former Debian Project Leader)
