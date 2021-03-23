@@ -219,6 +219,7 @@ Signed,
 - Simon Richter
 - Soren L. Hansen
 - Sriram Ramkrishna 
+- Stefan Crain
 - Steve McIntyre (Former Debian Project Leader)
 - Steven DuBois
 - Sydney Schreckengost
