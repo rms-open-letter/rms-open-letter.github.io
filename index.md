@@ -49,6 +49,7 @@ Signed,
 - Amy Troschinetz
 - Andrej Shadura
 - Andy Isaacson (@radii, founding member of Noisebridge)
+- Aniol Marti (Debian Maintainer, Caliu President)
 - Anne Nicolas (Kernel Recipes organizer)
 - Anthony Shaw (Python Software Foundation Fellow, ASF Member)
 - Antoine Beaupré AKA anarcat (Debian Developer, former FSF member)
