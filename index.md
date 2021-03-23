@@ -68,3 +68,4 @@ Signed,
 - Ben Werdmuller
 - Christian Heimes (Python)
 - Jacob Weisz
+- Peter Van Eynde
