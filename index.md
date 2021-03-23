@@ -174,4 +174,4 @@ Signed,
 - Sean O'Brien
 - Amy Russell
 - Nicolas Schier (Debian maintainer)
-- Christopher Davis (GNOME contributor)
+- Christopher Davis (GNOME)
