@@ -313,6 +313,7 @@ Signed,
 - Pierre Ozoux (@pierreozoux)
 - Pranav Teegavarapu
 - Rafael Silva
+- Rami Chowdhury
 - rany
 - Richard Maw
 - Rich Felker (musl libc)
