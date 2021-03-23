@@ -50,6 +50,7 @@ Signed,
 - Alexandre Dulaunoy (former FSF associate member #53)
 - Alexis Danz
 - Alexis Tyler
+- Alfred Neumayer (UBports developer)
 - Alison Dowdney (Kubernetes SIG Contributor Experience Chair)
 - Amos `fasterthanlime` Wenger
 - Amye Scavarda Perrin
