@@ -217,6 +217,7 @@ Signed,
 - Matthias Schiffer (OpenWrt committer)
 - Matthieu Gallien (KDE)
 - Matt Lee (Libre.fm, former member of the GNU Project)
+- Mauro Lizaur (Former Debian Developer)
 - Meadhbh Hamrick
 - Micah E Scott
 - Michael Downey (United Nations Foundation)
