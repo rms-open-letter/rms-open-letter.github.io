@@ -164,6 +164,7 @@ Signed,
 - Jerome Charaoui (Debian Developer, former FSF member)
 - Jesse Cooke
 - Jesse Raleigh (Sr Security Researcher)
+- Jesser Lemus
 - Jill Rouleau (Ansible Maintainer / Steering Commitee member)
 - Joe Harley
 - Jonathan McDowell
