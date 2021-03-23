@@ -249,6 +249,7 @@ Signed,
 - Paul Fisher (Former FSF employee and union representative)
 - Paul Woolcock
 - Peter Hunt
+- Peter Jones (Fedora developer)
 - Peter Van Eynde
 - Phil Dibowitz
 - Philippe Normand
