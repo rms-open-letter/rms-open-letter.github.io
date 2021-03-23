@@ -14,7 +14,7 @@ We urge those in a position to do so to stop supporting the Free Software Founda
 
 [1]: https://rms-open-letter.github.io/appendix
 
-To sign, please email gogodigitalautonomy at gmail.com or [submit a pull request](https://github.com/rms-open-letter/rms-open-letter.github.io/pulls).
+To sign, please email digitalautonomy at riseup.net or [submit a pull request](https://github.com/rms-open-letter/rms-open-letter.github.io/pulls).
 
 Signed,
 
