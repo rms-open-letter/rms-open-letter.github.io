@@ -174,3 +174,4 @@ Signed,
 - Sean O'Brien
 - Amy Russell
 - Nicolas Schier (Debian maintainer)
+- Nikos Roussos (FSFE, GA member)
