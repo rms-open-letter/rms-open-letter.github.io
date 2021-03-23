@@ -37,7 +37,7 @@ Signed,
 - Luis Villa (Former Director of the Open Source Initiative and the GNOME Foundation; contributor to the GPL v3 drafting process)
 - Stefano Zacchiroli (Former Debian Project Leader and Former Director of the Open Source Initiative)
 
-<!-- Any additional signees should go below this comment in chronological order -->
+<!-- Any additional signees should go below this comment in alphabetical order (according to `sort -u`) -->
 
 - Aaron Carson
 - Adam Barber
@@ -48,10 +48,17 @@ Signed,
 - Alan Diggs (Schykle)
 - Alan Pope
 - Alexandre Dulaunoy (former FSF associate member #53)
+- Alexis Danz
+- Alexis Tyler
+- Alison Dowdney (Kubernetes SIG Contributor Experience Chair)
+- Amos `fasterthanlime` Wenger
 - Amye Scavarda Perrin
 - Amy Russell
 - Amy Troschinetz
+- Andrea Denisse Gómez-Martínez (Arch Linux, i3blocks maintainer)
 - Andrej Shadura (Debian Developer)
+- Andre Klapper (GNOME)
+- Andrés Hernández "`tonejito`" (LIDSoL)
 - Andy Isaacson (@radii, founding member of Noisebridge)
 - Angus Fletcher
 - Aniol Marti (Debian Maintainer, Caliu President)
@@ -62,9 +69,11 @@ Signed,
 - Ariadne Conill (Alpine Developer, pkgconf)
 - Ariela Wenner
 - Arne Brasseur
+- Artur Tamborski (former FSF member)
 - Avery "stars" M-W
 - Behdad Esfahbod (Former director / president, GNOME Foundation)
 - Ben Cotton (Fedora Project contributor)
+- Ben Evans
 - Ben Hutchings (Debian Developer)
 - Benjamin Kampmann
 - Benjamin Torell (OBS Project)
@@ -75,10 +84,12 @@ Signed,
 - Be Wilson (Mixxx maintainer)
 - Bill Mulligan
 - Bob Killen (Kubernetes Steering Committee Member)
+- Brendan O'Leary
 - Brett Sheffield (Librecast Project)
 - Brian Pepple (Former Fedora Engineering Steering Committee member)
 - Brion Vibber (MediaWiki, Wikimedia Foundation)
 - Britta Gustafson
+- Bryan Meyers (Solus Technical Lead)
 - Cameron Tauxe
 - Cara Esten Hurtle
 - Carina C. Zona (CallbackWomen)
@@ -86,16 +97,20 @@ Signed,
 - Chris DiBona (Google LLC.)
 - Chris Hoge
 - Chris Rose
+- Chris Talib (Source! - a radio show on FLOSS, Le Reset - queer hackerspace)
 - Christian Heimes (Python)
 - Christina Dunbar-Hester (Author of *Hacking Diversity*)
+- Christophe Noisel
 - Christopher Allan Perry
 - Christopher Davis (GNOME)
 - Christopher Patti
 - Christopher Schmidt
 - Claudio Saavedra (former GNOME maintainer and GNOME Foundation member)
+- Colin Seiler
 - Colin Watson (Former Debian Technical Committee member)
 - Connor Sheridan
 - CookieSource (Head of Administration RebornOS)
+- Coraline Ada Ehmke (Founder, Organization for Ethical Source)
 - Courtney Thurston (former Spark distro dev)
 - Craig Maloney
 - Dan Arel (owner, ThinkPrivacy.ch)
@@ -103,42 +118,57 @@ Signed,
 - Daniel Nazer
 - Daniel Soskel
 - Daniel Stone (freedesktop.org, Wayland)
+- Danny Bouimad
+- David Glick (Plone contributor)
+- David (gnuconsulting) Bishop
 - David Grynnerup Pedersen
 - David Reid
 - David Thompson (GNU Guile/Guix contributor, ex-FSF)
 - David Turner (former GPL Compliance Engineer at FSF)
 - Dennis Schubert
 - Devin Buhl
+- Dillon Pentz (OBS Project Developer)
 - D. Joe Anderson
+- Dmitry Borodaenko (Debian Developer, Former Fuel for OpenStack Project Technical Lead)
 - Dmitry Porunov
 - Dominic Hayes (The Feren OS Developer)
 - Dorothea Salo
 - Ed Marshall
 - Efraim Flashner (GNU Guix contributor)
+- Elen Eisendle
+- Eliott Lavier
 - Emilio Escobar (Ettercap Project)
 - Emmanuele Bassi (GNOME Foundation)
 - Enrico Zini (Debian Developer)
 - Enum Cohrs
+- Erin Nova
+- Erin Unterwaditzer
 - Eriol Fox
 - Esther Payne (Librecast Project)
 - Evan Brown
+- Ezekiel Hendrickson
 - Fabio Di Peri
 - Federico Mena Quintero (GNOME)
 - Federico Pontillo
 - Filipe Laíns (Arch Linux TU, PyPA maintainer)
 - Florian Neumann
+- Frank S. Thomas
 - Frédéric Harper (Director of Developer Relations at MeiliSearch)
 - Fredrik Lindh
 - Fridrich Strba
-- Gabriel Volpe (Practical FP in Scala) 
+- Gabriel Filion
+- Gabriel Volpe (Practical FP in Scala)
+- Gareth J. Greenaway (Salt Developer, SCALE Co-Founder and former chair person)
 - Geir Magnusson Jr.
 - Geoffrey Thomas
 - Göktuğ Kayaalp
+- Graham Christensen (NixOS contributor)
 - Greg Grossmeier
 - Gunnar Wolf (Debian Developer, member of the Debian Technical Committee)
 - Gustavo Costa (Fedora Project contributor)
 - Halla Rempt (maintainer of Krita)
 - Havoc Pennington (former GNOME Foundation)
+- Hayden Barnes
 - Hayden Seay
 - Haze Booth
 - Heiko Becker (Exherbo, KDE)
@@ -151,9 +181,11 @@ Signed,
 - Jacob Kaplan-Moss (Django co-creator; Founder, Django Software Foundation)
 - Jacob Weisz
 - James Cochran
+- James Daly
 - James Troup
 - Jane Manchun Wong
 - Jan Lehnardt (Apache CouchDB PMC Chair)
+- Jan Sprinz (UBports Foundation Board of Directors, Ubuntu Member)
 - Jason C. McDonald (a.k.a. CodeMouse92) (MousePaw Media)
 - Jason Crain (GNOME)
 - Jean-Philippe DUFRAIGNE
@@ -162,10 +194,15 @@ Signed,
 - Jeff Warnica
 - Jeremy Bingham
 - Jerome Charaoui (Debian Developer, former FSF member)
+- Jesse Clark
 - Jesse Cooke
+- Jesse Li
 - Jesse Raleigh (Sr Security Researcher)
+- Jesser Lemus
 - Jill Rouleau (Ansible Maintainer / Steering Commitee member)
 - Joe Harley
+- Joel Bethke (OBS Project)
+- Jona Azizaj (Fedora Project, Open Source Diversity)
 - Jonathan McDowell
 - Jordan Petridis (GNOME)
 - Jordan Uggla
@@ -175,6 +212,7 @@ Signed,
 - Josh Simmons (President of the Open Source Initiative)
 - Joshua Ashton
 - Joshua Peisach (Debian, Ubuntu, GNOME/Cinnamon Desktop)
+- Joshua Strobl (Solus Experience Lead, Budgie Desktop Lead)
 - Joshua Timberman
 - Joy Scharmen
 - Jules Penuchot (Paris-Saclay University)
@@ -184,6 +222,7 @@ Signed,
 - Julien Voisin
 - June Taylor
 - Justin W. Flory (UNICEF, Fedora Project D&I Advisor)
+- Karen Rustad Tölva (former OpenHatch and Students for Free Culture board member)
 - Kavi Laud
 - Kellegram
 - Kevin O'Brien
@@ -191,8 +230,10 @@ Signed,
 - Kimball Johnson (Former Chair FLOSS UK aka UKUUG)
 - Kyle Mitchell
 - Lachlan Campbell
+- Langlais Raphael
 - Lars Wirzenius
 - Laurin Schmidt
+- Leandro A. F. Pereira
 - Linus Parker
 - Lionirdeadman
 - Louis Jones
@@ -200,36 +241,47 @@ Signed,
 - Lucas Bickel
 - Lucas Nussbaum (Former Debian Project Leader)
 - Luis Antonio Sánchez Romero
+- Lukas Grossar
+- Luke Faraone (Debian FTP master, Ubuntu developer, former English Wikipedia Arbitration Committee member)
 - Luna Duclos
 - Madison `makyo` Scott-Clary
 - Mairi Dulaney (Fedora Project contributor)
 - Máirín Duffy (Fedora Project, former FSF HPP committee member, former LP speaker)
 - Malleck Braun
+- Margarita Manterola (Debian Developer, member of the Debian Technical Committee)
+- Mark Brown (Linux, Debian)
 - Markus Unterwaditzer
+- Martin Kühl
 - Martin Splitt
 - Martin Wimpress (Former FSF member)
 - Matt Beland
 - Matteo Tammmaccaro
+- Matthew `mattcen` Cengia
 - Matthew P. Del Buono
 - Matthew Vernon (Debian developer)
 - Matthew Wilcox (Linux kernel hacker)
 - Matthias Klumpp (Debian, freedesktop.org)
 - Matthias Schiffer (OpenWrt committer)
 - Matthieu Gallien (KDE)
+- Matthilde A. Stella
 - Matt Lee (Libre.fm, former member of the GNU Project)
 - Meadhbh Hamrick
 - Micah E Scott
+- Michael Bikovitsky
 - Michael Downey (United Nations Foundation)
 - Michael Schechter
 - Mike Linksvayer
 - Mikel Johnson
+- Morgan-Christopher Brooks
 - Morgan `indrora` Gangwere
 - Morgan Thomas
 - Morten Linderud (Arch Linux maintainer)
 - Myriam Rita Schweingruber
 - Myrle Krantz (ASF member)
 - Naglis Lesčinskas
+- Nathan Dyer (former FSF associate member)
 - Nathaniel J. Smith
+- Neal Gompa (Fedora Project contributor, Mageia Project Council Member, Mageia.Org Board Member, openSUSE Project Board Member, OpenMandriva contributor)
 - Neil Watson (Former CFEngine Community Advisory Board Member)
 - Nick Guenther
 - Niclas Zeising (FreeBSD committer)
@@ -238,21 +290,30 @@ Signed,
 - Nicolas Dandrimont (Debian Developer, former FSF associate member)
 - Nicolas Fella (KDE)
 - Nicolas Schier (Debian maintainer)
+- Nicole Martinez
 - Nikos Roussos (FSFE, GA member)
 - Nils Adermann
 - Noel Georgi
+- Ole Streicher (Debian Developer)
 - Olivier Berger (FSF member, or associate member since 2002)
+- [Open Source Diversity](https://opensourcediversity.org/) Community
 - Orhun Parmaksız (Arch Linux maintainer)
 - Orion Montoya (former rms-assist, former FSF, GPLv3 drafting-process software developer)
 - Parker Higgins
 - Paul Adams
+- Paul Cutler (former GNOME Foundation)
 - Paul Fisher (Former FSF employee and union representative)
 - Paul Woolcock
 - Peter Hunt
+- Peter Jones (Fedora developer)
 - Peter Van Eynde
 - Phil Dibowitz
 - Philippe Normand
+- Pierre Marijon
+- Pierre Ozoux (@pierreozoux)
 - Pranav Teegavarapu
+- Rafael Silva
+- rany
 - Richard Maw
 - Rich Felker (musl libc)
 - Roan Kattouw
@@ -264,8 +325,11 @@ Signed,
 - Ryan Heywood
 - Ryan Lahfa
 - Sam Hartman (Former Debian Project Leader)
+- Sam Hocevar (Former Debian Project Leader)
 - Sam Pavlovic
+- Santiago Torres-Arias (Arch Linux, Purdue University, in-toto)
 - Saptak S
+- Sarah Connor
 - Sean McGinnis
 - Sean O'Brien
 - Sebastian Dröge (GStreamer, GNOME, Debian)
@@ -276,17 +340,21 @@ Signed,
 - Síle Ekaterin Aman (APK Fission, Adélie Linux Core Team)
 - Simeon Smith
 - Simon Richter
+- Solly Ross (Kubernetes KubeBuilder maintainer)
 - Soren L. Hansen
 - Sriram Ramkrishna
 - Stefan Crain
+- Steve Langasek (former Debian Technical Committee member; Ubuntu Technical Board member)
 - Steve McIntyre (Former Debian Project Leader)
 - Steven DuBois
 - Sydney Schreckengost
+- tanmatsu
 - Tanner Filip
 - Thaddée Tyl
 - TheEvilSkeleton
 - Tianon Gravi
 - Tierney Cyren (Node.js Community Committee Chairperson, Electron, OpenJS Foundation CPC)
+- Tobias Fella (KDE)
 - Tobias Klausmann
 - Tollef Fog Heen (Former Debian Technical Committee member)
 - Tom "spot" Callaway (Fedora Council member, former LP speaker)
@@ -298,11 +366,12 @@ Signed,
 - Vincent Huang Jiahao
 - Vipul Gupta
 - Vivia Nikolaidou (GStreamer)
+- Will Hawkins
 - William Theaker (Former FSF staff member)
 - Xavier Tilley
 - X.org Foundation Board of Directors (Lyude Paul, Eric Anholt, Mark Filion, Keith Packard, Daniel Vetter, Harry Wentland, Samuel Iglesias Gonsálvez)
 - Yao Li (former FSF Monthly Student Associate Member)
 - Yorik van Havre
 - Yvan Sraka
+- Zach Klippenstein (aka @zach-klippenstein, Square)
 - Zach van Rijn
-
