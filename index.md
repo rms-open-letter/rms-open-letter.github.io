@@ -80,3 +80,4 @@ Signed,
 - Peter Hunt
 - Enum Cohrs
 - Federico Mena Quintero (GNOME)
+- Olivier Berger (FSF member, or associate member since 2002)
