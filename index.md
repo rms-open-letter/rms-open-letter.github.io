@@ -137,6 +137,7 @@ Signed,
 - Jordan Petridis (GNOME)
 - Jordan Uggla
 - Jordi Gutiérrez Hermoso (GNU Octave maintainer (inactive))
+- Jordin McEachern
 - Josh Levinger (OpenSourceActivism.tech)
 - Josh Simmons (President of the Open Source Initiative)
 - Joshua Peisach (Debian, Ubuntu, GNOME/Cinnamon Desktop)
