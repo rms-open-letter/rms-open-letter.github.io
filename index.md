@@ -75,3 +75,4 @@ Signed,
 - Jonathan McDowell
 - Markus Unterwaditzer
 - Joy Scharmen
+- Peter Hunt
