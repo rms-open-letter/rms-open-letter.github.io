@@ -223,6 +223,7 @@ Signed,
 - June Taylor
 - Justin W. Flory (UNICEF, Fedora Project D&I Advisor)
 - Karen Rustad Tölva (former OpenHatch and Students for Free Culture board member)
+- Karsten Wade (CentOS Board member, former Fedora Board & Docs Lead, the Open Source Way)
 - Kavi Laud
 - Kellegram
 - Kevin O'Brien
