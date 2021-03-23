@@ -135,6 +135,7 @@ Signed,
 - Jesse Cooke
 - Jesse Raleigh (Sr Security Researcher)
 - Joe Harley
+- Joel Bethke (OBS Project)
 - Jonathan McDowell
 - Jordan Petridis (GNOME)
 - Jordan Uggla
