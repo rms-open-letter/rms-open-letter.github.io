@@ -170,6 +170,7 @@ Signed,
 - Matthew Vernon (Debian developer)
 - Matthew Wilcox (Linux kernel hacker)
 - Matthieu Gallien (KDE)
+- Matthias Klumpp (Debian, freedesktop.org)
 - Matt Lee (Libre.fm, former member of the GNU Project)
 - Micah E Scott
 - Michael Downey (United Nations Foundation)
