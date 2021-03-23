@@ -375,3 +375,4 @@ Signed,
 - Yvan Sraka
 - Zach Klippenstein (aka @zach-klippenstein, Square)
 - Zach van Rijn
+- Claudius Link
