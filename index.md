@@ -238,6 +238,7 @@ Signed,
 - Nicolas Dandrimont (Debian Developer, former FSF associate member)
 - Nicolas Fella (KDE)
 - Nicolas Schier (Debian maintainer)
+- Nicole Martinez
 - Nikos Roussos (FSFE, GA member)
 - Nils Adermann
 - Noel Georgi
