@@ -77,3 +77,6 @@ Signed,
 - Jonathan McDowell
 - Markus Unterwaditzer
 - Joy Scharmen
+- Peter Hunt
+- Enum Cohrs
+- Federico Mena Quintero (GNOME)
