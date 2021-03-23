@@ -276,6 +276,7 @@ Signed,
 - Síle Ekaterin Aman (APK Fission, Adélie Linux Core Team)
 - Simeon Smith
 - Simon Richter
+- Solly Ross (Kubernetes KubeBuilder maintainer)
 - Soren L. Hansen
 - Sriram Ramkrishna
 - Stefan Crain
@@ -305,4 +306,3 @@ Signed,
 - Yorik van Havre
 - Yvan Sraka
 - Zach van Rijn
-
