@@ -51,7 +51,7 @@ Signed,
 - Amye Scavarda Perrin
 - Amy Russell
 - Amy Troschinetz
-- Andrej Shadura
+- Andrej Shadura (Debian Developer)
 - Andy Isaacson (@radii, founding member of Noisebridge)
 - Angus Fletcher
 - Aniol Marti (Debian Maintainer, Caliu President)
