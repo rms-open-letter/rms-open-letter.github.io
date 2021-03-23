@@ -81,4 +81,97 @@ Signed,
 - Enum Cohrs
 - Federico Mena Quintero (GNOME)
 - Aaron Honeycutt
-
+- Brion Vibber (MediaWiki, Wikimedia Foundation)
+- Richard Maw
+- Ariadne Conill (Alpine Developer, pkgconf)
+- Morgan `indrora` Gangwere
+- James Cochran
+- Arne Brasseur
+- Orion Montoya (former rms-assist, former FSF, GPLv3 drafting-process software developer)
+- Ben Lewis (Former GNU Octave contributor)
+- Martin Wimpress (Former FSF member)
+- Victor Hugo Soliz Kuncar
+- Greg Grossmeier
+- Kyle Mitchell
+- Roan Kattouw
+- Joshua Peisach (Debian, Ubuntu, GNOME/Cinnamon Desktop)
+- Jason Crain (GNOME)
+- Daniel Nazer
+- Soren L. Hansen
+- Jeffrey Yoo Warren
+- Ben Hutchings (Debian Developer)
+- Tollef Fog Heen (Former Debian Technical Committee member)
+- Chris Rose
+- Cameron Tauxe
+- X.org Foundation Board of Directors (Lyude Paul, Eric Anholt, Mark Filion, Keith Packard, Daniel Vetter, Harry Wentland, Samuel Iglesias Gonsálvez)
+- Micah E Scott
+- Louis Jones
+- Simeon Smith
+- Jan Lehnardt (Apache CouchDB PMC Chair)
+- Jacob H. Haven
+- Tom "spot" Callaway (Fedora Council member, former LP speaker)
+- Jason C. McDonald (a.k.a. CodeMouse92) (MousePaw Media)
+- Adrien "PulkoMandy" Destugues
+- Andy Isaacson (@radii, founding member of Noisebridge)
+- julien tayon
+- Carl Schwan (KDE)
+- Aaron Carson
+- Benjamin Kampmann
+- Olivier Berger (FSF member, or associate member since 2002)
+- Phil Dibowitz
+- Cara Esten Hurtle
+- Alan Pope
+- Nicolas Dandrimont (Debian Developer, former FSF associate member)
+- Joshua Timberman
+- Adrian Cochrane
+- Myrle Krantz (ASF member)
+- Yao Li (former FSF Monthly Student Associate Member)
+- Sean McGinnis
+- Jane Manchun Wong
+- Tierney Cyren (Node.js Community Committee Chairperson, Electron, OpenJS Foundation CPC)
+- Saptak S
+- Brett Sheffield (Librecast Project)
+- Síle Ekaterin Aman (APK Fission, Adélie Linux Core Team)
+- Bill Mulligan
+- Lachlan Campbell
+- Fridrich Strba
+- Julien Voisin
+- Esther Payne (Librecast Project)
+- Justin W. Flory (UNICEF, Fedora Project developer)
+- Trolli Schmittlauch
+- Lionirdeadman
+- Vincent Huang Jiahao
+- Alan Ball
+- Hein-Pieter van Braam-Stewart (FSF associate member since 2008)
+- Chris Hoge
+- Rich Felker (musl libc)
+- Paul Adams
+- Brian Pepple (Former Fedora Engineering Steering Committee member)
+- Jeff Warnica
+- Dorothea Salo
+- Nick Guenther
+- Connor Sheridan
+- Christopher Allan Perry
+- Nicolas Fella (KDE)
+- Shane Fagan
+- Chuck F. Sneed
+- Hubert Figuière
+- Tobias Klausmann
+- Jesse Raleigh (Sr Security Researcher)
+- Julian Andres Klode
+- Christina Dunbar-Hester (Author of *Hacking Diversity*)
+- Matthew Wilcox (Linux kernel hacker)
+- Rob Vincent
+- Tianon Gravi
+- Sam Pavlovic
+- Michael Downey (United Nations Foundation)
+- Robin Widegren
+- Geir Magnusson Jr.
+- Shelly Coen
+- Jordi Gutiérrez Hermoso (GNU Octave maintainer (inactive))
+- Federico Pontillo
+- Myriam Rita Schweingruber
+- Jordan Uggla
+- Sean O'Brien
+- Amy Russell
+- Nicolas Schier (Debian maintainer)
