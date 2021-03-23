@@ -305,4 +305,5 @@ Signed,
 - Yorik van Havre
 - Yvan Sraka
 - Zach van Rijn
+- Amos `fasterthanlime` Wenger
 
