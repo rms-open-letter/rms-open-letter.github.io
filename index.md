@@ -306,3 +306,4 @@ Signed,
 - Yvan Sraka
 - Zach van Rijn
 
+- Matthilde A. Stella
