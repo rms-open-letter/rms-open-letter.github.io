@@ -162,6 +162,7 @@ Signed,
 - Jeff Warnica
 - Jeremy Bingham
 - Jerome Charaoui (Debian Developer, former FSF member)
+- Jesse Clark
 - Jesse Cooke
 - Jesse Raleigh (Sr Security Researcher)
 - Jill Rouleau (Ansible Maintainer / Steering Commitee member)
