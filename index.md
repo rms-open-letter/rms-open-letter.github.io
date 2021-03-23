@@ -138,3 +138,21 @@ Signed,
 - Esther Payne (Librecast Project)
 - Justin W. Flory (UNICEF, Fedora Project developer)
 - Trolli Schmittlauch
+- Lionirdeadman
+- Vincent Huang Jiahao
+- Alan Ball
+- Hein-Pieter van Braam-Stewart (FSF associate member since 2008)
+- Chris Hoge
+- Rich Felker (musl libc)
+- Paul Adams
+- Brian Pepple (Former Fedora Engineering Steering Committee member)
+- Jeff Warnica
+- Dorothea Salo
+- Nick Guenther
+- Connor Sheridan
+- Christopher Allan Perry
+- Nicolas Fella (KDE)
+- Shane Fagan
+- Chuck F. Sneed
+- Hubert Figuière
+- Tobias Klausmann
