@@ -174,3 +174,45 @@ Signed,
 - Sean O'Brien
 - Amy Russell
 - Nicolas Schier (Debian maintainer)
+- Adam Barber
+- Amye Scavarda Perrin
+- Anne Nicolas (Kernel Recipes organizer)
+- Ben Cotton (Fedora Project contributor)
+- Bert Van de Poel
+- Be Wilson (Mixxx maintainer)
+- Carina C. Zona (CallbackWomen)
+- Christopher Davis (GNOME)
+- Christopher Patti
+- Claudio Saavedra (former GNOME maintainer and GNOME Foundation member)
+- Courtney Thurston (former Spark distro dev)
+- David Reid
+- Dmitry Porunov
+- Eriol Fox
+- Filipe Laíns (Arch Linux TU, PyPA maintainer)
+- Florian Neumann
+- Heiko Becker (Exherbo, KDE)
+- Jacob Kaplan-Moss (Django co-creator; Founder, Django Software Foundation)
+- Jean-Philippe DUFRAIGNE
+- Jordan Petridis (GNOME)
+- Josh Levinger (OpenSourceActivism.tech)
+- Jules Penuchot (Paris-Saclay University)
+- Linus Parker
+- Luis Antonio Sánchez Romero
+- Luna Duclos
+- Máirín Duffy (Fedora Project, former FSF HPP committee member, former LP speaker)
+- Malleck Braun
+- Matt Beland
+- Matteo Tammmaccaro
+- Matthew Vernon (Debian developer)
+- Matthieu Gallien (KDE)
+- Michael Schechter
+- Niclas Zeising (FreeBSD committer)
+- Nicolai von Neudeck
+- Nikos Roussos (FSFE, GA member)
+- Philippe Normand
+- Ryan Heywood
+- Simon Richter
+- Sriram Ramkrishna 
+- Tanner Filip
+- Thaddée Tyl
+- TheEvilSkeleton
