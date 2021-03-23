@@ -99,6 +99,7 @@ Signed,
 - Courtney Thurston (former Spark distro dev)
 - Craig Maloney
 - Dan Arel (owner, ThinkPrivacy.ch)
+- David (gnuconsulting) Bishop
 - Dan Bornstein (@danfuzz)
 - Daniel Nazer
 - Daniel Soskel
