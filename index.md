@@ -175,6 +175,7 @@ Signed,
 - Hein-Pieter van Braam-Stewart (FSF associate member since 2008)
 - Hubert Figuière
 - Ian Jackson (Former Debian Project Leader; former President, Software in the Public Interest; GNU Maintainer)
+- Idan Gazit (Django project alumnus)
 - Ignacio Torres Masdeu
 - Irina Rempt
 - Jacob H. Haven
