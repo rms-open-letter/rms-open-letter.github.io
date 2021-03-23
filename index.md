@@ -58,3 +58,4 @@ Signed,
 - Emmanuele Bassi (GNOME Foundation)
 - Daniel Soskel
 - Tony Colston
+- Neil Watson (Former CFEngine Community Advisory Board Member)
