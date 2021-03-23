@@ -43,4 +43,5 @@ Signed,
 - Parker Higgins
 - Noel Georgi
 - Hayden Seay
+- Lucas Bickel
 - Colin Watson (Former Debian Technical Committee member)
