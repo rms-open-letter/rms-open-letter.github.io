@@ -41,6 +41,7 @@ Signed,
 
 - Aaron Carson
 - Adam Barber
+- Adam Jackson (X.org, Fedora)
 - Adil Sadik
 - Adrian Cochrane
 - Adrien "PulkoMandy" Destugues
