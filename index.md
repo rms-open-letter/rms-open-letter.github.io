@@ -151,6 +151,7 @@ Signed,
 - Federico Mena Quintero (GNOME)
 - Federico Pontillo
 - Filipe Laíns (Arch Linux TU, PyPA maintainer)
+- Fintan Horan
 - Florian Neumann
 - Frank S. Thomas
 - Frédéric Harper (Director of Developer Relations at MeiliSearch)
