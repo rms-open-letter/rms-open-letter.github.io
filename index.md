@@ -191,6 +191,7 @@ Signed,
 - Kimball Johnson (Former Chair FLOSS UK aka UKUUG)
 - Kyle Mitchell
 - Lachlan Campbell
+- Langlais Raphael
 - Lars Wirzenius
 - Laurin Schmidt
 - Linus Parker
