@@ -57,3 +57,4 @@ Signed,
 - Antoine Beaupré AKA anarcat (Debian Developer, former FSF member)
 - Emmanuele Bassi (GNOME Foundation)
 - Daniel Soskel
+- Tony Colston
