@@ -65,6 +65,7 @@ Signed,
 - Avery "stars" M-W
 - Behdad Esfahbod (Former director / president, GNOME Foundation)
 - Ben Cotton (Fedora Project contributor)
+- Ben Evans
 - Ben Hutchings (Debian Developer)
 - Benjamin Kampmann
 - Benjamin Torell (OBS Project)
