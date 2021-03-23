@@ -70,4 +70,4 @@ Signed,
 - Jacob Weisz
 - Peter Van Eynde
 - Jerome Charaoui (Debian Developer, former FSF member)
-- Daniel Stone (freedesktop.org, Wayland)
+- Markus Unterwaditzer
