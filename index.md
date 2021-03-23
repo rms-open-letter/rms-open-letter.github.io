@@ -241,6 +241,7 @@ Signed,
 - Nikos Roussos (FSFE, GA member)
 - Nils Adermann
 - Noel Georgi
+- Ole Streicher (Debian Developer)
 - Olivier Berger (FSF member, or associate member since 2002)
 - Orhun Parmaksız (Arch Linux maintainer)
 - Orion Montoya (former rms-assist, former FSF, GPLv3 drafting-process software developer)
