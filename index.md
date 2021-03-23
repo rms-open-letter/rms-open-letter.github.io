@@ -103,6 +103,7 @@ Signed,
 - Daniel Nazer
 - Daniel Soskel
 - Daniel Stone (freedesktop.org, Wayland)
+- David Glick (Plone contributor)
 - David Grynnerup Pedersen
 - David Reid
 - David Thompson (GNU Guile/Guix contributor, ex-FSF)
