@@ -207,6 +207,7 @@ Signed,
 - Robin Widegren
 - Rob Vincent
 - Rosanna Yuen (GNOME Foundation)
+- Ryan Gannon
 - Ryan Gonzalez
 - Ryan Heywood
 - Ryan Lahfa
