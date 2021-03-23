@@ -348,6 +348,7 @@ Signed,
 - Steve McIntyre (Former Debian Project Leader)
 - Steven DuBois
 - Sydney Schreckengost
+- Tab Atkins-Bittner (@tabatkins, active W3C/TC39/WHATWG editor)
 - tanmatsu
 - Tanner Filip
 - Thaddée Tyl
