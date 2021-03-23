@@ -80,3 +80,4 @@ Signed,
 - Peter Hunt
 - Enum Cohrs
 - Federico Mena Quintero (GNOME)
+- Esther Payne (Librecast Project)
