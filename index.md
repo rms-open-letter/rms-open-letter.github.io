@@ -138,3 +138,4 @@ Signed,
 - Esther Payne (Librecast Project)
 - Justin W. Flory (UNICEF, Fedora Project developer)
 - Trolli Schmittlauch
+- Hubert Figuière
