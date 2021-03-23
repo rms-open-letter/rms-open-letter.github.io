@@ -330,6 +330,7 @@ Signed,
 - Santiago Torres-Arias (Arch Linux, Purdue University, in-toto)
 - Saptak S
 - Sarah Connor
+- Scott Walters
 - Sean McGinnis
 - Sean O'Brien
 - Sebastian Dröge (GStreamer, GNOME, Debian)
