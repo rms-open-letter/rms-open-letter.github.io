@@ -246,6 +246,7 @@ Signed,
 - Orion Montoya (former rms-assist, former FSF, GPLv3 drafting-process software developer)
 - Parker Higgins
 - Paul Adams
+- Paul Cutler (former GNOME Foundation)
 - Paul Fisher (Former FSF employee and union representative)
 - Paul Woolcock
 - Peter Hunt
