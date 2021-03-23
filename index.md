@@ -93,6 +93,7 @@ Signed,
 - Christopher Patti
 - Christopher Schmidt
 - Claudio Saavedra (former GNOME maintainer and GNOME Foundation member)
+- Colin Seiler
 - Colin Watson (Former Debian Technical Committee member)
 - Connor Sheridan
 - CookieSource (Head of Administration RebornOS)
