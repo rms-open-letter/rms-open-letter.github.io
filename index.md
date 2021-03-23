@@ -174,3 +174,4 @@ Signed,
 - Sean O'Brien
 - Amy Russell
 - Nicolas Schier (Debian maintainer)
+- Máirín Duffy (Fedora Project, former FSF HPP committee member, former LP speaker)
