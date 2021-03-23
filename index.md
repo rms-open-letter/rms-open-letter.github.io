@@ -70,6 +70,7 @@ Signed,
 - Ariela Wenner
 - Arne Brasseur
 - Artur Tamborski (former FSF member)
+- Asumu Takikawa
 - Avery "stars" M-W
 - Behdad Esfahbod (Former director / president, GNOME Foundation)
 - Ben Cotton (Fedora Project contributor)
