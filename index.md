@@ -225,6 +225,7 @@ Signed,
 - Mikel Johnson
 - Morgan `indrora` Gangwere
 - Morgan Thomas
+- Morgan-Christopher Brooks
 - Morten Linderud (Arch Linux maintainer)
 - Myriam Rita Schweingruber
 - Myrle Krantz (ASF member)
