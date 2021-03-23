@@ -253,6 +253,7 @@ Signed,
 - Phil Dibowitz
 - Philippe Normand
 - Pranav Teegavarapu
+- rany
 - Richard Maw
 - Rich Felker (musl libc)
 - Roan Kattouw
