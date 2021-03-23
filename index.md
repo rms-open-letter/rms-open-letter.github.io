@@ -182,6 +182,7 @@ Signed,
 - Myriam Rita Schweingruber
 - Myrle Krantz (ASF member)
 - Naglis Lesčinskas
+- Nathaniel J. Smith
 - Neil Watson (Former CFEngine Community Advisory Board Member)
 - Nick Guenther
 - Niclas Zeising (FreeBSD committer)
