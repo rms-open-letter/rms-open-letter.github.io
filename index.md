@@ -66,3 +66,4 @@ Signed,
 - William Theaker (Former FSF staff member)
 - D. Joe Anderson
 - Ben Werdmuller
+- Christian Heimes (Python)
