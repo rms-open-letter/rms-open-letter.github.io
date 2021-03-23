@@ -141,6 +141,7 @@ Signed,
 - Emmanuele Bassi (GNOME Foundation)
 - Enrico Zini (Debian Developer)
 - Enum Cohrs
+- Eric "Sheppy" Shepherd
 - Erin Nova
 - Erin Unterwaditzer
 - Eriol Fox
