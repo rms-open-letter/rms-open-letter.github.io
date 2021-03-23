@@ -130,6 +130,7 @@ Signed,
 - Frédéric Harper (Director of Developer Relations at MeiliSearch)
 - Fredrik Lindh
 - Fridrich Strba
+- Gabriel Filion
 - Gabriel Volpe (Practical FP in Scala) 
 - Geir Magnusson Jr.
 - Geoffrey Thomas
