@@ -102,6 +102,7 @@ Signed,
 - Eriol Fox
 - Esther Payne (Librecast Project)
 - Evan Brown
+- Fabio Di Peri
 - Federico Mena Quintero (GNOME)
 - Federico Pontillo
 - Filipe Laíns (Arch Linux TU, PyPA maintainer)
