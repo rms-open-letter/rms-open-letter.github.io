@@ -228,3 +228,4 @@ Signed,
 - Tanner Filip
 - Thaddée Tyl
 - TheEvilSkeleton
+- Sebastian Dröge (GStreamer, GNOME, Debian)
