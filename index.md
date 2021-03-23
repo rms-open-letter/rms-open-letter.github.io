@@ -228,3 +228,4 @@ Signed,
 - Tanner Filip
 - Thaddée Tyl
 - TheEvilSkeleton
+- Madison `makyo` Scott-Clary
