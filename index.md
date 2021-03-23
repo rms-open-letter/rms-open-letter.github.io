@@ -193,6 +193,7 @@ Signed,
 - Lachlan Campbell
 - Lars Wirzenius
 - Laurin Schmidt
+- Leandro A. F. Pereira
 - Linus Parker
 - Lionirdeadman
 - Louis Jones
