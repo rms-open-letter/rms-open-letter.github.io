@@ -62,4 +62,8 @@ Signed,
 - Chris DiBona (Google LLC.)
 - David Turner (former GPL Compliance Engineer at FSF)
 - Ignacio Torres Masdeu
+- Dan Arel (owner, ThinkPrivacy.ch)
+- William Theaker (Former FSF staff member)
+- D. Joe Anderson
+- Ben Werdmuller
 - Christian Heimes (Python)
