@@ -45,3 +45,4 @@ Signed,
 - Hayden Seay
 - Lucas Bickel
 - Colin Watson (Former Debian Technical Committee member)
+- Xavier Tilley
