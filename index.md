@@ -316,6 +316,7 @@ Signed,
 - rany
 - Richard Maw
 - Rich Felker (musl libc)
+- Richard Schneeman
 - Roan Kattouw
 - Robin Widegren
 - Rob Vincent
