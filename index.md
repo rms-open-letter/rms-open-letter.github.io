@@ -94,6 +94,7 @@ Signed,
 - Cara Esten Hurtle
 - Carina C. Zona (CallbackWomen)
 - Carl Schwan (KDE)
+- Carlos Soriano Sanchez (Former GNOME Foundation director and Nautilus maintainer, GNOME GitLab admin)
 - Chris DiBona (Google LLC.)
 - Chris Hoge
 - Chris Rose
