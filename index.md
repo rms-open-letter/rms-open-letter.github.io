@@ -72,3 +72,4 @@ Signed,
 - Jerome Charaoui (Debian Developer, former FSF member)
 - Daniel Stone (freedesktop.org, Wayland)
 - Jonathan McDowell
+- Joy Scharmen
