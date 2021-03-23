@@ -21,6 +21,7 @@ Signed,
 - Matthew Garrett (Former member of the FSF board of directors)
 - Shauna Gordon-McKeon
 - Elana Hashman (Debian Technical Committee Member, Open Source Initiative Director, Kubernetes SIG Instrumentation Chair)
+- Katherine Maher
 - Tom Marble (Software Freedom Conservancy, Evaluation Committee Chair)
 - Neil McGovern (GNOME Foundation Executive Director, Former Debian Project Leader)
 - Deb Nicholson (OSI General Manager, SeaGL Co-Founder)
