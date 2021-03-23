@@ -134,6 +134,7 @@ Signed,
 - Geir Magnusson Jr.
 - Geoffrey Thomas
 - Göktuğ Kayaalp
+- Graham Christensen (NixOS contributor)
 - Greg Grossmeier
 - Gunnar Wolf (Debian Developer, member of the Debian Technical Committee)
 - Gustavo Costa (Fedora Project contributor)
