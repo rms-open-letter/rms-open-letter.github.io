@@ -176,6 +176,7 @@ Signed,
 - Michael Schechter
 - Mikel Johnson
 - Morgan `indrora` Gangwere
+- Morgan Thomas
 - Morten Linderud (Arch Linux maintainer)
 - Myriam Rita Schweingruber
 - Myrle Krantz (ASF member)
