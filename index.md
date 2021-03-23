@@ -62,6 +62,7 @@ Signed,
 - Andy Isaacson (@radii, founding member of Noisebridge)
 - Angus Fletcher
 - Aniol Marti (Debian Maintainer, Caliu President)
+- Anna Glasgall
 - Anne Nicolas (Kernel Recipes organizer)
 - Anthony Rabbito
 - Anthony Shaw (Python Software Foundation Fellow, ASF Member)
