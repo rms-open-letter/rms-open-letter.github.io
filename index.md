@@ -96,6 +96,7 @@ Signed,
 - Colin Watson (Former Debian Technical Committee member)
 - Connor Sheridan
 - CookieSource (Head of Administration RebornOS)
+- Coraline Ada Ehmke (Founder, Organization for Ethical Source)
 - Courtney Thurston (former Spark distro dev)
 - Craig Maloney
 - Dan Arel (owner, ThinkPrivacy.ch)
