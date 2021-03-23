@@ -80,3 +80,4 @@ Signed,
 - Peter Hunt
 - Enum Cohrs
 - Federico Mena Quintero (GNOME)
+- Hein-Pieter van Braam-Stewart (FSF associate member since 2008)
