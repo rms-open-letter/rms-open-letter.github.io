@@ -348,6 +348,7 @@ Signed,
 - Steve McIntyre (Former Debian Project Leader)
 - Steven DuBois
 - Sydney Schreckengost
+- Tamás Szelei
 - tanmatsu
 - Tanner Filip
 - Thaddée Tyl
