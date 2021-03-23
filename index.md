@@ -153,7 +153,6 @@ Signed,
 - Christopher Allan Perry
 - Nicolas Fella (KDE)
 - Shane Fagan
-- Chuck F. Sneed
 - Hubert Figuière
 - Tobias Klausmann
 - Jesse Raleigh (Sr Security Researcher)
@@ -174,6 +173,19 @@ Signed,
 - Sean O'Brien
 - Amy Russell
 - Nicolas Schier (Debian maintainer)
+- Joe Harley
+- Naglis Lesčinskas
+- June Taylor
+- Efraim Flashner (GNU Guix contributor)
+- Kevin O'Brien
+- Morten Linderud (Arch Linux maintainer)
+- Irina Rempt
+- Behdad Esfahbod (Former director / president, GNOME Foundation)
+- Mairi Dulaney (Fedora Project contributor)
+- Mikel Johnson
+- Zach van Rijn
+- Halla Rempt (maintainer of Krita)
+- Alan Diggs (Schykle)
 - Adam Barber
 - Amye Scavarda Perrin
 - Anne Nicolas (Kernel Recipes organizer)
