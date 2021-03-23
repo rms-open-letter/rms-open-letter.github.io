@@ -1,14 +1,14 @@
 *2021-03-23*
 
-Richard M. Stallman, frequently known as RMS, has been a dangerous force in the free software community for a long time. He has shown himself to be misogynist, ableist, and transphobic, among other serious accusations of impropriety. These sorts of beliefs have no place in the free software, digital rights, and tech communities. With his recent reinstatement to the Board of Directors of the Free Software Foundation, we call for the entire Board of the FSF to step down and for RMS to be removed from all leadership positions. 
+Richard M. Stallman, frequently known as RMS, has been a dangerous force in the free software community for a long time. He has shown himself to be misogynist, ableist, and transphobic, among other serious accusations of impropriety. These sorts of beliefs have no place in the free software, digital rights, and tech communities. With his recent reinstatement to the Board of Directors of the Free Software Foundation, we call for the entire Board of the FSF to step down and for RMS to be removed from all leadership positions.
 
 We, the undersigned, believe in the necessity of digital autonomy and the powerful role user freedom plays in protecting our fundamental human rights. In order to realize the promise of everything software freedom makes possible, there must be radical change within the community. We believe in a present and a future where all technology empowers – not oppresses – people. We know that this is only possible in a world where technology is built to pay respect to our rights at its most foundational levels. While these ideas have been popularized in some form by Richard M. Stallman, he does not speak for us. We do not condone his actions and opinions. We do not acknowledge his leadership or the leadership of the Free Software Foundation as it stands today.
 
 There has been enough tolerance of RMS’s repugnant ideas and behavior. We cannot continue to let one person ruin the meaning of our work. Our communities have no space for people like Richard M. Stallman, and we will not continue suffering his behavior, giving him a leadership role, or otherwise holding him and his hurtful and dangerous ideology as acceptable.
 
-**We are calling for the removal of the entire Board of the Free Software Foundation.** These are people who have enabled and empowered RMS for years. They demonstrate this again by permitting him to rejoin the FSF Board. It is time for RMS to step back from the free software, tech ethics, digital rights, and tech communities, for he cannot provide the leadership we need. **We are also calling for Richard M. Stallman to be removed from all leadership positions, including the GNU Project.** 
+**We are calling for the removal of the entire Board of the Free Software Foundation.** These are people who have enabled and empowered RMS for years. They demonstrate this again by permitting him to rejoin the FSF Board. It is time for RMS to step back from the free software, tech ethics, digital rights, and tech communities, for he cannot provide the leadership we need. **We are also calling for Richard M. Stallman to be removed from all leadership positions, including the GNU Project.**
 
-We urge those in a position to do so to stop supporting the Free Software Foundation. Refuse to contribute to projects related to the FSF and RMS. Do not speak at or attend FSF events, or events that welcome RMS and his brand of intolerance. We ask for contributors to free software projects to take a stand against bigotry and hate within their projects. While doing these things, tell these communities and the FSF why. 
+We urge those in a position to do so to stop supporting the Free Software Foundation. Refuse to contribute to projects related to the FSF and RMS. Do not speak at or attend FSF events, or events that welcome RMS and his brand of intolerance. We ask for contributors to free software projects to take a stand against bigotry and hate within their projects. While doing these things, tell these communities and the FSF why.
 
 [We have detailed several public incidents of RMS's behavior][1]. Some of us have our own stories about RMS and our interactions with him, things that are not captured in email threads or on video. We hope you will read what has been shared and consider the harm that he has done to our community and others.
 
@@ -48,9 +48,10 @@ Signed,
 - Alan Diggs (Schykle)
 - Alan Pope
 - Alexandre Dulaunoy (former FSF associate member #53)
-- Amye Scavarda Perrin
 - Amy Russell
 - Amy Troschinetz
+- Amye Scavarda Perrin
+- Andrea Denisse Gómez-Martínez (Arch Linux, i3blocks maintainer)
 - Andrej Shadura
 - Andy Isaacson (@radii, founding member of Noisebridge)
 - Angus Fletcher
@@ -63,16 +64,16 @@ Signed,
 - Ariela Wenner
 - Arne Brasseur
 - Avery "stars" M-W
+- Be Wilson (Mixxx maintainer)
 - Behdad Esfahbod (Former director / president, GNOME Foundation)
 - Ben Cotton (Fedora Project contributor)
 - Ben Hutchings (Debian Developer)
-- Benjamin Kampmann
-- Benjamin Torell (OBS Project)
 - Ben Klemens
 - Ben Lewis (Former GNU Octave contributor)
 - Ben Werdmuller
+- Benjamin Kampmann
+- Benjamin Torell (OBS Project)
 - Bert Van de Poel
-- Be Wilson (Mixxx maintainer)
 - Bill Mulligan
 - Bob Killen (Kubernetes Steering Committee Member)
 - Brett Sheffield (Librecast Project)
@@ -98,6 +99,7 @@ Signed,
 - CookieSource (Head of Administration RebornOS)
 - Courtney Thurston (former Spark distro dev)
 - Craig Maloney
+- D. Joe Anderson
 - Dan Arel (owner, ThinkPrivacy.ch)
 - Dan Bornstein (@danfuzz)
 - Daniel Nazer
@@ -109,7 +111,6 @@ Signed,
 - David Turner (former GPL Compliance Engineer at FSF)
 - Dennis Schubert
 - Devin Buhl
-- D. Joe Anderson
 - Dmitry Porunov
 - Dominic Hayes (The Feren OS Developer)
 - Dorothea Salo
@@ -127,16 +128,16 @@ Signed,
 - Federico Pontillo
 - Filipe Laíns (Arch Linux TU, PyPA maintainer)
 - Florian Neumann
-- Frédéric Harper (Director of Developer Relations at MeiliSearch)
 - Fredrik Lindh
 - Fridrich Strba
-- Gabriel Volpe (Practical FP in Scala) 
+- Frédéric Harper (Director of Developer Relations at MeiliSearch)
+- Gabriel Volpe (Practical FP in Scala)
 - Geir Magnusson Jr.
 - Geoffrey Thomas
-- Göktuğ Kayaalp
 - Greg Grossmeier
 - Gunnar Wolf (Debian Developer, member of the Debian Technical Committee)
 - Gustavo Costa (Fedora Project contributor)
+- Göktuğ Kayaalp
 - Halla Rempt (maintainer of Krita)
 - Havoc Pennington (former GNOME Foundation)
 - Hayden Seay
@@ -152,14 +153,14 @@ Signed,
 - Jacob Weisz
 - James Cochran
 - James Troup
-- Jane Manchun Wong
 - Jan Lehnardt (Apache CouchDB PMC Chair)
+- Jane Manchun Wong
 - Jason C. McDonald (a.k.a. CodeMouse92) (MousePaw Media)
 - Jason Crain (GNOME)
 - Jean-Philippe DUFRAIGNE
 - Jeff Forcier (aka bitprophet) (Python library maintainer, eg Fabric, Paramiko)
-- Jeffrey Yoo Warren
 - Jeff Warnica
+- Jeffrey Yoo Warren
 - Jeremy Bingham
 - Jerome Charaoui (Debian Developer, former FSF member)
 - Jesse Cooke
@@ -180,7 +181,6 @@ Signed,
 - Jules Penuchot (Paris-Saclay University)
 - Julian Andres Klode
 - Julien Rabier
-- julien tayon
 - Julien Voisin
 - June Taylor
 - Justin W. Flory (UNICEF, Fedora Project D&I Advisor)
@@ -203,12 +203,12 @@ Signed,
 - Luna Duclos
 - Madison `makyo` Scott-Clary
 - Mairi Dulaney (Fedora Project contributor)
-- Máirín Duffy (Fedora Project, former FSF HPP committee member, former LP speaker)
 - Malleck Braun
 - Markus Unterwaditzer
 - Martin Splitt
 - Martin Wimpress (Former FSF member)
 - Matt Beland
+- Matt Lee (Libre.fm, former member of the GNU Project)
 - Matteo Tammmaccaro
 - Matthew P. Del Buono
 - Matthew Vernon (Debian developer)
@@ -216,28 +216,28 @@ Signed,
 - Matthias Klumpp (Debian, freedesktop.org)
 - Matthias Schiffer (OpenWrt committer)
 - Matthieu Gallien (KDE)
-- Matt Lee (Libre.fm, former member of the GNU Project)
 - Meadhbh Hamrick
 - Micah E Scott
 - Michael Downey (United Nations Foundation)
 - Michael Schechter
 - Mike Linksvayer
 - Mikel Johnson
-- Morgan `indrora` Gangwere
 - Morgan Thomas
+- Morgan `indrora` Gangwere
 - Morten Linderud (Arch Linux maintainer)
 - Myriam Rita Schweingruber
 - Myrle Krantz (ASF member)
+- Máirín Duffy (Fedora Project, former FSF HPP committee member, former LP speaker)
 - Naglis Lesčinskas
 - Nathaniel J. Smith
 - Neil Watson (Former CFEngine Community Advisory Board Member)
 - Nick Guenther
 - Niclas Zeising (FreeBSD committer)
 - Nicolai von Neudeck
-- Nicolás Alvarez (KDE)
 - Nicolas Dandrimont (Debian Developer, former FSF associate member)
 - Nicolas Fella (KDE)
 - Nicolas Schier (Debian maintainer)
+- Nicolás Alvarez (KDE)
 - Nikos Roussos (FSFE, GA member)
 - Nils Adermann
 - Noel Georgi
@@ -253,11 +253,11 @@ Signed,
 - Phil Dibowitz
 - Philippe Normand
 - Pranav Teegavarapu
-- Richard Maw
 - Rich Felker (musl libc)
+- Richard Maw
 - Roan Kattouw
-- Robin Widegren
 - Rob Vincent
+- Robin Widegren
 - Rosanna Yuen (GNOME Foundation)
 - Ryan Gannon
 - Ryan Gonzalez
@@ -273,7 +273,6 @@ Signed,
 - Seth McCombs
 - Shane Fagan
 - Shelly Coen
-- Síle Ekaterin Aman (APK Fission, Adélie Linux Core Team)
 - Simeon Smith
 - Simon Richter
 - Soren L. Hansen
@@ -282,6 +281,7 @@ Signed,
 - Steve McIntyre (Former Debian Project Leader)
 - Steven DuBois
 - Sydney Schreckengost
+- Síle Ekaterin Aman (APK Fission, Adélie Linux Core Team)
 - Tanner Filip
 - Thaddée Tyl
 - TheEvilSkeleton
@@ -292,17 +292,17 @@ Signed,
 - Tom "spot" Callaway (Fedora Council member, former LP speaker)
 - Tony Colston
 - Tony Richards
-- tre murillo
 - Trolli Schmittlauch
 - Victor Hugo Soliz Kuncar
 - Vincent Huang Jiahao
 - Vipul Gupta
 - Vivia Nikolaidou (GStreamer)
 - William Theaker (Former FSF staff member)
-- Xavier Tilley
 - X.org Foundation Board of Directors (Lyude Paul, Eric Anholt, Mark Filion, Keith Packard, Daniel Vetter, Harry Wentland, Samuel Iglesias Gonsálvez)
+- Xavier Tilley
 - Yao Li (former FSF Monthly Student Associate Member)
 - Yorik van Havre
 - Yvan Sraka
 - Zach van Rijn
-
+- julien tayon
+- tre murillo
