@@ -330,6 +330,7 @@ Signed,
 - Santiago Torres-Arias (Arch Linux, Purdue University, in-toto)
 - Saptak S
 - Sarah Connor
+- Sasi Olin (openSUSE Member, former openSUSE Board member)
 - Sean McGinnis
 - Sean O'Brien
 - Sebastian Dröge (GStreamer, GNOME, Debian)
