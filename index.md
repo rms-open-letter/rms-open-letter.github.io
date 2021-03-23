@@ -55,6 +55,7 @@ Signed,
 - Anthony Shaw (Python Software Foundation Fellow, ASF Member)
 - Antoine Beaupré AKA anarcat (Debian Developer, former FSF member)
 - Ariadne Conill (Alpine Developer, pkgconf)
+- Ariela Wenner
 - Arne Brasseur
 - Behdad Esfahbod (Former director / president, GNOME Foundation)
 - Ben Cotton (Fedora Project contributor)
