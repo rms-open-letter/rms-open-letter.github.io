@@ -65,6 +65,7 @@ Signed,
 - Bert Van de Poel
 - Be Wilson (Mixxx maintainer)
 - Bill Mulligan
+- Bob Killen (Kubernetes Steering Committee Member)
 - Brett Sheffield (Librecast Project)
 - Brian Pepple (Former Fedora Engineering Steering Committee member)
 - Brion Vibber (MediaWiki, Wikimedia Foundation)
