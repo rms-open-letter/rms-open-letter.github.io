@@ -80,3 +80,4 @@ Signed,
 - Peter Hunt
 - Enum Cohrs
 - Federico Mena Quintero (GNOME)
+- Jason C. McDonald (a.k.a. CodeMouse92) (MousePaw Media)
