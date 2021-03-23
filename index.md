@@ -52,6 +52,7 @@ Signed,
 - Amy Russell
 - Amy Troschinetz
 - Andrej Shadura (Debian Developer)
+- Andrés Hernández "`tonejito`" (LIDSoL)
 - Andy Isaacson (@radii, founding member of Noisebridge)
 - Angus Fletcher
 - Aniol Marti (Debian Maintainer, Caliu President)
