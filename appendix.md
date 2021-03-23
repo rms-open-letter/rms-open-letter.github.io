@@ -31,6 +31,10 @@ RMS has spent years on a campaign against using people’s correct pronouns. Thi
 [15]: https://www.gnu.org/philosophy/kind-communication.html
 [16]: https://stallman.org
 
-[Return to the main page][17]
+In 2018, RMS went to great lengths to defend the inclusion of an “abortion” joke in the glibc manual.[17]
 
-[17]: https://rms-open-letter.github.io/
+[17]: https://lwn.net/Articles/770966/
+
+[Return to the main page][18]
+
+[18]: https://rms-open-letter.github.io/
