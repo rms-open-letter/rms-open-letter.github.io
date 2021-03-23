@@ -129,6 +129,7 @@ Signed,
 - Jean-Philippe DUFRAIGNE
 - Jeffrey Yoo Warren
 - Jeff Warnica
+- Jeremy Bingham
 - Jerome Charaoui (Debian Developer, former FSF member)
 - Jesse Cooke
 - Jesse Raleigh (Sr Security Researcher)
