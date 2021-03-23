@@ -50,3 +50,4 @@ Signed,
 - Jesse Cooke
 - Andrej Shadura
 - Amy Troschinetz
+- Antoine Beaupré AKA anarcat (Debian Developer, former FSF member)
