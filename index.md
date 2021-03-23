@@ -49,3 +49,7 @@ Signed,
 - David Thompson (GNU Guile/Guix contributor, ex-FSF)
 - Jesse Cooke
 - Andrej Shadura
+- Rosanna Yuen (GNOME Foundation)
+- Steven DuBois
+- Lars Wirzenius
+- Christopher Schmidt
