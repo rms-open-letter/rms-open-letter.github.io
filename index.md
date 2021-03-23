@@ -161,6 +161,7 @@ Signed,
 - Gareth J. Greenaway (Salt Developer, SCALE Co-Founder and former chair person)
 - Geir Magnusson Jr.
 - Geoffrey Thomas
+- Gerard Ryan
 - Göktuğ Kayaalp
 - Graham Christensen (NixOS contributor)
 - Greg Grossmeier
