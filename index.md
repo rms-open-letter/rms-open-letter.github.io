@@ -205,7 +205,7 @@ Signed,
 - Mairi Dulaney (Fedora Project contributor)
 - Máirín Duffy (Fedora Project, former FSF HPP committee member, former LP speaker)
 - Malleck Braun
-- Markus Unterwaditzer
+- Erin Unterwaditzer
 - Martin Splitt
 - Martin Wimpress (Former FSF member)
 - Matt Beland
@@ -305,4 +305,4 @@ Signed,
 - Yorik van Havre
 - Yvan Sraka
 - Zach van Rijn
-
+- Erin Nova
