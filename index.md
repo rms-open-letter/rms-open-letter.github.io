@@ -229,6 +229,7 @@ Signed,
 - Myriam Rita Schweingruber
 - Myrle Krantz (ASF member)
 - Naglis Lesčinskas
+- Nathan Dyer (former FSF associate member)
 - Nathaniel J. Smith
 - Neil Watson (Former CFEngine Community Advisory Board Member)
 - Nick Guenther
