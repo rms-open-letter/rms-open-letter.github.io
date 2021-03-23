@@ -248,6 +248,7 @@ Signed,
 - Mairi Dulaney (Fedora Project contributor)
 - Máirín Duffy (Fedora Project, former FSF HPP committee member, former LP speaker)
 - Malleck Braun
+- Mano Marks
 - Margarita Manterola (Debian Developer, member of the Debian Technical Committee)
 - Mark Brown (Linux, Debian)
 - Markus Unterwaditzer
