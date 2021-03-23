@@ -205,6 +205,7 @@ Signed,
 - Mairi Dulaney (Fedora Project contributor)
 - Máirín Duffy (Fedora Project, former FSF HPP committee member, former LP speaker)
 - Malleck Braun
+- Marius Gripsgard (UBports Foundation founder, Lead Developer and Board of Directors, Ubuntu Member)
 - Markus Unterwaditzer
 - Martin Splitt
 - Martin Wimpress (Former FSF member)
