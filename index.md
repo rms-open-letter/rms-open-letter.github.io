@@ -95,6 +95,7 @@ Signed,
 - Dmitry Porunov
 - Dominic Hayes (The Feren OS Developer)
 - Dorothea Salo
+- Ed Marshall
 - Efraim Flashner (GNU Guix contributor)
 - Emmanuele Bassi (GNOME Foundation)
 - Enrico Zini (Debian Developer)
