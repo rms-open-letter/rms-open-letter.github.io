@@ -127,6 +127,7 @@ Signed,
 - Federico Pontillo
 - Filipe Laíns (Arch Linux TU, PyPA maintainer)
 - Florian Neumann
+- Frank S. Thomas
 - Frédéric Harper (Director of Developer Relations at MeiliSearch)
 - Fredrik Lindh
 - Fridrich Strba
