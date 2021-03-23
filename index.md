@@ -212,6 +212,7 @@ Signed,
 - Saptak S
 - Sean McGinnis
 - Sean O'Brien
+- Seth McCombs
 - Shane Fagan
 - Shelly Coen
 - Síle Ekaterin Aman (APK Fission, Adélie Linux Core Team)
