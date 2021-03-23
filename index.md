@@ -241,4 +241,4 @@ Signed,
 - Yorik van Havre
 - Yvan Sraka
 - Zach van Rijn
-
+- Sam Hartman (Former Debian Project Leader)
