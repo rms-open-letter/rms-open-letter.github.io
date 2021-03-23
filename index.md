@@ -56,7 +56,10 @@ Signed,
 - Amy Troschinetz
 - Antoine Beaupré AKA anarcat (Debian Developer, former FSF member)
 - Emmanuele Bassi (GNOME Foundation)
-- Dan Arel (owner, ThinkPrivacy.ch)
 - Daniel Soskel
 - Tony Colston
 - Neil Watson (Former CFEngine Community Advisory Board Member)
+- Chris DiBona (Google LLC.)
+- David Turner (former GPL Compliance Engineer at FSF)
+- Ignacio Torres Masdeu
+- Dan Arel (owner, ThinkPrivacy.ch)
