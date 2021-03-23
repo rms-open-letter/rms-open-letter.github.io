@@ -173,4 +173,5 @@ Signed,
 - Jordan Uggla
 - Sean O'Brien
 - Amy Russell
+- Luis Antonio Sánchez Romero
 - Nicolas Schier (Debian maintainer)
