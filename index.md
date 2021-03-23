@@ -195,6 +195,7 @@ Signed,
 - Orion Montoya (former rms-assist, former FSF, GPLv3 drafting-process software developer)
 - Parker Higgins
 - Paul Adams
+- Paul Woolcock
 - Peter Hunt
 - Peter Van Eynde
 - Phil Dibowitz
