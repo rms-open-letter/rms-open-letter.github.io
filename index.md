@@ -230,6 +230,7 @@ Signed,
 - Myrle Krantz (ASF member)
 - Naglis Lesčinskas
 - Nathaniel J. Smith
+- Neal Gompa (Fedora Project contributor, Mageia Project Council Member, Mageia.Org Board Member, openSUSE Project Board Member, OpenMandriva contributor)
 - Neil Watson (Former CFEngine Community Advisory Board Member)
 - Nick Guenther
 - Niclas Zeising (FreeBSD committer)
