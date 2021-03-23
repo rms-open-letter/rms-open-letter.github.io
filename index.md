@@ -149,7 +149,7 @@ Signed,
 - julien tayon
 - Julien Voisin
 - June Taylor
-- Justin W. Flory (UNICEF, Fedora Project developer)
+- Justin W. Flory (UNICEF, Fedora Project D&I Advisor)
 - Kevin O'Brien
 - Kimball Johnson (Former Chair FLOSS UK aka UKUUG)
 - Kyle Mitchell
@@ -220,7 +220,7 @@ Signed,
 - Simeon Smith
 - Simon Richter
 - Soren L. Hansen
-- Sriram Ramkrishna 
+- Sriram Ramkrishna
 - Steve McIntyre (Former Debian Project Leader)
 - Steven DuBois
 - Sydney Schreckengost
