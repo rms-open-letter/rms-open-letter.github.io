@@ -110,6 +110,7 @@ Signed,
 - Geir Magnusson Jr.
 - Geoffrey Thomas
 - Greg Grossmeier
+- Gustavo Costa (Fedora Project contributor)
 - Halla Rempt (maintainer of Krita)
 - Hayden Seay
 - Haze Booth
