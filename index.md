@@ -67,4 +67,6 @@ Signed,
 - D. Joe Anderson
 - Ben Werdmuller
 - Christian Heimes (Python)
+- Jacob Weisz
+- Peter Van Eynde
 - Jerome Charaoui (Debian Developer, former FSF member)
