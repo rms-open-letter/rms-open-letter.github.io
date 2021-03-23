@@ -27,13 +27,12 @@ In 2015 and 2016 RMS made three posts on his website about Down’s syndrome. He
 [12]: https://stallman.org/archives/2016-mar-jun.html#23_April_2016_(Fetuses_with_Downs_syndrome)
 [13]: https://web.archive.org/web/20161107050933/https://www.stallman.org/archives/2016-jul-oct.html#31_October_2016_(Down's_syndrome)
 
-RMS has spent years on a campaign against using people’s correct pronouns. This is poorly disguised transphobia. In the original publication of the GNU Kind Communication Guidelines, he said “there are various ways to express gender neutrality in third-person singular pronouns in English; you do not have to use 'they.'”[14] This text has since been updated, but is still transphobic.[15] The main page on his web site includes the statement that  “‘They’ is plural — for singular antecedents, use singular gender-neutral pronouns.”[16] This viewpoint has been widely discredited; see the Oxford English Dictionary's blog post on the history of *they* as a singular pronoun.[17]  (COMMENT: I'm not sure this sentence adds anything positive. It seems to meet RMS on his terms of being an issue about proper grammar instead of an issue of oppression and respect for trans and non-binary folks' identity.)
+RMS has spent years on a campaign against using people’s correct pronouns. This is poorly disguised transphobia. In the original publication of the GNU Kind Communication Guidelines, he said “there are various ways to express gender neutrality in third-person singular pronouns in English; you do not have to use 'they.'”[14] This text has since been updated, but is still transphobic.[15] The main page on his web site includes the statement that  “‘They’ is plural — for singular antecedents, use singular gender-neutral pronouns.”[16]
 
 [14]: https://web.archive.org/web/20181022140126/https://www.gnu.org/philosophy/kind-communication.html
 [15]: https://www.gnu.org/philosophy/kind-communication.html
 [16]: https://stallman.org
-[17]: https://public.oed.com/blog/a-brief-history-of-singular-they/
 
-[Return to the main page][18]
+[Return to the main page][17]
 
-[18]: https://rms-open-letter.github.io/
+[17]: https://rms-open-letter.github.io/
