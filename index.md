@@ -328,6 +328,7 @@ Signed,
 - Sam Hocevar (Former Debian Project Leader)
 - Sam Pavlovic
 - Santiago Torres-Arias (Arch Linux, Purdue University, in-toto)
+- Sambhav Saggi
 - Saptak S
 - Sarah Connor
 - Sean McGinnis
