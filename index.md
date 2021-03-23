@@ -292,6 +292,7 @@ Signed,
 - Nicolas Schier (Debian maintainer)
 - Nicole Martinez
 - Nikos Roussos (FSFE, GA member)
+- Nixon Enraght-Moony
 - Nils Adermann
 - Noel Georgi
 - Ole Streicher (Debian Developer)
