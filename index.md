@@ -293,6 +293,7 @@ Signed,
 - Nicole Martinez
 - Nikos Roussos (FSFE, GA member)
 - Nils Adermann
+- Noah/`coolreader18` (RustPython maintainer)
 - Noel Georgi
 - Ole Streicher (Debian Developer)
 - Olivier Berger (FSF member, or associate member since 2002)
