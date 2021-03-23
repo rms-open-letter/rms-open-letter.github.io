@@ -57,3 +57,6 @@ Signed,
 - Antoine Beaupré AKA anarcat (Debian Developer, former FSF member)
 - Emmanuele Bassi (GNOME Foundation)
 - Dan Arel (owner, ThinkPrivacy.ch)
+- Daniel Soskel
+- Tony Colston
+- Neil Watson (Former CFEngine Community Advisory Board Member)
