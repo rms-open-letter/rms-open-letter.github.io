@@ -156,6 +156,7 @@ Signed,
 - Linus Parker
 - Lionirdeadman
 - Louis Jones
+- Luca Martinelli
 - Lucas Bickel
 - Luis Antonio Sánchez Romero
 - Luna Duclos
