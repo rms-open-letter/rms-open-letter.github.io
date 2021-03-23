@@ -350,6 +350,7 @@ Signed,
 - Sydney Schreckengost
 - tanmatsu
 - Tanner Filip
+- Taowa (Debian Developer, former LP keynote panelist)
 - Thaddée Tyl
 - TheEvilSkeleton
 - Tianon Gravi
