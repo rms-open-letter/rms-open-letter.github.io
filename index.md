@@ -231,6 +231,7 @@ Signed,
 - Tollef Fog Heen (Former Debian Technical Committee member)
 - Tom "spot" Callaway (Fedora Council member, former LP speaker)
 - Tony Colston
+- tre murillo
 - Trolli Schmittlauch
 - Victor Hugo Soliz Kuncar
 - Vincent Huang Jiahao
