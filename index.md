@@ -219,6 +219,7 @@ Signed,
 - Matt Lee (Libre.fm, former member of the GNU Project)
 - Meadhbh Hamrick
 - Micah E Scott
+- Michael Bikovitsky
 - Michael Downey (United Nations Foundation)
 - Michael Schechter
 - Mike Linksvayer
