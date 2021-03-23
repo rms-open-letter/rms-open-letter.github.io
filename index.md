@@ -156,3 +156,4 @@ Signed,
 - Chuck F. Sneed
 - Hubert Figuière
 - Tobias Klausmann
+- Philippe Normand
