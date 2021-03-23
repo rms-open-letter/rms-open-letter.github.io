@@ -171,6 +171,7 @@ Signed,
 - Matthew Wilcox (Linux kernel hacker)
 - Matthieu Gallien (KDE)
 - Matt Lee (Libre.fm, former member of the GNU Project)
+- Meadhbh Hamrick
 - Micah E Scott
 - Michael Downey (United Nations Foundation)
 - Michael Schechter
