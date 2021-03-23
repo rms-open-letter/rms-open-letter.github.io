@@ -295,6 +295,7 @@ Signed,
 - tre murillo
 - Trolli Schmittlauch
 - Victor Hugo Soliz Kuncar
+- Victoria "tdfischer" Fierce (Former KDE Multimedia and Phonon-GStreamer maintainer)
 - Vincent Huang Jiahao
 - Vipul Gupta
 - Vivia Nikolaidou (GStreamer)
