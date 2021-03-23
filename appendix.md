@@ -34,3 +34,6 @@ RMS has spent years on a campaign against using people’s correct pronouns. Thi
 [16]: https://stallman.org
 [17]: https://public.oed.com/blog/a-brief-history-of-singular-they/
 
+[Return to the main page][18]
+
+[18]: https://rms-open-letter.github.io/
