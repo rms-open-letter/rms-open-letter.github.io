@@ -51,3 +51,4 @@ Signed,
 - Andrej Shadura
 - Amy Troschinetz
 - Antoine Beaupré AKA anarcat (Debian Developer, former FSF member)
+- Emmanuele Bassi (GNOME Foundation)
