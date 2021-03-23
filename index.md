@@ -128,6 +128,7 @@ Signed,
 - Dennis Schubert
 - Devin Buhl
 - Dillon Pentz (OBS Project Developer)
+- Dirk Hohndel
 - D. Joe Anderson
 - Dmitry Borodaenko (Debian Developer, Former Fuel for OpenStack Project Technical Lead)
 - Dmitry Porunov
