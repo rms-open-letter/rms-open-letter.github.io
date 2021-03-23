@@ -115,6 +115,7 @@ Signed,
 - Dorothea Salo
 - Ed Marshall
 - Efraim Flashner (GNU Guix contributor)
+- Elen Eisendle
 - Emilio Escobar (Ettercap Project)
 - Emmanuele Bassi (GNOME Foundation)
 - Enrico Zini (Debian Developer)
