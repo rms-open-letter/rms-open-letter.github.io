@@ -88,6 +88,7 @@ Signed,
 - Daniel Nazer
 - Daniel Soskel
 - Daniel Stone (freedesktop.org, Wayland)
+- David Grynnerup Pedersen
 - David Reid
 - David Thompson (GNU Guile/Guix contributor, ex-FSF)
 - David Turner (former GPL Compliance Engineer at FSF)
