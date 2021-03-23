@@ -1,14 +1,14 @@
 *2021-03-23*
 
-Richard M. Stallman, frequently known as RMS, has been a dangerous force in the free software community for a long time. He has shown himself to be misogynist, ableist, and transphobic, among other serious accusations of impropriety. These sorts of beliefs have no place in the free software, digital rights, and tech communities. With his recent reinstatement to the Board of Directors of the Free Software Foundation, we call for the entire Board of the FSF to step down and for RMS to be removed from all leadership positions. 
+Richard M. Stallman, frequently known as RMS, has been a dangerous force in the free software community for a long time. He has shown himself to be misogynist, ableist, and transphobic, among other serious accusations of impropriety. These sorts of beliefs have no place in the free software, digital rights, and tech communities. With his recent reinstatement to the Board of Directors of the Free Software Foundation, we call for the entire Board of the FSF to step down and for RMS to be removed from all leadership positions.
 
 We, the undersigned, believe in the necessity of digital autonomy and the powerful role user freedom plays in protecting our fundamental human rights. In order to realize the promise of everything software freedom makes possible, there must be radical change within the community. We believe in a present and a future where all technology empowers – not oppresses – people. We know that this is only possible in a world where technology is built to pay respect to our rights at its most foundational levels. While these ideas have been popularized in some form by Richard M. Stallman, he does not speak for us. We do not condone his actions and opinions. We do not acknowledge his leadership or the leadership of the Free Software Foundation as it stands today.
 
 There has been enough tolerance of RMS’s repugnant ideas and behavior. We cannot continue to let one person ruin the meaning of our work. Our communities have no space for people like Richard M. Stallman, and we will not continue suffering his behavior, giving him a leadership role, or otherwise holding him and his hurtful and dangerous ideology as acceptable.
 
-**We are calling for the removal of the entire Board of the Free Software Foundation.** These are people who have enabled and empowered RMS for years. They demonstrate this again by permitting him to rejoin the FSF Board. It is time for RMS to step back from the free software, tech ethics, digital rights, and tech communities, for he cannot provide the leadership we need. **We are also calling for Richard M. Stallman to be removed from all leadership positions, including the GNU Project.** 
+**We are calling for the removal of the entire Board of the Free Software Foundation.** These are people who have enabled and empowered RMS for years. They demonstrate this again by permitting him to rejoin the FSF Board. It is time for RMS to step back from the free software, tech ethics, digital rights, and tech communities, for he cannot provide the leadership we need. **We are also calling for Richard M. Stallman to be removed from all leadership positions, including the GNU Project.**
 
-We urge those in a position to do so to stop supporting the Free Software Foundation. Refuse to contribute to projects related to the FSF and RMS. Do not speak at or attend FSF events, or events that welcome RMS and his brand of intolerance. We ask for contributors to free software projects to take a stand against bigotry and hate within their projects. While doing these things, tell these communities and the FSF why. 
+We urge those in a position to do so to stop supporting the Free Software Foundation. Refuse to contribute to projects related to the FSF and RMS. Do not speak at or attend FSF events, or events that welcome RMS and his brand of intolerance. We ask for contributors to free software projects to take a stand against bigotry and hate within their projects. While doing these things, tell these communities and the FSF why.
 
 [We have detailed several public incidents of RMS's behavior][1]. Some of us have our own stories about RMS and our interactions with him, things that are not captured in email threads or on video. We hope you will read what has been shared and consider the harm that he has done to our community and others.
 
@@ -353,7 +353,7 @@ Signed,
 - John "Warthog9" Hawley
 - John Wiseman
 - Jona Azizaj (Fedora Project, Open Source Diversity)
-- Jonathan Kamens (>30yrs maintaining OSS, one-time FSF contributor) 
+- Jonathan Kamens (>30yrs maintaining OSS, one-time FSF contributor)
 - Jonathan McDowell
 - Jordan Petridis (GNOME)
 - Jordan Uggla
@@ -376,7 +376,7 @@ Signed,
 - Julien Voisin
 - June Taylor
 - Justin Dearing (@zippy1981)
-- Justin Reock (Chief Evangelist at OpenLogic) 
+- Justin Reock (Chief Evangelist at OpenLogic)
 - Justin Wake
 - Justin W. Flory (UNICEF, Fedora Project D&I Advisor)
 - Karen Rustad Tölva (former OpenHatch and Students for Free Culture board member)
@@ -415,6 +415,7 @@ Signed,
 - Lucas Nussbaum (Former Debian Project Leader)
 - Ludvig Norgren Guldhag
 - Luis Antonio Sánchez Romero
+- Luis Lavaire (Nitrux developer)
 - Luiz Irber
 - Lukas Fittl
 - Lukas Grossar
@@ -558,7 +559,7 @@ Signed,
 - Robyn Speer (ConceptNet)
 - Rosanna Yuen (GNOME Foundation)
 - Ruben Schade
-- Russ Allbery (Debian Developer, FSF associate member since 2003) 
+- Russ Allbery (Debian Developer, FSF associate member since 2003)
 - Russell Keith-Magee (@freakboy3742; former President, Django Software Foundation; Founder, BeeWare Project)
 - Ryan (DasGeek) (Host of Destination Linux, Partner of Destination Linux, LLC.)
 - Ryan Finnie (Finnix founder; Debian; Ubuntu)
@@ -574,7 +575,7 @@ Signed,
 - Sam Pavlovic
 - Sam Phillips
 - Sam Pritchard
-- Sander van der Waal (Waag) 
+- Sander van der Waal (Waag)
 - Santiago Torres-Arias (Arch Linux, Purdue University, in-toto)
 - Saptak S
 - Sarah Connor
