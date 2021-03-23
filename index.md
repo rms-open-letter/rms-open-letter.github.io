@@ -174,3 +174,4 @@ Signed,
 - Sean O'Brien
 - Amy Russell
 - Nicolas Schier (Debian maintainer)
+- Claudio Saavedra (former GNOME maintainer and GNOME Foundation member)
