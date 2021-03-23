@@ -111,6 +111,7 @@ Signed,
 - Geoffrey Thomas
 - Greg Grossmeier
 - Halla Rempt (maintainer of Krita)
+- Havoc Pennington (former GNOME Foundation)
 - Hayden Seay
 - Haze Booth
 - Heiko Becker (Exherbo, KDE)
