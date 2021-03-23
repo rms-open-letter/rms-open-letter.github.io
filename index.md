@@ -59,6 +59,6 @@ Signed,
 - Daniel Soskel
 - Tony Colston
 - Neil Watson (Former CFEngine Community Advisory Board Member)
-- Chris DiBona (Google llc.)
+- Chris DiBona (Google LLC.)
 - David Turner (former GPL Compliance Engineer at FSF)
-
+- Ignacio Torres Masdeu
