@@ -71,5 +71,6 @@ Signed,
 - Peter Van Eynde
 - Jerome Charaoui (Debian Developer, former FSF member)
 - Daniel Stone (freedesktop.org, Wayland)
+- Sydney Schreckengost
 - Jonathan McDowell
 - Markus Unterwaditzer
