@@ -108,6 +108,7 @@ Signed,
 - Federico Pontillo
 - Filipe Laíns (Arch Linux TU, PyPA maintainer)
 - Florian Neumann
+- Fredrik Lindh
 - Fridrich Strba
 - Geir Magnusson Jr.
 - Geoffrey Thomas
