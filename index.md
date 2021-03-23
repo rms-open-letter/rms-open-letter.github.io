@@ -41,3 +41,4 @@ Signed,
 - Matt Lee (Libre.fm, former member of the GNU Project)
 - Steve McIntyre (Former Debian Project Leader)
 - Parker Higgins
+- Noel Georgi
