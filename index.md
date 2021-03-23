@@ -16,8 +16,6 @@ We urge those in a position to do so to stop supporting the Free Software Founda
 
 To sign, please email digitalautonomy at riseup.net or [submit a pull request](https://github.com/rms-open-letter/rms-open-letter.github.io/pulls).
 
-Institutional affiliation is provided for identification purposes only and does not constitute institutional endorsement.
-
 Signed,
 
 - Molly de Blanc (Debian Project, GNOME Foundation)
@@ -243,4 +241,4 @@ Signed,
 - Yorik van Havre
 - Yvan Sraka
 - Zach van Rijn
-
+- Avery "stars" M-W
