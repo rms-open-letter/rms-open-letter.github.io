@@ -65,3 +65,4 @@ Signed,
 - Dan Arel (owner, ThinkPrivacy.ch)
 - William Theaker (Former FSF staff member)
 - D. Joe Anderson
+- Ben Werdmuller
