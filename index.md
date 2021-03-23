@@ -58,6 +58,7 @@ Signed,
 - Ben Cotton (Fedora Project contributor)
 - Ben Hutchings (Debian Developer)
 - Benjamin Kampmann
+- Ben Klemens
 - Ben Lewis (Former GNU Octave contributor)
 - Ben Werdmuller
 - Bert Van de Poel
