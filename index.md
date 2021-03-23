@@ -176,6 +176,7 @@ Signed,
 - Hubert Figuière
 - Ian Jackson (Former Debian Project Leader; former President, Software in the Public Interest; GNU Maintainer)
 - Ignacio Torres Masdeu
+- Ilya Kreymer
 - Irina Rempt
 - Jacob H. Haven
 - Jacob Kaplan-Moss (Django co-creator; Founder, Django Software Foundation)
