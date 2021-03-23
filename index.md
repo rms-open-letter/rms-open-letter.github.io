@@ -44,6 +44,7 @@ Signed,
 - Alan Ball
 - Alan Diggs (Schykle)
 - Alan Pope
+- Alexandre Dulaunoy (former FSF associate member #53)
 - Amye Scavarda Perrin
 - Amy Russell
 - Amy Troschinetz
