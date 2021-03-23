@@ -287,6 +287,7 @@ Signed,
 - TheEvilSkeleton
 - Tianon Gravi
 - Tierney Cyren (Node.js Community Committee Chairperson, Electron, OpenJS Foundation CPC)
+- Tobias Fella (KDE)
 - Tobias Klausmann
 - Tollef Fog Heen (Former Debian Technical Committee member)
 - Tom "spot" Callaway (Fedora Council member, former LP speaker)
