@@ -43,3 +43,4 @@ Signed,
 - Parker Higgins
 - Noel Georgi
 - Hayden Seay
+- David Thompson (GNU Guile/Guix contributor, ex-FSF)
