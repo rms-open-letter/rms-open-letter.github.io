@@ -192,6 +192,7 @@ Signed,
 - Nils Adermann
 - Noel Georgi
 - Olivier Berger (FSF member, or associate member since 2002)
+- Orhun Parmaksız (Arch Linux maintainer)
 - Orion Montoya (former rms-assist, former FSF, GPLv3 drafting-process software developer)
 - Parker Higgins
 - Paul Adams
