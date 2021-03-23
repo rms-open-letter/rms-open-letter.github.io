@@ -86,6 +86,7 @@ Signed,
 - Colin Watson (Former Debian Technical Committee member)
 - Connor Sheridan
 - Courtney Thurston (former Spark distro dev)
+- Craig Maloney
 - Dan Arel (owner, ThinkPrivacy.ch)
 - Daniel Nazer
 - Daniel Soskel
