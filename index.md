@@ -139,7 +139,6 @@ Signed,
 - Justin W. Flory (UNICEF, Fedora Project developer)
 - Trolli Schmittlauch
 - Lionirdeadman
-
 - Vincent Huang Jiahao
 - Alan Ball
 - Hein-Pieter van Braam-Stewart (FSF associate member since 2008)
