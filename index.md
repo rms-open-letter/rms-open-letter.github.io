@@ -241,4 +241,5 @@ Signed,
 - Yorik van Havre
 - Yvan Sraka
 - Zach van Rijn
+- Sebastian Ramacher (Debian Developer)
 
