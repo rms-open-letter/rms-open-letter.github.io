@@ -228,3 +228,4 @@ Signed,
 - Tanner Filip
 - Thaddée Tyl
 - TheEvilSkeleton
+- Dominic Hayes (The Feren OS Developer)
