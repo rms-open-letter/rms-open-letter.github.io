@@ -80,3 +80,4 @@ Signed,
 - Peter Hunt
 - Enum Cohrs
 - Federico Mena Quintero (GNOME)
+- Síle Ekaterin Aman (APK Fission, Adélie Linux Core Team)
