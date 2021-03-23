@@ -166,6 +166,7 @@ Signed,
 - Greg Grossmeier
 - Gunnar Wolf (Debian Developer, member of the Debian Technical Committee)
 - Gustavo Costa (Fedora Project contributor)
+- Guy Templeton (Kubernetes SIG Autoscaling Chair)
 - Halla Rempt (maintainer of Krita)
 - Havoc Pennington (former GNOME Foundation)
 - Hayden Barnes
