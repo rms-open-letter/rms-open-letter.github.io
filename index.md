@@ -10,7 +10,7 @@ We urge those in a position to do so to stop supporting the Free Software Founda
 
 [We have detailed several public incidents of RMS's behavior][1]. Some of us have our own stories about RMS and our interactions with him, things that are not captured in email threads or on video. We hope you will read what has been shared and consider the harm that he has done to our community and others.
 
-[1]: 
+[1]: https://rms-open-letter.github.io/appendix
 
 To sign, please email gogodigitalautonomy at gmail.com
 
