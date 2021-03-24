@@ -326,6 +326,7 @@ Signed,
 - Jack 'jrabbit' Laxson
 - Jacob H. Haven
 - Jacob Kaplan-Moss (Django co-creator; Founder, Django Software Foundation)
+- Jacob See (Red Hat)
 - Jacob Weisz
 - Jade '0x0ade' Macho
 - James Alexander
