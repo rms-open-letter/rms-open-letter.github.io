@@ -309,6 +309,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Christopher Schmidt
 1. Christoph Wickert (openSUSE contributor, former Fedora Council and Advisory Board member)
 1. Chris Wayne (Ubuntu)
+1. Clara Hobbs
 1. Clare Macrae
 1. Clarissa Borges (GNOME Foundation member)
 1. classabbyamp
