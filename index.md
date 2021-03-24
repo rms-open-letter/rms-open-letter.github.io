@@ -1090,6 +1090,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Sambhav Saggi
 1. Sam Hartman (Former Debian Project Leader)
 1. Sam Hocevar (Former Debian Project Leader)
+1. Sam Kottler
 1. Sam Muirhead
 1. Sam Pavlovic
 1. Sam Phillips
