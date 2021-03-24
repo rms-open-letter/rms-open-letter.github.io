@@ -555,3 +555,4 @@ Signed,
 - Zach Klippenstein (aka @zach-klippenstein, Square)
 - Zach van Rijn
 - Zvi Gilboa
+Bob Murphy (12 year associate member)
