@@ -142,6 +142,7 @@ Signed,
 - Bryan Paget
 - Byron Lagrone
 - Cadence Ember
+- Cameron Durham
 - Cameron Tauxe
 - Cara Esten Hurtle
 - Carina C. Zona (CallbackWomen)
