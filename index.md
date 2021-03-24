@@ -558,7 +558,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Halla Rempt (maintainer of Krita)
 1. Hannah Aizenman (NYLUG coordinator, Matplotlib community manager)
 1. Hardy Pottinger (DSpace Committer)
-1. Harsh Deep (`harsh183`)
 1. Harsh Shandilya
 1. Havoc Pennington (former GNOME Foundation)
 1. Hayden Barnes
@@ -862,7 +861,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Máirín Duffy (Fedora Project, former FSF HPP committee member, former LP speaker)
 1. Malleck Braun
 1. Malte `m4schini` Schink
-1. Malvika Sharan
+1. Malvika Sharan (The Alan Turing Institute; Community Manager of The Turing Way project and Co-founder of Open Life Science)
 1. Mandy Henk
 1. Mano Marks
 1. Manuel Genovés (GNOME)
@@ -1161,7 +1160,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Rubi Jihantoro
 1. Russ Allbery (Debian Developer, FSF associate member since 2003)
 1. Russell Keith-Magee (@freakboy3742; former President, Django Software Foundation; Founder, BeeWare Project)
-1. Rute Correia
 1. Ryan Clark
 1. Ryan (DasGeek) (Host of Destination Linux, Partner of Destination Linux, LLC.)
 1. Ryan Finnie (Finnix founder; Debian; Ubuntu)
