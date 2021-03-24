@@ -98,6 +98,7 @@ Signed,
 - Ben Cotton (Fedora Project contributor)
 - Ben Evans
 - Ben Hutchings (Debian Developer)
+- Benjamin Elder (Kubernetes SIG Testing Chair)
 - Benjamin Kampmann
 - Benjamin Torell (OBS Project)
 - Ben Klemens
