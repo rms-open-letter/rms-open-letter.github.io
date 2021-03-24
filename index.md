@@ -132,6 +132,7 @@ Signed,
 - Bryan Bishop
 - Bryan Meyers (Solus Technical Lead)
 - Bryan Paget
+- Byron Lagrone
 - Cadence Ember
 - Cameron Tauxe
 - Cara Esten Hurtle
