@@ -153,6 +153,7 @@ Signed,
 - Cassidy James Blaede (elementary co-founder, GNOME Foundation member)
 - Cathy Warner
 - Chad Booker
+- Chandler Carruth
 - Charlie Kravetz
 - Charlotte Hardware (R&D manager at Fivnex)
 - Chris Adams (@acdha)
