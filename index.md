@@ -290,6 +290,7 @@ Signed,
 - Jeff Warnica
 - Jeremy Bingham
 - Jeremy Carter
+- Jeremy Cline (Fedora Project)
 - Jerome Charaoui (Debian Developer, former FSF member)
 - Jesse Clark
 - Jesse Cooke
