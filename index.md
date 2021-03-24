@@ -46,6 +46,7 @@ Signed,
 1. Abel Moarrensis (`circuitrcay`)
 1. Abigail Cabunoc Mayes
 1. Adam Barber
+1. Adam Čalovka
 1. Adam H. Leventhal
 1. Adam Jackson (X.org, Fedora)
 1. Adam Miller (Ansible, Fedora)
