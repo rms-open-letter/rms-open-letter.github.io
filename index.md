@@ -342,7 +342,6 @@ Signed,
 - Martin Wimpress (Former FSF member)
 - Matt Beland
 - Matteo Tammaccaro
-- Matteo Tammmaccaro
 - Matthew `mattcen` Cengia
 - Matthew P. Del Buono
 - Matthew Vernon (Debian developer)
