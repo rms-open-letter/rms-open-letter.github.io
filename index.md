@@ -607,6 +607,7 @@ Signed,
 - Stefan Crain
 - Stephane Graber (LXC, former Ubuntu Technical Board member)
 - Stephen A. Goss
+- Stephen O'Grady
 - Steve Langasek (former Debian Technical Committee member; Ubuntu Technical Board member)
 - Steve McIntyre (Former Debian Project Leader)
 - Steven DuBois
