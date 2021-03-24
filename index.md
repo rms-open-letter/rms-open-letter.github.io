@@ -1675,6 +1675,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Ursula Junque (Ubuntu member)
 1. Utku Boduroglu
 1. Vadim Rutkovsky
+1. Valerie Aurora
 1. Vanessa Oxley
 1. Vangelis Katsikaros
 1. Veeti Veteläinen (`Uumas`)
