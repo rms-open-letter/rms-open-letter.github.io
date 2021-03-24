@@ -1569,6 +1569,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Xav Paice
 1. Yadav Lamichhane
 1. Yangwook Jeong (@Yangeok)
+1. Yann Ramin
 1. Yao Li (former FSF Monthly Student Associate Member)
 1. Yaroslav Kargapolov
 1. Yegor Timoshenko (NixOS contributor)
