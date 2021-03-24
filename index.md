@@ -714,6 +714,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Jake Harrison (@GloomyJD)
 1. Jakob Bornecrantz (Collabora, OpenHMD & Monado Co-Founder)
 1. Jakob 'sur5r' Haufe (Debian Developer)
+1. Jakub Kozłowski
 1. James Alexander
 1. James Belchamber
 1. James Cochran
