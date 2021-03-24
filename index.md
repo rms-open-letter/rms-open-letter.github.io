@@ -579,6 +579,7 @@ Signed,
 - Mike Hawk
 - Mike Linksvayer
 - Mikel Johnson
+- Milan Pässler (Chaos Computer Club, NixOS contributor)
 - Mitchell Baker, on behalf of Mozilla.
 - M. Oliver Ghingold
 - Monica Ayhens-Madon
