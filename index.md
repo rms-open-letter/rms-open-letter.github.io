@@ -669,6 +669,7 @@ Signed,
 - rany
 - Reed Loden
 - Rémi Verschelde (Godot Engine, Mageia)
+- Rémy Grünblatt
 - Renaud Lepage
 - Richard Guy Briggs (FreeS/WAN kernel, OCLUG founding board, kaudit)
 - Richard Maw
