@@ -145,6 +145,7 @@ Signed,
 - Christopher Davis (GNOME)
 - Christopher Patti
 - Christopher Schmidt
+- Christopher `kode54` Snowhill
 - Chris Wayne (Ubuntu)
 - Clarissa Borges (GNOME Foundation member)
 - classabbyamp
