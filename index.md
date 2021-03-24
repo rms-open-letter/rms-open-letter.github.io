@@ -185,6 +185,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Aubrey Fletcher
 1. Aura Vulcano
 1. Avery "stars" M-W
+1. Avital Kelman
 1. Bandie (Chaos Computer Club, pam_panic, former FSF member)
 1. Baptiste Fontaine
 1. Barret Rennie (Mozilla)
