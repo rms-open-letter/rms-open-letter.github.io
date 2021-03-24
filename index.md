@@ -152,6 +152,7 @@ Signed,
 - Dmitry Porunov
 - Dominic Hayes (The Feren OS Developer)
 - Dorothea Salo
+- Dylan Hardison (@dylan_hardison, Bugzilla Project)
 - Ed Marshall
 - Efraim Flashner (GNU Guix contributor)
 - Elen Eisendle
