@@ -768,6 +768,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Jeremy Bingham
 1. Jeremy Carter
 1. Jeremy Cline (Fedora Project)
+1. Jeremy Flores (@jnf)
 1. Jeremy Katz (former Fedora Board member)
 1. Jeremy Soller (System76 Principal Engineer, Pop!\_OS Maintainer, Redox OS BDFL)
 1. Jeremy Whiting (Collabora)
