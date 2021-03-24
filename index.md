@@ -430,6 +430,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Dan Arel (owner, ThinkPrivacy.ch)
 1. Dan Bornstein (@danfuzz)
 1. Dan Cross
+1. Daniel 'Dobrado' Oshiro
 1. Dan "Fennix" Sim
 1. Daniel A. Rodriguez (Board of Directors, the Document Foundation)
 1. Daniel Erat
