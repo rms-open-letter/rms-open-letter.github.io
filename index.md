@@ -138,6 +138,7 @@ Signed,
 - Britta Gustafson
 - Britt Yazel (Former GNOME Foundation Director)
 - Bryan Bishop
+- Bryan Cantrill
 - Bryan Meyers (Solus Technical Lead)
 - Bryan Paget
 - Byron Lagrone
