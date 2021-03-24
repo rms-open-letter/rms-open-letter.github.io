@@ -171,6 +171,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Bassam Kurdali
 1. Bastien Nocera (Former director, GNOME Foundation)
 1. Behdad Esfahbod (Former director / president, GNOME Foundation)
+1. Ben Brown
 1. Ben Cotton (Fedora Project contributor)
 1. Ben Evans
 1. Ben Ford (`@binford2k`)
