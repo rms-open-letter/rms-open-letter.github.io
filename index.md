@@ -1274,6 +1274,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Michael Staggs (tausciam)
 1. Michael T. Lombardi (@michaeltlombardi, Puppet developer)
 1. Michal Siedlaczek
+1. Michel Alexandre Salim (Fedora Project contributor)
 1. Mika Pflüger
 1. Mike Doughney (co-founder, Digital Express Group / DIGEX Incorporated)
 1. Mike Elsmore (@ukmadlz everywhere)
