@@ -681,6 +681,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Linus Parker
 1. Lioncache
 1. Lionirdeadman
+1. Lisa Seelye
 1. Liza Ainalen Dosso
 1. Liz Fong-Jones (OpenTelemetry governance committee member, linux/aarch64 advocate)
 1. Liz Rice (TOC chair, CNCF; OpenUK ambassador)
