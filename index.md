@@ -270,6 +270,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Bob Murphy (12 year associate member)
 1. Bonnie King
 1. Brad Crittenden
+1. Brad Geesaman
 1. Brad Solomon
 1. Bram Hagens
 1. Brandon Butler
