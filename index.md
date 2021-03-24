@@ -782,6 +782,7 @@ Signed,
 1. Paul McLanahan (Engineer at Mozilla)
 1. Paul Woolcock
 1. Paul Wouters (Libreswan, Fedora developer)
+1. Paula de la Hoz Garrido (Interferencias association president and cofounder)
 1. Peder Bergebakken Sundt
 1. Pedro Cunha
 1. Percival Lavoie
