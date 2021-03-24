@@ -498,6 +498,7 @@ Signed,
 1. Jeffrey Strauss
 1. Jeffrey Yasskin
 1. Jeffrey Yoo Warren
+1. Jeff Warnica
 1. Jens Georg (GNOME Foundation member)
 1. Jeremie Miller (Jabber/XMPP)
 1. Jeremy Allison (Co-Creator of the Samba project)
@@ -845,6 +846,7 @@ Signed,
 1. Paul Fisher (Former FSF employee and union representative)
 1. Paul McLanahan (Engineer at Mozilla)
 1. Paul Oldham
+1. Paul Wankadia
 1. Paul Woolcock
 1. Paul Wouters (Libreswan, Fedora developer)
 1. Peder Bergebakken Sundt
