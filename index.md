@@ -557,6 +557,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Francis Gulotta (Node SerialPort maintainter, Nodebots founding memeber)
 1. Francois Caen (Former Taclug president)
 1. Francois Lesage
+1. Frank Louwers
 1. Frank S. Thomas
 1. Frederic Branczyk (Kubernetes SIG Instrumentation Tech Lead, Prometheus maintainer, Thanos maintainer)
 1. Frédéric Harper (Director of Developer Relations at MeiliSearch)
