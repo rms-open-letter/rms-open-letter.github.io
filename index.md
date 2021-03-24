@@ -290,7 +290,7 @@ Signed,
 - Martin Splitt
 - Martin Wimpress (Former FSF member)
 - Matt Beland
-- Matteo Tammmaccaro
+- Matteo Tammaccaro
 - Matthew `mattcen` Cengia
 - Matthew P. Del Buono
 - Matthew Vernon (Debian developer)
