@@ -513,7 +513,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Evan Brown
 1. Evangelos Paterakis
 1. Evan Prodromou
-1. Evan Sklarski
 1. Evpok Padding
 1. Ewen McNeill
 1. Ezekiel Hendrickson
@@ -601,6 +600,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Guy Templeton (Kubernetes SIG Autoscaling Chair)
 1. Halla Rempt (maintainer of Krita)
 1. Hannah Aizenman (NYLUG coordinator, Matplotlib community manager)
+1. Hao Ye
 1. Hardy Pottinger (DSpace Committer)
 1. Harsh Deep (`harsh183`)
 1. Harsh Shandilya
