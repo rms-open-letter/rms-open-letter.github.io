@@ -396,6 +396,7 @@ Signed,
 1. Hazel Levine
 1. Heiko Becker (Exherbo, KDE)
 1. Hein-Pieter van Braam-Stewart (FSF associate member since 2008)
+1. Henri Sivonen
 1. Hexandcube
 1. Highlander Subaron (`HightechSec`)
 1. Hubert Figuière
