@@ -359,6 +359,7 @@ Signed,
 - Jordan Uggla
 - Jordi Gutiérrez Hermoso (GNU Octave maintainer (inactive))
 - Jordin McEachern
+- Jorge Jara
 - Jörn Huxhorn
 - José Antonio Rey (Ubuntu Community Council, freenode Staff)
 - José Duarte
