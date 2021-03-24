@@ -61,7 +61,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Aaron Jones
 1. Aaron M. Ucko (@ucko, Debian Developer)
 1. Abel Moarrensis (`circuitrcay`)
-1. Abhishek Veeramalla
 1. Abigail Brady (former GNOME developer)
 1. Abigail Cabunoc Mayes
 1. Adam Barber
@@ -440,7 +439,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Ed Marshall
 1. Ed Summers
 1. Eddie Kay
-1. Eduard Tolosa (@edu4rdshl - BlackArch Linux and Nspawn.org developer, findomain.app founder)
 1. Eduardo Habkost
 1. Edward L. Platt (i3 Detroit cofounder, NetworkX contributor)
 1. Ee Durbin (PyPI Administrator)
@@ -489,6 +487,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Ezekiel Hendrickson
 1. Fabio Di Peri
 1. Fadi Abou Younes (Collabora)
+1. Fabián Rodríguez (`MagicFab`) 
 1. Fabio Neves (@fzero)
 1. Fahad Hossain
 1. Faith Jasmine Viola
@@ -526,7 +525,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Geir Magnusson Jr.
 1. Gene Liverman (@genebean)
 1. Geoff Langdale
-1. Geoffrey Bessereau
 1. Geoffrey Michael
 1. Geoffrey Thomas
 1. George Chriss
@@ -971,7 +969,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Mike Harris
 1. Mike Hawk
 1. Mike Linksvayer
-1. Mike Wyatt
 1. Mikel Johnson
 1. Mike Olson (Postgres, Berkeley DB, Cloudera)
 1. Milan Pässler (Chaos Computer Club, NixOS contributor)
