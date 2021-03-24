@@ -410,6 +410,7 @@ Signed,
 - Liz Fong-Jones (OpenTelemetry governance committee member, linux/aarch64 advocate)
 - Louis Jones
 - Louis-Philippe Véronneau (Debian Developer)
+- Lorenzo Gomez
 - Luca Martinelli
 - Lucas Bickel
 - Lucas Nussbaum (Former Debian Project Leader)
@@ -664,4 +665,3 @@ Signed,
 - Zach van Rijn
 - Zeltzin Rodríguez
 - Zvi Gilboa
-- Lorenzo Gomez
