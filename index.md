@@ -42,6 +42,7 @@ Signed,
 
 1. CommitChange
 1. Globenet
+1. GlobaLeaks
 1. MidnightBSD Project
 1. MousePaw Media
 1. Mozilla
@@ -621,6 +622,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Gina Häußge (OctoPrint maintainer)
 1. Gina Likins (Red Hat)
 1. Giovanni Campagna (former GNOME contributor)
+1. Giovanni Pellerano (GlobaLeaks Lead Developer)
 1. Giuseppe Lavagetto
 1. Gökay Şatır (Collabora)
 1. Göktuğ Kayaalp
@@ -1315,6 +1317,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Richo Healey
 1. Rick Scott
 1. Rigin Oommen
+1. Rima Sghaier (GlobaLeaks Outreach Director)
 1. Roan Kattouw
 1. Robbie Harwood (Fedora developer)
 1. Robert Barat
