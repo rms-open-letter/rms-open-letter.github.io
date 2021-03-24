@@ -547,6 +547,7 @@ Signed,
 - Otavio Salvador (former FSF associate member, former Debian Installer Release Manager)
 - Pablo Martín Oldani
 - Pamela S. Chestek (Open Source Initiative Director)
+- Panagiotis Vasilopoulos
 - Parker Higgins
 - Pat Hickey
 - Patrick Engelman
