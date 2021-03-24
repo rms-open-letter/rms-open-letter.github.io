@@ -613,6 +613,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Julian Hofer (GNOME, Deltares) 
 1. Julianne "KokaKiwi" Hervier
 1. Julien Cristau (Debian, X.Org, Mozilla)
+1. Julien Humbert
 1. Julien Rabier
 1. julien tayon
 1. Julien Voisin
