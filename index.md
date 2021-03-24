@@ -718,6 +718,7 @@ Signed,
 1. Nikos Roussos (FSFE, GA member)
 1. Nils Adermann
 1. Nils Philippsen (Fedora Project contributor)
+1. Nirbheek Chauhan (GStreamer, GNOME, Mesonbuild; former Gentoo developer)
 1. Nishkarsh Raj
 1. Nixon Enraght-Moony
 1. Noah/`coolreader18` (RustPython maintainer)
