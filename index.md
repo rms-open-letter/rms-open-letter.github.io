@@ -277,6 +277,7 @@ Signed,
 - Gerardo Torres
 - Gerard Ryan
 - Germán Poo-Caamaño (GNOME)
+- Giovanni Campagna (former GNOME contributor)
 - Göktuğ Kayaalp
 - Gordon Byrnes
 - Gordon Haff (OSI Member)
