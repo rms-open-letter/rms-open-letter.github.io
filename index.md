@@ -486,6 +486,7 @@ Signed,
 - Tony Colston
 - Tony Richards
 - tre murillo
+- Trevor Thalacker
 - Trolli Schmittlauch
 - Victor Hugo Soliz Kuncar
 - Victoria "tdfischer" Fierce (Former KDE Multimedia and Phonon-GStreamer maintainer)
