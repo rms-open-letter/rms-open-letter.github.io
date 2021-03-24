@@ -259,6 +259,7 @@ Signed,
 - David Holmes
 - David JM Emmett
 - David Jones (former FSF associate member)
+- David Planella
 - David Reid
 - David Revoy (Pepper&Carrot)
 - David Schmitt
