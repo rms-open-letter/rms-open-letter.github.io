@@ -836,6 +836,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Jeff Forcier (aka bitprophet) (Python library maintainer, eg Fabric, Paramiko)
 1. Jeff Fortin T. (former president of the GNOME Foundation)
 1. Jeffrey Blinksma (Co-founder of Robin's Media Team)
+1. Jeffrey Sica (Kubernetes SIG-UI Chair)
 1. Jeffrey Strauss
 1. Jeffrey Yasskin
 1. Jeffrey Yoo Warren
