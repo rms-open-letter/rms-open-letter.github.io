@@ -183,6 +183,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Bjoern Michaelsen (former the Document Foundation director, LibreOffice developer)
 1. Björn Fahller
 1. Blair Vidakovich (vidak)
+1. Blake Ridgway (Found of Lyvia.io)
 1. Bob Killen (Kubernetes Steering Committee Member)
 1. Bob Murphy (12 year associate member)
 1. Bonnie King
