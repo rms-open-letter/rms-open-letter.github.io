@@ -368,6 +368,7 @@ Signed,
 - Mano Marks
 - Manuel Genovés (GNOME)
 - Margarita Manterola (Debian Developer, member of the Debian Technical Committee)
+- Mariatta Wijaya (Python Software Foundation Fellow members, OSI member, PyLadies)
 - Marius Gripsgard (UBports Foundation founder, Lead Developer and Board of Directors, Ubuntu Member)
 - Mark Brown (Linux, Debian)
 - Markus Unterwaditzer
