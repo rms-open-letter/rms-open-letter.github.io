@@ -330,6 +330,7 @@ Signed,
 - Kathleen Lu
 - Kavi Laud
 - Kayla Anne Cupples
+- Kees Cook (Linux kernel maintainer & Technical Advisory Board member, Debian Developer, Ubuntu core developer, former Ubuntu Technical Board member)
 - Kellegram
 - Kevin Lannen
 - Kevin O'Brien
