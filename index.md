@@ -224,6 +224,7 @@ Signed,
 - David Thompson (GNU Guile/Guix contributor, ex-FSF)
 - David Turner (former GPL Compliance Engineer at FSF)
 - D. Ben Knoble
+- Denis Evsyukov
 - Dennis Schubert (Mozilla, former diaspora\* maintainer)
 - Desiree Zamora Garcia (A List Apart)
 - Devin Buhl
