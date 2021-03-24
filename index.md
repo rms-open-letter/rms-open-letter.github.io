@@ -336,6 +336,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Coraline Ada Ehmke (Founder, Organization for Ethical Source)
 1. Corentin "codl" Delcourt
 1. Corentin Noël (Collabora, elementary, GNOME)
+1. Cory DeVore
 1. Courtney Thurston (former Spark distro dev)
 1. Craig Maloney
 1. Cyril Brulebois (Debian Developer)
