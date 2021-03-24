@@ -443,6 +443,7 @@ Signed,
 - Luca Martinelli
 - Lucas Bickel
 - Lucas Nussbaum (Former Debian Project Leader)
+- Ludovic Gasc
 - Ludvig Norgren Guldhag
 - Luis Antonio Sánchez Romero
 - Luis Lavaire (Nitrux developer)
