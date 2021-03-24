@@ -800,6 +800,7 @@ Signed,
 1. Myriam Rita Schweingruber
 1. Myrle Krantz (ASF member)
 1. Naglis Lesčinskas
+1. Nalin Dahyabhai
 1. Natacha Rault (les sans pagEs)
 1. Natan B. C. "`natanbc`"
 1. Nathan Dyer (former FSF associate member)
