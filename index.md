@@ -288,6 +288,7 @@ Signed,
 - Jeff Forcier (aka bitprophet) (Python library maintainer, eg Fabric, Paramiko)
 - Jeffrey Yoo Warren
 - Jeff Warnica
+- Jeffrey Yasskin
 - Jeremy Bingham
 - Jeremy Carter
 - Jerome Charaoui (Debian Developer, former FSF member)
