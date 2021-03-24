@@ -575,6 +575,7 @@ Signed,
 - Michael Perron
 - Michael Pyne (KDE, game-music-emu)
 - Michael Schechter
+- Mika Pflüger  
 - Mike Harris
 - Mike Hawk
 - Mike Linksvayer
