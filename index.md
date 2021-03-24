@@ -358,6 +358,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Daniel Raniz Raneland
 1. Daniel Soskel
 1. Daniel Stone (Collabora, freedesktop.org, Wayland)
+1. Daniele Tricoli (Debian Developer)
 1. Dan Jacka
 1. Dan Leinir Turthra Jensen (kde contributor)
 1. Danny Bouimad
