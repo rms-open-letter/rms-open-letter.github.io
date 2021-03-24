@@ -284,6 +284,7 @@ Signed,
 - Neal Gompa (Fedora Project contributor, Mageia Project Council Member, Mageia.Org Board Member, openSUSE Project Board Member, OpenMandriva contributor)
 - Neil Watson (Former CFEngine Community Advisory Board Member)
 - Nick Guenther
+- Nick Ruest
 - Niclas Zeising (FreeBSD committer)
 - Nicolai von Neudeck
 - Nicolás Alvarez (KDE)
