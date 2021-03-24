@@ -227,6 +227,7 @@ Signed,
 - Dennis Schubert (Mozilla, former diaspora\* maintainer)
 - Desiree Zamora Garcia (A List Apart)
 - Devin Buhl
+- Didier 'OdyX' Raboud (Debian Developer, former Debian Technical Committee chair)
 - Dillon Pentz (OBS Project Developer)
 - Dimitri John Ledkov (Debian Developer, Ubuntu Core Developer, former member of the SPI Inc board of directors)
 - Dirk Hohndel
