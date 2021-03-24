@@ -600,7 +600,6 @@ Signed,
 1. Matthew S. Wilson (former contributor GNU Image Manipulation Program and GNU Parted, former Director, Software Freedom Conservancy)
 1. Matthew Vernon (Debian developer)
 1. Matthew Wilcox (Linux kernel hacker)
-1. Matthias Antierens
 1. Matthias Arnason
 1. Matthias Bussonnier (Project Jupyter co-founder)
 1. Matthias Klumpp (Debian, freedesktop.org)
@@ -701,7 +700,6 @@ Signed,
 1. Pat Allan
 1. Pat Hickey
 1. Patrick Engelman
-1. Patrick Meyer (`HerrSpace`)
 1. Patrick Robinson
 1. Paul Adams
 1. Paul Aguilar (`penserbjorne` from LIDSOL)
@@ -883,7 +881,6 @@ Signed,
 1. Trolli Schmittlauch
 1. Tuna Ilgaz
 1. Ujjwal Sharma (Node.js Core Collaborator, TC39, Igalia)
-1. Vadim Rutkovsky
 1. Vangelis Katsikaros
 1. Victor Hugo Soliz Kuncar
 1. Victoria "tdfischer" Fierce (Former KDE Multimedia and Phonon-GStreamer maintainer)
@@ -896,6 +893,7 @@ Signed,
 1. Vipul Gupta
 1. Vipul Siddharth (Fedora Project Contributor)
 1. Vivia Nikolaidou (GStreamer)
+1. Vojtěch Vengrin (Gnome translator)
 1. Wayne M. Thornton, B.S., CPDT (Co-Founder & Project Manager VIRATRACE)
 1. Wendy Bolm (Chief Operations Officer, CommitChange)
 1. Wes Mason (Ubuntu Community Member and former FSFE Fellow)
