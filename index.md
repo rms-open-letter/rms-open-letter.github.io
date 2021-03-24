@@ -414,6 +414,7 @@ Signed,
 1. Ilya Kreymer
 1. intrigeri (Debian Developer, Tails Developer)
 1. Irina Rempt
+1. Isaac Ferreira Filho (aka "yzakius", GNOME contributor)
 1. Isabela Bagueros
 1. Isak Sunde Singh
 1. Italo Vignoli (OSI Director, LibreItalia Honorary President)
