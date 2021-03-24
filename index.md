@@ -364,6 +364,7 @@ Signed,
 - Jill Pelavin
 - Jill Rouleau (Ansible Maintainer / Steering Commitee member)
 - João "Johnny" Ciocca (DCG5511)
+- Joe Bowser
 - Joe Harley
 - Joel Bethke (OBS Project)
 - Joe Provo
