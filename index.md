@@ -914,6 +914,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Nicholas LaPointe (Krita contributor)
 1. Nick Chambers
 1. Nick Davis
+1. Nick Gerace (Software Engineer at SUSE and Rancher Labs)
 1. Nick Guenther
 1. Nick Mathewson (Co-founder, Tor Project)
 1. Nick Morrott (Debian Developer, STEM Ambassador, Code Club volunteer)
