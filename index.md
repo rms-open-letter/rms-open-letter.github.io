@@ -611,6 +611,7 @@ Signed,
 - Nicolás Alvarez (KDE)
 - Nicolas Dandrimont (Debian Developer, former FSF associate member)
 - Nicolas Fella (KDE)
+- Nicolas Fleurot
 - Nicolás `nomeacuerdo` Arteaga
 - Nicolas Schier (Debian maintainer)
 - Nicole Martinez
