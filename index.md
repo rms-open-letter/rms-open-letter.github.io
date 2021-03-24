@@ -15,8 +15,6 @@ We urge those in a position to do so to stop supporting the Free Software Founda
 
 To sign, please email digitalautonomy at riseup.net or [submit a pull request](https://github.com/rms-open-letter/rms-open-letter.github.io/pulls).
 
-Institutional affiliation is provided for identification purposes only and does not constitute institutional endorsement (unless otherwise indicated).
-
 Signed,
 
 - Molly de Blanc (Debian Project, GNOME Foundation)
@@ -36,7 +34,25 @@ Signed,
 - Luis Villa (Former Director of the Open Source Initiative and the GNOME Foundation; contributor to the GPL v3 drafting process)
 - Stefano Zacchiroli (Former Debian Project Leader and Former Director of the Open Source Initiative)
 
+----
+
+
+### Organizations
+
 <!-- Any additional signees should go below this comment in alphabetical order (according to `sort -u`) -->
+
+1. Mozilla
+1. Open Source Diversity
+1. Tor Project
+1. X.org Foundation
+
+
+### Individuals
+
+<!-- Any additional signees should go below this comment in alphabetical order (according to `sort -u`) -->
+
+<small>(For individual signatures, institutional affiliation is provided for
+identification purposes only and does not constitute endorsement.)</small>
 
 1. Aadil Ayub
 1. Aaron Carson
@@ -168,6 +184,7 @@ Signed,
 1. Björn Fahller
 1. Blair Vidakovich (vidak)
 1. Bob Killen (Kubernetes Steering Committee Member)
+1. Bonnie King
 1. Bram Hagens
 1. Brandon Butler
 1. Brendan Abolivier
@@ -179,6 +196,7 @@ Signed,
 1. Brett Sheffield (Librecast Project)
 1. Brian Chen (`betaveros`)
 1. Brian Dawn
+1. Brian Heim
 1. Brian Ketelsen
 1. Brian Pepple (Former Fedora Engineering Steering Committee member)
 1. Brion Vibber (MediaWiki, Wikimedia Foundation)
@@ -630,6 +648,7 @@ Signed,
 1. Kyle Mitchell
 1. Kyle Robbertze (Debian Developer)
 1. Lachlan Campbell
+1. Lætitia Avrot (PostgreSQL contributor, Postgres Women co-founder)
 1. Lander Van den Bulcke
 1. Langlais Raphael
 1. Lars Wirzenius
@@ -770,7 +789,6 @@ Signed,
 1. Milan Pässler (Chaos Computer Club, NixOS contributor)
 1. Milo Casagrande
 1. Mirko Boehm (KDE)
-1. Mitchell Baker, on behalf of Mozilla.
 1. M. Oliver Ghingold
 1. Monica Ayhens-Madon
 1. Morgan-Christopher Brooks
@@ -828,7 +846,6 @@ Signed,
 1. Oliver Drotbohm
 1. Oliver Falk (Libravatar project)
 1. Olivier Berger (FSF member, or associate member since 2002)
-1. Open Source Diversity Community
 1. Orhun Parmaksız (Arch Linux maintainer)
 1. Orion Montoya (former rms-assist, former FSF, GPLv3 drafting-process software developer)
 1. Otavio Salvador (former FSF associate member, former Debian Installer Release Manager)
@@ -1058,7 +1075,6 @@ Signed,
 1. Tom "spot" Callaway (Fedora Council member, former LP speaker)
 1. Tony Colston
 1. Tony Richards
-1. Tor Project
 1. Travis Brown
 1. tre murillo
 1. Trevor Keller / @tkphd, enby computational scientist at NIST (National Institute of Standards and Technology)
@@ -1101,7 +1117,6 @@ Signed,
 1. Wolthera van Hövell (Krita/KDE)
 1. Xavier Tilley
 1. Xav Paice
-1. X.org Foundation Board of Directors (Lyude Paul, Eric Anholt, Mark Filion, Keith Packard, Daniel Vetter, Harry Wentland, Samuel Iglesias Gonsálvez)
 1. Yadav Lamichhane
 1. Yao Li (former FSF Monthly Student Associate Member)
 1. Yaroslav Kargapolov
