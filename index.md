@@ -40,6 +40,7 @@ Signed,
 <!-- Any additional signees should go below this comment in alphabetical order (according to `sort -u`) -->
 
 - Aaron Carson
+- Aaron Honeycutt
 - Adam Barber
 - Adam Jackson (X.org, Fedora)
 - Adil Sadik
