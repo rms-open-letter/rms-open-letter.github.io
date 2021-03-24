@@ -1464,6 +1464,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. raichoo (maintainer and contributor for various open source projects)
 1. Rainer Bendig
 1. Ralph FriarTech Loizzo
+1. Ralph Giles
 1. Rami Chowdhury
 1. Randall Carver
 1. Randolph West
