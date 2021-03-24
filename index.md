@@ -273,6 +273,7 @@ Signed,
 - Mike Linksvayer
 - Mikel Johnson
 - Morgan-Christopher Brooks
+- Morgan Fletcher
 - Morgan `indrora` Gangwere
 - Morgan Thomas
 - Morten Linderud (Arch Linux maintainer)
