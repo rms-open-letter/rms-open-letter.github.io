@@ -1217,6 +1217,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Max Burke
 1. Max Perrello
 1. Maxime Renusson (Telecom engineer, FLOSS user and advocate)
+1. Maximiliano Ferrer G. (@PandaFoss)
 1. Maxine Aubrey (NixOS contributor)
 1. Maya Rashish (NetBSD)
 1. Meadhbh Hamrick
