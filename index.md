@@ -422,6 +422,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Connor Sheridan
 1. Conrad Lukawski
 1. CookieSource (Head of Administration RebornOS)
+1. Cooper Quintin (Senior Staff Technologist, EFF)
 1. Coraline Ada Ehmke (Founder, Organization for Ethical Source)
 1. Corentin "codl" Delcourt
 1. Corentin Noël (Collabora, elementary, GNOME)
