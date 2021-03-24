@@ -651,6 +651,7 @@ Signed,
 - Stephen O'Grady
 - Steve Langasek (former Debian Technical Committee member; Ubuntu Technical Board member)
 - Steve McIntyre (Former Debian Project Leader)
+- Steven Beattie
 - Steven DuBois
 - Sydney Schreckengost
 - Tab Atkins-Bittner (@tabatkins, active W3C/TC39/WHATWG editor)
