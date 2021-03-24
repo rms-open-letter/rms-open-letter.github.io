@@ -700,6 +700,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Gunnar Monell
 1. Gunnar Wolf (Debian Developer, member of the Debian Technical Committee)
 1. Gürkan Gür
+1. Gus Caplan (OpenJS Foundation)
 1. Gustaf Lindstedt
 1. Gustavo Costa (Fedora Project contributor)
 1. Gustavo Gus (Tor Project)
