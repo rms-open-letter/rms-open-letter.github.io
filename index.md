@@ -363,6 +363,7 @@ Signed,
 1. Francois Lesage
 1. Frank S. Thomas
 1. Fred Oliveira
+1. Frederic Branczyk (Kubernetes SIG Instrumentation Tech Lead, Prometheus maintainer, Thanos maintainer)
 1. Frédéric Harper (Director of Developer Relations at MeiliSearch)
 1. Fredrik Lindh
 1. Fridrich Strba
