@@ -688,6 +688,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Greg Day
 1. Greg Donald
 1. Greg Grossmeier
+1. Greg Herlein
 1. Gregory Smith (PostgreSQL, Crunchy Data)
 1. Grigorios Mingas (Research Data Scientist)
 1. Guilhem Moulin (Debian Developer)
