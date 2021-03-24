@@ -350,6 +350,7 @@ Signed,
 - Jeffrey Yasskin
 - Jeffrey Yoo Warren
 - Jeff Warnica
+- Jeremie Miller (Jabber/XMPP)
 - Jeremy Bingham
 - Jeremy Carter
 - Jeremy Cline (Fedora Project)
