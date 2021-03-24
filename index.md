@@ -173,6 +173,7 @@ Signed,
 - Christophe Noisel
 - Christopher Allan Perry
 - Christopher Davis (GNOME)
+- Christopher Engelhard (Fedora Project contributor)
 - Christopher `kode54` Snowhill
 - Christopher Patti
 - Christopher Schmidt
