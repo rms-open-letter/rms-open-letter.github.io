@@ -1165,7 +1165,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Matthilde A. Stella
 1. Mattias Bengtsson (Former GNOME Maps maintainer)
 1. Matt Lee (Libre.fm, former member of the GNU Project, former FSF staff)
-1. Matt Ray (former FSF member)git@github.com:JohnLieske/rms-open-letter.github.io.git
+1. Matt Ray (former FSF member)
 1. Mauro Lizaur (Former Debian Developer)
 1. Max Burke
 1. Maxime Renusson (Telecom engineer, FLOSS user and advocate)
