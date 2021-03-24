@@ -533,6 +533,7 @@ Signed,
 - Mark Tomko
 - Markus Unterwaditzer
 - Martin Kühl
+- Martin Robinson (Igalia)
 - Martin Splitt
 - Martin Wimpress (Former FSF member)
 - Mason Jones
