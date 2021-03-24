@@ -1496,6 +1496,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Sven Hüster
 1. Sy Brand (Microsoft)
 1. Sydney Schreckengost
+1. Syds Bearda (openSUSE member + treasurer)
 1. Sylvestre Ledru (Debian, LLVM and Mozilla)
 1. Taavi Väänänen (MediaWiki)
 1. Tab Atkins-Bittner (@tabatkins, active W3C/TC39/WHATWG editor)
