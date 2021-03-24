@@ -40,6 +40,7 @@ Signed,
 
 <!-- Any additional signees should go below this comment in alphabetical order (according to `sort -u`) -->
 
+1. CommitChange
 1. Globenet
 1. Mozilla
 1. Open Life Science
