@@ -783,6 +783,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Justin Dearing (@zippy1981)
 1. Justin Haygood
 1. Justin Reock (Chief Evangelist at OpenLogic)
+1. Justin Rush (aka prasket)
 1. Justin Wake
 1. Justin W. Flory (UNICEF, Fedora Project D&I Advisor)
 1. Kai Ninomiya (Google LLC, W3C editor)
