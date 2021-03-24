@@ -45,6 +45,7 @@ Signed,
 - Aaron M. Ucko (@ucko, Debian Developer)
 - Adam Barber
 - Adam Jackson (X.org, Fedora)
+- Adam H. Leventhal
 - Adam Miller (Ansible, Fedora)
 - Adil Sadik
 - Adrian Cochrane
