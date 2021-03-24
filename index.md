@@ -296,6 +296,7 @@ Signed,
 - Jesse Li
 - Jesse Raleigh (Sr Security Researcher)
 - Jesser Lemus
+- Jesús Castro
 - Jill Rouleau (Ansible Maintainer / Steering Commitee member)
 - João "Johnny" Ciocca (DCG5511)
 - Joe Harley
