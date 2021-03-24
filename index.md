@@ -1606,6 +1606,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Stephen A. Goss
 1. Stephen O'Grady
 1. Step Schwarz
+1. Steve Axthelm
 1. Steve Desmond
 1. Steve Langasek (former Debian Technical Committee member; Ubuntu Technical Board member)
 1. Steve McIntyre (Former Debian Project Leader)
