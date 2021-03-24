@@ -355,6 +355,7 @@ Signed,
 - Lucas Nussbaum (Former Debian Project Leader)
 - Ludvig Norgren Guldhag
 - Luis Antonio Sánchez Romero
+- Lukasz Erecinski
 - Lukas Fittl
 - Lukas Grossar
 - Łukasz Langa (Python Software Foundation Fellow, Python 3.8 and 3.9 Release Manager)
