@@ -939,6 +939,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Leandro A. F. Pereira
 1. Lee Hambley (Capistrano maintainer, former FSFE member)
 1. Leif Walsh
+1. Leigh Scott (leigh123linux, Fedora)
 1. leo60228
 1. Leo Famulari
 1. Liam R. Howlett (kernel developer)
