@@ -120,6 +120,7 @@ Signed,
 1. Ashish Dixit
 1. Asta Halkjær From
 1. Asumu Takikawa
+1. Attila Pinter (aka adathor, openSUSE docs, support, OpenStorage.io CTO)
 1. Aubrey Fletcher
 1. Aura Vulcano
 1. Avery "stars" M-W
