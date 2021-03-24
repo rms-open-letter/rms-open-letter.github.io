@@ -1,4 +1,5 @@
 *2021-03-23*
+
 Richard M. Stallman, frequently known as RMS, has been a dangerous force in the free software community for a long time. He has shown himself to be misogynist, ableist, and transphobic, among other serious accusations of impropriety. These sorts of beliefs have no place in the free software, digital rights, and tech communities. With his recent reinstatement to the Board of Directors of the Free Software Foundation, we call for the entire Board of the FSF to step down and for RMS to be removed from all leadership positions. 
 
 We, the undersigned, believe in the necessity of digital autonomy and the powerful role user freedom plays in protecting our fundamental human rights. In order to realize the promise of everything software freedom makes possible, there must be radical change within the community. We believe in a present and a future where all technology empowers – not oppresses – people. We know that this is only possible in a world where technology is built to pay respect to our rights at its most foundational levels. While these ideas have been popularized in some form by Richard M. Stallman, he does not speak for us. We do not condone his actions and opinions. We do not acknowledge his leadership or the leadership of the Free Software Foundation as it stands today.
@@ -34,7 +35,6 @@ Signed,
 - Luis Villa (Former Director of the Open Source Initiative and the GNOME Foundation; contributor to the GPL v3 drafting process)
 - Stefano Zacchiroli (Former Debian Project Leader and Former Director of the Open Source Initiative)
 
-----
 
 
 ### Organizations
@@ -577,7 +577,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Jill Pelavin
 1. Jill Rouleau (Ansible Maintainer / Steering Commitee member)
 1. Jim Campbell
-1. Joanna Janet Zaitseva-Doyle
+1. Joanna Janet Zaitseva-Doyle (aka @aoeixsz4 / 'aoei')
 1. João Carlos Almeida
 1. João "Johnny" Ciocca (DCG5511)
 1. João Veiga
@@ -1213,3 +1213,41 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Zack Cerza
 1. Zeltzin Rodríguez
 1. Zvi Gilboa
+1. Christophe Moille
+1. Stephanie Whited
+1. Shaun Murphy
+1. Thomas Castleman (`Batcastle`, Drauger OS Founder and Lead Developer)
+1. Kelly Hopkins (former FSF staffer)
+1. Jen Mylo (former UX Lead, Wordpress)
+1. Jo Jerrica Decker
+1. Gertjan Lettink a.k.a. Knurpht
+1. Solène Garda-Krebs
+1. Robert L Davidson (data scientist, open data activist, co-founder of Scientists for EU) 
+1. Xabier Rodríguez Calvar
+1. Anibal Monsalve Salazar (Debian Developer)
+1. Christopher Branston
+1. Ian Hyzy
+1. Chris Koerner (Wikimedia, WordPress)
+1. Colton Donnelly
+1. Nicholas LaPointe (Krita contributor)
+1. Daniel A. Rodriguez (Board of Directors, the Document Foundation)
+1. Emilie Karlsson
+1. Charles A. Anaman
+1. Geoffrey Michael
+1. Michael Laird
+1. Benji Mauer (ActBlue Technical Services)
+1. David Millians
+1. Calub Veim (CollabVM)
+1. Nick Mathewson (Co-founder, Tor Project)
+1. Jason LACAM (open-source and free software defender)
+1. David Goulet (Tor Developer)
+1. Christian “haseHH” Hase
+1. Geoff Langdale
+1. Mélissa Richard
+1. Kendra Albert
+1. Brig C. McCoy
+1. Alexander Windahl 
+1. Ernie Hartley (AudioMo Creator)
+1. c47
+1. David C Mason (Former GNOME Foundation)
+1. Tamás Szelei
