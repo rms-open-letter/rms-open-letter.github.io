@@ -40,6 +40,7 @@ Signed,
 
 <!-- Any additional signees should go below this comment in alphabetical order (according to `sort -u`) -->
 
+1. Globenet
 1. Mozilla
 1. Open Source Diversity
 1. Tor Project
@@ -1294,3 +1295,15 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Zack Cerza
 1. Zeltzin Rodríguez
 1. Zvi Gilboa
+1. Katrina Riehl (NumFOCUS Board Member)
+1. Vitor "Krammer" Cardoso
+1. Erick Perez Castellanos
+1. Carsten Duch
+1. Patrick Geahan
+1. Amy Rust
+1. Jan Krasoczko
+1. Seth Peasley
+1. Mike Olson (Postgres, Berkeley DB, Cloudera)
+1. Jess Mysers
+1. Marcantonio Rendino
+1. Chen Chang
