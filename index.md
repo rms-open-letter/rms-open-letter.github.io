@@ -290,6 +290,7 @@ Signed,
 - Jeff Warnica
 - Jeremy Bingham
 - Jeremy Carter
+- Jeremy Soller (System76 Principal Engineer, Pop!\_OS Maintainer, Redox OS BDFL)
 - Jerome Charaoui (Debian Developer, former FSF member)
 - Jesse Clark
 - Jesse Cooke
