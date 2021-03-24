@@ -375,7 +375,8 @@ Signed,
 - John Wiseman
 - Jona Azizaj (Fedora Project, Open Source Diversity)
 - Jonas Obrist (PyCon JP Association Board Member)
-- Jonathan Kamens (>30yrs maintaining OSS, one-time FSF contributor) 
+- Jonathan Carter (Debian Project Leader, former FSF member and one of the top referrers (#3066))
+- Jonathan Kamens (>30yrs maintaining OSS, one-time FSF contributor)
 - Jonathan McDowell
 - Jordan Petridis (GNOME)
 - Jordan Uggla
