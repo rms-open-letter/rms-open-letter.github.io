@@ -130,6 +130,7 @@ Signed,
 - Craig Maloney
 - Dan Arel (owner, ThinkPrivacy.ch)
 - Dan Bornstein (@danfuzz)
+- Daniel Feldroy (previously Daniel Roy Greenfeld)
 - Daniel Murphy (@danhatesnumbers)
 - Daniel Nazer
 - Daniel Soskel
