@@ -401,6 +401,7 @@ Signed,
 - Lachlan Campbell
 - Langlais Raphael
 - Lars Wirzenius
+- Laurence Berland
 - Laurin Schmidt
 - Leandro A. F. Pereira
 - Liam R. Howlett (kernel developer)
