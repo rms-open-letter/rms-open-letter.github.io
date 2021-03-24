@@ -872,6 +872,7 @@ Signed,
 1. Stew O'Connor (former Debian debeloper, former freenode staff)
 1. Stuart Auld
 1. Stuart A Yeates (former OSS Watch staffer)
+1. Sven `DrMcCoy` Hesse
 1. Sydney Schreckengost
 1. Sylvestre Ledru (Debian, LLVM and Mozilla) 
 1. Taavi Väänänen (MediaWiki)
