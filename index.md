@@ -146,7 +146,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Andrea Wieland
 1. Andrea Zonca (University of California San Diego)
 1. Andrei Jiroh Eugenio Halili (Founder of @MadeByThePinsHub)
-1. Andrei Kvapil (@kvaps)
 1. Andrej Shadura (Collabora, Debian Developer)
 1. Andre Klapper (GNOME)
 1. Andrés Hernández "`tonejito`" (LIDSoL)
@@ -717,6 +716,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. James Turnbull (former President of Linux Australia)
 1. James Weare
 1. Jamie Gaskins
+1. Jamie Kyle
 1. Jamie Phillips
 1. Jan C. Borchardt (Nextcloud, Open Source Diversity, Open Source Design)
 1. Jan Christian Grünhage (Matrix, Famedly GmbH)
@@ -1136,7 +1136,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Naomi Ceder (former director & past chair, Python Software Foundation)
 1. Natacha Rault (les sans pagEs)
 1. Natan B. C. "`natanbc`"
-1. Nate Hill (Director, Metropolitan New York Library Council)
 1. Nathan Dyer (former FSF associate member)
 1. Nathan Handler (Ubuntu/Debian Developer, freenode Staff, SeaGL Program Committee Co-Chair)
 1. Nathanial (`d0nut`) Lattimer
@@ -1245,7 +1244,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Peter Van Eynde
 1. Petrohs
 1. Phil Dibowitz
-1. Phil Pemberton (`@philpem`, DiscFerret developer, ptouch-driver maintainer)
 1. Philip Balister
 1. Philip Gillißen
 1. Philip Hands (Former Debian Technical Committee member)
@@ -1323,7 +1321,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Rojen Zaman
 1. Romain Menke
 1. Rosanna Yuen (GNOME Foundation)
-1. Rosellyne Worrall
 1. Ross A. Baker
 1. Rossella Sblendido (OpenStack, OPNFV, LF Networking)
 1. Ross Nelson
@@ -1494,7 +1491,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Timothée Ravier (Fedora Project Contributor)
 1. Tim Pierce (former GNU Guile contributor)
 1. Tim Weber (`scy`)
-1. Timothy C. Quinn
 1. Tiphaine Viard (Associate professor, Telecom Paris)
 1. Tobias Fella (KDE)
 1. Tobias Klausmann
@@ -1579,7 +1575,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Xav Paice
 1. Yadav Lamichhane
 1. Yangwook Jeong (@Yangeok)
-1. Yann Ramin
 1. Yao Li (former FSF Monthly Student Associate Member)
 1. Yaroslav Kargapolov
 1. Yegor Timoshenko (NixOS contributor)
