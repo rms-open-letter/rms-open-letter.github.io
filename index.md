@@ -219,6 +219,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Brad Solomon
 1. Bram Hagens
 1. Brandon Butler
+1. Brandon Frohs (@0b10011)
 1. Brendan Abolivier (Matrix Developer)
 1. Brendan Hickey
 1. Brendan O'Leary
