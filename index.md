@@ -841,6 +841,7 @@ Signed,
 1. Silje Christiansen
 1. Simeon "n0emis" Keske
 1. Simeon Smith
+1. Simon Bowie
 1. Simon Phipps (Former OSI President)
 1. Simon Richter
 1. Simon Wistow
