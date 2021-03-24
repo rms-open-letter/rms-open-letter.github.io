@@ -153,7 +153,7 @@ Signed,
 1. Bob Killen (Kubernetes Steering Committee Member)
 1. Bram Hagens
 1. Brandon Butler
-1. Brendan Abolivier
+1. Brendan Abolivier (Matrix Developer)
 1. Brendan Hickey
 1. Brendan O'Leary
 1. Brennen Bearnes
