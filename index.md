@@ -975,6 +975,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Paul Cutler (former GNOME Foundation)
 1. Paul Fisher (Former FSF employee and union representative)
 1. Paul McLanahan (Engineer at Mozilla)
+1. Paul Moore (Linux Kernel maintainer, libseccomp maintainer)
 1. Paul Oldham
 1. Paul Wankadia
 1. Paul Woolcock
