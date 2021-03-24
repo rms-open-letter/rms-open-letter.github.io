@@ -108,6 +108,7 @@ Signed,
 1. Andrew Pinski (GCC contributor)
 1. Andrija Subotić
 1. Andy Isaacson (@radii, founding member of Noisebridge)
+1. Andy "@grifferz" Smith (both personally and on behalf of BitFolk Ltd)
 1. AndyTuba
 1. Angus Fletcher
 1. Angus Gratton
