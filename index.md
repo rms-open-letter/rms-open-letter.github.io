@@ -302,6 +302,7 @@ Signed,
 - Joel Bethke (OBS Project)
 - Johannes Löthberg (Arch Linux Developer)
 - John D. Martin III
+- John "Warthog9" Hawley
 - John Hess
 - Jona Azizaj (Fedora Project, Open Source Diversity)
 - Jonathan McDowell
