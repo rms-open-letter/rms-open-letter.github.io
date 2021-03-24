@@ -87,6 +87,7 @@ Signed,
 - Asumu Takikawa
 - Aura Vulcano
 - Avery "stars" M-W
+- Barret Rennie (Mozilla)
 - Behdad Esfahbod (Former director / president, GNOME Foundation)
 - Ben Cotton (Fedora Project contributor)
 - Ben Evans
