@@ -938,6 +938,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Manuel González
 1. Marcantonio Rendino
 1. Marcelo Teider Lopes
+1. Marco 'eukara' Hladik
 1. Marcus Weiner
 1. Marek Kubica
 1. Margarita Manterola (Debian Developer, member of the Debian Technical Committee)
