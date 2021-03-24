@@ -517,6 +517,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Gunnar Wolf (Debian Developer, member of the Debian Technical Committee)
 1. Gustaf Lindstedt
 1. Gustavo Costa (Fedora Project contributor)
+1. Gustavo Gus (Tor Project)
 1. Gustavo Padovan (Linux Kernel)
 1. Guy Templeton (Kubernetes SIG Autoscaling Chair)
 1. Halla Rempt (maintainer of Krita)
@@ -1318,4 +1319,3 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Zvi Gilboa
 1. RT Hatfield (@panzertime)
 1. Nic FitzGerald (Co-Founder Sailex)
-1. Ethan Djeric
