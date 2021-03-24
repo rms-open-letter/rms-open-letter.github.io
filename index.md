@@ -591,6 +591,7 @@ Signed,
 - Robert Barat
 - Robert Berg
 - Robert Joslyn
+- Robert Lipe (GPSBabel creator, contributor to open source since 87)
 - Robin Widegren
 - Rob Smith (SeaGL Co-Founder)
 - Rob Vincent
