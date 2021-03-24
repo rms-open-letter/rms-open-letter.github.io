@@ -379,6 +379,7 @@ Signed,
 - Jamie Gaskins
 - Jane Manchun Wong
 - Jani "zment" Kärkkäinen
+- Jannis Leidel (aka "jezdez", Fellow and Director, Python Software Foundation; former Director, Django Software Foundation; Django project alumnus; Software Engineer, Mozilla; founder, PyPA; founder, Jazzband)
 - Jan Lehnardt (Apache CouchDB PMC Chair)
 - Jan Sprinz (UBports Foundation Board of Directors, Ubuntu Member)
 - Jason Barbier
