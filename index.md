@@ -133,6 +133,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Aniol Marti (Debian Maintainer, Caliu President)
 1. Anis Tarafdar
 1. Anna Glasgall
+1. Anne-laure Michel
 1. Anne Nicolas (Kernel Recipes organizer)
 1. Anne van Kesteren (Mozilla, WHATWG)
 1. Anthony Maki (@4cm4k1)
