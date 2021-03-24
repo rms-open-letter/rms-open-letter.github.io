@@ -460,6 +460,7 @@ Signed,
 - Rami Chowdhury
 - rany
 - Reed Loden
+- Renata Rocha 
 - Rémi Verschelde (Godot Engine, Mageia)
 - Richard Maw
 - Richard Mehlinger
