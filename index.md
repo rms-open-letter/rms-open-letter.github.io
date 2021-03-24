@@ -348,6 +348,7 @@ Signed,
 - Liam R. Howlett (kernel developer)
 - Linus Parker
 - Lionirdeadman
+- Liza Ainalen Dosso
 - Louis Jones
 - Louis-Philippe Véronneau (Debian Developer)
 - Luca Martinelli
@@ -438,6 +439,7 @@ Signed,
 - [Open Source Diversity](https://opensourcediversity.org/) Community
 - Orhun Parmaksız (Arch Linux maintainer)
 - Orion Montoya (former rms-assist, former FSF, GPLv3 drafting-process software developer)
+- Pablo Martín Oldani
 - Parker Higgins
 - Patrick Engelman
 - Paul Adams
