@@ -859,6 +859,7 @@ Signed,
 1. Sebastian Ramacher (Debian Developer)
 1. Sébastien Villemot (Debian Developer, FSF associate member)
 1. Seebs
+1. SeongHyun Lee (Kevin Lee / 케빈 리)
 1. Seth Marinello (former CPLUG Officer)
 1. Seth McCombs
 1. Shane Fagan
