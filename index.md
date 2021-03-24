@@ -726,6 +726,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Mandy Henk
 1. Mano Marks
 1. Manuel Genovés (GNOME)
+1. Marcelo Teider Lopes
 1. Marek Kubica
 1. Margarita Manterola (Debian Developer, member of the Debian Technical Committee)
 1. María Arias de Reyna Domínguez (former OSGeo President, ASF member, maintainer on several FOSS projects)
