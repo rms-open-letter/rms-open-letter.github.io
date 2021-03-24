@@ -159,6 +159,7 @@ Signed,
 - Danny Bouimad
 - Danny "Rushyo" Moules (Security researcher, EFF Member, Former Mozilla contributor)
 - Dan 'pixelflow' Humphreys
+- Dave Camp (Mozilla, Former GNOME Foundation)
 - David Glick (Plone contributor)
 - David (gnuconsulting) Bishop
 - David Grynnerup Pedersen
