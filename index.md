@@ -329,6 +329,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Daniel Feldroy (previously Daniel Roy Greenfeld)
 1. Daniel Foré (Founder, elementary, Inc.)
 1. Daniel Holbach (Former Ubuntu Council Member and Core Developer)
+1. Daniel Gryniewicz (Red Hat, former Gentoo developer)
 1. Daniel Kolesa (@octaforge, Void Linux developer)
 1. Daniel Murphy (@danhatesnumbers)
 1. Daniel Nazer
