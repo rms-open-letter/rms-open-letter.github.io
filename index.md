@@ -185,6 +185,7 @@ Signed,
 - Geir Magnusson Jr.
 - Geoffrey Thomas
 - Gerard Ryan
+- Gordon Byrnes
 - Göktuğ Kayaalp
 - Graham Christensen (NixOS contributor)
 - Greg Grossmeier
