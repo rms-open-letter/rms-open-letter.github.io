@@ -135,6 +135,7 @@ Signed,
 - Christopher Patti
 - Christopher Schmidt
 - Chris Wayne (Ubuntu)
+- Clarissa Borges (GNOME Foundation member)
 - classabbyamp
 - Claudio Saavedra (former GNOME maintainer and GNOME Foundation member)
 - Claudius Link
