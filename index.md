@@ -468,6 +468,7 @@ Signed,
 - Robert Barat
 - Robin Widegren
 - Rob Vincent
+- Robyn Speer (ConceptNet)
 - Rosanna Yuen (GNOME Foundation)
 - Ruben Schade
 - Ryan Finnie (Finnix founder; Debian; Ubuntu)
