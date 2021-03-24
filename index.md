@@ -791,7 +791,6 @@ Signed,
 1. Sam Pavlovic
 1. Sam Phillips
 1. Sam Pritchard
-1. Sander van der Waal (Waag)
 1. Sander van der Waal (Waag) 
 1. Santeri Kasvi
 1. Santiago Torres-Arias (Arch Linux, Purdue University, in-toto)
