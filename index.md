@@ -351,7 +351,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Christoph "Sellerie" Pomaska (@lauch_gemuese)
 1. Christoph Wickert (openSUSE contributor, former Fedora Council and Advisory Board member)
 1. Chris Wayne (Ubuntu)
-1. Claire Connelly (FSF associate member; former Debian developer)
 1. Clara Hobbs
 1. Clare Macrae
 1. Clarissa Borges (GNOME Foundation member)
@@ -665,6 +664,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Jack Firth
 1. Jack 'jrabbit' Laxson
 1. Jack Leadford
+1. Jacob Dreesen
 1. Jacob H. Haven
 1. Jacob Kaplan-Moss (Django co-creator; Founder, Django Software Foundation)
 1. Jacob Perkins
@@ -1305,7 +1305,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Sadie Powell (InspIRCd)
 1. Sajid Ali
 1. Sam Bailey
-1. Sam Buccieri-Gillett
 1. Sambhav Saggi
 1. Sam Hartman (Former Debian Project Leader)
 1. Sam Hocevar (Former Debian Project Leader)
