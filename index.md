@@ -1075,6 +1075,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Maxime Renusson (Telecom engineer, FLOSS user and advocate)
 1. Maya Rashish (NetBSD)
 1. Meadhbh Hamrick
+1. Megan Marsh
 1. Mehdi Dogguy (Former Debian Project Leader)
 1. Melanie Kat
 1. Melissa Boiko
