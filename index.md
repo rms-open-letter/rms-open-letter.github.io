@@ -108,7 +108,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Alex Murray
 1. Alex Ose
 1. Alex Stapleton
-2. Alex Tuckey `sort -u`
+2. Alex Tuckey
 3. Alex Volkov
 4. Alfred Neumayer (UBports developer)
 5. Alison Dowdney (Kubernetes SIG Contributor Experience Chair)
