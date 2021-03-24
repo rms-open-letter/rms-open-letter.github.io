@@ -333,6 +333,7 @@ Signed,
 - Máirín Duffy (Fedora Project, former FSF HPP committee member, former LP speaker)
 - Malleck Braun
 - Mano Marks
+- Manuel Genovés (GNOME)
 - Margarita Manterola (Debian Developer, member of the Debian Technical Committee)
 - Marius Gripsgard (UBports Foundation founder, Lead Developer and Board of Directors, Ubuntu Member)
 - Mark Brown (Linux, Debian)
