@@ -696,6 +696,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Ian Jackson (Former Debian Project Leader; former President, Software in the Public Interest; GNU Maintainer)
 1. Ian Stapleton Cordasco
 1. Idan Gazit (Django project alumnus)
+1. Igmar Palsenberg
 1. Ignacio Torres Masdeu
 1. Ilya Kreymer
 1. intrigeri (Debian Developer, Tails Developer)
