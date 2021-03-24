@@ -60,6 +60,7 @@ Signed,
 - Alex Callejas
 - Alex Desmond
 - Alex Engelberg
+- Alex Ose
 - Alexis Danz
 - Alexis Tyler
 - Alex Murray
