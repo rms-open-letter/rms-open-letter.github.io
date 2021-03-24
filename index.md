@@ -467,6 +467,7 @@ Signed,
 - Rich Felker (musl libc)
 - Roan Kattouw
 - Robert Barat
+- Robert Joslyn
 - Robin Widegren
 - Rob Vincent
 - Rosanna Yuen (GNOME Foundation)
