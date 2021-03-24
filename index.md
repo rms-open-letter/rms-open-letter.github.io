@@ -1383,6 +1383,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Sam Shrum
 1. Sam Tobin-Hochstadt
 1. Sam van der Kris
+1. Sander Steffann (@sjmsteffann / sjms)
 1. Sander van der Waal (Waag)
 1. Sandro Jäckel (NixOS contributor)
 1. Santeri Kasvi
