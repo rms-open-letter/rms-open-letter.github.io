@@ -1260,6 +1260,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Rachel Chalmers (boardmember, The Ada Initiative)
 1. Rachel Domagalski
 1. Rachel Kadel
+1. Rafael Bautista
 1. Rafael Silva
 1. Raffaele Messuti
 1. Raghavendra Kamath (raghukamath) (Illustrator & Designer / Krita volunteer)
