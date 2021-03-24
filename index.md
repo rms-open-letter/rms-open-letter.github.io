@@ -97,6 +97,7 @@ Signed,
 - Behdad Esfahbod (Former director / president, GNOME Foundation)
 - Ben Cotton (Fedora Project contributor)
 - Ben Evans
+- Ben Hilburn (former GNU Radio lead, current GA member)
 - Ben Hutchings (Debian Developer)
 - Benjamin Kampmann
 - Benjamin Torell (OBS Project)
