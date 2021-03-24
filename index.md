@@ -682,6 +682,7 @@ Signed,
 - Robert Berg
 - Robert Joslyn
 - Robert Lipe (GPSBabel creator, contributor to open source since 87)
+- Robert McQueen (President, GNOME Foundation)
 - Robey Pointer (paramiko, eggdrop)
 - Robin Widegren
 - Rob Smith (SeaGL Co-Founder)
