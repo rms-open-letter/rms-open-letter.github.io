@@ -428,3 +428,58 @@ Signed,
 - Yvan Sraka
 - Zach Klippenstein (aka @zach-klippenstein, Square)
 - Zach van Rijn
+- Isabela Bagueros
+- Liam R. Howlett (kernel developer)
+- Bret Moore
+- Michael Hoffmann
+- Skylar Alexandra Bleed
+- Kayla Anne Cupples
+- Patrick Engelman
+- Conrad Lukawski
+- Arthur Richards
+- classabbyamp
+- Richard Mehlinger
+- Kunal Mehta (MediaWiki, Debian Developer, FSF associate member)
+- Jade '0x0ade' Macho
+- Félix 'passcod' Saparelli
+- Andres Salomon (Debian Developer)
+- Gordon Haff (OSI Member)
+- Brendan Hickey
+- Satvik Sharma
+- Katherine Flavel
+- Asta Halkjær From
+- Donnie Barnes (former Red Hat employee #2)
+- Dustin Mitchell (Engineer, Mozilla)
+- Amelia Andersdotter (former Member of the European Parliament (Piratpartiet), hobby Arch and network scripting aficionado)
+- M. Oliver Ghingold
+- Danny "Rushyo" Moules (Security researcher, EFF Member, Former Mozilla contributor)
+- George Chriss
+- Andrea Wieland
+- Italo Vignoli (OSI Director, LibreItalia Honorary President)
+- Eddie Kay
+- Blair Vidakovich (vidak)
+- Casper Sørensen
+- Ludvig Norgren Guldhag
+- Ruben Schade
+- Robert Barat
+- Johannes Löthberg (Arch Linux Developer)
+- Vincent Wong
+- Guilhem Moulin (Debian Developer)
+- Ernest Mueller
+- Christine Hall (former OSI Board member)
+- Dan 'pixelflow' Humphreys
+- Mx Craven
+- Khionu Sybiern
+- Maxime Renusson (Telecom engineer, FLOSS user and advocate)
+- Wolthera van Hövell (Krita/KDE)
+- Stephen A. Goss
+- Ben Rosengart
+- Aura Vulcano
+- Andrew Pinski (GCC contributor)
+- Lyre Calliope
+- Morgan Lemmer-Webber
+- David Revoy (Pepper&Carrot)
+- Frances Hocutt
+- Zvi Gilboa
+- Cyril Brulebois (Debian Developer)
+- Wendy Bolm (Chief Operations Officer, CommitChange)
