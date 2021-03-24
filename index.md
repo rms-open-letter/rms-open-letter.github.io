@@ -91,6 +91,7 @@ Signed,
 - Anthony Miller
 - Anthony Rabbito
 - Anthony Shaw (Python Software Foundation Fellow, ASF Member)
+- Antonio Tauro (Toni Tauro, @eyenx)
 - Antoine Beaupré AKA anarcat (Debian Developer, former FSF member)
 - Ariadne Conill (Alpine Developer, pkgconf)
 - Ariela Wenner
