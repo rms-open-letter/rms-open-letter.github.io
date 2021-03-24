@@ -532,6 +532,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Emily Strickland
 1. Emma Best (Distributed Denial of Secrets)
 1. Emmanuele Bassi (GNOME Foundation)
+1. Emmanuel Large
 1. Enio Gemmo (LibreItalia Chairman)
 1. Enrico Zini (Debian Developer)
 1. Enum Cohrs
