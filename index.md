@@ -808,6 +808,7 @@ Signed,
 1. Renaud Lepage
 1. Reuben Morais
 1. Rhonda D'Vine (Debian Developer, Open Source Diversity)
+1. Ricardo Bánffy
 1. Richard Guy Briggs (FreeS/WAN kernel, OCLUG founding board, kaudit)
 1. Richard Brown (Former openSUSE Chairman)
 1. Richard Maw
