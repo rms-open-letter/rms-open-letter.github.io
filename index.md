@@ -270,7 +270,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Cassidy James Blaede (elementary co-founder, GNOME Foundation member)
 1. Cathy Warner
 1. Chad Booker
-1. Chandan Kumar (raukadah)
 1. Chandler Carruth
 1. Charles A. Anaman
 1. Charles Burton
@@ -576,7 +575,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Hidde Beydals
 1. Highlander Subaron (`HightechSec`)
 1. Holger Levsen (Debian Developer, reproducible-builds.org)
-1. Honza Král
 1. Horst Gutmann
 1. Hubert Figuière
 1. Ian Hyzy
@@ -673,7 +671,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Jill Pelavin
 1. Jill Rouleau (Ansible Maintainer / Steering Commitee member)
 1. Jim Campbell
-1. Jim Perrin (CentOS Project, Fedora Project)
 1. Joanna Janet Zaitseva-Doyle (aka @aoeixsz4 / 'aoei')
 1. João Carlos Almeida
 1. João "Johnny" Ciocca (DCG5511)
@@ -691,6 +688,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Johannes Löthberg (Arch Linux Developer)
 1. John Bond
 1. John D. Martin III
+1. John Flynn
 1. John Hess
 1. John Krug (jhkrug)
 1. John SJ Anderson
@@ -871,7 +869,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Manuel Genovés (GNOME)
 1. Marcantonio Rendino
 1. Marcelo Teider Lopes
-1. Marcus Weiner
 1. Marek Kubica
 1. Margarita Manterola (Debian Developer, member of the Debian Technical Committee)
 1. María Arias de Reyna Domínguez (former OSGeo President, ASF member, maintainer on several FOSS projects)
@@ -947,7 +944,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Michael Gat
 1. Michael Hoffmann
 1. Michael Juarez
-1. Michael B. Klein
 1. Michael Laird
 1. Michael `lethargilistic` MacTaggert (Programming Discussions server on Discord)
 1. Michael `NCommander` Casadevall (Ubuntu Core Developer, former Debian Developer, former FSF Savannah Administrator)
@@ -1081,7 +1077,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Percival Lavoie
 1. Perro Tuerto (Programando LIBREros)
 1. Peter Aufner (`Adrixan`)
-1. Peter Benjamin (`pbnj`)
 1. Peter Hazenberg (`Peetz0r`)
 1. Peter Huene
 1. Peter Hunt
@@ -1332,7 +1327,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Travis Hardiman
 1. tre murillo
 1. Trevor Keller / @tkphd, enby computational scientist at NIST (National Institute of Standards and Technology)
-1. Trevor Manz
 1. Trevor Thalacker
 1. Trinity Pointard
 1. Tristan Rain Hamer
@@ -1359,7 +1353,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Vivia Nikolaidou (GStreamer)
 1. Vivek Das Mohapatra (Collabora)
 1. Vojtěch Vengrin (Gnome translator)
-1. Volkan Yazıcı (Apache Logging Services PMC)
 1. Ward Vandewege (Former FSF staff and FSF member)
 1. Wayne M. Thornton, B.S., CPDT (Co-Founder & Project Manager VIRATRACE)
 1. Wendy Bolm (Chief Operations Officer, CommitChange)
