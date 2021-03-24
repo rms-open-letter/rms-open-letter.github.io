@@ -636,6 +636,7 @@ Signed,
 - Seth McCombs
 - Shane Fagan
 - Shelly Coen
+- Sherman Mui
 - Shiz (former Alpine Linux developer)
 - Síle Ekaterin Aman (APK Fission, Adélie Linux Core Team)
 - Simeon Smith
