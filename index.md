@@ -457,6 +457,7 @@ Signed,
 - Lyre Calliope
 - Mackenzie 'maco' Morgan (former Ubuntu Developer Membership Board member)
 - Madison `makyo` Scott-Clary
+- Mads Johansen
 - Mairi Dulaney (Fedora Project contributor)
 - Máirín Duffy (Fedora Project, former FSF HPP committee member, former LP speaker)
 - Malleck Braun
