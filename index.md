@@ -37,7 +37,7 @@ Signed,
 - Luis Villa (Former Director of the Open Source Initiative and the GNOME Foundation; contributor to the GPL v3 drafting process)
 - Stefano Zacchiroli (Former Debian Project Leader and Former Director of the Open Source Initiative)
 
-<!-- Any additional signees should go below this comment in chronological order -->
+<!-- Any additional signees should go below this comment in alphabetical order -->
 
 - Aaron Carson
 - Adam Barber
@@ -73,6 +73,7 @@ Signed,
 - Cara Esten Hurtle
 - Carina C. Zona (CallbackWomen)
 - Carl Schwan (KDE)
+- Carlos O'Donell (GNU libc maintainer, GNU Assembly member)
 - Chris DiBona (Google LLC.)
 - Chris Hoge
 - Chris Rose
