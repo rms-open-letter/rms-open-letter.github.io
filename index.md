@@ -560,6 +560,7 @@ Signed,
 - Paul Wouters (Libreswan, Fedora developer)
 - Perro Tuerto (Programando LIBREros)
 - Peter Hazenberg (`Peetz0r`)
+- Peter Huene
 - Peter Hunt
 - Peter Jones (Fedora developer)
 - Peter Van Eynde
