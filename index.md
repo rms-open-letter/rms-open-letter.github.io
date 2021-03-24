@@ -1501,6 +1501,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Sylvestre Ledru (Debian, LLVM and Mozilla)
 1. Taavi Väänänen (MediaWiki)
 1. Tab Atkins-Bittner (@tabatkins, active W3C/TC39/WHATWG editor)
+1. Taher Chegini (@cheginit)
 1. Tamás Szelei
 1. Tamreen Khan
 1. tanmatsu
