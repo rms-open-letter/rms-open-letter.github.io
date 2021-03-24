@@ -54,6 +54,7 @@ Signed,
 - Alexandre Dulaunoy (former FSF associate member #53)
 - Alex Arslan (Julia contributor, former Julia community manager)
 - Alex Desmond
+- Alex Engelberg
 - Alexis Danz
 - Alexis Tyler
 - Alex Murray
