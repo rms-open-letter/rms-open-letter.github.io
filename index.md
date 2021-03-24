@@ -617,6 +617,7 @@ Signed,
 1. Micah Anderson
 1. Micah E Scott
 1. Michael Bikovitsky
+1. Michael Bond (FSF Associate Member)
 1. Michael Carbone (Qubes OS)
 1. Michael Downey (United Nations Foundation)
 1. Michael Gat
