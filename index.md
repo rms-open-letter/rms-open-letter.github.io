@@ -614,6 +614,7 @@ Signed,
 - Sam Phillips
 - Sam Pritchard
 - Sander van der Waal (Waag) 
+- Santeri Kasvi
 - Santiago Torres-Arias (Arch Linux, Purdue University, in-toto)
 - Saptak S
 - Sarah Connor
