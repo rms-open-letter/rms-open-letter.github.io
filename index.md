@@ -975,6 +975,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Patrick Engelman
 1. Patrick Meyer (`HerrSpace`)
 1. Patrick Robinson
+1. Patrick Wu (Ubuntu developer)
 1. Patric Mueller (NetHack DevTeam member)
 1. Paul Adams
 1. Paula de la Hoz Garrido (Interferencias association president and cofounder)
