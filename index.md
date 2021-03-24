@@ -697,6 +697,7 @@ Signed,
 - Pat Allan
 - Pat Hickey
 - Patrick Engelman
+- Patrick Meyer (`HerrSpace`)
 - Patrick Robinson
 - Paul Adams
 - Paul Aguilar (`penserbjorne` from LIDSOL)
