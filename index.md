@@ -485,6 +485,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Eliott Lavier
 1. Elizabeth Bell (Mozilla)
 1. Ellie (@ell1e on GitHub)
+1. Emery Hemingway
 1. Emanuele Aina (Collabora)
 1. Emilie Karlsson
 1. Emilio Escobar (Ettercap Project)
