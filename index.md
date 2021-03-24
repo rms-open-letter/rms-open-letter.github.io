@@ -1360,6 +1360,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Taowa (Debian Developer, former LP keynote panelist)
 1. Thaddée Tyl
 1. TheEvilSkeleton
+1. Theo Schlossnagle
 1. Theodor Tollersrud
 1. TheSpiritingPoet
 1. Thierry Carrez (Open Infrastructure Foundation, Python Software Foundation fellow)
