@@ -127,6 +127,7 @@ Signed,
 - Chris Talib (Source! - a radio show on FLOSS, Le Reset - queer hackerspace)
 - Christian Glombek (Fedora Project contributor)
 - Christian Heimes (Python)
+- Christian Hergert (GNOME)
 - Christina Dunbar-Hester (Author of *Hacking Diversity*)
 - Christine Hall (former OSI Board member)
 - Christophe Noisel
