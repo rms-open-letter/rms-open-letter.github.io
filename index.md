@@ -874,6 +874,7 @@ Signed,
 1. TheEvilSkeleton
 1. Theodor Tollersrud
 1. Thierry Carrez (Open Infrastructure Foundation, Python Software Foundation fellow)
+1. Thomas Kluyver (various Python projects)
 1. Thomas Wouters (former GNU contributor)
 1. Thom Chiovoloni
 1. Tianon Gravi
