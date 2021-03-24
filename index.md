@@ -1265,6 +1265,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Rick Scott
 1. Rigin Oommen
 1. Roan Kattouw
+1. Robbie Harwood (Fedora developer)
 1. Robert Barat
 1. Robert Berg
 1. Robert Foss (Linux kernel dev)
