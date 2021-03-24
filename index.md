@@ -43,13 +43,14 @@ Signed,
 1. CommitChange
 1. Globenet
 1. GlobaLeaks
-1. MidnightBSD Project
-1. MousePaw Media
-1. Mozilla
-1. Open Life Science
-1. Open Source Diversity
-1. Tor Project
-1. X.org Foundation
+2. The HardenedBSD Foundation / The HardenedBSD Project
+3. MidnightBSD Project
+4. MousePaw Media
+5. Mozilla
+6. Open Life Science
+7. Open Source Diversity
+8. Tor Project
+9. X.org Foundation
 
 ### Individuals
 
