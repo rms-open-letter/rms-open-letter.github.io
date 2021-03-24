@@ -778,6 +778,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Luke Jones (asus-nb-ctrl, ASUS ROG laptop hacker/support)
 1. Luke Triantafyllidis
 1. Luna Duclos
+1. Lunar (ex-Debian, ex-Tor, ex-reproducible-builds.org, Nos Oignons, La Dérivation)
 1. Lupe Canaviri
 1. Lyre Calliope
 1. Maarten Beeckmans
