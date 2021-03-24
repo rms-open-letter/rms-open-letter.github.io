@@ -285,6 +285,7 @@ Signed,
 - Jason C. McDonald (a.k.a. CodeMouse92) (MousePaw Media)
 - Jason Crain (GNOME)
 - Jean-Philippe DUFRAIGNE
+- Jed Brown
 - Jeff Forcier (aka bitprophet) (Python library maintainer, eg Fabric, Paramiko)
 - Jeffrey Yoo Warren
 - Jeff Warnica
