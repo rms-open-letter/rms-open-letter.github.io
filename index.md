@@ -599,6 +599,7 @@ Signed,
 1. María Arias de Reyna Domínguez (former OSGeo President, ASF member, maintainer on several FOSS projects)
 1. Mariana Meireles Gontijo (Jupyter contributor, Mozilla contributor)
 1. Mariatta Wijaya (Python Software Foundation Fellow members, OSI member, PyLadies)
+1. Marina "deneb_alpha" Latini (former The Document Foundation chairperson, former openSUSE board member, LibreOffice and openSUSE contributor)
 1. Marius Gedminas
 1. Marius Gripsgard (UBports Foundation founder, Lead Developer and Board of Directors, Ubuntu Member)
 1. Mark Brown (Linux, Debian)
