@@ -208,7 +208,6 @@ Signed,
 - David Thompson (GNU Guile/Guix contributor, ex-FSF)
 - David Turner (former GPL Compliance Engineer at FSF)
 - D. Ben Knoble
-- Dennis Schubert
 - Dennis Schubert (Mozilla, former diaspora\* maintainer)
 - Desiree Zamora Garcia (A List Apart)
 - Devin Buhl
@@ -664,3 +663,11 @@ Signed,
 - Zach van Rijn
 - Zeltzin Rodríguez
 - Zvi Gilboa
+- Srayan Jana
+- Cathy Warner
+- Brandon Butler
+- Charlie Kravetz
+- Rachel Chalmers (boardmember, The Ada Initiative)
+- Chris Desnoyers
+- Britt Yazel (Former GNOME Foundation Director)
+- Ralph FriarTech Loizzo
