@@ -168,6 +168,7 @@ Signed,
 - classabbyamp
 - Claudio Saavedra (former GNOME maintainer and GNOME Foundation member)
 - Claudius Link
+- Cole Helbling (NixOS contributor)
 - Colin O'Brien
 - Colin Seiler
 - Colin Watson (Former Debian Technical Committee member)
