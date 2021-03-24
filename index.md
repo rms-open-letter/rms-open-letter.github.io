@@ -1077,7 +1077,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Ryan Gonzalez
 1. Ryan Heywood
 1. Ryan Lahfa
-1. Ryan McNeely
 1. Ryan Schmidt
 1. Ryu "SaidBySolo" JuHeon
 1. Sadie Powell (InspIRCd)
@@ -1224,6 +1223,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Tristan Rain Hamer
 1. Trolli Schmittlauch
 1. Tuna Ilgaz
+1. Tux Pacific (NuCypher)
 1. Tyrel Souza
 1. Ujjwal Sharma (Node.js Core Collaborator, TC39, Igalia)
 1. Vadim Rutkovsky
