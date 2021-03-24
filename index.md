@@ -453,6 +453,7 @@ Signed,
 - Shelly Coen
 - Síle Ekaterin Aman (APK Fission, Adélie Linux Core Team)
 - Simeon Smith
+- Simon Phipps (Former OSI President)
 - Simon Richter
 - Skylar Alexandra Bleed
 - Solly Ross (Kubernetes KubeBuilder maintainer)
