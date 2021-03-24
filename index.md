@@ -1340,6 +1340,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Santiago Torres-Arias (Arch Linux, Purdue University, in-toto)
 1. Santosh Mahto (Collabora)
 1. Saptak S
+1. Sarah Aladetan
 1. Sarah Connor
 1. Sarah Voegeli
 1. Sarina Canelake
