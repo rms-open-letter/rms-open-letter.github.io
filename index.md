@@ -43,6 +43,7 @@ Signed,
 - Aaron Crickenberger (Kubernetes Steering Committee Emeritus, SIG Testing Chair)
 - Aaron Honeycutt
 - Aaron M. Ucko (@ucko, Debian Developer)
+- Abel Moarrensis (`circuitrcay`)
 - Adam Barber
 - Adam Jackson (X.org, Fedora)
 - Adam Miller (Ansible, Fedora)
