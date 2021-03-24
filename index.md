@@ -98,6 +98,7 @@ Signed,
 - Chris Hoge
 - Chris Rose
 - Chris Talib (Source! - a radio show on FLOSS, Le Reset - queer hackerspace)
+- Christian Glombek (Fedora Project contributor)
 - Christian Heimes (Python)
 - Christina Dunbar-Hester (Author of *Hacking Diversity*)
 - Christophe Noisel
