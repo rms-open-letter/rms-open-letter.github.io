@@ -736,6 +736,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Jonathan Carter (Debian Project Leader, former FSF member and one of the top referrers (#3066))
 1. Jonathan de Jong (`ShadowJonathan`)
 1. Jonathan Kamens (>30yrs maintaining OSS, one-time FSF contributor)
+1. Jonathan LaCour (Python Software Foundation Fellow, Python Framework and Library Creator/Maintainer)
 1. Jonathan McDowell
 1. Jonathan Moerman
 1. Joni Carr
