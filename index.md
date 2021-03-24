@@ -36,6 +36,7 @@ Signed,
 - Stefano Zacchiroli (Former Debian Project Leader and Former Director of the Open Source Initiative)
 
 
+
 ### Organizations
 
 <!-- Any additional signees should go below this comment in alphabetical order (according to `sort -u`) -->
@@ -44,6 +45,7 @@ Signed,
 1. Open Source Diversity
 1. Tor Project
 1. X.org Foundation
+
 
 ### Individuals
 
@@ -216,6 +218,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Brian Heim
 1. Brian Ketelsen
 1. Brian Pepple (Former Fedora Engineering Steering Committee member)
+1. Brian Teeman (co-founder Joomla! and OpenSourceMatters)
 1. Brig C. McCoy
 1. Brion Vibber (MediaWiki, Wikimedia Foundation)
 1. Britta Gustafson
@@ -279,7 +282,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Christian 'penyaskito' López Espínola (Drupal contributor, ArgoUML contributor (inactive), OpenLayers contributor (inactive), co-translator of *ProducingOSS*)
 1. Christian Salamea
 1. Christian `shibumi` Rebischke (Arch Linux)
-1. Christina Dunbar-Hester (Author of _Hacking Diversity_)
+1. Christina Dunbar-Hester (Author of *Hacking Diversity*)
 1. Christine Hall (former OSI Board member)
 1. Christof Haerens
 1. Christoph Blecker (Kubernetes Maintainer and Steering Committee Member)
@@ -406,7 +409,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Ed Marshall
 1. Ed Summers
 1. Eduardo Habkost
-1. Edward L. Platt (i3 Detroit cofounder, NetworkX contributor)
 1. Ee Durbin (PyPI Administrator)
 1. Efraim Flashner (GNU Guix contributor)
 1. Egor `infdev` Golovin
@@ -422,7 +424,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Emily Strickland
 1. Emma Best (Distributed Denial of Secrets)
 1. Emmanuele Bassi (GNOME Foundation)
-1. Enio Gemmo (LibreItalia Chairman)
+1. Enio Gemmo  (LibreItalia Chairman)
 1. Enrico Zini (Debian Developer)
 1. Enum Cohrs
 1. Eric Hodel
@@ -699,9 +701,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Kees Cook (Linux kernel maintainer & Technical Advisory Board member, Debian Developer, Ubuntu core developer, former Ubuntu Technical Board member)
 1. Keith Gable (The Museum of Art and Digital Entertainment; contributor: DreamPi, Ruby on Rails, Ember.js; core author of ignitionServer, now defunct)
 1. Kellegram
-1. Ken Guest (PEAR, Phing)
 1. Kelly Hopkins (former FSF staffer)
-1. Ken Irwin
 1. Kemal Akkoyun
 1. Kendra Albert
 1. Ken Guest (PEAR, Phing)
