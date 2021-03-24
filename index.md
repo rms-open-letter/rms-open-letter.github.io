@@ -692,6 +692,7 @@ Signed,
 - Will Barton
 - Will Greenberg (EFF, signing in personal capacity)
 - Will Hawkins
+- William D. Jones (`cr1901`)
 - William Kroes
 - William Theaker (Former FSF staff member)
 - Wolthera van Hövell (Krita/KDE)
