@@ -819,6 +819,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Jakob 'sur5r' Haufe (Debian Developer)
 1. Jakub Kozłowski
 1. James Alexander
+1. James Antill
 1. James Belchamber
 1. James Cochran
 1. James Colliander (2i2c.org Co-Founder, Callysto.ca Co-Founder, Syzygy.ca Co-Founder, PIMS Director)
