@@ -356,6 +356,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Chloe Cota (@sweetpavement)
 1. Chris Adams (@acdha)
 1. Chris Aniszczyk
+1. Chris Boyle (Debian Developer)
 1. Chris Burgess
 1. Chris `chutten` Hutten-Czapski (Mozilla)
 1. Chris Coulson
