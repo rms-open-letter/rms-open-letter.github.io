@@ -185,7 +185,7 @@ Signed,
 - David Thompson (GNU Guile/Guix contributor, ex-FSF)
 - David Turner (former GPL Compliance Engineer at FSF)
 - D. Ben Knoble
-- Dennis Schubert
+- Dennis Schubert (Mozilla, former diaspora\* maintainer)
 - Devin Buhl
 - Dillon Pentz (OBS Project Developer)
 - Dimitri John Ledkov (Debian Developer, Ubuntu Core Developer, former member of the SPI Inc board of directors)
