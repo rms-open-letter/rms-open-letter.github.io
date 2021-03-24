@@ -643,6 +643,7 @@ Signed,
 1. Martin Robinson (Igalia)
 1. Martin Splitt
 1. Martin Wimpress (Former FSF member)
+1. Martijn Bos(Galavanto)
 1. Mason Jones
 1. Mathieu Comandon (Lutris)
 1. Matt Beland
