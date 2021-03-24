@@ -270,6 +270,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Cassidy James Blaede (elementary co-founder, GNOME Foundation member)
 1. Cathy Warner
 1. Chad Booker
+1. Chandan Kumar (raukadah)
 1. Chandler Carruth
 1. Charles A. Anaman
 1. Charles Burton
