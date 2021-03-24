@@ -300,6 +300,7 @@ Signed,
 - João "Johnny" Ciocca (DCG5511)
 - Joe Harley
 - Joel Bethke (OBS Project)
+- Jörn Huxhorn
 - Johannes Löthberg (Arch Linux Developer)
 - John D. Martin III
 - John Hess
