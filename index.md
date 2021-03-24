@@ -676,6 +676,7 @@ Signed,
 - Tony Colston
 - Tony Richards
 - tre murillo
+- Trevor Keller / @tkphd, enby computational scientist at NIST (National Institute of Standards and Technology)
 - Trevor Thalacker
 - Tristan Rain Hamer
 - Trolli Schmittlauch
