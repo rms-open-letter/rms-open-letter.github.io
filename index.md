@@ -569,6 +569,7 @@ Signed,
 1. Kimball Johnson (Former Chair FLOSS UK aka UKUUG)
 1. Kris Buytaert
 1. Krzysztof Sakrejda
+1. Kuesji Koesnu
 1. Kukuh Syafaat (GNOME, openSUSE)
 1. Kumar Anirudha
 1. Kunal Mehta (MediaWiki, Debian Developer, FSF associate member)
