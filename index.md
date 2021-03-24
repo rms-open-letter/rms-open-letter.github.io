@@ -559,7 +559,6 @@ Signed,
 - Luna Duclos
 - Lupe Canaviri
 - Lyre Calliope
-- Maarten Beeckmans
 - Mackenzie 'maco' Morgan (former Ubuntu Developer Membership Board member)
 - Maddison Hellstrom
 - Madhulika Chambers (NumPy contributor)
@@ -572,6 +571,7 @@ Signed,
 - Manuel Genovés (GNOME)
 - Margarita Manterola (Debian Developer, member of the Debian Technical Committee)
 - María Arias de Reyna Domínguez (former OSGeo President, ASF member, maintainer on several FOSS projects)
+- Mariana Meireles Gontijo (Jupyter contributor, Mozilla contributor)
 - Mariatta Wijaya (Python Software Foundation Fellow members, OSI member, PyLadies)
 - Marius Gripsgard (UBports Foundation founder, Lead Developer and Board of Directors, Ubuntu Member)
 - Mark Brown (Linux, Debian)
@@ -669,7 +669,7 @@ Signed,
 - Nicolás `nomeacuerdo` Arteaga
 - Nicolas Schier (Debian maintainer)
 - Nicole Martinez
-- Nikita Gillmann (ex-GNUnet developer, former GNU Guix contributor, NetBSD/pkgsrc developer)
+- Nikita Gillmann (ex-GNUnet developer, former GNU Guix developer, NetBSD/pkgsrc developer)
 - Nikos Roussos (FSFE, GA member)
 - Nils Adermann
 - Nils Philippsen (Fedora Project contributor)
