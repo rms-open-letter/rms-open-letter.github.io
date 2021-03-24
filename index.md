@@ -553,5 +553,6 @@ Signed,
 - Yorik van Havre
 - Yvan Sraka
 - Zach Klippenstein (aka @zach-klippenstein, Square)
+- Zach Lipton
 - Zach van Rijn
 - Zvi Gilboa
