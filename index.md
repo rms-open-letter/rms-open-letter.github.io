@@ -44,6 +44,7 @@ Signed,
 - Aaron Honeycutt
 - Aaron M. Ucko (@ucko, Debian Developer)
 - Abel Moarrensis (`circuitrcay`)
+- Abigail Cabunoc Mayes
 - Adam Barber
 - Adam H. Leventhal
 - Adam Jackson (X.org, Fedora)
