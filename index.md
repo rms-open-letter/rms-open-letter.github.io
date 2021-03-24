@@ -502,6 +502,7 @@ Signed,
 - Kees Cook (Linux kernel maintainer & Technical Advisory Board member, Debian Developer, Ubuntu core developer, former Ubuntu Technical Board member)
 - Keith Gable (The Museum of Art and Digital Entertainment; contributor: DreamPi, Ruby on Rails, Ember.js; core author of ignitionServer, now defunct)
 - Kellegram
+- Ken Guest (PEAR, Phing)
 - Kenny Huynh
 - Kevin Gimbel
 - Kevin Lannen
