@@ -569,6 +569,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Helen Larson
 1. Herman Ho (Collabora)
 1. Henri Sivonen
+2. Henry F (Techlore, Owner)
 1. Hexandcube
 1. Hidde Beydals
 1. Highlander Subaron (`HightechSec`)
