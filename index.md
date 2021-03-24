@@ -266,6 +266,7 @@ Signed,
 - Ernest Mueller
 - Esther Payne (Librecast Project)
 - Evan Brown
+- Evangelos Paterakis
 - Ezekiel Hendrickson
 - Fabio Di Peri
 - Faith Jasmine Viola
