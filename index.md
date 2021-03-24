@@ -383,6 +383,7 @@ Signed,
 - Karsten Wade (CentOS Board member, former Fedora Board & Docs Lead, the Open Source Way)
 - Katherine Flavel
 - Kathleen Lu
+- Kathryn Spiers
 - Kavi Laud
 - Kayla Anne Cupples
 - Kees Cook (Linux kernel maintainer & Technical Advisory Board member, Debian Developer, Ubuntu core developer, former Ubuntu Technical Board member)
