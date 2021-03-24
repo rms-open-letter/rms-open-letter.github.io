@@ -123,6 +123,7 @@ Signed,
 1. Bandie (Chaos Computer Club, pam_panic, former FSF member)
 1. Baptiste Fontaine
 1. Barret Rennie (Mozilla)
+1. Bastien Nocera (Former director, GNOME Foundation)
 1. Behdad Esfahbod (Former director / president, GNOME Foundation)
 1. Ben Cotton (Fedora Project contributor)
 1. Ben Evans
@@ -771,6 +772,7 @@ Signed,
 1. Roger Light
 1. Rosanna Yuen (GNOME Foundation)
 1. Ross A. Baker
+1. Rossella Sblendido (OpenStack, OPNFV, LF Networking)
 1. Ruben Schade
 1. Russ Allbery (Debian Developer, FSF associate member since 2003)
 1. Russell Keith-Magee (@freakboy3742; former President, Django Software Foundation; Founder, BeeWare Project)
@@ -896,6 +898,7 @@ Signed,
 1. Vipul Gupta
 1. Vipul Siddharth (Fedora Project Contributor)
 1. Vivia Nikolaidou (GStreamer)
+1. Vojtěch Vengrin (Gnome translator)
 1. Wayne M. Thornton, B.S., CPDT (Co-Founder & Project Manager VIRATRACE)
 1. Wendy Bolm (Chief Operations Officer, CommitChange)
 1. Wes Mason (Ubuntu Community Member and former FSFE Fellow)
