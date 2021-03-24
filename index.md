@@ -951,6 +951,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Matteo Tammaccaro
 1. Matthew (0tcQd) Sams
 1. Matthew Ahrens (OpenZFS)
+1. Matthew Cowie
 1. Matthew Fernandez
 1. Matthew `mattcen` Cengia
 1. Matthew P. Del Buono
