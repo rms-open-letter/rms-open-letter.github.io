@@ -613,6 +613,7 @@ Signed,
 1. Matthew Stone
 1. Matthew S. Wilson (former contributor GNU Image Manipulation Program and GNU Parted, former Director, Software Freedom Conservancy)
 1. Matthew Vernon (Debian developer)
+1. Matthew Venn
 1. Matthew Wilcox (Linux kernel hacker)
 1. Matthias Antierens
 1. Matthias Arnason
