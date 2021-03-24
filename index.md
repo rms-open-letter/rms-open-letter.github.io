@@ -445,6 +445,7 @@ Signed,
 1. Highlander Subaron (`HightechSec`)
 1. Hubert Figuière
 1. Ian Jackson (Former Debian Project Leader; former President, Software in the Public Interest; GNU Maintainer)
+1. Ian Stapleton Cordasco
 1. Idan Gazit (Django project alumnus)
 1. Ignacio Torres Masdeu
 1. Ilya Kreymer
@@ -640,6 +641,7 @@ Signed,
 1. Lee Hambley (Capistrano maintainer, former FSFE member)
 1. Leif Walsh
 1. Leo Famulari
+1. leo60228
 1. Liam R. Howlett (kernel developer)
 1. Linda Fernández
 1. Lindsay Holmwood (former Vice President of Linux Australia)
