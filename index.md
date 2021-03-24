@@ -468,6 +468,7 @@ Signed,
 - Roan Kattouw
 - Robert Barat
 - Robin Widegren
+- Rob Smith (SeaGL Co-Founder)
 - Rob Vincent
 - Rosanna Yuen (GNOME Foundation)
 - Ruben Schade
