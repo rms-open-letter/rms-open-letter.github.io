@@ -439,6 +439,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Ed Marshall
 1. Ed Summers
 1. Eddie Kay
+1. Eduard Tolosa (@edu4rdshl - BlackArch Linux and Nspawn.org developer, findomain.app founder)
 1. Eduardo Habkost
 1. Edward L. Platt (i3 Detroit cofounder, NetworkX contributor)
 1. Ee Durbin (PyPI Administrator)
