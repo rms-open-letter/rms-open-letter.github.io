@@ -1009,9 +1009,10 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Maya Rashish (NetBSD)
 1. Meadhbh Hamrick
 1. Mehdi Dogguy (Former Debian Project Leader)
+1. Melissa Boiko
 1. Melissa Draper
-1. Merlijn Sebrechts (`galgalesh`)
 1. Mélissa Richard
+1. Merlijn Sebrechts (`galgalesh`)
 1. Micah Anderson
 1. Micah E Scott
 1. Micah Lee
