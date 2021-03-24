@@ -944,6 +944,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Nils Philippsen (Fedora Project contributor)
 1. Nirbheek Chauhan (GStreamer, GNOME, Mesonbuild; former Gentoo developer)
 1. Nishkarsh Raj
+1. Nisha Kumar
 1. Nixon Enraght-Moony
 1. Noah/`coolreader18` (RustPython maintainer)
 1. Noel Cower
