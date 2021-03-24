@@ -280,6 +280,7 @@ Signed,
 - Göktuğ Kayaalp
 - Gordon Byrnes
 - Gordon Haff (OSI Member)
+- Gordon Stratton
 - Graham Christensen (NixOS contributor)
 - Graham Sutherland
 - Greg Grossmeier
