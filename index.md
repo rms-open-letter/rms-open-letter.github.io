@@ -345,6 +345,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Chandler Carruth
 1. Charles A. Anaman
 1. Charles Burton
+1. Charles C. Earl (Automattic)
 1. Charlie Kravetz
 1. Charlotte Masterson (Hardware and R&D manager at Fivnex)
 1. Chen Chang
