@@ -549,6 +549,7 @@ Signed,
 1. Kellegram
 1. Ken Guest (PEAR, Phing)
 1. Kenny Huynh
+1. Kevin P. Fleming
 1. Kevin Gimbel
 1. Kevin Lannen
 1. Kevin López B.
