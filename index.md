@@ -834,10 +834,11 @@ Signed,
 1. Sam Muirhead
 1. Sam Pavlovic
 1. Sam Phillips
-1. Sam Pikesley, [@pikesley](https://twitter.com/pikesley)
+1. Sam Pikesley
 1. Sam Pritchard
 1. Sander van der Waal (Waag) 
 1. Santeri Kasvi
+1. Santiago Saavedra (former President, GPUL; Co-founder, IUVIA)
 1. Santiago Torres-Arias (Arch Linux, Purdue University, in-toto)
 1. Saptak S
 1. Sarah Connor
