@@ -877,6 +877,7 @@ Signed,
 1. Sam Phillips
 1. Sam Pikesley
 1. Sam Pritchard
+1. Sam van der Kris
 1. Sander van der Waal (Waag) 
 1. Santeri Kasvi
 1. Santiago Saavedra (former President, GPUL; Co-founder, IUVIA)
