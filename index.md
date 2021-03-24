@@ -1132,6 +1132,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Naomi Ceder (former director & past chair, Python Software Foundation)
 1. Natacha Rault (les sans pagEs)
 1. Natan B. C. "`natanbc`"
+1. Nate Hill (Director, Metropolitan New York Library Council)
 1. Nathan Dyer (former FSF associate member)
 1. Nathan Handler (Ubuntu/Debian Developer, freenode Staff, SeaGL Program Committee Co-Chair)
 1. Nathanial (`d0nut`) Lattimer
