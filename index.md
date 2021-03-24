@@ -341,6 +341,7 @@ Signed,
 1. Faye Duxovni
 1. Federico Mena Quintero (GNOME)
 1. Federico Pontillo
+1. Felipe Borges (GNOME Foundation Board member)
 1. Felix 'fleaz' Breidenstein
 1. Félix 'felix91gr' Fischer
 1. Félix 'passcod' Saparelli
