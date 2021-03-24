@@ -492,6 +492,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Dave F. Kleinschmidt
 1. David A. Symons
 1. David Burns (Selenium contributor, former Mozilla)
+1. David Byrne
 1. David Cantrell (Fedora developer)
 1. David C Mason (Former GNOME Foundation)
 1. David Comay
