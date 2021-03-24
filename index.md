@@ -457,6 +457,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Ee Durbin (PyPI Administrator)
 1. Efraim Flashner (GNU Guix contributor)
 1. Egor `infdev` Golovin
+1. Eilidh Martin
 1. Eirik Øverby
 1. Elanna Grossman
 1. Elen Eisendle
