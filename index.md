@@ -394,6 +394,7 @@ Signed,
 - Joy Scharmen
 - Jules Penuchot (Paris-Saclay University)
 - Julian Andres Klode
+- Julian Hofer (GNOME, Deltares) 
 - Julien Rabier
 - julien tayon
 - Julien Voisin
