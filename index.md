@@ -801,6 +801,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Jordan T. Thevenow-Harrison
 1. Jordan Uggla
 1. Jordi Gutiérrez Hermoso (GNU Octave maintainer (inactive))
+1. Jordi Mallach (Debian)
 1. Jordin McEachern
 1. Jorge Jara
 1. Jörn Huxhorn
