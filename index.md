@@ -365,6 +365,7 @@ Signed,
 1. Gunnar Wolf (Debian Developer, member of the Debian Technical Committee)
 1. Gustaf Lindstedt
 1. Gustavo Costa (Fedora Project contributor)
+1. Gustavo Padovan (Linux Kernel)
 1. Guy Templeton (Kubernetes SIG Autoscaling Chair)
 1. Halla Rempt (maintainer of Krita)
 1. Hannah Aizenman (NYLUG coordinator, Matplotlib community manager)
