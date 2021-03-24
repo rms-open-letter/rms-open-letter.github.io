@@ -280,6 +280,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Chris Riley
 1. Chris Rose
 1. Chris Talib (Source! - a radio show on FLOSS, Le Reset - queer hackerspace)
+1. Chrissy LeMaire (@cl - dbatools creator)
 1. Christian Brauner (Linux Kernel Hacker, LXC maintainer)
 1. Christian Buhtz
 1. Christian Glombek (Fedora Project contributor)
