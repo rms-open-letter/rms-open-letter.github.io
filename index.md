@@ -198,6 +198,7 @@ Signed,
 - Dan 'pixelflow' Humphreys
 - Dan Winship
 - Dave Camp (Mozilla, Former GNOME Foundation)
+- David Cantrell (Fedora developer)
 - David Gilman
 - David Glick (Plone contributor)
 - David (gnuconsulting) Bishop
