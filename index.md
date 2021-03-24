@@ -343,6 +343,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Christian “haseHH” Hase
 1. Christian Heimes (Python)
 1. Christian Hergert (GNOME)
+1. Christian Kellner (GNOME, Fedora)
 1. Christian 'penyaskito' López Espínola (Drupal contributor, ArgoUML contributor (inactive), OpenLayers contributor (inactive), co-translator of *ProducingOSS*)
 1. Christian Salamea
 1. Christian `shibumi` Rebischke (Arch Linux)
