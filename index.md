@@ -165,6 +165,7 @@ Signed,
 - Chris Rose
 - Chris Talib (Source! - a radio show on FLOSS, Le Reset - queer hackerspace)
 - Christian Glombek (Fedora Project contributor)
+- Christian `haseHH` Hase
 - Christian Heimes (Python)
 - Christian Hergert (GNOME)
 - Christian Salamea
