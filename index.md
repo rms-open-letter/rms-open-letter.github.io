@@ -328,6 +328,7 @@ Signed,
 - Jacob Kaplan-Moss (Django co-creator; Founder, Django Software Foundation)
 - Jacob Weisz
 - Jade '0x0ade' Macho
+- Jaden Pleasants
 - James Alexander
 - James Cochran
 - James Daly
