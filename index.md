@@ -61,7 +61,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Aaron Jones
 1. Aaron M. Ucko (@ucko, Debian Developer)
 1. Abel Moarrensis (`circuitrcay`)
-1. Abhishek Veeramalla
 1. Abigail Brady (former GNOME developer)
 1. Abigail Cabunoc Mayes
 1. Adam Barber
@@ -526,7 +525,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Geir Magnusson Jr.
 1. Gene Liverman (@genebean)
 1. Geoff Langdale
-1. Geoffrey Bessereau
 1. Geoffrey Michael
 1. Geoffrey Thomas
 1. George Chriss
@@ -626,7 +624,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. James Turnbull (former President of Linux Australia)
 1. James Weare
 1. Jamie Gaskins
-1. Jamie Phillips
 1. Jan Christian Grünhage (Matrix, Famedly GmbH)
 1. Jane Manchun Wong
 1. Jani "zment" Kärkkäinen
@@ -972,7 +969,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Mike Harris
 1. Mike Hawk
 1. Mike Linksvayer
-1. Mike Wyatt
 1. Mikel Johnson
 1. Mike Olson (Postgres, Berkeley DB, Cloudera)
 1. Milan Pässler (Chaos Computer Club, NixOS contributor)
@@ -1307,6 +1303,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Theodor Tollersrud
 1. TheSpiritingPoet
 1. Thierry Carrez (Open Infrastructure Foundation, Python Software Foundation fellow)
+1. Thomas Belvin
 1. Thomas Castleman (`Batcastle`, Drauger OS Founder and Lead Developer)
 1. Thomas Guillem (VLC developer)
 1. Thomas Kluyver (various Python projects)
