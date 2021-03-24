@@ -652,6 +652,7 @@ Signed,
 1. Matthew Fernandez
 1. Matthew `mattcen` Cengia
 1. Matthew P. Del Buono
+1. Matthew Peveler
 1. Matthew Seal
 1. Matthew Stone
 1. Matthew S. Wilson (former contributor GNU Image Manipulation Program and GNU Parted, former Director, Software Freedom Conservancy)
