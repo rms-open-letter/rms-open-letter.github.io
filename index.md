@@ -335,6 +335,7 @@ Signed,
 - James Spivey
 - James Troup
 - James Weare
+- Jamie Gaskins
 - Jane Manchun Wong
 - Jani "zment" Kärkkäinen
 - Jan Lehnardt (Apache CouchDB PMC Chair)
