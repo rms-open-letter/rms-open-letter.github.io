@@ -361,6 +361,7 @@ Signed,
 - Luke Faraone (Debian FTP master, Ubuntu developer, former English Wikipedia Arbitration Committee member)
 - Luna Duclos
 - Lyre Calliope
+- Mackenzie 'maco' Morgan (former Ubuntu Developer Membership Board member)
 - Madison `makyo` Scott-Clary
 - Mairi Dulaney (Fedora Project contributor)
 - Máirín Duffy (Fedora Project, former FSF HPP committee member, former LP speaker)
