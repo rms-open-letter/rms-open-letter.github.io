@@ -556,3 +556,33 @@ Signed,
 - Zach Klippenstein (aka @zach-klippenstein, Square)
 - Zach van Rijn
 - Zvi Gilboa
+- Gabiella Coleman (McGill University)
+- William Kroes
+- Seebs
+- Ryan (DasGeek) (Host of Destination Linux, Partner of Destination Linux, LLC.)
+- Randy J. Ray (@rjray)
+- Wayne M. Thornton, B.S., CPDT (Co-Founder & Project Manager VIRATRACE)
+- Bryan Bishop
+- Kevin McKenzie, M.S (Co-Owner, Built-Right Digital)
+- Jeff Fortin T. (former president of the GNOME Foundation)
+- Seth Marinello (former CPLUG Officer)
+- Bryan Paget
+- Jill Pelavin
+- Sander van der Waal (Waag) 
+- Micah Anderson
+- Charlotte Hardware (R&D manager at Fivnex)
+- Tristan Rain Hamer
+- Richard Guy Briggs (FreeS/WAN kernel, OCLUG founding board, kaudit)
+- Emma Best (Distributed Denial of Secrets)
+- Chad Booker
+- Jack 'jrabbit' Laxson
+- Desiree Zamora Garcia (A List Apart)
+- Tom Henderson (Founder, ExtremeLabs)
+- Eric Unangst
+- Robert Berg
+- Pat Hickey
+- Matt Ray (former FSF member)
+- Edel Grace
+- Zeltzin Rodríguez
+- Perro Tuerto (Programando LIBREros)
+- Joe Provo
