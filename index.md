@@ -259,6 +259,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Brian Teeman (co-founder Joomla! and OpenSourceMatters)
 1. Brig C. McCoy
 1. Brion Vibber (MediaWiki, Wikimedia Foundation)
+1. Britt Gresham (`demophoon`)
 1. Britta Gustafson
 1. Britt Yazel (Former GNOME Foundation Director)
 1. Bruno de Paula Kinoshita
