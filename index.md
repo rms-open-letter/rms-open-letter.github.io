@@ -202,6 +202,7 @@ Signed,
 - Eddie Kay
 - Ed Marshall
 - Efraim Flashner (GNU Guix contributor)
+- Eirik Øverby
 - Elen Eisendle
 - Eliott Lavier
 - Elizabeth Bell (Mozilla)
