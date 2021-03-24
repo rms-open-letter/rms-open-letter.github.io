@@ -118,6 +118,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Alvaro Soliverez (Collabora)
 1. Amelia Andersdotter (former Member of the European Parliament (Piratpartiet), hobby Arch and network scripting aficionado)
 1. Amin Mahmudian
+1. Amir Sarabadani (Wikimedia)
 1. Amos `fasterthanlime` Wenger
 1. Amye Scavarda Perrin
 1. Amy Guy `rhiaro`
