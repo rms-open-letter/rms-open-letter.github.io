@@ -135,6 +135,7 @@ Signed,
 - Be Wilson (Mixxx maintainer)
 - Bill Mulligan
 - Björn Fahller
+- Bjoern Michaelsen (former the Document Foundation director, LibreOffice developer)
 - Blair Vidakovich (vidak)
 - Bob Killen (Kubernetes Steering Committee Member)
 - Bram Hagens
