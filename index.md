@@ -244,6 +244,7 @@ Signed,
 - David Grynnerup Pedersen
 - David Holmes
 - David Jones (former FSF associate member)
+- David Planella
 - David Reid
 - David Revoy (Pepper&Carrot)
 - David Thompson (GNU Guile/Guix contributor, ex-FSF)
