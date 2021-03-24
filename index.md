@@ -179,6 +179,7 @@ Signed,
 - Frédéric Harper (Director of Developer Relations at MeiliSearch)
 - Fredrik Lindh
 - Fridrich Strba
+- Gabriela Rodriguez
 - Gabriel Filion
 - Gabriel Volpe (Practical FP in Scala)
 - Gareth J. Greenaway (Salt Developer, SCALE Co-Founder and former chair person)
