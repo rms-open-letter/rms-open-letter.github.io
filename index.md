@@ -470,6 +470,7 @@ Signed,
 - Rob Vincent
 - Rosanna Yuen (GNOME Foundation)
 - Ruben Schade
+- Russell Keith-Magee (@freakboy3742; former President, Django Software Foundation; Founder, BeeWare Project)
 - Ryan Finnie (Finnix founder; Debian; Ubuntu)
 - Ryan Gannon
 - Ryan Gonzalez
