@@ -455,6 +455,7 @@ Signed,
 - Simeon Smith
 - Simon Phipps (Former OSI President)
 - Simon Richter
+- Simon Wistow
 - Skylar Alexandra Bleed
 - Solly Ross (Kubernetes KubeBuilder maintainer)
 - Soren L. Hansen
