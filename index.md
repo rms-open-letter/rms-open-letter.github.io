@@ -15,7 +15,7 @@ We urge those in a position to do so to stop supporting the Free Software Founda
 
 To sign, please email digitalautonomy at riseup.net or [submit a pull request](https://github.com/rms-open-letter/rms-open-letter.github.io/pulls).
 
-Institutional affiliation is provided for identification purposes only and does not constitute institutional endorsement (unless otherwise indicated).
+Institutional affiliation is provided for identification purposes only and does not constitute institutional endorsement.
 
 Signed,
 
@@ -414,7 +414,6 @@ Signed,
 1. Ilya Kreymer
 1. intrigeri (Debian Developer, Tails Developer)
 1. Irina Rempt
-1. Isaac Ferreira Filho (aka "yzakius", GNOME contributor)
 1. Isabela Bagueros
 1. Isak Sunde Singh
 1. Italo Vignoli (OSI Director, LibreItalia Honorary President)
@@ -1011,6 +1010,7 @@ Signed,
 1. Yuvi Panda (Project Jupyter)
 1. Yvan Sraka
 1. Yvonne Lam
+1. Zac Adam-MacEwen (Arcana Labs)
 1. Zach Klippenstein (aka @zach-klippenstein, Square)
 1. Zach Lipton
 1. Zach van Rijn
