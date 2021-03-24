@@ -596,6 +596,7 @@ Signed,
 - Rob Vincent
 - Robyn Speer (ConceptNet)
 - Rosanna Yuen (GNOME Foundation)
+- Ross A. Baker
 - Ruben Schade
 - Russ Allbery (Debian Developer, FSF associate member since 2003) 
 - Russell Keith-Magee (@freakboy3742; former President, Django Software Foundation; Founder, BeeWare Project)
