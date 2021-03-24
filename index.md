@@ -15,8 +15,6 @@ We urge those in a position to do so to stop supporting the Free Software Founda
 
 To sign, please email digitalautonomy at riseup.net or [submit a pull request](https://github.com/rms-open-letter/rms-open-letter.github.io/pulls).
 
-Institutional affiliation is provided for identification purposes only and does not constitute institutional endorsement (unless otherwise indicated).
-
 Signed,
 
 - Molly de Blanc (Debian Project, GNOME Foundation)
@@ -52,6 +50,9 @@ Signed,
 ### Individuals
 
 <!-- Any additional signees should go below this comment in alphabetical order (according to `sort -u`) -->
+
+<small>(For individual signatures, institutional affiliation is provided for
+identification purposes only and does not constitute endorsement.)</small>
 
 1. Aadil Ayub
 1. Aaron Carson
