@@ -1569,6 +1569,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Vadim Rutkovsky
 1. Vanessa Oxley
 1. Vangelis Katsikaros
+1. Veeti Veteläinen (`Uumas`)
 1. Veronica Cary
 1. Vicky Rampin
 1. Victor Hugo Soliz Kuncar
