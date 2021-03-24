@@ -85,7 +85,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Alexander Herzig (Release Manager SUSE Linux Enterprise)
 1. Alexander Jacocks (Red Hat)
 1. Alexander Koderman
-1. Alexander `lynxis` Couzens (OpenWrt, osmcocom)
+1. Alexander `lynxis` Couzens (OpenWrt, osmocom)
 1. Alexander Windahl
 1. Alexandra Moylett
 1. Alexandra Stehr
