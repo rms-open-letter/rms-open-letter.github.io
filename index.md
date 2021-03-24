@@ -1151,6 +1151,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Wendy Seltzer
 1. Wes Mason (Ubuntu Community Member and former FSFE Fellow)
 1. Weston Steimel
+1. Wheeler Law (Red Hat Inc.)
 1. whitequark
 1. Will Barton
 1. Will Greenberg (EFF, signing in personal capacity)
