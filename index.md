@@ -395,6 +395,7 @@ Signed,
 1. Frank S. Thomas
 1. Frederic Branczyk (Kubernetes SIG Instrumentation Tech Lead, Prometheus maintainer, Thanos maintainer)
 1. Frédéric Harper (Director of Developer Relations at MeiliSearch)
+1. Fred Hebert (Erlang Ecosystem Foundation co-founder and board member)
 1. Fred Oliveira
 1. Fredrik Lindh
 1. Freemor (FSF member since 2009, Parabola contributor)
