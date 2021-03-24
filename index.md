@@ -41,6 +41,7 @@ Signed,
 
 - Aaron Carson
 - Aaron Honeycutt
+- Aaron M. Ucko (@ucko, Debian Developer)
 - Adam Barber
 - Adam Jackson (X.org, Fedora)
 - Adil Sadik
