@@ -1513,6 +1513,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Theo Schlossnagle
 1. TheSpiritingPoet
 1. Thierry Carrez (Open Infrastructure Foundation, Python Software Foundation fellow)
+1. Thijs van der Vossen (Fingertips)
 1. Thomas Belvin
 1. Thomas Castleman (`Batcastle`, Drauger OS Founder and Lead Developer)
 1. Thomas Guillem (VLC developer)
