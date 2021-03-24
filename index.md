@@ -265,6 +265,7 @@ Signed,
 - Eriol Fox
 - Ernest Mueller
 - Esther Payne (Librecast Project)
+- Eva Lauren Kelly (web & console homebrew developer, aka thejsa)
 - Evan Brown
 - Ezekiel Hendrickson
 - Fabio Di Peri
