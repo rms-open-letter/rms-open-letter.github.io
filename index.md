@@ -964,6 +964,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Michael Juarez
 1. Michael B. Klein
 1. Michael Laird
+1. Michael Lingelbach (Neovim, NixOS contributor)
 1. Michael `lethargilistic` MacTaggert (Programming Discussions server on Discord)
 1. Michael `NCommander` Casadevall (Ubuntu Core Developer, former Debian Developer, former FSF Savannah Administrator)
 1. Michael `ovyerus` Mitchell
