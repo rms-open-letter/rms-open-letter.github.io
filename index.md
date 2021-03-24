@@ -677,6 +677,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Jérôme Petazzoni
 1. Jesse Clark
 1. Jesse Cooke
+1. Jesse Keating (GitHub, former Fedora Project Relase Engineer)
 1. Jesse Li
 1. Jesse Raleigh (Sr Security Researcher)
 1. Jesser Lemus
