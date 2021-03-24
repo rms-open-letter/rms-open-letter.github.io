@@ -885,6 +885,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. John Hess
 1. John Krug (jhkrug)
 1. Johnny Danger Myers
+1. John Reese (The Omnilib Project)
 1. John SJ Anderson
 1. John Sturdy
 1. John "Warthog9" Hawley
