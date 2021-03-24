@@ -293,6 +293,7 @@ Signed,
 - Hayden Barnes
 - Hayden Seay
 - Haze Booth
+- Hazel Levine
 - Heiko Becker (Exherbo, KDE)
 - Hein-Pieter van Braam-Stewart (FSF associate member since 2008)
 - Hubert Figuière
