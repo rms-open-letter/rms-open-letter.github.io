@@ -639,6 +639,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Jean-Paul Argudo (CEO at Dalibo, @jpargudo)
 1. Jean-Philippe DUFRAIGNE
 1. Jed Brown
+1. Jeff Byrnes (@jeffbyrnes)
 1. Jeff Forcier (aka bitprophet) (Python library maintainer, eg Fabric, Paramiko)
 1. Jeff Fortin T. (former president of the GNOME Foundation)
 1. Jeffrey Blinksma (Co-founder of Robin's Media Team)
