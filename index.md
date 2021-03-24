@@ -690,6 +690,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Honza Král
 1. Horst Gutmann
 1. Hubert Figuière
+1. Hylke Bons (GNOME, SparkleShare)
 1. Hypolite Petovan (Friendica Developer)
 1. Iain Nicol
 1. Ian Denhardt (Sandstorm contributor, former developer for GNU Social and Parabola GNU/Linux, former FSF member)
