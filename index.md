@@ -319,6 +319,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Chris Holdgraf (2i2c, Project Jupyter)
 1. Chris Johnson
 1. Chris Koerner (Wikimedia, WordPress)
+1. Chris Petersen (SeaGL Co-Founder)
 1. Chris Riley
 1. Chris Rose
 1. Chris Sienkiewicz
