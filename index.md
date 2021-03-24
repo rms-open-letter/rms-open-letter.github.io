@@ -477,6 +477,7 @@ Signed,
 - Matthew `mattcen` Cengia
 - Matthew P. Del Buono
 - Matthew Stone
+- Matthew S. Wilson (former contributor GNU Image Manipulation Program and GNU Parted, former Director, Software Freedom Conservancy)
 - Matthew Vernon (Debian developer)
 - Matthew Wilcox (Linux kernel hacker)
 - Matthias Arnason
