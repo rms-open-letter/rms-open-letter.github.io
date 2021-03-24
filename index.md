@@ -72,6 +72,7 @@ Signed,
 - Andre Klapper (GNOME)
 - Andrés Hernández "`tonejito`" (LIDSoL)
 - Andres Salomon (Debian Developer)
+- Andrew Dona-Couch
 - Andrew Pinski (GCC contributor)
 - Andy Isaacson (@radii, founding member of Noisebridge)
 - Angus Fletcher
