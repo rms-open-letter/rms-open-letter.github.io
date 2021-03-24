@@ -84,6 +84,7 @@ Signed,
 - Anis Tarafdar
 - Anna Glasgall
 - Anne Nicolas (Kernel Recipes organizer)
+- Anthony Maki (@4cm4k1)
 - Anthony Miller
 - Anthony Rabbito
 - Anthony Shaw (Python Software Foundation Fellow, ASF Member)
