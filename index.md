@@ -321,7 +321,6 @@ Signed,
 1. dmt
 1. Dominic Hayes (The Feren OS Developer)
 1. Don Goodman-Wilson (Founding Member and resident ethicist, Organization for Ethical Source)
-1. Donald Harper (duckunix)
 1. Donnie Barnes (former Red Hat employee #2)
 1. Dorothea Salo
 1. Dr Neil Smith
@@ -402,7 +401,6 @@ Signed,
 1. Geir Magnusson Jr.
 1. Geoffrey Thomas
 1. George Chriss
-1. Georgia Young (former FSF staff)
 1. Georgiana Dolocan
 1. Gerardo Torres
 1. Gerard Ryan
@@ -490,12 +488,11 @@ Signed,
 1. Jed Brown
 1. Jeff Forcier (aka bitprophet) (Python library maintainer, eg Fabric, Paramiko)
 1. Jeff Fortin T. (former president of the GNOME Foundation)
-1. Jeff Warnica
-1. Jeff Waugh (former GNOME Foundation director)
 1. Jeffrey Blinksma (Co-founder of Robin's Media Team)
 1. Jeffrey Strauss
 1. Jeffrey Yasskin
 1. Jeffrey Yoo Warren
+1. Jeff Warnica
 1. Jens Georg (GNOME Foundation member)
 1. Jeremie Miller (Jabber/XMPP)
 1. Jeremy Allison (Co-Creator of the Samba project)
@@ -543,7 +540,6 @@ Signed,
 1. Jonathan Kamens (>30yrs maintaining OSS, one-time FSF contributor)
 1. Jonathan McDowell
 1. Jonathan Moerman
-1. Jonathan de Jong (`ShadowJonathan`)
 1. Joni Carr
 1. Jordan Petridis (GNOME)
 1. Jordan Uggla
@@ -840,6 +836,7 @@ Signed,
 1. Paul Fisher (Former FSF employee and union representative)
 1. Paul McLanahan (Engineer at Mozilla)
 1. Paul Oldham
+1. Paul Wankadia
 1. Paul Woolcock
 1. Paul Wouters (Libreswan, Fedora developer)
 1. Peder Bergebakken Sundt
@@ -1027,7 +1024,6 @@ Signed,
 1. Thom Chiovoloni
 1. Tianon Gravi
 1. Tierney Cyren (Node.js Community Committee Chairperson, Electron, OpenJS Foundation CPC)
-1. Tilman Vatteroth (@mrdrogdrog, Frontend developer at [HedgeDoc](https://hedgedoc.org))
 1. Tim D. Smith (Mozilla; former member, Homebrew PLC)
 1. Timothée Ravier (Fedora Project Contributor)
 1. Tim Pierce (former GNU Guile contributor)
