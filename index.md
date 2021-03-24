@@ -770,6 +770,7 @@ Signed,
 - Taowa (Debian Developer, former LP keynote panelist)
 - Thaddée Tyl
 - TheEvilSkeleton
+- Thierry Carrez (Open Infrastructure Foundation, Python Software Foundation fellow)
 - Thomas Wouters (former GNU contributor)
 - Thom Chiovoloni
 - Tianon Gravi
