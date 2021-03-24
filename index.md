@@ -1,3 +1,8 @@
+---
+title: Petition to remove Richard Stallman from Board of Free Sofware Foundation
+description: We, the undersigned, believe in the necessity of digital autonomy and the powerful role user freedom plays in protecting our fundamental human rights.
+---
+
 *2021-03-23*
 
 Richard M. Stallman, frequently known as RMS, has been a dangerous force in the free software community for a long time. He has shown himself to be misogynist, ableist, and transphobic, among other serious accusations of impropriety. These sorts of beliefs have no place in the free software, digital rights, and tech communities. With his recent reinstatement to the Board of Directors of the Free Software Foundation, we call for the entire Board of the FSF to step down and for RMS to be removed from all leadership positions.
