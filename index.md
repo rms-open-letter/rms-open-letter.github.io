@@ -706,7 +706,7 @@ Signed,
 1. Odhiambo Dormnic (@ayimdomnic)
 1. Ole Streicher (Debian Developer)
 1. Olivier Berger (FSF member, or associate member since 2002)
-1. [Open Source Diversity](https://opensourcediversity.org/) Community
+1. Open Source Diversity Community
 1. Orhun Parmaksız (Arch Linux maintainer)
 1. Orion Montoya (former rms-assist, former FSF, GPLv3 drafting-process software developer)
 1. Otavio Salvador (former FSF associate member, former Debian Installer Release Manager)
@@ -892,7 +892,7 @@ Signed,
 1. Thom Chiovoloni
 1. Tianon Gravi
 1. Tierney Cyren (Node.js Community Committee Chairperson, Electron, OpenJS Foundation CPC)
-1. Tim D. Smith (Mozilla; former member, [Homebrew](https://brew.sh) PLC)
+1. Tim D. Smith (Mozilla; former member, Homebrew PLC)
 1. Tim Pierce (former GNU Guile contributor)
 1. Tiphaine Viard (Associate professor, Telecom Paris)
 1. Timothée Ravier (Fedora Project Contributor)
