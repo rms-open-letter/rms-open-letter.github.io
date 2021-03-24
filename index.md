@@ -866,6 +866,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Mélissa Richard
 1. Micah Anderson
 1. Micah E Scott
+1. Michael Babker (Former Production Department Coordinator for Joomla!/OpenSourceMatters)
 1. Michael Bikovitsky
 1. Michael Bond (FSF Associate Member)
 1. Michael Carbone (Qubes OS)
@@ -1098,7 +1099,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Sam Pritchard
 1. Samuel Scheiderich
 1. Sam van der Kris
-1. Sander van der Waal (Waag) 
+1. Sander van der Waal (Waag)
 1. Sandro Jäckel (NixOS contributor)
 1. Santeri Kasvi
 1. Santiago Saavedra (former President, GPUL; Co-founder, IUVIA)
@@ -1235,7 +1236,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Ujjwal Sharma (Node.js Core Collaborator, TC39, Igalia)
 1. Vadim Rutkovsky
 1. Vangelis Katsikaros
-1. Veronica Cary
 1. Victor Hugo Soliz Kuncar
 1. Victoria "tdfischer" Fierce (Former KDE Multimedia and Phonon-GStreamer maintainer)
 1. Viktoriia Leontieva (Product Designer at GitHub)
