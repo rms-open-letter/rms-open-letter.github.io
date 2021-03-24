@@ -626,6 +626,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. James Turnbull (former President of Linux Australia)
 1. James Weare
 1. Jamie Gaskins
+1. Jamie Phillips
 1. Jan Christian Grünhage (Matrix, Famedly GmbH)
 1. Jane Manchun Wong
 1. Jani "zment" Kärkkäinen
