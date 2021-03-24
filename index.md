@@ -83,6 +83,7 @@ Signed,
 1. Amy Null "`queer`"
 1. Amy Russell
 1. Amy Troschinetz
+1. Ana Guerrero López
 1. Andrea Denisse Gómez-Martínez (Arch Linux, i3blocks maintainer)
 1. Andreas Happe
 1. Andrea Wieland
