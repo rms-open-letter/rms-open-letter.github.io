@@ -583,6 +583,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Gordon Haff (OSI Member)
 1. Gordon Stratton
 1. Graham Christensen (NixOS contributor)
+1. Graham Freeman
 1. Graham Sutherland
 1. Grant Seltzer Richman
 1. Greg Day
