@@ -274,6 +274,7 @@ Signed,
 1. Desiree Zamora Garcia (A List Apart)
 1. Devin Buhl
 1. Didier 'OdyX' Raboud (Debian Developer, former Debian Technical Committee chair)
+1. Dieter Maes
 1. Dillon Pentz (OBS Project Developer)
 1. Dimitri John Ledkov (Debian Developer, Ubuntu Core Developer, former member of the SPI Inc board of directors)
 1. Dirk Hohndel
