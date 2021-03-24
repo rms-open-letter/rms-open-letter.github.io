@@ -100,6 +100,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Alex Murray
 1. Alex Ose
 1. Alex Stapleton
+1. Alex Volkov
 1. Alfred Neumayer (UBports developer)
 1. Alison Dowdney (Kubernetes SIG Contributor Experience Chair)
 1. Allie `sapphiclinguine` M. (salmon_lib developer)
@@ -248,6 +249,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Carina C. Zona (CallbackWomen)
 1. Carlos Soriano Sanchez (Former GNOME Foundation director and Nautilus maintainer, GNOME GitLab admin)
 1. Carl Schwan (KDE)
+1. Carlos Tadeu Panato Junior
 1. Carlton Whitehead
 1. Carmen Bianca Bakker (Contributor to FSFE, GNOME, Fedora)
 1. Carolina Brum (FSF member)
@@ -415,6 +417,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Edel Grace
 1. Ed Marshall
 1. Ed Summers
+1. Eddie Kay
 1. Eduardo Habkost
 1. Edward L. Platt (i3 Detroit cofounder, NetworkX contributor)
 1. Ee Durbin (PyPI Administrator)
@@ -575,6 +578,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. James Smith (@floppy)
 1. James Spivey
 1. James Troup
+1. James Turk (Open States)
 1. James Turnbull (former President of Linux Australia)
 1. James Weare
 1. Jamie Gaskins
@@ -1324,5 +1328,4 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Zack Cerza
 1. Zeltzin Rodríguez
 1. Zvi Gilboa
-2. Eddie Kay
-1. James Turk (Open States)
+<!-- Do not add your name to the bottom, it needs adding in alphabetical order above -->
