@@ -441,6 +441,7 @@ Signed,
 1. Jesse Raleigh (Sr Security Researcher)
 1. Jesser Lemus
 1. Jesús Castro
+1. Jez Cope
 1. Jill Pelavin
 1. Jill Rouleau (Ansible Maintainer / Steering Commitee member)
 1. Jim Campbell
