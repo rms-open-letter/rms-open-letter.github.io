@@ -688,6 +688,7 @@ Signed,
 1. Marius Quabeck (NerdZoom Media)
 1. Mark Brown (Linux, Debian)
 1. Markos Fragkakis
+1. Markus `kmi` S. (Chaos Computer Club)
 1. Mark Tomko
 1. Markus Bohnensack
 1. Markus Unterwaditzer
