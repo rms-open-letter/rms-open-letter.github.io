@@ -861,6 +861,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. leo60228
 1. Leo Famulari
 1. Liam R. Howlett (kernel developer)
+1. Lina B (elatelation)
 1. Linda Fernández
 1. Lindsay Holmwood (former Vice President of Linux Australia)
 1. Linus Groh
