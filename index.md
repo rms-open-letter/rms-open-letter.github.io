@@ -244,6 +244,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Charles Burton
 1. Charlie Kravetz
 1. Charlotte Masterson (Hardware and R&D manager at Fivnex)
+1. Chinese Developers 🇨🇳 中国开发者（Diemcoin.Network)
 1. Chris Adams (@acdha)
 1. Chris Burgess
 1. Chris Desnoyers
