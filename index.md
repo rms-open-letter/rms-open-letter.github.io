@@ -1035,6 +1035,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Mano Marks
 1. Manuel Genovés (GNOME)
 1. Manuel González
+1. Marc-Antoine `Keruspe` Perennou (Exherbo)
 1. Marcantonio Rendino
 1. Marcelo Teider Lopes
 1. Marco 'eukara' Hladik
