@@ -740,6 +740,7 @@ Signed,
 - Simon Phipps (Former OSI President)
 - Simon Richter
 - Simon Wistow
+- Skaira Eris
 - Skylar Alexandra Bleed
 - Solly Ross (Kubernetes KubeBuilder maintainer)
 - Song Li
