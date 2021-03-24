@@ -150,6 +150,7 @@ Signed,
 - D. Joe Anderson
 - Dmitry Borodaenko (Debian Developer, Former Fuel for OpenStack Project Technical Lead)
 - Dmitry Porunov
+- dmt
 - Dominic Hayes (The Feren OS Developer)
 - Dorothea Salo
 - Ed Marshall
