@@ -489,6 +489,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Ezekiel Hendrickson
 1. Fabio Di Peri
 1. Fadi Abou Younes (Collabora)
+1. Fabián Rodríguez (`MagicFab`)
 1. Fabio Neves (@fzero)
 1. Fahad Hossain
 1. Faith Jasmine Viola
