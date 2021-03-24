@@ -415,6 +415,7 @@ Signed,
 - Naglis Lesčinskas
 - Nathan Dyer (former FSF associate member)
 - Nathan Handler (Ubuntu/Debian Developer, freenode Staff, SeaGL Program Committee Co-Chair)
+- Nathan Ritchie
 - Nathaniel J. Smith
 - Neal Gompa (Fedora Project contributor, Mageia Project Council Member, Mageia.Org Board Member, openSUSE Project Board Member, OpenMandriva contributor)
 - Neil Watson (Former CFEngine Community Advisory Board Member)
