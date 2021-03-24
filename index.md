@@ -1113,6 +1113,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Madison `makyo` Scott-Clary
 1. Mads Johansen
 1. Magnus Krüger
+1. Magnus Frühling (Freifunk Frankfurt contributor, OpenWrt committer, Chaos Computer Club)
 1. Mairi Dulaney (Fedora Project contributor)
 1. Máirín Duffy (Fedora Project, former FSF HPP committee member, former LP speaker)
 1. Malleck Braun
