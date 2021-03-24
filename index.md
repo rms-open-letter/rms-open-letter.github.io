@@ -694,6 +694,7 @@ Signed,
 1. Noel Cower
 1. Noel Georgi
 1. Nora Moldestad
+1. Norbert Tretkowski (Debian Developer, FSFE Supporter)
 1. Odhiambo Dormnic (@ayimdomnic)
 1. Ole Streicher (Debian Developer)
 1. Olivier Berger (FSF member, or associate member since 2002)
