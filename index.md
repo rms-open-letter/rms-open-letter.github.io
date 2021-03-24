@@ -95,6 +95,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Alexandra Stehr
 1. Alexandre Dulaunoy (former FSF associate member #53)
 1. Alex Arslan (Julia contributor, former Julia community manager)
+1. Alex Brown
 1. Alex Callejas
 1. Alex Desmond
 1. Alex Engelberg
