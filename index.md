@@ -650,6 +650,7 @@ Signed,
 - Peter Huene
 - Peter Hunt
 - Peter Jones (Fedora developer)
+- Peter Robinson (Fedora developer, former Fedora Board and Council member)
 - Peter Van Eynde
 - Petrohs
 - Phil Dibowitz
