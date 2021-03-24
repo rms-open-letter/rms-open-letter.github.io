@@ -1694,6 +1694,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Thomas Sirack
 1. Thomas Wouters (former GNU contributor)
 1. Thom Chiovoloni
+1. Tiago Carrondo
 1. Tiago Vinicius de Andrade Almeida
 1. Tianon Gravi
 1. Tierney Cyren (Node.js Community Committee Chairperson, Electron, OpenJS Foundation CPC)
