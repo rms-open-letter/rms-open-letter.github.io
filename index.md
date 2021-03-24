@@ -299,6 +299,7 @@ Signed,
 - Karen Rustad Tölva (former OpenHatch and Students for Free Culture board member)
 - Karsten Wade (CentOS Board member, former Fedora Board & Docs Lead, the Open Source Way)
 - Katherine Flavel
+- Kathleen Lu
 - Kavi Laud
 - Kayla Anne Cupples
 - Kellegram
