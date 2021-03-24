@@ -201,6 +201,7 @@ Signed,
 - Dan "Fennix" Sim
 - Daniel Feldroy (previously Daniel Roy Greenfeld)
 - Daniel Foré (Founder, elementary, Inc.)
+- Daniel Holbach (Former Ubuntu Council Member and Core Developer)
 - Daniel Kolesa (@octaforge, Void Linux developer)
 - Daniel Murphy (@danhatesnumbers)
 - Daniel Nazer
