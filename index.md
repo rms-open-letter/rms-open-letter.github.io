@@ -597,6 +597,7 @@ Signed,
 - Matthew S. Wilson (former contributor GNU Image Manipulation Program and GNU Parted, former Director, Software Freedom Conservancy)
 - Matthew Vernon (Debian developer)
 - Matthew Wilcox (Linux kernel hacker)
+- Matthias Antierens
 - Matthias Arnason
 - Matthias Bussonnier (Project Jupyter co-founder)
 - Matthias Klumpp (Debian, freedesktop.org)
