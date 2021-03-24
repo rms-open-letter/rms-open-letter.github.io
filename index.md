@@ -146,7 +146,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Andrea Wieland
 1. Andrea Zonca (University of California San Diego)
 1. Andrei Jiroh Eugenio Halili (Founder of @MadeByThePinsHub)
-1. Andrei Kvapil (@kvaps)
 1. Andrej Shadura (Collabora, Debian Developer)
 1. Andre Klapper (GNOME)
 1. Andrés Hernández "`tonejito`" (LIDSoL)
