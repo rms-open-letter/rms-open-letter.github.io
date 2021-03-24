@@ -261,6 +261,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Christina Dunbar-Hester (Author of *Hacking Diversity*)
 1. Christine Hall (former OSI Board member)
 1. Christof Haerens
+1. Christophe Junke
 1. Christoph Blecker (Kubernetes Maintainer and Steering Committee Member)
 1. Christophe Noisel
 1. Christopher Allan Perry
