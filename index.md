@@ -1581,6 +1581,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Wayne M. Thornton, B.S., CPDT (Co-Founder & Project Manager VIRATRACE)
 1. Wendy Bolm (Chief Operations Officer, CommitChange)
 1. Wendy Seltzer
+1. Werner Mahr
 1. Wes Mason (Ubuntu Community Member and former FSFE Fellow)
 1. Weston Steimel
 1. Wheeler Law (Red Hat Inc.)
