@@ -236,6 +236,7 @@ Signed,
 - Dmitry Porunov
 - dmt
 - Dominic Hayes (The Feren OS Developer)
+- Don Goodman-Wilson (Founding Member and resident ethicist, Organization for Ethical Source)
 - Donnie Barnes (former Red Hat employee #2)
 - Dorothea Salo
 - Dustin Mitchell (Engineer, Mozilla)
