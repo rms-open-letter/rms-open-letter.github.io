@@ -225,6 +225,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Carlos Soriano Sanchez (Former GNOME Foundation director and Nautilus maintainer, GNOME GitLab admin)
 1. Carl Schwan (KDE)
 1. Carlton Whitehead
+1. Carmen Bianca Bakker (Contributor to FSFE, GNOME, Fedora)
 1. Carol Willing
 1. Casper Sørensen
 1. Cassidy James Blaede (elementary co-founder, GNOME Foundation member)
