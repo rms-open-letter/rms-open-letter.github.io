@@ -905,6 +905,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Mark Filion (Collabora)
 1. Markos Fragkakis
 1. Mark Tomko
+1. Mark Paluch
 1. Markus Bohnensack
 1. Markus `kmi` S. (Chaos Computer Club)
 1. Markus Unterwaditzer
