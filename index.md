@@ -937,6 +937,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. José Manrique López de la Fuente
 1. Josephine Seaton
 1. Joseph Jacks (Founder, OSS Capital)
+1. Joseph Thomas
 1. Josh Conway (CrankyLinuxUser)
 1. Josh Levinger (OpenSourceActivism.tech)
 1. Josh Mitchell
