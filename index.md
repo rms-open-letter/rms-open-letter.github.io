@@ -673,6 +673,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Jill Pelavin
 1. Jill Rouleau (Ansible Maintainer / Steering Commitee member)
 1. Jim Campbell
+1. Jim Perrin (CentOS Project, Fedora Project)
 1. Joanna Janet Zaitseva-Doyle (aka @aoeixsz4 / 'aoei')
 1. João Carlos Almeida
 1. João "Johnny" Ciocca (DCG5511)
