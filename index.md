@@ -340,6 +340,7 @@ Signed,
 - Martin Kühl
 - Martin Splitt
 - Martin Wimpress (Former FSF member)
+- Mathieu Comandon (Lutris)
 - Matt Beland
 - Matteo Tammaccaro
 - Matthew `mattcen` Cengia
