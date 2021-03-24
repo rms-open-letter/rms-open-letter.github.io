@@ -52,6 +52,7 @@ Signed,
 1. Mozilla
 1. Open Life Science
 1. Open Source Diversity
+1. Sanctuary Computer
 1. Tor Project
 1. X.org Foundation
 
