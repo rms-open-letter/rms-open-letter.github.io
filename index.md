@@ -473,6 +473,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Dan 'pixelflow' Humphreys
 1. Dan Stuart
 1. Dan Winship
+1. Danielle Lancashire (Contributor, NixOS/Kubernetes; formerly CocoaPods, Nomad)
 1. Dario Ninicato
 1. Davanum Srinivas (TOC, CNCF; Steering, Kubernetes)
 1. Dave Camp (Mozilla, Former GNOME Foundation)
