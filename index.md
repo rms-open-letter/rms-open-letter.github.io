@@ -1012,6 +1012,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Mike Wyatt
 1. Mikel Johnson
 1. Mike Olson (Postgres, Berkeley DB, Cloudera)
+1. Mikhail Popov (Wikimedia Foundation)
 1. Milan Pässler (Chaos Computer Club, NixOS contributor)
 1. Milo Casagrande
 1. Ming-ting Yao Wei (Debian Developer, former LXTerminal developer)
