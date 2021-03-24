@@ -742,6 +742,7 @@ Signed,
 - Robert Joslyn
 - Robert Lipe (GPSBabel creator, contributor to open source since 87)
 - Robert Newson (Apache CouchDB PMC, ASF Member)
+- Robert McQueen (President of the GNOME Foundation)
 - Robey Pointer (paramiko, eggdrop)
 - Robin Widegren
 - Rob Smith (SeaGL Co-Founder)
