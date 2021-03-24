@@ -675,6 +675,7 @@ Signed,
 - Tom "spot" Callaway (Fedora Council member, former LP speaker)
 - Tony Colston
 - Tony Richards
+- Travis Brown
 - tre murillo
 - Trevor Thalacker
 - Tristan Rain Hamer
