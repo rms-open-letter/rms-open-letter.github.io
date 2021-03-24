@@ -509,6 +509,7 @@ Signed,
 - Khionu Sybiern
 - Khosrow Moossavi
 - Kimball Johnson (Former Chair FLOSS UK aka UKUUG)
+- Kris Buytaert
 - Krzysztof Sakrejda
 - Kukuh Syafaat (GNOME, openSUSE)
 - Kumar Anirudha
