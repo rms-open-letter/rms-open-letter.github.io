@@ -727,6 +727,7 @@ Signed,
 1. Norbert Tretkowski (Debian Developer, FSFE Supporter)
 1. Odhiambo Dormnic (@ayimdomnic)
 1. Ole Streicher (Debian Developer)
+1. Oliver Falk (Libravatar project)
 1. Olivier Berger (FSF member, or associate member since 2002)
 1. Open Source Diversity Community
 1. Orhun Parmaksız (Arch Linux maintainer)
