@@ -70,6 +70,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Adam Barber
 1. Adam Čalovka
 1. Adam H. Leventhal
+1. Adam Fisk (Brave New Software Project, Inc)
 1. Adam Jackson (X.org, Fedora)
 1. Adam Miller (Ansible, Fedora)
 1. Adam Monsen (SeaGL co-founder)
