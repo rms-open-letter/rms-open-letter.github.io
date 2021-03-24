@@ -753,6 +753,7 @@ Signed,
 1. Pascal Jufer
 1. Pat Allan
 1. Pat Hickey
+1. Patric Mueller (NetHack DevTeam member)
 1. Patrick Engelman
 1. Patrick Meyer (`HerrSpace`)
 1. Patrick Robinson
