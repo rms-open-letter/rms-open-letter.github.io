@@ -518,6 +518,7 @@ Signed,
 1. J. Ryan Stinnett
 1. Jugal Kishore
 1. Jules Penuchot (Paris-Saclay University)
+1. Julia Luna
 1. Julian Andres Klode
 1. Julian Hofer (GNOME, Deltares) 
 1. Julien Cristau (Debian, X.Org, Mozilla)
