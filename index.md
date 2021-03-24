@@ -222,7 +222,6 @@ Signed,
 1. Christopher `kode54` Snowhill
 1. Christopher Patti
 1. Christopher Schmidt
-1. Christoph Wickert (SUSE, former Fedora Council and Advisory Board member)
 1. Chris Wayne (Ubuntu)
 1. Clare Macrae
 1. Clarissa Borges (GNOME Foundation member)
@@ -413,6 +412,7 @@ Signed,
 1. Ilya Kreymer
 1. intrigeri (Debian Developer, Tails Developer)
 1. Irina Rempt
+1. Isaac Ferreira Filho (aka "yzakius", GNOME contributor)
 1. Isabela Bagueros
 1. Isak Sunde Singh
 1. Italo Vignoli (OSI Director, LibreItalia Honorary President)
@@ -494,7 +494,6 @@ Signed,
 1. Jona Azizaj (Fedora Project, Open Source Diversity)
 1. Jonas Obrist (PyCon JP Association Board Member)
 1. Jonas Schwartz
-1. Jonas Verhofsté
 1. Jonatas Baldin
 1. Jonathan Carter (Debian Project Leader, former FSF member and one of the top referrers (#3066))
 1. Jonathan Kamens (>30yrs maintaining OSS, one-time FSF contributor)
@@ -520,7 +519,6 @@ Signed,
 1. J. Ryan Stinnett
 1. Jugal Kishore
 1. Jules Penuchot (Paris-Saclay University)
-1. Julia Luna
 1. Julian Andres Klode
 1. Julian Hofer (GNOME, Deltares) 
 1. Julien Cristau (Debian, X.Org, Mozilla)
@@ -559,7 +557,6 @@ Signed,
 1. Kev Quirk
 1. Khionu Sybiern
 1. Khosrow Moossavi
-1. Kiran Jonnalagadda
 1. Kimball Johnson (Former Chair FLOSS UK aka UKUUG)
 1. Kris Buytaert
 1. Krzysztof Sakrejda
@@ -578,7 +575,6 @@ Signed,
 1. Lee Hambley (Capistrano maintainer, former FSFE member)
 1. Liam R. Howlett (kernel developer)
 1. Linda Fernández
-1. Lindsay Holmwood (former Vice President of Linux Australia)
 1. Linus Parker
 1. Lioncache
 1. Lionirdeadman
@@ -730,7 +726,6 @@ Signed,
 1. Nicolás `nomeacuerdo` Arteaga
 1. Nicolas Schier (Debian maintainer)
 1. Nicole Martinez
-1. Nikhita Raghunath (Kubernetes Steering Committee Member)
 1. Nikita Gillmann (ex-GNUnet developer, former GNU Guix contributor, NetBSD/pkgsrc developer)
 1. Nikos Roussos (FSFE, GA member)
 1. Nils Adermann
@@ -761,7 +756,6 @@ Signed,
 1. Pascal Jufer
 1. Pat Allan
 1. Pat Hickey
-1. Patric Mueller (NetHack DevTeam member)
 1. Patrick Engelman
 1. Patrick Meyer (`HerrSpace`)
 1. Patrick Robinson
@@ -812,7 +806,6 @@ Signed,
 1. Renaud Lepage
 1. Reuben Morais
 1. Rhonda D'Vine (Debian Developer, Open Source Diversity)
-1. Ricardo Bánffy
 1. Richard Guy Briggs (FreeS/WAN kernel, OCLUG founding board, kaudit)
 1. Richard Brown (Former openSUSE Chairman)
 1. Richard Maw
@@ -822,7 +815,6 @@ Signed,
 1. Rich Felker (musl libc)
 1. Richo Healey
 1. Rick Scott
-1. Rigin Oommen
 1. Roan Kattouw
 1. Robert Barat
 1. Robert Berg
