@@ -192,6 +192,7 @@ Signed,
 - Daniel Nazer
 - Daniel Soskel
 - Daniel Stone (freedesktop.org, Wayland)
+- Dan Stuart
 - Dan Jacka
 - Danny Bouimad
 - Danny "Rushyo" Moules (Security researcher, EFF Member, Former Mozilla contributor)
