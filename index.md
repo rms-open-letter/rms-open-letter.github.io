@@ -322,6 +322,7 @@ Signed,
 - Ilya Kreymer
 - Irina Rempt
 - Isabela Bagueros
+- Isak Sunde Singh
 - Italo Vignoli (OSI Director, LibreItalia Honorary President)
 - Jack 'jrabbit' Laxson
 - Jacob H. Haven
