@@ -333,6 +333,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Christopher `kode54` Snowhill
 1. Christopher Patti
 1. Christopher Schmidt
+1. Christopher Swenson (sort.h author and maintainer)
 1. Christoph Wickert (openSUSE contributor, former Fedora Council and Advisory Board member)
 1. Chris Wayne (Ubuntu)
 1. Clara Hobbs
