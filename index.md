@@ -43,14 +43,15 @@ Signed,
 1. CommitChange
 1. Globenet
 1. GlobaLeaks
-2. The HardenedBSD Foundation / The HardenedBSD Project
-3. MidnightBSD Project
-4. MousePaw Media
-5. Mozilla
-6. Open Life Science
-7. Open Source Diversity
-8. Tor Project
-9. X.org Foundation
+1. GNOME Foundation
+1. The HardenedBSD Foundation / The HardenedBSD Project
+1. MidnightBSD Project
+1. MousePaw Media
+1. Mozilla
+1. Open Life Science
+1. Open Source Diversity
+1. Tor Project
+1. X.org Foundation
 
 ### Individuals
 
@@ -155,6 +156,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Andre Klapper (GNOME)
 1. Andrés Hernández "`tonejito`" (LIDSoL)
 1. Andres Salomon (Debian Developer)
+1. Andrés Torres
 1. Andrew Cherry
 1. Andrew Dona-Couch
 1. Andrew J. Stephen
@@ -301,6 +303,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Cara Esten Hurtle
 1. Carina C. Zona (CallbackWomen)
 1. Carl George (CentOS Project, Fedora Project)
+1. Carlos Alexandro Becker (`caarlos0`)
 1. Carlos Soriano Sanchez (Former GNOME Foundation director and Nautilus maintainer, GNOME GitLab admin)
 1. Carlos Tadeu Panato Junior
 1. Carl Schwan (KDE)
@@ -331,6 +334,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Chris Desnoyers
 1. Chris DiBona (Google LLC.)
 1. Chris Garaffa (Tech for the People)
+1. Chris Gardner
 1. Chris Hoge
 1. Chris Holdgraf (2i2c, Project Jupyter)
 1. Chris Johnson
@@ -532,11 +536,13 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Emily Strickland
 1. Emma Best (Distributed Denial of Secrets)
 1. Emmanuele Bassi (GNOME Foundation)
+1. Emmanuel Large
 1. Enio Gemmo (LibreItalia Chairman)
 1. Enrico Zini (Debian Developer)
 1. Enum Cohrs
 1. Eric Hodel
 1. Erick Perez Castellanos
+1. Eric Rösch
 1. Eric Schrock
 1. Eric Shamow
 1. Eric "Sheppy" Shepherd
@@ -664,6 +670,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Hao Ye
 1. Haran Lakha
 1. Hardy Pottinger (DSpace Committer)
+1. Haris Sehic
 1. Harsh Deep (`harsh183`)
 1. Harsh Shandilya
 1. Havoc Pennington (former GNOME Foundation)
@@ -694,6 +701,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Ian Jackson (Former Debian Project Leader; former President, Software in the Public Interest; GNU Maintainer)
 1. Ian Stapleton Cordasco
 1. Idan Gazit (Django project alumnus)
+1. Igmar Palsenberg
 1. Ignacio Torres Masdeu
 1. Ilya Kreymer
 1. intrigeri (Debian Developer, Tails Developer)
@@ -709,6 +717,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Jack Firth
 1. Jack 'jrabbit' Laxson
 1. Jack Leadford
+1. Jacky Alciné
 1. Jacob Dreesen
 1. Jacob H. Haven
 1. Jacob Kaplan-Moss (Django co-creator; Founder, Django Software Foundation)
@@ -857,6 +866,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. José Manrique López de la Fuente
 1. Josephine Seaton
 1. Josh Levinger (OpenSourceActivism.tech)
+1. Josh Mitchell
 1. Josh Simmons (President of the Open Source Initiative)
 1. Josh Triplett
 1. Joshua Ashton
@@ -1028,6 +1038,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Mano Marks
 1. Manuel Genovés (GNOME)
 1. Manuel González
+1. Marc-Antoine `Keruspe` Perennou (Exherbo)
 1. Marcantonio Rendino
 1. Marcelo Teider Lopes
 1. Marco 'eukara' Hladik
@@ -1217,6 +1228,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Nora Moldestad
 1. Norbert Tretkowski (Debian Developer, FSFE Supporter)
 1. Odhiambo Dormnic (@ayimdomnic)
+1. Ole Bang Ottosen (Former Core Team member Production/Community Joomla!/OpenSourceMatters)
 1. Ole Streicher (Debian Developer)
 1. Oliver Drotbohm
 1. Oliver Falk (Libravatar project)
@@ -1304,6 +1316,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Rainer Bendig
 1. Ralph FriarTech Loizzo
 1. Rami Chowdhury
+1. Randall Carver
 1. Randolph West
 1. Randy J. Ray (@rjray)
 1. rany
@@ -1376,6 +1389,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Ryan Gannon
 1. Ryan Gonzalez
 1. Ryan Heywood
+1. Ryan P. Joseph
 1. Ryan Lahfa
 1. Ryan McNeely
 1. Ryan Petrello (Ansible AWX Maintainer, Red Hat)
@@ -1393,6 +1407,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Sam Muirhead
 1. Sam Pavlovic
 1. Sam Phillips
+1. Sam Pichardo
 1. Sam Pikesley
 1. Sam Pritchard
 1. Samuel Scheiderich
@@ -1518,6 +1533,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Theo Schlossnagle
 1. TheSpiritingPoet
 1. Thierry Carrez (Open Infrastructure Foundation, Python Software Foundation fellow)
+1. Thijs van der Vossen (Fingertips)
 1. Thomas Belvin
 1. Thomas Castleman (`Batcastle`, Drauger OS Founder and Lead Developer)
 1. Thomas Guillem (VLC developer)
@@ -1570,6 +1586,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Vadim Rutkovsky
 1. Vanessa Oxley
 1. Vangelis Katsikaros
+1. Veeti Veteläinen (`Uumas`)
 1. Veronica Cary
 1. Vicky Rampin
 1. Victor Hugo Soliz Kuncar
