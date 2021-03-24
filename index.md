@@ -537,6 +537,7 @@ Signed,
 - Nils Adermann
 - Nixon Enraght-Moony
 - Noah/`coolreader18` (RustPython maintainer)
+- Noel Cower
 - Noel Georgi
 - Odhiambo Dormnic (@ayimdomnic)
 - Ole Streicher (Debian Developer)
