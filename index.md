@@ -549,6 +549,7 @@ Signed,
 - William Theaker (Former FSF staff member)
 - Wolthera van Hövell (Krita/KDE)
 - Xavier Tilley
+- Xav Paice
 - X.org Foundation Board of Directors (Lyude Paul, Eric Anholt, Mark Filion, Keith Packard, Daniel Vetter, Harry Wentland, Samuel Iglesias Gonsálvez)
 - Yao Li (former FSF Monthly Student Associate Member)
 - Yorik van Havre
