@@ -335,6 +335,7 @@ Signed,
 1. Ezekiel Hendrickson
 1. Fabio Di Peri
 1. Faith Jasmine Viola
+1. Fanael Linithien
 1. Faye Duxovni
 1. Federico Mena Quintero (GNOME)
 1. Federico Pontillo
