@@ -140,7 +140,7 @@ Signed,
 - Bryan Bishop
 - Bryan Meyers (Solus Technical Lead)
 - Bryan Paget
-- Bryce Adelstein Lelbach aka wash (US Programming Language Standards Chair, ISO C++ Library Evolution Chair, 
+- Bryce Adelstein Lelbach aka wash (US Programming Language Standards Chair, ISO C++ Library Evolution Chair)
 - Byron Lagrone
 - Cadence Ember
 - Cameron Tauxe
