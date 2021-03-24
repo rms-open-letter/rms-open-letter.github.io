@@ -652,6 +652,7 @@ Signed,
 - Steve Langasek (former Debian Technical Committee member; Ubuntu Technical Board member)
 - Steve McIntyre (Former Debian Project Leader)
 - Steven DuBois
+- Stuart A Yeates (former OSS Watch staffer)
 - Sydney Schreckengost
 - Tab Atkins-Bittner (@tabatkins, active W3C/TC39/WHATWG editor)
 - Tamás Szelei
