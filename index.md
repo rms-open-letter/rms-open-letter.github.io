@@ -304,6 +304,7 @@ Signed,
 - Greg Grossmeier
 - Guilhem Moulin (Debian Developer)
 - Gunnar Wolf (Debian Developer, member of the Debian Technical Committee)
+- Gustaf Lindstedt
 - Gustavo Costa (Fedora Project contributor)
 - Guy Templeton (Kubernetes SIG Autoscaling Chair)
 - Halla Rempt (maintainer of Krita)
