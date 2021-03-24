@@ -703,6 +703,7 @@ Signed,
 1. Markus Unterwaditzer
 1. Marte Træen
 1. Martijn Bos(Galavanto)
+1. Martin Bayo
 1. Martin Guillon
 1. Martin Kühl
 1. Martin Robinson (Igalia)
