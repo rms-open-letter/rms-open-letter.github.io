@@ -754,7 +754,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Hubert Figuière
 1. Hypolite Petovan (Friendica Developer)
 1. Iain Nicol
-1. Ian Coldwater (Kubernetes SIG Security Chair, Open Source Security Foundation Governing Board)
 1. Ian Denhardt (Sandstorm contributor, former developer for GNU Social and Parabola GNU/Linux, former FSF member)
 1. Ian Hyzy
 1. Ian Jackson (Former Debian Project Leader; former President, Software in the Public Interest; GNU Maintainer)
@@ -1625,6 +1624,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Steven Dake (Former: elected OpenStack BOD member, Heat PTL, former Kolla PTL, Corosync lead)
 1. Steven DuBois (former FSF intern)
 1. Steve Pomeroy
+1. Steve Widinghoff
 1. Stew O'Connor (former Debian debeloper, former freenode staff)
 1. Stig Sandbeck Mathisen (Debian Developer)
 1. Stuart Auld
@@ -1721,7 +1721,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Veronica Cary
 1. Vicky Rampin
 1. Victor Hugo Soliz Kuncar
-1. Victor Westerhuis
 1. Victoria "tdfischer" Fierce (Former KDE Multimedia and Phonon-GStreamer maintainer)
 1. Viktoriia Leontieva (Product Designer at GitHub)
 1. Vincent Esche
