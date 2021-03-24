@@ -92,6 +92,7 @@ Signed,
 - Anthony Rabbito
 - Anthony Shaw (Python Software Foundation Fellow, ASF Member)
 - Antoine Beaupré AKA anarcat (Debian Developer, former FSF member)
+- Anuj Arora
 - Ariadne Conill (Alpine Developer, pkgconf)
 - Ariela Wenner
 - Arne Brasseur
