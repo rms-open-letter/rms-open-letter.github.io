@@ -339,6 +339,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Casper Sørensen
 1. Cas Rusnov (free software contributor, former Debian developer)
 1. Cassidy James Blaede (elementary co-founder, GNOME Foundation member)
+1. Celeste Horgan
 1. Cathy Warner
 1. Chad Booker
 1. Chandan Kumar (raukadah)
