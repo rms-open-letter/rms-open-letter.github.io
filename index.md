@@ -883,6 +883,7 @@ Signed,
 1. Trolli Schmittlauch
 1. Tuna Ilgaz
 1. Ujjwal Sharma (Node.js Core Collaborator, TC39, Igalia)
+1. Vadim Rutkovsky
 1. Vangelis Katsikaros
 1. Victor Hugo Soliz Kuncar
 1. Victoria "tdfischer" Fierce (Former KDE Multimedia and Phonon-GStreamer maintainer)
