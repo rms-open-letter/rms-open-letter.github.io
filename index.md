@@ -279,6 +279,7 @@ Signed,
 1. David Thompson (GNU Guile/Guix contributor, ex-FSF)
 1. David Turner (former GPL Compliance Engineer at FSF)
 1. D. Ben Knoble
+1. Delan Azabani (Igalia)
 1. Denis Evsyukov
 1. Dennis Schubert (Mozilla, former diaspora\* maintainer)
 1. Derek Payton (Founder/Executive Director, Root Access Hackerspace; Former FSF Associate Member)
@@ -848,7 +849,6 @@ Signed,
 1. Savin Goyal
 1. Sayan Chowdhury (@yudocaa)
 1. Scott Hain
-1. Scott Martin
 1. Scott Starr
 1. Scott Walters
 1. Sean McGinnis
@@ -980,4 +980,3 @@ Signed,
 1. Zack Cerza
 1. Zeltzin Rodríguez
 1. Zvi Gilboa
-1. Alexander Jacocks (Red Hat)
