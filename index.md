@@ -142,6 +142,7 @@ Signed,
 - Brendan Hickey
 - Brendan O'Leary
 - Brennen Bearnes
+- Brenton Cleeland
 - Bret Moore
 - Brett Sheffield (Librecast Project)
 - Brian Chen (`betaveros`)
