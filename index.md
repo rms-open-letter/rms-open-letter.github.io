@@ -659,6 +659,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Jack Leadford
 1. Jacob H. Haven
 1. Jacob Kaplan-Moss (Django co-creator; Founder, Django Software Foundation)
+1. Jacob Perkins
 1. Jacob See (Red Hat)
 1. Jacob Weisz
 1. Jade '0x0ade' Macho
