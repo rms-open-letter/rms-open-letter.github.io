@@ -167,6 +167,7 @@ Signed,
 - Christian Glombek (Fedora Project contributor)
 - Christian Heimes (Python)
 - Christian Hergert (GNOME)
+- Christian `shibumi` Rebischke (Arch Linux)
 - Christian Salamea
 - Christina Dunbar-Hester (Author of *Hacking Diversity*)
 - Christine Hall (former OSI Board member)
