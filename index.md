@@ -446,6 +446,7 @@ Signed,
 - John Hess
 - John Krug (jhkrug)
 - John SJ Anderson
+- John Sturdy
 - John "Warthog9" Hawley
 - John Wiseman
 - Jona Azizaj (Fedora Project, Open Source Diversity)
