@@ -483,6 +483,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Dario Ninicato
 1. Davanum Srinivas (TOC, CNCF; Steering, Kubernetes)
 1. Dave Camp (Mozilla, Former GNOME Foundation)
+1. Dave F. Kleinschmidt
 1. David A. Symons
 1. David Burns (Selenium contributor, former Mozilla)
 1. David Cantrell (Fedora developer)
