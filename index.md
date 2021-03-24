@@ -64,6 +64,7 @@ Signed,
 <small>(For individual signatures, institutional affiliation is provided for
 identification purposes only and does not constitute endorsement.)</small>
 
+1. Aaron Berger
 1. 2048 4096
 1. 8ara7a
 1. Aadil Ayub
