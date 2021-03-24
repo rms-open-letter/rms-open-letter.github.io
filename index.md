@@ -994,6 +994,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Pierre Ozoux (@pierreozoux)
 1. Pierros Papadeas (Board member, Libre Space Foundation)
 1. Pieter De Praetere
+1. Pietro Gagliardi (`andlabs`; currently at Google)
 1. Pranav Teegavarapu
 1. Rachel Chalmers (boardmember, The Ada Initiative)
 1. Rachel Domagalski
