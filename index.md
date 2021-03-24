@@ -84,6 +84,7 @@ Signed,
 - Arthur Richards
 - Artur Tamborski (former FSF member)
 - Asta Halkjær From
+- Ashish Dixit
 - Asumu Takikawa
 - Aura Vulcano
 - Avery "stars" M-W
