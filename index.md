@@ -860,6 +860,7 @@ Signed,
 1. Steven DuBois
 1. Stew O'Connor (former Debian debeloper, former freenode staff)
 1. Stuart Auld
+1. Stuart Harrison
 1. Stuart A Yeates (former OSS Watch staffer)
 1. Sydney Schreckengost
 1. Sylvestre Ledru (Debian, LLVM and Mozilla) 
