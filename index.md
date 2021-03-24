@@ -98,6 +98,7 @@ Signed,
 - Anis Tarafdar
 - Anna Glasgall
 - Anne Nicolas (Kernel Recipes organizer)
+- Anne van Kesteren (Mozilla, WHATWG)
 - Anthony Maki (@4cm4k1)
 - Anthony Miller
 - Anthony Rabbito
