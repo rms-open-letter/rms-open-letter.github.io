@@ -663,6 +663,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Hayden Seay
 1. Haze Booth
 1. Hazel Levine
+1. Hector Martin (Asahi Linux project lead)
 1. Heiko Becker (Exherbo, KDE)
 1. Hein-Pieter van Braam-Stewart (FSF associate member since 2008)
 1. Helen Larson
