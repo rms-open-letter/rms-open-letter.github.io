@@ -976,6 +976,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Saptak S
 1. Sarah Connor
 1. Sarah Voegeli
+1. Sarina Canelake
 1. Sasha Weiss
 1. Sasi Olin (openSUSE Member, former openSUSE Board member)
 1. Satvik Sharma
