@@ -335,6 +335,7 @@ Signed,
 1. Eduardo Habkost
 1. Ee Durbin (PyPI Administrator)
 1. Efraim Flashner (GNU Guix contributor)
+1. Egor `infdev` Golovin
 1. Eirik Øverby
 1. Elanna Grossman
 1. Elen Eisendle
