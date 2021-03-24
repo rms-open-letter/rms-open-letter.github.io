@@ -793,6 +793,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Italo Nicola (Collabora)
 1. Italo Vignoli (OSI Director, LibreItalia Honorary President)
 1. Ivana Kellyérová
+1. Jacek Pruciak (@juniorjpdj)
 1. Jack Firth
 1. Jack 'jrabbit' Laxson
 1. Jack Leadford
