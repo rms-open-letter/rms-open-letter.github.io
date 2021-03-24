@@ -417,6 +417,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Dan Jacka
 1. Dan Leinir Turthra Jensen (kde contributor)
 1. Dan McDonald (illumos)
+1. Dan McKinley (Mozilla)
 1. Danny Bouimad
 1. Danny "Rushyo" Moules (Security researcher, EFF Member, Former Mozilla contributor)
 1. Dan 'pixelflow' Humphreys
