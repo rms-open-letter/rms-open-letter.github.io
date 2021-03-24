@@ -482,6 +482,7 @@ Signed,
 1. Jade '0x0ade' Macho
 1. Jaden Pleasants
 1. Jake Harrison (@GloomyJD)
+1. Jakob 'sur5r' Haufe (Debian Developer)
 1. James Alexander
 1. James Belchamber
 1. James Cochran
