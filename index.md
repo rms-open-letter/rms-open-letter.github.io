@@ -323,6 +323,7 @@ Signed,
 - Irina Rempt
 - Isabela Bagueros
 - Italo Vignoli (OSI Director, LibreItalia Honorary President)
+- J. Ryan Stinnett
 - Jack 'jrabbit' Laxson
 - Jacob H. Haven
 - Jacob Kaplan-Moss (Django co-creator; Founder, Django Software Foundation)
