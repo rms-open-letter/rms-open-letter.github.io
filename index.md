@@ -605,6 +605,7 @@ Signed,
 - Ryan Gonzalez
 - Ryan Heywood
 - Ryan Lahfa
+- Ryan Schmidt
 - Sajid Ali
 - Sambhav Saggi
 - Sam Hartman (Former Debian Project Leader)
