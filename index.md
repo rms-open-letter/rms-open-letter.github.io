@@ -563,6 +563,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. intrigeri (Debian Developer, Tails Developer)
 1. Irina Rempt
 1. Isaac Ferreira Filho (aka "yzakius", GNOME contributor)
+1. Isaque Galdino de Araujo (GNOME Foundation member)
 1. Isabela Bagueros
 1. Isak Sunde Singh
 1. Italo Vignoli (OSI Director, LibreItalia Honorary President)
