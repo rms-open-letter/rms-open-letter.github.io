@@ -1,5 +1,4 @@
 *2021-03-23*
-
 Richard M. Stallman, frequently known as RMS, has been a dangerous force in the free software community for a long time. He has shown himself to be misogynist, ableist, and transphobic, among other serious accusations of impropriety. These sorts of beliefs have no place in the free software, digital rights, and tech communities. With his recent reinstatement to the Board of Directors of the Free Software Foundation, we call for the entire Board of the FSF to step down and for RMS to be removed from all leadership positions. 
 
 We, the undersigned, believe in the necessity of digital autonomy and the powerful role user freedom plays in protecting our fundamental human rights. In order to realize the promise of everything software freedom makes possible, there must be radical change within the community. We believe in a present and a future where all technology empowers – not oppresses – people. We know that this is only possible in a world where technology is built to pay respect to our rights at its most foundational levels. While these ideas have been popularized in some form by Richard M. Stallman, he does not speak for us. We do not condone his actions and opinions. We do not acknowledge his leadership or the leadership of the Free Software Foundation as it stands today.
@@ -39,6 +38,7 @@ Signed,
 
 <!-- Any additional signees should go below this comment in alphabetical order (according to `sort -u`) -->
 
+1. Aadil Ayub
 1. Aaron Carson
 1. Aaron Crickenberger (Kubernetes Steering Committee Emeritus, SIG Testing Chair)
 1. Aaron Honeycutt
@@ -61,6 +61,7 @@ Signed,
 1. Alan Ball
 1. Alan Diggs (Schykle)
 1. Alan Pope
+1. Alexander Jacocks (Red Hat)
 1. Alexandra Moylett
 1. Alexandre Dulaunoy (former FSF associate member #53)
 1. Alex Arslan (Julia contributor, former Julia community manager)
@@ -120,6 +121,7 @@ Signed,
 1. Ashish Dixit
 1. Asta Halkjær From
 1. Asumu Takikawa
+1. Attila Pinter (aka adathor, openSUSE docs, support, OpenStorage.io CTO)
 1. Aubrey Fletcher
 1. Aura Vulcano
 1. Avery "stars" M-W
@@ -209,6 +211,7 @@ Signed,
 1. Christian `shibumi` Rebischke (Arch Linux)
 1. Christina Dunbar-Hester (Author of *Hacking Diversity*)
 1. Christine Hall (former OSI Board member)
+1. Christof Haerens
 1. Christophe Noisel
 1. Christopher Allan Perry
 1. Christopher Davis (GNOME)
@@ -333,6 +336,7 @@ Signed,
 1. Ezekiel Hendrickson
 1. Fabio Di Peri
 1. Faith Jasmine Viola
+1. Fanael Linithien
 1. Faye Duxovni
 1. Federico Mena Quintero (GNOME)
 1. Federico Pontillo
@@ -346,6 +350,7 @@ Signed,
 1. Florian Neumann
 1. Frances Hocutt
 1. Frank S. Thomas
+1. Fred Oliveira
 1. Frédéric Harper (Director of Developer Relations at MeiliSearch)
 1. Fredrik Lindh
 1. Fridrich Strba
@@ -358,6 +363,7 @@ Signed,
 1. Geir Magnusson Jr.
 1. Geoffrey Thomas
 1. George Chriss
+1. Georgiana Dolocan
 1. Gerardo Torres
 1. Gerard Ryan
 1. Germán Poo-Caamaño (GNOME)
@@ -372,6 +378,7 @@ Signed,
 1. Greg Grossmeier
 1. Guilhem Moulin (Debian Developer)
 1. Guillaume Gay
+1. Gunnar Monell
 1. Gunnar Wolf (Debian Developer, member of the Debian Technical Committee)
 1. Gustaf Lindstedt
 1. Gustavo Costa (Fedora Project contributor)
@@ -408,11 +415,13 @@ Signed,
 1. Jade '0x0ade' Macho
 1. Jaden Pleasants
 1. James Alexander
+1. James Belchamber
 1. James Cochran
 1. James Daly
 1. James 'jspc' Condron
 1. James Kruth
 1. James Renken
+1. James Smith
 1. James Spivey
 1. James Troup
 1. James Turnbull (former President of Linux Australia)
@@ -456,6 +465,7 @@ Signed,
 1. Jill Rouleau (Ansible Maintainer / Steering Commitee member)
 1. Jim Campbell
 1. Joanna Janet Zaitseva-Doyle (`aoei` / @aoeixsz4)
+1. João Carlos Almeida
 1. João "Johnny" Ciocca (DCG5511)
 1. João Veiga
 1. Joe Bowser
@@ -593,10 +603,12 @@ Signed,
 1. Malte `m4schini` Schink
 1. Mano Marks
 1. Manuel Genovés (GNOME)
+1. Marek Kubica
 1. Margarita Manterola (Debian Developer, member of the Debian Technical Committee)
 1. María Arias de Reyna Domínguez (former OSGeo President, ASF member, maintainer on several FOSS projects)
 1. Mariana Meireles Gontijo (Jupyter contributor, Mozilla contributor)
 1. Mariatta Wijaya (Python Software Foundation Fellow members, OSI member, PyLadies)
+1. Marina "deneb_alpha" Latini (former The Document Foundation chairperson, former openSUSE board member, LibreOffice and openSUSE contributor)
 1. Marius Gedminas
 1. Marius Gripsgard (UBports Foundation founder, Lead Developer and Board of Directors, Ubuntu Member)
 1. Mark Brown (Linux, Debian)
@@ -738,6 +750,7 @@ Signed,
 1. Paul Woolcock
 1. Paul Wouters (Libreswan, Fedora developer)
 1. Peder Bergebakken Sundt
+1. Pedro Cunha
 1. Percival Lavoie
 1. Perro Tuerto (Programando LIBREros)
 1. Peter Aufner (`Adrixan`)
@@ -835,6 +848,7 @@ Signed,
 1. Savin Goyal
 1. Sayan Chowdhury (@yudocaa)
 1. Scott Hain
+1. Scott Martin
 1. Scott Starr
 1. Scott Walters
 1. Sean McGinnis
