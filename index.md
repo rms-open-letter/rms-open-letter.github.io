@@ -187,6 +187,7 @@ Signed,
 - Eliott Lavier
 - Elizabeth Bell (Mozilla)
 - Emilio Escobar (Ettercap Project)
+- Emily Carlsen
 - Emmanuele Bassi (GNOME Foundation)
 - Enrico Zini (Debian Developer)
 - Enum Cohrs
