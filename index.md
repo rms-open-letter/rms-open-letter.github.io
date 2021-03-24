@@ -246,6 +246,7 @@ Signed,
 - David Jones (former FSF associate member)
 - David Reid
 - David Revoy (Pepper&Carrot)
+- David Schmitt
 - David Thompson (GNU Guile/Guix contributor, ex-FSF)
 - David Turner (former GPL Compliance Engineer at FSF)
 - D. Ben Knoble
