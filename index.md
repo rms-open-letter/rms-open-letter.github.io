@@ -129,6 +129,7 @@ Signed,
 - Brandon Butler
 - Brendan Hickey
 - Brendan O'Leary
+- Brennen Bearnes
 - Bret Moore
 - Brett Sheffield (Librecast Project)
 - Brian Dawn
