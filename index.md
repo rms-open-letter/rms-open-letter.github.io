@@ -304,6 +304,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Dan Winship
 1. Dario Ninicato
 1. Dave Camp (Mozilla, Former GNOME Foundation)
+1. Davanum Srinivas (TOC, CNCF; Steering, Kubernetes)
 1. David A. Symons
 1. David Cantrell (Fedora developer)
 1. David Demelier
