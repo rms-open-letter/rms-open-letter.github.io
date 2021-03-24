@@ -569,6 +569,7 @@ Signed,
 1. Kyle Mitchell
 1. Kyle Robbertze (Debian Developer)
 1. Lachlan Campbell
+1. Lander Van den Bulcke
 1. Langlais Raphael
 1. Lars Wirzenius
 1. Laurence Berland
