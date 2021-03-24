@@ -271,7 +271,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Cam Tenny (Igalia)
 1. Cara Esten Hurtle
 1. Carina C. Zona (CallbackWomen)
-1. Carl George (CentOS Project, Fedora Project)
 1. Carlos Soriano Sanchez (Former GNOME Foundation director and Nautilus maintainer, GNOME GitLab admin)
 1. Carl Schwan (KDE)
 1. Carlos Tadeu Panato Junior
@@ -508,6 +507,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Evan Brown
 1. Evangelos Paterakis
 1. Evan Prodromou
+1. Evan Sklarski
 1. Evpok Padding
 1. Ewen McNeill
 1. Ezekiel Hendrickson
@@ -824,7 +824,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Kendra Albert
 1. Ken Guest (PEAR, Phing)
 1. Ken Irwin
-1. Kenneth Love (PSF Fellow)
 1. Kenny Huynh
 1. Kevin Ackroyd
 1. Kevin Gimbel
@@ -923,7 +922,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Mandy Henk
 1. Mano Marks
 1. Manuel Genovés (GNOME)
-1. Manuel González
 1. Marcantonio Rendino
 1. Marcelo Teider Lopes
 1. Marcus Weiner
@@ -1034,7 +1032,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Milan Pässler (Chaos Computer Club, NixOS contributor)
 1. Milo Casagrande
 1. Ming-ting Yao Wei (Debian Developer, former LXTerminal developer)
-1. Minho Ryang (@minhoryang on Github)
 1. Mirko Boehm (KDE)
 1. M. Oliver Ghingold
 1. Molly White (@molly on GitHub)
@@ -1463,7 +1460,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. William Kroes
 1. William Starkey
 1. William Theaker (Former FSF staff member)
-1. Williham Williham Totland
 1. Will Lachance (Mozilla)
 1. Wilson "Chilly" Hightower
 1. Wim Taymans (PipeWire, GStreamer)
