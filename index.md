@@ -504,6 +504,7 @@ Signed,
 - Michael Perron
 - Michael Pyne (KDE, game-music-emu)
 - Michael Schechter
+- Mike Hawk
 - Mike Linksvayer
 - Mikel Johnson
 - Mitchell Baker, on behalf of Mozilla.
