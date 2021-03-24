@@ -323,6 +323,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Carlos Soriano Sanchez (Former GNOME Foundation director and Nautilus maintainer, GNOME GitLab admin)
 1. Carlos Tadeu Panato Junior
 1. Carl Schwan (KDE)
+1. Carlos O'Donell (GNU libc maintainer, GNU Assembly member)
 1. Carlton Whitehead
 1. Carmen Bianca Bakker (Contributor to FSFE, GNOME, Fedora)
 1. Carolina Brum (FSF member)
