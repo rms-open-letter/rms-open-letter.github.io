@@ -253,6 +253,7 @@ Signed,
 - Elizabeth Bell (Mozilla)
 - Emilio Escobar (Ettercap Project)
 - Emily Carlsen
+- Emily Strickland
 - Emma Best (Distributed Denial of Secrets)
 - Emmanuele Bassi (GNOME Foundation)
 - Enrico Zini (Debian Developer)
