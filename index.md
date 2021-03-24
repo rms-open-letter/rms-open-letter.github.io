@@ -498,6 +498,7 @@ Signed,
 1. John "Warthog9" Hawley
 1. John Wiseman
 1. Jona Azizaj (Fedora Project, Open Source Diversity)
+1. Jonas Anderö
 1. Jonas Obrist (PyCon JP Association Board Member)
 1. Jonas Schwartz
 1. Jonas Verhofsté
