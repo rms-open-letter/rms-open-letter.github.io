@@ -484,6 +484,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Drew Winstel (@drewbrew on GitHub, DjangoCon US 2019 Organizer, Python Software Foundation individual member)
 1. Dr Neil Smith
 1. Dustin Mitchell (Engineer, Mozilla)
+1. Dylan Baker (Mesa, Meson)
 1. Dylan Graham (Kubernetes)
 1. Dylan Hardison (@dylan_hardison, Bugzilla Project)
 1. Dylan McCall (@dylanmccall)
