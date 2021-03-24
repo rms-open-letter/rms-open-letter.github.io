@@ -80,6 +80,7 @@ Signed,
 - Andres Salomon (Debian Developer)
 - Andrew Dona-Couch
 - Andrew Pinski (GCC contributor)
+- Andrew J. Stephen
 - Andy Isaacson (@radii, founding member of Noisebridge)
 - AndyTuba
 - Angus Fletcher
