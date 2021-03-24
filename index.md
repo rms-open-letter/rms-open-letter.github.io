@@ -627,6 +627,7 @@ Signed,
 - Sean O'Brien
 - Sebastian Dröge (GStreamer, GNOME, Debian)
 - Sebastian Ramacher (Debian Developer)
+- Sébastien Villemot (Debian Developer, FSF associate member)
 - Seebs
 - Seth Marinello (former CPLUG Officer)
 - Seth McCombs
