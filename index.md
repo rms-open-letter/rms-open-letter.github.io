@@ -104,6 +104,7 @@ Signed,
 - Ben Lewis (Former GNU Octave contributor)
 - Ben Rosengart
 - Ben Werdmuller
+- Bert JW Regeer (xistence)
 - Bert Van de Poel
 - Be Wilson (Mixxx maintainer)
 - Bill Mulligan
