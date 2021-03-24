@@ -300,6 +300,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Cara Esten Hurtle
 1. Carina C. Zona (CallbackWomen)
 1. Carl George (CentOS Project, Fedora Project)
+1. Carlos Alexandro Becker (`caarlos0`)
 1. Carlos Soriano Sanchez (Former GNOME Foundation director and Nautilus maintainer, GNOME GitLab admin)
 1. Carlos Tadeu Panato Junior
 1. Carl Schwan (KDE)
