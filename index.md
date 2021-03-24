@@ -177,6 +177,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Benjamin Kampmann
 1. Benjamin Ragan-Kelley (Project Jupyter)
 1. Benjamin Torell (OBS Project)
+1. Benji Vesterby
 1. Ben Hearsum
 1. Ben Klemens
 1. Ben Lewis (Former GNU Octave contributor)
