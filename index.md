@@ -457,6 +457,7 @@ Signed,
 1. John Hess
 1. John Krug (jhkrug)
 1. John SJ Anderson
+1. John Sturdy
 1. John "Warthog9" Hawley
 1. John Wiseman
 1. Jona Azizaj (Fedora Project, Open Source Diversity)
