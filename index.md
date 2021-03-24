@@ -332,6 +332,7 @@ Signed,
 - Kayla Anne Cupples
 - Kellegram
 - Kevin Lannen
+- Kevin López B.
 - Kevin O'Brien
 - Khionu Sybiern
 - Kimball Johnson (Former Chair FLOSS UK aka UKUUG)
