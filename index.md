@@ -497,6 +497,7 @@ Signed,
 - Michael Gat
 - Michael Hoffmann
 - Michael Juarez
+- Michael `lethargilistic` MacTaggert (Programming Discussions server on Discord)
 - Michael `NCommander` Casadevall (Ubuntu Core Developer, former Debian Developer, former FSF Savannah Administrator)
 - Michael `ovyerus` Mitchell
 - Michael Perron
