@@ -342,6 +342,7 @@ Signed,
 - Martin Wimpress (Former FSF member)
 - Matt Beland
 - Matteo Tammaccaro
+- Matteo Tammmaccaro
 - Matthew `mattcen` Cengia
 - Matthew P. Del Buono
 - Matthew Vernon (Debian developer)
@@ -405,6 +406,7 @@ Signed,
 - Paul Adams
 - Paul Cutler (former GNOME Foundation)
 - Paul Fisher (Former FSF employee and union representative)
+- Paul McLanahan (Engineer at Mozilla)
 - Paul Woolcock
 - Peter Hunt
 - Peter Jones (Fedora developer)
@@ -453,7 +455,6 @@ Signed,
 - Shelly Coen
 - Síle Ekaterin Aman (APK Fission, Adélie Linux Core Team)
 - Simeon Smith
-- Simon Phipps (Former OSI President)
 - Simon Richter
 - Skylar Alexandra Bleed
 - Solly Ross (Kubernetes KubeBuilder maintainer)
