@@ -202,7 +202,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Ashish Dixit
 1. Asta Halkjær From
 1. Asumu Takikawa (Igalia)
-1. Asura Enkhbayar
 1. Attila Pinter (aka adathor, openSUSE docs, support, OpenStorage.io CTO)
 1. Attila Szegedi
 1. Aubrey Fletcher
@@ -694,7 +693,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Honza Král
 1. Horst Gutmann
 1. Hubert Figuière
-1. Hylke Bons (GNOME, SparkleShare)
 1. Hypolite Petovan (Friendica Developer)
 1. Iain Nicol
 1. Ian Denhardt (Sandstorm contributor, former developer for GNU Social and Parabola GNU/Linux, former FSF member)
@@ -1317,6 +1315,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Rainer Bendig
 1. Ralph FriarTech Loizzo
 1. Rami Chowdhury
+1. Randall Carver
 1. Randolph West
 1. Randy J. Ray (@rjray)
 1. rany
