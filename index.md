@@ -1242,6 +1242,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Michael `lethargilistic` MacTaggert (Programming Discussions server on Discord)
 1. Michael Lingelbach (Neovim, NixOS contributor)
 1. Michael `NCommander` Casadevall (Ubuntu Core Developer, former Debian Developer, former FSF Savannah Administrator)
+1. Michael Mattsson (@datamattsson)
 1. Michael `ovyerus` Mitchell
 1. Michael Perron
 1. Michael Pyne (KDE, game-music-emu)
