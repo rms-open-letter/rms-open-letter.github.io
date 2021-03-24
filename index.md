@@ -455,6 +455,7 @@ Signed,
 - Luna Duclos
 - Lupe Canaviri
 - Lyre Calliope
+- M. Scott Ford (CEO, Corgibytes)
 - Mackenzie 'maco' Morgan (former Ubuntu Developer Membership Board member)
 - Madison `makyo` Scott-Clary
 - Mairi Dulaney (Fedora Project contributor)
