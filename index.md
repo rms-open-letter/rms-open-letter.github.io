@@ -108,6 +108,7 @@ Signed,
 - Brendan O'Leary
 - Bret Moore
 - Brett Sheffield (Librecast Project)
+- Brian Dawn
 - Brian Pepple (Former Fedora Engineering Steering Committee member)
 - Brion Vibber (MediaWiki, Wikimedia Foundation)
 - Britta Gustafson
