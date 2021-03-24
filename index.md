@@ -94,6 +94,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Alexandra Pereira (Collabora)
 1. Alexandra Stehr
 1. Alexandre Dulaunoy (former FSF associate member #53)
+1. Alex A. G.
 1. Alex Arslan (Julia contributor, former Julia community manager)
 1. Alex Callejas
 1. Alex Desmond
@@ -143,6 +144,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Andy Brody (FSF associate member)
 1. Andy Isaacson (@radii, founding member of Noisebridge)
 1. AndyTuba
+1. Angel Uniminin <uniminin@zoho.com>
 1. Angus Fletcher
 1. Angus Gratton
 1. Anibal Monsalve Salazar (Debian Developer)
@@ -288,6 +290,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Chris DiBona (Google LLC.)
 1. Chris Garaffa (Tech for the People)
 1. Chris Hoge
+1. Chris `chutten` Hutten-Czapski (Mozilla)
 1. Chris Johnson
 1. Chris Koerner (Wikimedia, WordPress)
 1. Chris Riley
@@ -453,6 +456,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Eirik Øverby
 1. Elanna Grossman
 1. Elen Eisendle
+1. Eli Heuer
 1. Eliott Lavier
 1. Elizabeth Bell (Mozilla)
 1. Ellie (@ell1e on GitHub)
@@ -512,6 +516,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Fintan Horan
 1. Florian Neumann
 1. Frances Hocutt
+1. Francis Gulotta (Node SerialPort maintainter, Nodebots founding memeber)
 1. Francois Lesage
 1. Frank S. Thomas
 1. Frederic Branczyk (Kubernetes SIG Instrumentation Tech Lead, Prometheus maintainer, Thanos maintainer)
@@ -905,6 +910,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Mark Filion (Collabora)
 1. Markos Fragkakis
 1. Mark Tomko
+1. Mark Paluch
 1. Markus Bohnensack
 1. Markus `kmi` S. (Chaos Computer Club)
 1. Markus Unterwaditzer
@@ -968,6 +974,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Michael Juarez
 1. Michael B. Klein
 1. Michael Laird
+1. Michael Lingelbach (Neovim, NixOS contributor)
 1. Michael `lethargilistic` MacTaggert (Programming Discussions server on Discord)
 1. Michael `NCommander` Casadevall (Ubuntu Core Developer, former Debian Developer, former FSF Savannah Administrator)
 1. Michael `ovyerus` Mitchell
@@ -1038,6 +1045,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Nicolás `nomeacuerdo` Arteaga
 1. Nicolas Schier (Debian maintainer)
 1. Nicole Martinez
+1. nicoo (Debian Developer, NixOS and Rust contributor)
 1. Niels Grewe (GNUstep contributor)
 1. Nikhita Raghunath (Kubernetes Steering Committee Member)
 1. Nikita Gillmann (ex-GNUnet developer, former GNU Guix contributor, NetBSD/pkgsrc developer)
@@ -1116,9 +1124,11 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Philip Balister
 1. Philip Gillißen
 1. Philip Hands (Former Debian Technical Committee member)
+1. Philip Lindsay
 1. Philippe Kalaf (Collabora)
 1. Philippe Normand
 1. Philip Withnall
+1. Philip Young
 1. Pierre Dupont
 1. Pierre Marijon
 1. Pierre Ozoux (@pierreozoux)
