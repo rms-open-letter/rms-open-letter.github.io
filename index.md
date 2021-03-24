@@ -628,6 +628,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Felipe Borges (GNOME Foundation Board member)
 1. Félix 'felix91gr' Fischer
 1. Felix 'fleaz' Breidenstein
+1. Felix Fontein
 1. Félix 'passcod' Saparelli
 1. Felix 'thegoliath' Golatofski
 1. F / erbridge
