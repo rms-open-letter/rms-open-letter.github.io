@@ -43,6 +43,7 @@ Signed,
 1. CommitChange
 1. Globenet
 1. GlobaLeaks
+1. GNOME Foundation
 1. MidnightBSD Project
 1. MousePaw Media
 1. Mozilla
