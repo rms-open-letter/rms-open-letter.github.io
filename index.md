@@ -574,6 +574,7 @@ Signed,
 - Michael `ovyerus` Mitchell
 - Michael Perron
 - Michael Pyne (KDE, game-music-emu)
+- Michael Reiger
 - Michael Schechter
 - Mike Harris
 - Mike Hawk
