@@ -64,7 +64,6 @@ Signed,
 1. Alan Diggs (Schykle)
 1. Alan Pope
 1. Alexander Jacocks (Red Hat)
-1. Alexandra Stehr
 1. Alexandra Moylett
 1. Alexandre Dulaunoy (former FSF associate member #53)
 1. Alex Arslan (Julia contributor, former Julia community manager)
@@ -991,34 +990,35 @@ Signed,
 1. Vojtěch Vengrin (Gnome translator)
 1. Wayne M. Thornton, B.S., CPDT (Co-Founder & Project Manager VIRATRACE)
 1. Wendy Bolm (Chief Operations Officer, CommitChange)
-1. Wes Mason (Ubuntu Community Member and former FSFE Fellow)
-1. whitequark
-1. Will Barton
-1. Will Greenberg (EFF, signing in personal capacity)
-1. Will Hawkins
-1. Will Hunt (`Half-Shot`)
-1. William D. Jones (`cr1901`)
-1. William Kroes
-1. William Starkey
-1. William Theaker (Former FSF staff member)
-1. Wim Taymans (PipeWire, GStreamer)
-1. Wolthera van Hövell (Krita/KDE)
-1. Xavier Tilley
-1. Xav Paice
-1. X.org Foundation Board of Directors (Lyude Paul, Eric Anholt, Mark Filion, Keith Packard, Daniel Vetter, Harry Wentland, Samuel Iglesias Gonsálvez)
-1. Yadav Lamichhane
-1. Yao Li (former FSF Monthly Student Associate Member)
-1. Yaroslav Kargapolov
-1. Yegor Timoshenko (NixOS contributor)
-1. Yorik van Havre
-1. Youngbin Han (Ubuntu Korea Community)
-1. Yuvi Panda (Project Jupyter)
-1. Yvan Sraka
-1. Yvonne Lam
-1. Zac Adam-MacEwen (Arcana Labs)
-1. Zach Klippenstein (aka @zach-klippenstein, Square)
-1. Zach Lipton
-1. Zach van Rijn
-1. Zack Cerza
-1. Zeltzin Rodríguez
-1. Zvi Gilboa
+1. Wendy Seltzer
+3. Wes Mason (Ubuntu Community Member and former FSFE Fellow)
+4. whitequark
+5. Will Barton
+6. Will Greenberg (EFF, signing in personal capacity)
+7. Will Hawkins
+8. Will Hunt (`Half-Shot`)
+9. William D. Jones (`cr1901`)
+10. William Kroes
+11. William Starkey
+12. William Theaker (Former FSF staff member)
+13. Wim Taymans (PipeWire, GStreamer)
+14. Wolthera van Hövell (Krita/KDE)
+15. Xavier Tilley
+16. Xav Paice
+17. X.org Foundation Board of Directors (Lyude Paul, Eric Anholt, Mark Filion, Keith Packard, Daniel Vetter, Harry Wentland, Samuel Iglesias Gonsálvez)
+18. Yadav Lamichhane
+19. Yao Li (former FSF Monthly Student Associate Member)
+20. Yaroslav Kargapolov
+21. Yegor Timoshenko (NixOS contributor)
+22. Yorik van Havre
+23. Youngbin Han (Ubuntu Korea Community)
+24. Yuvi Panda (Project Jupyter)
+25. Yvan Sraka
+26. Yvonne Lam
+27. Zac Adam-MacEwen (Arcana Labs)
+28. Zach Klippenstein (aka @zach-klippenstein, Square)
+29. Zach Lipton
+30. Zach van Rijn
+31. Zack Cerza
+32. Zeltzin Rodríguez
+33. Zvi Gilboa
