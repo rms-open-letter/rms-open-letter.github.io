@@ -202,6 +202,7 @@ Signed,
 - Fabio Di Peri
 - Federico Mena Quintero (GNOME)
 - Federico Pontillo
+- Félix 'felix91gr' Fischer
 - Félix 'passcod' Saparelli
 - Fernando Pérez (recipient of 2012 FSF Award for the Advancement of Free Software, IPython creator, Project Jupyter co-founder and co-director, NumFOCUS co-founder, 2i2c.org co-founder).
 - Filipe Laíns (Arch Linux TU, PyPA maintainer)
