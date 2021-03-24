@@ -1052,6 +1052,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Lina B (elatelation)
 1. Linda Fernández
 1. Lindsay Holmwood (former Vice President of Linux Australia)
+1. Linus A. Wozniak (@MadsRach)
 1. Linus Groh
 1. Linus Parker
 1. Lioncache
