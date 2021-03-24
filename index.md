@@ -631,6 +631,7 @@ Signed,
 - Seth Marinello (former CPLUG Officer)
 - Seth McCombs
 - Shane Fagan
+- Shaun Mouton
 - Shelly Coen
 - Shiz (former Alpine Linux developer)
 - Síle Ekaterin Aman (APK Fission, Adélie Linux Core Team)
