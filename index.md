@@ -684,6 +684,7 @@ Signed,
 1. Nick Davis
 1. Nick Guenther
 1. Nick Morrott (Debian Developer, STEM Ambassador, Code Club volunteer)
+1. Nick Richards
 1. Nick Ruest
 1. Niclas Zeising (FreeBSD committer)
 1. Nicolai von Neudeck
