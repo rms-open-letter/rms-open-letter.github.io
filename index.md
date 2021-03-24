@@ -456,11 +456,12 @@ Signed,
 1. Jed Brown
 1. Jeff Forcier (aka bitprophet) (Python library maintainer, eg Fabric, Paramiko)
 1. Jeff Fortin T. (former president of the GNOME Foundation)
+1. Jeff Warnica
+1. Jeff Waugh (former GNOME Foundation director)
 1. Jeffrey Blinksma (Co-founder of Robin's Media Team)
 1. Jeffrey Strauss
 1. Jeffrey Yasskin
 1. Jeffrey Yoo Warren
-1. Jeff Warnica
 1. Jens Georg (GNOME Foundation member)
 1. Jeremie Miller (Jabber/XMPP)
 1. Jeremy Bicha
