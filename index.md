@@ -358,6 +358,7 @@ Signed,
 - Michael Bikovitsky
 - Michael Downey (United Nations Foundation)
 - Michael Hoffmann
+- Michael Juarez
 - Michael `ovyerus` Mitchell
 - Michael Perron
 - Michael Schechter
