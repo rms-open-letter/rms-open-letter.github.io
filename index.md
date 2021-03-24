@@ -159,6 +159,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Bandie (Chaos Computer Club, pam_panic, former FSF member)
 1. Baptiste Fontaine
 1. Barret Rennie (Mozilla)
+1. Bassam Kurdali
 1. Bastien Nocera (Former director, GNOME Foundation)
 1. Behdad Esfahbod (Former director / president, GNOME Foundation)
 1. Ben Cotton (Fedora Project contributor)
@@ -356,7 +357,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Donald Harper (duckunix)
 1. Donnie Barnes (former Red Hat employee #2)
 1. Dorothea Salo
-1. Doug Hellmann (Python Software Foundation Fellow, former OpenStack Technical Committee)
 1. Dr Neil Smith
 1. Dustin Mitchell (Engineer, Mozilla)
 1. Dylan Graham (Kubernetes)
@@ -564,7 +564,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Joe Bowser
 1. Joe Harley
 1. Joel Bethke (OBS Project)
-1. Joerg Jaspert (Debian Developer, Debian Account Manager, former Vice President of SPI Inc.)
 1. Joe Provo
 1. Johanna Dorothea Reichmann
 1. Johannes Löthberg (Arch Linux Developer)
@@ -614,7 +613,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Julian Hofer (GNOME, Deltares) 
 1. Julianne "KokaKiwi" Hervier
 1. Julien Cristau (Debian, X.Org, Mozilla)
-1. Julien Humbert
 1. Julien Rabier
 1. julien tayon
 1. Julien Voisin
@@ -674,7 +672,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Lars Wirzenius
 1. Laura Arjona Reina
 1. Laura Lytle
-1. Laura Smith
 1. Laurence Berland
 1. Laurin Schmidt
 1. Laurynas `NeLaurynas` K.
