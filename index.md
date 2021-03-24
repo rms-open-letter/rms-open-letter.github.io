@@ -436,6 +436,7 @@ Signed,
 1. Jeff Warnica
 1. Jens Georg (GNOME Foundation member)
 1. Jeremie Miller (Jabber/XMPP)
+1. Jeremy Bicha
 1. Jeremy Bingham
 1. Jeremy Carter
 1. Jeremy Cline (Fedora Project)
