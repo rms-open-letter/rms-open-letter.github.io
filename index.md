@@ -42,6 +42,7 @@ Signed,
 
 1. CommitChange
 1. Globenet
+1. MidnightBSD Project
 1. MousePaw Media
 1. Mozilla
 1. Open Life Science
@@ -920,6 +921,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Luca Andrea Fusè
 1. Luca Martinelli
 1. Lucas Bickel
+1. Lucas Holt
 1. Lucas Nussbaum (Former Debian Project Leader)
 1. Lucas Werkmeister
 1. Ludovic Gasc
