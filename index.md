@@ -935,6 +935,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Neal Gompa (Fedora Project contributor, Mageia Project Council Member, Mageia.Org Board Member, openSUSE Project Board Member, OpenMandriva contributor)
 1. Neil Watson (Former CFEngine Community Advisory Board Member)
 1. Nicholas LaPointe (Krita contributor)
+1. Nic FitzGerald (Co-Founder Sailex)
 1. Nick Chambers
 1. Nick Davis
 1. Nick Gerace (Software Engineer at SUSE and Rancher Labs)
@@ -1089,6 +1090,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Ross A. Baker
 1. Rossella Sblendido (OpenStack, OPNFV, LF Networking)
 1. Ross Nelson
+1. RT Hatfield (@panzertime)
 1. Ruben Pollan (meskio)
 1. Ruben Schade
 1. Rubi Jihantoro
@@ -1313,5 +1315,4 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Zack Cerza
 1. Zeltzin Rodríguez
 1. Zvi Gilboa
-1. RT Hatfield (@panzertime)
-1. Nic FitzGerald (Co-Founder Sailex)
+
