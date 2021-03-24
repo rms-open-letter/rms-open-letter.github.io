@@ -179,6 +179,7 @@ Signed,
 1. Brett Sheffield (Librecast Project)
 1. Brian Chen (`betaveros`)
 1. Brian Dawn
+1. Brian Heim
 1. Brian Ketelsen
 1. Brian Pepple (Former Fedora Engineering Steering Committee member)
 1. Brion Vibber (MediaWiki, Wikimedia Foundation)
