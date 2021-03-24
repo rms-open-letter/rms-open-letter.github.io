@@ -455,6 +455,7 @@ Signed,
 - Pierre Marijon
 - Pierre Ozoux (@pierreozoux)
 - Pranav Teegavarapu
+- Rachel Domagalski
 - Rafael Silva
 - Rami Chowdhury
 - rany
