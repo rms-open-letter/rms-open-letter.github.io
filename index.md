@@ -44,6 +44,7 @@ Signed,
 1. Aaron Honeycutt
 1. Aaron M. Ucko (@ucko, Debian Developer)
 1. Abel Moarrensis (`circuitrcay`)
+1. Abigail Brady (former GNOME developer)
 1. Abigail Cabunoc Mayes
 1. Adam Barber
 1. Adam Čalovka
