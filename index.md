@@ -812,6 +812,7 @@ Signed,
 1. Sam Muirhead
 1. Sam Pavlovic
 1. Sam Phillips
+1. Sam Pikesley, [@pikesley](https://twitter.com/pikesley)
 1. Sam Pritchard
 1. Sander van der Waal (Waag) 
 1. Santeri Kasvi
