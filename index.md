@@ -659,6 +659,7 @@ Signed,
 - Nicole Martinez
 - Nikos Roussos (FSFE, GA member)
 - Nils Adermann
+- Nils Philippsen (Fedora Project contributor)
 - Nishkarsh Raj
 - Nixon Enraght-Moony
 - Noah/`coolreader18` (RustPython maintainer)
