@@ -52,6 +52,7 @@ Signed,
 - Alan Pope
 - Alexandre Dulaunoy (former FSF associate member #53)
 - Alex Arslan (Julia contributor, former Julia community manager)
+- Alex Desmond
 - Alexis Danz
 - Alexis Tyler
 - Alfred Neumayer (UBports developer)
@@ -342,6 +343,7 @@ Signed,
 - Martin Wimpress (Former FSF member)
 - Matt Beland
 - Matteo Tammaccaro
+- Matteo Tammmaccaro
 - Matthew `mattcen` Cengia
 - Matthew P. Del Buono
 - Matthew Vernon (Debian developer)
