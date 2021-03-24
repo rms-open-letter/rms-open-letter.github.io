@@ -646,6 +646,7 @@ Signed,
 - Sriram Ramkrishna
 - Starchy Grant (EFF, signing in personal capacity)
 - Stefan Crain
+- Stefanie Schirmer
 - Stephane Graber (LXC, former Ubuntu Technical Board member)
 - Stephen A. Goss
 - Stephen O'Grady
