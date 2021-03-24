@@ -754,6 +754,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Hubert Figuière
 1. Hypolite Petovan (Friendica Developer)
 1. Iain Nicol
+1. Ian Coldwater (Kubernetes SIG Security Chair, Open Source Security Foundation Governing Board)
 1. Ian Denhardt (Sandstorm contributor, former developer for GNU Social and Parabola GNU/Linux, former FSF member)
 1. Ian Hyzy
 1. Ian Jackson (Former Debian Project Leader; former President, Software in the Public Interest; GNU Maintainer)
