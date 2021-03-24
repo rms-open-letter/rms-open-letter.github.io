@@ -891,6 +891,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Myrle Krantz (ASF member)
 1. Naglis Lesčinskas
 1. Nalin Dahyabhai
+1. Naomi Ceder (former director & past chair, Python Software Foundation)
 1. Natacha Rault (les sans pagEs)
 1. Natan B. C. "`natanbc`"
 1. Nathan Dyer (former FSF associate member)
