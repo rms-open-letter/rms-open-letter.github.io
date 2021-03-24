@@ -199,7 +199,7 @@ Signed,
 1. Chad Booker
 1. Chandler Carruth
 1. Charlie Kravetz
-1. Charlotte Masterson (Hardware and R&D manager at Fivnex)
+1. Charlotte Hardware (R&D manager at Fivnex)
 1. Chris Adams (@acdha)
 1. Chris Burgess
 1. Chris Desnoyers
@@ -414,6 +414,7 @@ Signed,
 1. Highlander Subaron (`HightechSec`)
 1. Hubert Figuière
 1. Ian Jackson (Former Debian Project Leader; former President, Software in the Public Interest; GNU Maintainer)
+1. Ian Stapleton Cordasco
 1. Idan Gazit (Django project alumnus)
 1. Ignacio Torres Masdeu
 1. Ilya Kreymer
@@ -647,7 +648,6 @@ Signed,
 1. Markos Fragkakis
 1. Markus Unterwaditzer
 1. Marte Træen
-1. Martin Guillon
 1. Martin Kühl
 1. Martin Robinson (Igalia)
 1. Martin Splitt
@@ -1040,60 +1040,3 @@ Signed,
 1. Zack Cerza
 1. Zeltzin Rodríguez
 1. Zvi Gilboa
-1. Bernhard Hayden
-1. Jake Harrison (@GloomyJD)
-1. Freemor (FSF member since 2009, Parabola contributor)
-1. Thomas Guillem (VLC developer)
-1. Hidde Beydals
-1. David A. Symons
-1. alexis richardson (former TOC chair, cloud native computing foundation)
-1. Jan Christian Grünhage (Matrix, Famedly GmbH)
-1. Étienne Mollier (Debian Maintainer)
-1. Caglar Koksal, Phd
-1. Christian Buhtz
-1. Evpok Padding
-1. Tobias Rueetschi
-1. Jean-Paul Argudo (CEO at Dalibo, @jpargudo)
-1. Tor Project
-1. Dan Leinir Turthra Jensen (kde contributor)
-1. Adriaan de Groot
-1. Paul Oldham
-1. David M. Douglas
-1. Evan Prodromou
-1. Matthew (0tcQd) Sams
-1. Markus Bohnensack
-1. Kai Ninomiya (Google LLC, W3C editor)
-1. Raghavendra Kamath (raghukamath) (Illustrator & Designer / Krita volunteer)
-1. Josh Triplett
-1. Simonetta Batteiger
-1. Enio Gemmo  (LibreItalia Chairman)
-1. Aaron Jones
-1. Matthew R. Green (NetBSD core, bozohttpd, ircII)
-1. Alexander Koderman
-1. Jack Leadford
-1. Joshua Jun
-1. Kushal Das (Tor Project core team, Python Core developer, Fedora
-Project contributor)
-1. Sune Stolborg Vuorela, (Debian, KDE)
-1. Marius Quabeck (NerdZoom Media)
-1. Cam Tenny (Igalia)
-1. Laura Lytle
-1. Mandy Henk
-1. Chris Riley
-1. Jeremy Allison (Co-Creator of the Samba project)
-1. Ernesto Hernández-Novich (@iamemhn)
-1. Shane Coughlan
-1. Sean Eric Fagan
-1. Helen Larson
-1. David Newman (recovering network engineer)
-1. Charles Burton
-1. Joni Carr
-1. Leo Famulari
-1. Louis Suárez-Potts
-1. Wilson "Chilly" Hightower
-1. Robert Menes (Hack Workshop Coordinator, New York Linux Users Group (NYLUG))
-1. Mike Doughney (co-founder, Digital Express Group / DIGEX Incorporated)
-1. Stefan T. Peters
-1. Antonela Debiasi
-1. Andrija Subotić
-1. Samuel Scheiderich
