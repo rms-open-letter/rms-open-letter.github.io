@@ -809,6 +809,7 @@ Signed,
 1. Robert Newson (Apache CouchDB PMC, ASF Member)
 1. Robert McQueen (President of the GNOME Foundation)
 1. Robey Pointer (paramiko, eggdrop)
+1. Robin Bowes
 1. Robin Widegren
 1. Rob Smith (SeaGL Co-Founder)
 1. Rob Vincent
