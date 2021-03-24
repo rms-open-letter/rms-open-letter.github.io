@@ -940,6 +940,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Luca Martinelli
 1. Lucas Bickel
 1. Lucas Holt
+1. Lucas Ives (@lri)
 1. Lucas Nussbaum (Former Debian Project Leader)
 1. Lucas Werkmeister
 1. Lucy Wyman
