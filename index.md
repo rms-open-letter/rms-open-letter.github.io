@@ -137,6 +137,7 @@ Signed,
 - Brion Vibber (MediaWiki, Wikimedia Foundation)
 - Britta Gustafson
 - Britt Yazel (Former GNOME Foundation Director)
+- Bruno de Paula Kinoshita
 - Bryan Bishop
 - Bryan Meyers (Solus Technical Lead)
 - Bryan Paget
