@@ -353,6 +353,7 @@ Signed,
 - John "Warthog9" Hawley
 - John Wiseman
 - Jona Azizaj (Fedora Project, Open Source Diversity)
+- Jonas Obrist (PyCon JP Association Board Member)
 - Jonathan Kamens (>30yrs maintaining OSS, one-time FSF contributor) 
 - Jonathan McDowell
 - Jordan Petridis (GNOME)
