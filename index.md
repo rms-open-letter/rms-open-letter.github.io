@@ -517,6 +517,7 @@ Signed,
 - Myriam Rita Schweingruber
 - Myrle Krantz (ASF member)
 - Naglis Lesčinskas
+- Natan B. C. "`natanbc`"
 - Nathan Dyer (former FSF associate member)
 - Nathan Handler (Ubuntu/Debian Developer, freenode Staff, SeaGL Program Committee Co-Chair)
 - Nathaniel J. Smith
