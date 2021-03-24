@@ -1447,6 +1447,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Sjoerd Simons (Collabora, Debian Developer)
 1. Skaira Eris
 1. Skylar Alexandra Bleed
+1. Skylar "`radioSight`" M.
 1. Solène Garda-Krebs
 1. Solly Ross (Kubernetes KubeBuilder maintainer)
 1. Song Li
