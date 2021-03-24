@@ -819,6 +819,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Kendra Albert
 1. Ken Guest (PEAR, Phing)
 1. Ken Irwin
+1. Kenneth Love (PSF Fellow)
 1. Kenny Huynh
 1. Kevin Ackroyd
 1. Kevin Gimbel
