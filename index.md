@@ -779,6 +779,7 @@ Signed,
 1. Paul Woolcock
 1. Paul Wouters (Libreswan, Fedora developer)
 1. Peder Bergebakken Sundt
+1. Paula de la Hoz Garrido (Interferencias association president and cofounder)
 1. Pedro Cunha
 1. Percival Lavoie
 1. Perro Tuerto (Programando LIBREros)
