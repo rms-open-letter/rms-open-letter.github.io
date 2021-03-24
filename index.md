@@ -284,6 +284,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Dale Hirt
 1. Dan Arel (owner, ThinkPrivacy.ch)
 1. Dan Bornstein (@danfuzz)
+1. Dan Cross
 1. Dan "Fennix" Sim
 1. Daniel Feldroy (previously Daniel Roy Greenfeld)
 1. Daniel Foré (Founder, elementary, Inc.)
