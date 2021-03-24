@@ -309,6 +309,7 @@ Signed,
 - Jordan Uggla
 - Jordi Gutiérrez Hermoso (GNU Octave maintainer (inactive))
 - Jordin McEachern
+- José Antonio Rey (Ubuntu Community Council)
 - José Duarte
 - Josh Levinger (OpenSourceActivism.tech)
 - Josh Simmons (President of the Open Source Initiative)
