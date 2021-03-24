@@ -543,6 +543,7 @@ Signed,
 1. Jonathan Kamens (>30yrs maintaining OSS, one-time FSF contributor)
 1. Jonathan McDowell
 1. Jonathan Moerman
+1. Jonathan de Jong (`ShadowJonathan`)
 1. Joni Carr
 1. Jordan Petridis (GNOME)
 1. Jordan Uggla
