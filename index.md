@@ -488,6 +488,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Gale Pedowitz Fagan
 1. Gareth J. Greenaway (Salt Developer, SCALE Co-Founder and former chair person)
 1. Geir Magnusson Jr.
+1. Gene Liverman (@genebean)
 1. Geoff Langdale
 1. Geoffrey Michael
 1. Geoffrey Thomas
