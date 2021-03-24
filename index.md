@@ -323,6 +323,7 @@ Signed,
 - julien tayon
 - Julien Voisin
 - June Taylor
+- Justin Dearing (@zippy1981)
 - Justin W. Flory (UNICEF, Fedora Project D&I Advisor)
 - Karen Rustad Tölva (former OpenHatch and Students for Free Culture board member)
 - Karsten Wade (CentOS Board member, former Fedora Board & Docs Lead, the Open Source Way)
