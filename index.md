@@ -1152,6 +1152,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Nick Guenther
 1. Nick Mathewson (Co-founder, Tor Project)
 1. Nick Morrott (Debian Developer, STEM Ambassador, Code Club volunteer)
+1. Nick Pettazzoni
 1. Nick Richards
 1. Nick Ruest
 1. Niclas Zeising (FreeBSD committer)
