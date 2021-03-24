@@ -375,7 +375,6 @@ Signed,
 - John Wiseman
 - Jona Azizaj (Fedora Project, Open Source Diversity)
 - Jonas Obrist (PyCon JP Association Board Member)
-- Jonathan Kamens (>30yrs maintaining OSS, one-time FSF contributor)
 - Jonathan Kamens (>30yrs maintaining OSS, one-time FSF contributor) 
 - Jonathan McDowell
 - Jordan Petridis (GNOME)
@@ -402,7 +401,6 @@ Signed,
 - Justin Dearing (@zippy1981)
 - Justin Haygood
 - Justin Reock (Chief Evangelist at OpenLogic)
-- Justin Reock (Chief Evangelist at OpenLogic) 
 - Justin Wake
 - Justin W. Flory (UNICEF, Fedora Project D&I Advisor)
 - Karen Rustad Tölva (former OpenHatch and Students for Free Culture board member)
@@ -599,7 +597,6 @@ Signed,
 - Robyn Speer (ConceptNet)
 - Rosanna Yuen (GNOME Foundation)
 - Ruben Schade
-- Russ Allbery (Debian Developer, FSF associate member since 2003)
 - Russ Allbery (Debian Developer, FSF associate member since 2003) 
 - Russell Keith-Magee (@freakboy3742; former President, Django Software Foundation; Founder, BeeWare Project)
 - Ryan (DasGeek) (Host of Destination Linux, Partner of Destination Linux, LLC.)
@@ -616,7 +613,6 @@ Signed,
 - Sam Pavlovic
 - Sam Phillips
 - Sam Pritchard
-- Sander van der Waal (Waag)
 - Sander van der Waal (Waag) 
 - Santiago Torres-Arias (Arch Linux, Purdue University, in-toto)
 - Saptak S
