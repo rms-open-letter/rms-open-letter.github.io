@@ -260,6 +260,7 @@ Signed,
 - David Holmes
 - David JM Emmett
 - David Jones (former FSF associate member)
+- David Jones (kerning consultant)
 - David Planella
 - David Reid
 - David Revoy (Pepper&Carrot)
