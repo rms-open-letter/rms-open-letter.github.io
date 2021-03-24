@@ -352,6 +352,7 @@ Signed,
 1. Gerardo Torres
 1. Gerard Ryan
 1. Germán Poo-Caamaño (GNOME)
+1. Gina Häußge (OctoPrint maintainer)
 1. Giovanni Campagna (former GNOME contributor)
 1. Göktuğ Kayaalp
 1. Gordon Byrnes
