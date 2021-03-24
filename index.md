@@ -1486,6 +1486,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Timothée Ravier (Fedora Project Contributor)
 1. Tim Pierce (former GNU Guile contributor)
 1. Tim Weber (`scy`)
+1. Timothy C. Quinn
 1. Tiphaine Viard (Associate professor, Telecom Paris)
 1. Tobias Fella (KDE)
 1. Tobias Klausmann
