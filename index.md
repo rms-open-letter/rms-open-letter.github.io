@@ -146,6 +146,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Andy "@grifferz" Smith (both personally and on behalf of BitFolk Ltd)
 1. Andy Brody (FSF associate member)
 1. Andy Isaacson (@radii, founding member of Noisebridge)
+1. Andy R. Terrel
 1. AndyTuba
 1. Angel Uniminin <uniminin@zoho.com>
 1. Angus Fletcher
