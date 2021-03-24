@@ -1465,6 +1465,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Tux Pacific (NuCypher)
 1. Tyrel Souza
 1. Ujjwal Sharma (Node.js Core Collaborator, TC39, Igalia)
+1. Ursula Junque (Ubuntu member)
 1. Utku Boduroglu
 1. Vadim Rutkovsky
 1. Vanessa Oxley
