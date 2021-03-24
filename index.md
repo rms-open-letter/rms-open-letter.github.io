@@ -57,6 +57,7 @@ Signed,
 - Alison Dowdney (Kubernetes SIG Contributor Experience Chair)
 - Amos `fasterthanlime` Wenger
 - Amye Scavarda Perrin
+- Amy Null "`queer`"
 - Amy Russell
 - Amy Troschinetz
 - Andrea Denisse Gómez-Martínez (Arch Linux, i3blocks maintainer)
