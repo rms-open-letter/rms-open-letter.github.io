@@ -433,6 +433,7 @@ Signed,
 - Laurin Schmidt
 - Leandro A. F. Pereira
 - Liam R. Howlett (kernel developer)
+- Linda Fernández
 - Linus Parker
 - Lionirdeadman
 - Liza Ainalen Dosso
