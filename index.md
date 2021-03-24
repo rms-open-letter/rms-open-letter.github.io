@@ -279,6 +279,7 @@ Signed,
 - James Daly
 - James Spivey
 - James Troup
+- James Weare
 - Jane Manchun Wong
 - Jan Lehnardt (Apache CouchDB PMC Chair)
 - Jan Sprinz (UBports Foundation Board of Directors, Ubuntu Member)
