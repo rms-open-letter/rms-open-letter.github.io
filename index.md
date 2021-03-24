@@ -923,6 +923,7 @@ Signed,
 1. X.org Foundation Board of Directors (Lyude Paul, Eric Anholt, Mark Filion, Keith Packard, Daniel Vetter, Harry Wentland, Samuel Iglesias Gonsálvez)
 1. Yadav Lamichhane
 1. Yao Li (former FSF Monthly Student Associate Member)
+1. Yaroslav Kargapolov
 1. Yegor Timoshenko (NixOS contributor)
 1. Yorik van Havre
 1. Youngbin Han (Ubuntu Korea Community)
