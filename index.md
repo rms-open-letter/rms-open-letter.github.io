@@ -1621,6 +1621,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Tanvi Bhakta (Former EC member of Free Software Movement Karnataka, India)
 1. Taowa (Debian Developer, former LP keynote panelist)
 1. Thaddée Tyl
+1. TheEssem
 1. TheEvilSkeleton
 1. Theodor Tollersrud
 1. Theo Schlossnagle
