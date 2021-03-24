@@ -609,6 +609,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Greg Day
 1. Greg Donald
 1. Greg Grossmeier
+1. Gregory Smith (PostgreSQL, Crunchy Data)
 1. Guilhem Moulin (Debian Developer)
 1. Guillaume Desmottes (Collabora, GStreamer developer)
 1. Guillaume Gay
