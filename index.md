@@ -295,6 +295,7 @@ Signed,
 - Matthew P. Del Buono
 - Matthew Vernon (Debian developer)
 - Matthew Wilcox (Linux kernel hacker)
+- Matthias Arnason
 - Matthias Klumpp (Debian, freedesktop.org)
 - Matthias Schiffer (OpenWrt committer)
 - Matthieu Gallien (KDE)
