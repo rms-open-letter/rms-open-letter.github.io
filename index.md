@@ -451,6 +451,7 @@ Signed,
 - Seth McCombs
 - Shane Fagan
 - Shelly Coen
+- Shiz (former Alpine Linux developer)
 - Síle Ekaterin Aman (APK Fission, Adélie Linux Core Team)
 - Simeon Smith
 - Simon Phipps (Former OSI President)
