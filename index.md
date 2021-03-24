@@ -445,6 +445,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. David Revoy (Pepper&Carrot)
 1. David Rodríguez (@davidjguru, Drupal developer and FLOSS contributor)
 1. David Schmitt
+1. David Smith (@shmish111)
 1. David Thompson (GNU Guile/Guix contributor, ex-FSF)
 1. David Turner (former GPL Compliance Engineer at FSF)
 1. D. Ben Knoble
