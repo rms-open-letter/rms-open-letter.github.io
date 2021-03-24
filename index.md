@@ -470,6 +470,7 @@ Signed,
 - Kenny Huynh
 - Kevin Lannen
 - Kevin López B.
+- Kevin Messer
 - Kevin McKenzie, M.S (Co-Owner, Built-Right Digital)
 - Kevin O'Brien
 - Kevin Sonney
