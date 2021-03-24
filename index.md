@@ -776,6 +776,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Matthew P. Del Buono
 1. Matthew Peveler
 1. Matthew R. Green (NetBSD core, bozohttpd, ircII)
+1. Matthew Robertson
 1. Matthew Seal
 1. Matthew Stone
 1. Matthew S. Wilson (former contributor GNU Image Manipulation Program and GNU Parted, former Director, Software Freedom Conservancy)
