@@ -433,6 +433,7 @@ Signed,
 - Ryan Gonzalez
 - Ryan Heywood
 - Ryan Lahfa
+- Sajid Ali
 - Sambhav Saggi
 - Sam Hartman (Former Debian Project Leader)
 - Sam Hocevar (Former Debian Project Leader)
