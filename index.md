@@ -115,6 +115,7 @@ Signed,
 - Craig Maloney
 - Dan Arel (owner, ThinkPrivacy.ch)
 - Dan Bornstein (@danfuzz)
+- Dan Jacka
 - Daniel Nazer
 - Daniel Soskel
 - Daniel Stone (freedesktop.org, Wayland)
