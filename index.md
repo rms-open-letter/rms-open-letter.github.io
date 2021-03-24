@@ -1031,6 +1031,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Maya Rashish (NetBSD)
 1. Meadhbh Hamrick
 1. Mehdi Dogguy (Former Debian Project Leader)
+1. Melanie Kat
 1. Melissa Boiko
 1. Melissa Draper
 1. Mélissa Richard
