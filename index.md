@@ -112,6 +112,7 @@ Signed,
 - Brion Vibber (MediaWiki, Wikimedia Foundation)
 - Britta Gustafson
 - Bryan Meyers (Solus Technical Lead)
+- Cadence Ember
 - Cameron Tauxe
 - Cara Esten Hurtle
 - Carina C. Zona (CallbackWomen)
