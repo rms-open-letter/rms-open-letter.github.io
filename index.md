@@ -201,6 +201,7 @@ Signed,
 - Dylan Hardison (@dylan_hardison, Bugzilla Project)
 - Eddie Kay
 - Ed Marshall
+- Ee Durbin (PyPI Administrator)
 - Efraim Flashner (GNU Guix contributor)
 - Elen Eisendle
 - Eliott Lavier
