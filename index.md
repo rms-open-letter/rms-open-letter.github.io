@@ -897,6 +897,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Johanna Dorothea Reichmann
 1. Johannes Löthberg (Arch Linux Developer)
 1. John Bond
+1. John Burnett (@johnburnett on GitHub)
 1. John D. Martin III
 1. John F Lieske
 1. John Flynn
