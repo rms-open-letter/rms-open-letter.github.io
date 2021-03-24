@@ -363,6 +363,7 @@ Signed,
 - Jesús Castro
 - Jill Pelavin
 - Jill Rouleau (Ansible Maintainer / Steering Commitee member)
+- Joachim Weinbrenner
 - João "Johnny" Ciocca (DCG5511)
 - Joe Harley
 - Joel Bethke (OBS Project)
