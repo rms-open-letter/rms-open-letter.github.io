@@ -306,6 +306,7 @@ Signed,
 - Khionu Sybiern
 - Kimball Johnson (Former Chair FLOSS UK aka UKUUG)
 - Krzysztof Sakrejda
+- Kukuh Syafaat (GNOME, openSUSE)
 - Kumar Anirudha
 - Kunal Mehta (MediaWiki, Debian Developer, FSF associate member)
 - Kyle Mitchell
