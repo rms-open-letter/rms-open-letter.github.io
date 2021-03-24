@@ -831,6 +831,7 @@ Signed,
 1. Roan Kattouw
 1. Robert Barat
 1. Robert Berg
+1. Robert Foss (Linux kernel dev)
 1. Robert Joslyn
 1. Robert Lipe (GPSBabel creator, contributor to open source since 87)
 1. Robert Newson (Apache CouchDB PMC, ASF Member)
