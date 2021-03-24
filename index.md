@@ -339,6 +339,7 @@ Signed,
 - Jani "zment" Kärkkäinen
 - Jan Lehnardt (Apache CouchDB PMC Chair)
 - Jan Sprinz (UBports Foundation Board of Directors, Ubuntu Member)
+- Jason Barbier
 - Jason C. McDonald (a.k.a. CodeMouse92) (MousePaw Media)
 - Jason Crain (GNOME)
 - Jayme Howard
