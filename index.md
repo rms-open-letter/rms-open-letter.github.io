@@ -1463,6 +1463,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Youko Omori (Collabora)
 1. Youngbin Han (Ubuntu Korea Community)
 1. Young Hun Kim
+1. Yo Yehudi (Co-founder of Open Life Science)
 1. Yuval Adam
 1. Yuvi Panda (Project Jupyter)
 1. Yu-Wei Wu
