@@ -55,6 +55,7 @@ Signed,
 - Alan Ball
 - Alan Diggs (Schykle)
 - Alan Pope
+- Alexandra Moylett
 - Alexandre Dulaunoy (former FSF associate member #53)
 - Alex Arslan (Julia contributor, former Julia community manager)
 - Alex Callejas
