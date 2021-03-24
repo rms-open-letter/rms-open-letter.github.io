@@ -82,10 +82,11 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Alan Ball
 1. Alan Diggs (Schykle)
 1. Alan Pope
+1. Alberto Ruiz (GNOME, Fedora & LibreOffice contributor)
 1. Alexander Herzig (Release Manager SUSE Linux Enterprise)
 1. Alexander Jacocks (Red Hat)
 1. Alexander Koderman
-1. Alexander `lynxis` Couzens (OpenWrt, osmcocom)
+1. Alexander `lynxis` Couzens (OpenWrt, osmocom)
 1. Alexander Windahl
 1. Alexandra Moylett
 1. Alexandra Pereira (Collabora)
@@ -101,8 +102,10 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Alex Murray
 1. Alex Ose
 1. Alex Stapleton
+1. Alex Volkov
 1. Alfred Neumayer (UBports developer)
 1. Alison Dowdney (Kubernetes SIG Contributor Experience Chair)
+1. Allan Day (Chair, GNOME Foundation Board of Directors)
 1. Allie `sapphiclinguine` M. (salmon_lib developer)
 1. Allison Lund (Archipelago Repository Project, Metadata Librarian and Open Source Contributor)
 1. Allon Mureinik
@@ -112,6 +115,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Amin Mahmudian
 1. Amos `fasterthanlime` Wenger
 1. Amye Scavarda Perrin
+1. Amy Guy `rhiaro`
 1. Amy Null "`queer`"
 1. Amy Russell
 1. Amy Rust
@@ -210,6 +214,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Bob Murphy (12 year associate member)
 1. Bonnie King
 1. Brad Crittenden
+1. Brad Solomon
 1. Bram Hagens
 1. Brandon Butler
 1. Brendan Abolivier (Matrix Developer)
@@ -219,6 +224,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Brenton Cleeland
 1. Bret Moore
 1. Brett Sheffield (Librecast Project)
+1. Brett Smith (Former FSF staff and member)
 1. Brian Chen (`betaveros`)
 1. Brian Dawn
 1. Brian Heim
@@ -253,6 +259,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Carina C. Zona (CallbackWomen)
 1. Carlos Soriano Sanchez (Former GNOME Foundation director and Nautilus maintainer, GNOME GitLab admin)
 1. Carl Schwan (KDE)
+1. Carlos Tadeu Panato Junior
 1. Carlton Whitehead
 1. Carmen Bianca Bakker (Contributor to FSFE, GNOME, Fedora)
 1. Carolina Brum (FSF member)
@@ -281,6 +288,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Chris Riley
 1. Chris Rose
 1. Chris Talib (Source! - a radio show on FLOSS, Le Reset - queer hackerspace)
+1. Chrissy LeMaire (@cl - dbatools creator)
 1. Christian Brauner (Linux Kernel Hacker, LXC maintainer)
 1. Christian Buhtz
 1. Christian Glombek (Fedora Project contributor)
@@ -306,6 +314,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Christopher Schmidt
 1. Christoph Wickert (openSUSE contributor, former Fedora Council and Advisory Board member)
 1. Chris Wayne (Ubuntu)
+1. Clara Hobbs
 1. Clare Macrae
 1. Clarissa Borges (GNOME Foundation member)
 1. classabbyamp
@@ -330,6 +339,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Craig Maloney
 1. Cyril Brulebois (Debian Developer)
 1. Dag Ågren
+1. Dakota Hoornsman
 1. Dakota "Kai" Lyons (owner, Fivnex.co)
 1. Dale Hirt
 1. Dan Arel (owner, ThinkPrivacy.ch)
@@ -337,10 +347,11 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Dan Cross
 1. Dan "Fennix" Sim
 1. Daniel A. Rodriguez (Board of Directors, the Document Foundation)
+1. Daniel Estévez (gr-satellites)
 1. Daniel Feldroy (previously Daniel Roy Greenfeld)
 1. Daniel Foré (Founder, elementary, Inc.)
-1. Daniel Holbach (Former Ubuntu Council Member and Core Developer)
 1. Daniel Gryniewicz (Red Hat, former Gentoo developer)
+1. Daniel Holbach (Former Ubuntu Council Member and Core Developer)
 1. Daniel Kolesa (@octaforge, Void Linux developer)
 1. Daniel Murphy (@danhatesnumbers)
 1. Daniel Nazer
@@ -352,6 +363,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Danny Bouimad
 1. Danny "Rushyo" Moules (Security researcher, EFF Member, Former Mozilla contributor)
 1. Dan 'pixelflow' Humphreys
+1. Dan McDonald (illumos)
 1. Dan Stuart
 1. Dan Winship
 1. Dario Ninicato
@@ -360,6 +372,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. David A. Symons
 1. David Burns (Selenium contributor, former Mozilla)
 1. David Cantrell (Fedora developer)
+1. David Comay
 1. David C Mason (Former GNOME Foundation)
 1. David Demelier
 1. David Gilman
@@ -417,10 +430,12 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Dustin Mitchell (Engineer, Mozilla)
 1. Dylan Graham (Kubernetes)
 1. Dylan Hardison (@dylan_hardison, Bugzilla Project)
+1. Eddie Horton (Northwestern State University)
 1. Eddie Kay
 1. Edel Grace
 1. Ed Marshall
 1. Ed Summers
+1. Eddie Kay
 1. Eduardo Habkost
 1. Edward L. Platt (i3 Detroit cofounder, NetworkX contributor)
 1. Ee Durbin (PyPI Administrator)
@@ -444,6 +459,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Enum Cohrs
 1. Eric Hodel
 1. Erick Perez Castellanos
+1. Eric Schrock
 1. Eric Shamow
 1. Eric "Sheppy" Shepherd
 1. Eric Unangst
@@ -457,6 +473,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Ernesto Hernández-Novich (@iamemhn)
 1. Ernie Hartley (AudioMo Creator)
 1. Esther Payne (Librecast Project)
+1. Ethan Djeric
 1. Étienne Mollier (Debian Maintainer)
 1. Eva Lauren Kelly (web & console homebrew developer, aka thejsa)
 1. Evan Brown
@@ -467,6 +484,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Ezekiel Hendrickson
 1. Fabio Di Peri
 1. Fadi Abou Younes (Collabora)
+1. Fabio Neves (@fzero)
 1. Fahad Hossain
 1. Faith Jasmine Viola
 1. Fanael Linithien
@@ -516,6 +534,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Gina Häußge (OctoPrint maintainer)
 1. Giovanni Campagna (former GNOME contributor)
 1. Gökay Şatır (Collabora)
+1. Giuseppe Lavagetto
 1. Göktuğ Kayaalp
 1. Gordon Byrnes
 1. Gordon Haff (OSI Member)
@@ -534,6 +553,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Gustavo Noronha (Collabora)
 1. Gustavo Padovan (Collabora, Linux Kernel)
 1. Guy Lunardi (Collabora)
+1. Gustavo Gus (Tor Project)
 1. Guy Templeton (Kubernetes SIG Autoscaling Chair)
 1. Halla Rempt (maintainer of Krita)
 1. Hannah Aizenman (NYLUG coordinator, Matplotlib community manager)
@@ -564,6 +584,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. intrigeri (Debian Developer, Tails Developer)
 1. Irina Rempt
 1. Isaac Ferreira Filho (aka "yzakius", GNOME contributor)
+1. Isaque Galdino de Araujo (GNOME Foundation member)
 1. Isabela Bagueros
 1. Isak Sunde Singh
 1. Italo Nicola (Collabora)
@@ -591,6 +612,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. James Smith (@floppy)
 1. James Spivey
 1. James Troup
+1. James Turk (Open States)
 1. James Turnbull (former President of Linux Australia)
 1. James Weare
 1. Jamie Gaskins
@@ -790,6 +812,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Liam R. Howlett (kernel developer)
 1. Linda Fernández
 1. Lindsay Holmwood (former Vice President of Linux Australia)
+1. Linus Groh
 1. Linus Parker
 1. Lioncache
 1. Lionirdeadman
@@ -834,6 +857,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Máirín Duffy (Fedora Project, former FSF HPP committee member, former LP speaker)
 1. Malleck Braun
 1. Malte `m4schini` Schink
+1. Malvika Sharan
 1. Mandy Henk
 1. Mano Marks
 1. Manuel Genovés (GNOME)
@@ -856,6 +880,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Markus Bohnensack
 1. Markus `kmi` S. (Chaos Computer Club)
 1. Markus Unterwaditzer
+1. Marquis Kurt
 1. Marte Træen
 1. Martijn Bos(Galavanto)
 1. Martin Bayo
@@ -904,6 +929,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Mélissa Richard
 1. Micah Anderson
 1. Micah E Scott
+1. Micah Lee
 1. Michael Babker (Former Production Department Coordinator for Joomla!/OpenSourceMatters)
 1. Michael Bikovitsky
 1. Michael Bond (FSF Associate Member)
@@ -921,6 +947,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Michael Reiger
 1. Michael Schechter
 1. Michael Scherer
+1. Michael T. Lombardi (@michaeltlombardi, Puppet developer)
 1. Michal Siedlaczek
 1. Mika Pflüger
 1. Mike Doughney (co-founder, Digital Express Group / DIGEX Incorporated)
@@ -960,6 +987,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Nathan Shelly
 1. Neal Gompa (Fedora Project contributor, Mageia Project Council Member, Mageia.Org Board Member, openSUSE Project Board Member, OpenMandriva contributor)
 1. Neil Watson (Former CFEngine Community Advisory Board Member)
+1. Nic FitzGerald (Co-Founder Sailex)
 1. Nicholas LaPointe (Krita contributor)
 1. Nic FitzGerald (Co-Founder Sailex)
 1. Nick Chambers
@@ -1003,6 +1031,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Olivier Berger (FSF member, or associate member since 2002)
 1. Olivier Crête (Collabora, GStreamer)
 1. Omar Akkila (Collabora)
+1. Ondřej Surý (Debian Developer; Director of DNS Engineering @ ISC)
 1. Orhun Parmaksız (Arch Linux maintainer)
 1. Orion Montoya (former rms-assist, former FSF, GPLv3 drafting-process software developer)
 1. Otavio Salvador (former FSF associate member, former Debian Installer Release Manager)
@@ -1046,6 +1075,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Peter Huene
 1. Peter Hunt
 1. Peter Jones (Fedora developer)
+1. Peter Ludikovsky
 1. Peter Robinson (Fedora developer, former Fedora Board and Council member)
 1. Peter Van Eynde
 1. Petrohs
@@ -1077,9 +1107,9 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Rayan Das (@raydeeam)
 1. Raymon Skjørten Hansen
 1. Reed Loden
-1. Renata Rocha
 1. Rémi Verschelde (Godot Engine, Mageia)
 1. Rémy Grünblatt
+1. Renata Rocha
 1. Renaud Lepage
 1. Reuben Morais
 1. Rhonda D'Vine (Debian Developer, Open Source Diversity)
@@ -1111,6 +1141,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Robin Widegren
 1. Rob Smith (SeaGL Co-Founder)
 1. Rob Vincent
+1. Robin Ward (Discourse Co-Founder)
 1. Robyn Speer (ConceptNet)
 1. Roger Light
 1. Rojen Zaman
@@ -1150,7 +1181,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Sam Pritchard
 1. Samuel Scheiderich
 1. Sam van der Kris
-1. Sander van der Waal (Waag) 
+1. Sander van der Waal (Waag)
 1. Sandro Jäckel (NixOS contributor)
 1. Santeri Kasvi
 1. Santiago Saavedra (former President, GPUL; Co-founder, IUVIA)
@@ -1176,6 +1207,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Sean O'Brien
 1. Sebastian Dröge (GStreamer, GNOME, Debian)
 1. Sebastian Ramacher (Debian Developer)
+1. Sebastian Stauch (@sebidude)
 1. Sébastien Villemot (Debian Developer, FSF associate member)
 1. Seebs
 1. SeongHyun Lee (Kevin Lee / 케빈 리)
@@ -1218,12 +1250,15 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Stefanie Schirmer
 1. Stefan T. Peters
 1. Stelios Milidonis (Collabora)
+1. Stefan Weiberg (Technical Projectmanager SUSE Linux Enterprise)
 1. Stemy (amateur independant self-host)
+1. Step Schwarz
 1. Stephane Graber (LXC, former Ubuntu Technical Board member)
 1. Stephanie Whited
 1. Stephan Lachnit (Debian Maintainer)
 1. Stephen A. Goss
 1. Stephen O'Grady
+1. Steve Desmond
 1. Steve Langasek (former Debian Technical Committee member; Ubuntu Technical Board member)
 1. Steve McIntyre (Former Debian Project Leader)
 1. Steven Beattie
@@ -1261,7 +1296,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Tianon Gravi
 1. Tierney Cyren (Node.js Community Committee Chairperson, Electron, OpenJS Foundation CPC)
 1. Till Schneidereit
-1. Tilman Vatteroth (@mrdrogdrog, Frontend developer at HedgeDoc
+1. Tilman Vatteroth (@mrdrogdrog, Frontend developer at HedgeDoc)
 1. Tim Bradshaw
 1. Tim D. Smith (Mozilla; former member, Homebrew PLC)
 1. Timothée Ravier (Fedora Project Contributor)
@@ -1296,6 +1331,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Vadim Rutkovsky
 1. Vangelis Katsikaros
 1. Veronica Cary
+1. Vicky Rampin
 1. Victor Hugo Soliz Kuncar
 1. Victoria "tdfischer" Fierce (Former KDE Multimedia and Phonon-GStreamer maintainer)
 1. Viktoriia Leontieva (Product Designer at GitHub)
@@ -1310,6 +1346,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Vivia Nikolaidou (GStreamer)
 1. Vivek Das Mohapatra (Collabora)
 1. Vojtěch Vengrin (Gnome translator)
+1. Ward Vandewege (Former FSF staff and FSF member)
 1. Wayne M. Thornton, B.S., CPDT (Co-Founder & Project Manager VIRATRACE)
 1. Wendy Bolm (Chief Operations Officer, CommitChange)
 1. Wendy Seltzer
@@ -1330,6 +1367,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Wilson "Chilly" Hightower
 1. Wim Taymans (PipeWire, GStreamer)
 1. Wolthera van Hövell (Krita/KDE)
+1. Wulf C. Krueger (Exherbo Linux)
 1. Xabier Rodríguez Calvar
 1. Xavier Claessens (Collabora)
 1. Xavier Tilley
@@ -1356,3 +1394,4 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Zack Cerza
 1. Zeltzin Rodríguez
 1. Zvi Gilboa
+<!-- Do not add your name to the bottom, it needs adding in alphabetical order above -->
