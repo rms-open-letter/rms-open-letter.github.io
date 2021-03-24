@@ -315,6 +315,7 @@ Signed,
 - Hazel Levine
 - Heiko Becker (Exherbo, KDE)
 - Hein-Pieter van Braam-Stewart (FSF associate member since 2008)
+- Highlander Subaron (`HightechSec`)
 - Hubert Figuière
 - Ian Jackson (Former Debian Project Leader; former President, Software in the Public Interest; GNU Maintainer)
 - Idan Gazit (Django project alumnus)
