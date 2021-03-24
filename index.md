@@ -1528,6 +1528,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Sander Steffann (@sjmsteffann / sjms)
 1. Sander van der Waal (Waag)
 1. Sandro Jäckel (NixOS contributor)
+1. Sandro Knauß (Debian, KDE)
 1. Santeri Kasvi
 1. Santiago Saavedra (former President, GPUL; Co-founder, IUVIA)
 1. Santiago Torres-Arias (Arch Linux, Purdue University, in-toto)
