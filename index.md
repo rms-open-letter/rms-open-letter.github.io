@@ -200,6 +200,7 @@ Signed,
 - Evan Brown
 - Ezekiel Hendrickson
 - Fabio Di Peri
+- Faye Duxovni
 - Federico Mena Quintero (GNOME)
 - Federico Pontillo
 - Félix 'passcod' Saparelli
