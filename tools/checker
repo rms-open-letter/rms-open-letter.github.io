@@ -6,5 +6,6 @@ for I in `gh pr list|cut -f 1`; do
     if [[ "$foo" == "y" ]];
         then gh pr merge -m $I
     fi
+    echo
 done
 
