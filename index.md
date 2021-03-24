@@ -170,6 +170,7 @@ Signed,
 - Evan Brown
 - Ezekiel Hendrickson
 - Fabio Di Peri
+- Faith Jasmine Viola
 - Federico Mena Quintero (GNOME)
 - Federico Pontillo
 - Filipe Laíns (Arch Linux TU, PyPA maintainer)
