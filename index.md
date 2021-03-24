@@ -1050,6 +1050,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Shane Coughlan
 1. Shane Fagan
 1. Shaun Mouton
+1. Shawon Ashraf
 1. Shelly Coen
 1. Sherman Mui
 1. Shiz (former Alpine Linux developer)
