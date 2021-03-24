@@ -70,6 +70,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Adam Miller (Ansible, Fedora)
 1. Adam Salt (Cob:web Development)
 1. Adil Sadik
+1. Aditya Sirish A Yelgundhalli (@adityasaky)
 1. Adolfo Jayme Barrientos (Ubuntu, The Document Foundation)
 1. Adriaan de Groot
 1. Adrian Cochrane
@@ -184,7 +185,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Björn Fahller
 1. Blair Vidakovich (vidak)
 1. Bob Killen (Kubernetes Steering Committee Member)
-1. Bob Murphy (12 year associate member)
 1. Bonnie King
 1. Bram Hagens
 1. Brandon Butler
@@ -316,7 +316,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. David Jones (former FSF associate member)
 1. David Jones (kerning consultant)
 1. David M. Douglas
-1. David Malcolm (GCC contributor)
 1. David Newman (recovering network engineer)
 1. David Planella
 1. David Reid
@@ -463,7 +462,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Hexandcube
 1. Hidde Beydals
 1. Highlander Subaron (`HightechSec`)
-1. Holger Levsen (Debian Developer, reproducible-builds.org)
 1. Hubert Figuière
 1. Ian Jackson (Former Debian Project Leader; former President, Software in the Public Interest; GNU Maintainer)
 1. Ian Stapleton Cordasco
@@ -657,7 +655,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Lander Van den Bulcke
 1. Langlais Raphael
 1. Lars Wirzenius
-1. Laura Arjona Reina
 1. Laura Lytle
 1. Laurence Berland
 1. Laurin Schmidt
@@ -935,7 +932,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Roan Kattouw
 1. Robert Barat
 1. Robert Berg
-1. Robert Foss (Linux kernel dev)
 1. Robert Joslyn
 1. Robert Lipe (GPSBabel creator, contributor to open source since 87)
 1. Robert McQueen (President of the GNOME Foundation)
@@ -947,7 +943,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Rob Smith (SeaGL Co-Founder)
 1. Rob Vincent
 1. Robyn Speer (ConceptNet)
-1. Rojen Zaman
 1. Roger Light
 1. Rosanna Yuen (GNOME Foundation)
 1. Ross A. Baker
