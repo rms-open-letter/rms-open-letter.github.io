@@ -470,6 +470,7 @@ Signed,
 - Martin Kühl
 - Martin Splitt
 - Martin Wimpress (Former FSF member)
+- Mason Jones
 - Mathieu Comandon (Lutris)
 - Matt Beland
 - Matteo Tammaccaro
