@@ -399,6 +399,7 @@ Signed,
 - Sydney Schreckengost
 - Tab Atkins-Bittner (@tabatkins, active W3C/TC39/WHATWG editor)
 - Tamás Szelei
+- Tamreen Khan
 - tanmatsu
 - Tanner Filip
 - Taowa (Debian Developer, former LP keynote panelist)
