@@ -549,6 +549,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Gabriel Krisman Bertazi (Collabora)
 1. Gabriella Coleman (McGill University)
 1. Gabriel Volpe (Practical FP in Scala)
+1. Gaeel Bradshaw-Rodriguez
 1. Gale Pedowitz Fagan
 1. Gareth J. Greenaway (Salt Developer, SCALE Co-Founder and former chair person)
 1. Gary Williams
