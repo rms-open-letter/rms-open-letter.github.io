@@ -184,6 +184,7 @@ Signed,
 1. Blair Vidakovich (vidak)
 1. Bob Killen (Kubernetes Steering Committee Member)
 1. Bonnie King
+1. Brad Crittenden
 1. Bram Hagens
 1. Brandon Butler
 1. Brendan Abolivier
