@@ -481,6 +481,7 @@ Signed,
 - Julien Rabier
 - julien tayon
 - Julien Voisin
+- Julien Wajsberg (Mozilla)
 - June Taylor
 - Justin Dearing (@zippy1981)
 - Justin Haygood
