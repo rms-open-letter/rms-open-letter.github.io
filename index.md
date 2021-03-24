@@ -1440,6 +1440,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Renaud Lepage
 1. Reuben Morais
 1. Rhonda D'Vine (Debian Developer, Open Source Diversity)
+1. Rhys Powell
 1. Ricardo Bánffy
 1. Ricardo Berlim Fonseca (Brasília, Brazil)
 1. Ricardo Salveti
