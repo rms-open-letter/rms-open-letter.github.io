@@ -645,6 +645,7 @@ Signed,
 - Paul Wouters (Libreswan, Fedora developer)
 - Percival Lavoie
 - Perro Tuerto (Programando LIBREros)
+- Peder Bergebakken Sundt
 - Peter Aufner (`Adrixan`)
 - Peter Hazenberg (`Peetz0r`)
 - Peter Huene
