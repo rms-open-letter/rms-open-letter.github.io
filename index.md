@@ -1660,6 +1660,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Steve Desmond
 1. Steve Langasek (former Debian Technical Committee member; Ubuntu Technical Board member)
 1. Steve McIntyre (Former Debian Project Leader)
+1. Steve Pletcher
 1. Steven Beattie
 1. Steven Dake (Former: elected OpenStack BOD member, Heat PTL, former Kolla PTL, Corosync lead)
 1. Steven DuBois (former FSF intern)
