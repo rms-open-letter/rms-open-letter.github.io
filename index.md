@@ -123,6 +123,7 @@ Signed,
 1. Bandie (Chaos Computer Club, pam_panic, former FSF member)
 1. Baptiste Fontaine
 1. Barret Rennie (Mozilla)
+1. Bastien Nocera (Former director, GNOME Foundation)
 1. Behdad Esfahbod (Former director / president, GNOME Foundation)
 1. Ben Cotton (Fedora Project contributor)
 1. Ben Evans
@@ -883,7 +884,6 @@ Signed,
 1. Trolli Schmittlauch
 1. Tuna Ilgaz
 1. Ujjwal Sharma (Node.js Core Collaborator, TC39, Igalia)
-1. Vadim Rutkovsky
 1. Vangelis Katsikaros
 1. Victor Hugo Soliz Kuncar
 1. Victoria "tdfischer" Fierce (Former KDE Multimedia and Phonon-GStreamer maintainer)
