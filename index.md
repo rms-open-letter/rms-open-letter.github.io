@@ -689,6 +689,7 @@ Signed,
 - Wayne M. Thornton, B.S., CPDT (Co-Founder & Project Manager VIRATRACE)
 - Wendy Bolm (Chief Operations Officer, CommitChange)
 - Wes Mason (Ubuntu Community Member and former FSFE Fellow)
+- whitequark
 - Will Barton
 - Will Greenberg (EFF, signing in personal capacity)
 - Will Hawkins
