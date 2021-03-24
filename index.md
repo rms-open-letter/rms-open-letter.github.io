@@ -627,6 +627,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Graham Freeman
 1. Graham Sutherland
 1. Grant Seltzer Richman
+1. Graydon Hoare (former Rust project lead)
 1. Greg Day
 1. Greg Donald
 1. Greg Grossmeier
