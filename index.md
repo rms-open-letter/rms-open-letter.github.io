@@ -1060,6 +1060,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Orhun Parmaksız (Arch Linux maintainer)
 1. Orion Montoya (former rms-assist, former FSF, GPLv3 drafting-process software developer)
 1. Otavio Salvador (former FSF associate member, former Debian Installer Release Manager)
+1. Owen Anderson
 1. Øystein Øverng
 1. Pablo Costas Sánchez
 1. Pablo Martín Oldani
