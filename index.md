@@ -1050,6 +1050,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Morgan Fletcher
 1. Morgan `indrora` Gangwere
 1. Morgan Lemmer-Webber
+1. Morgan MacKechnie
 1. Morgan Thomas
 1. Morten Linderud (Arch Linux maintainer)
 1. M. Scott Ford (CEO, Corgibytes)
