@@ -502,6 +502,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Desiree Zamora Garcia (A List Apart)
 1. Devin Buhl
 1. Devin Halladay
+1. Diana Thayer
 1. Didier 'OdyX' Raboud (Debian Developer, former Debian Technical Committee chair)
 1. Diego Pino (Archipelago Repository Project, Tech Lead)
 1. Dieter Maes
