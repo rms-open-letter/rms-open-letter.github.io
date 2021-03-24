@@ -123,7 +123,6 @@ Signed,
 1. Bandie (Chaos Computer Club, pam_panic, former FSF member)
 1. Baptiste Fontaine
 1. Barret Rennie (Mozilla)
-1. Bastien Nocera (Former director, GNOME Foundation)
 1. Behdad Esfahbod (Former director / president, GNOME Foundation)
 1. Ben Cotton (Fedora Project contributor)
 1. Ben Evans
@@ -275,7 +274,6 @@ Signed,
 1. Desiree Zamora Garcia (A List Apart)
 1. Devin Buhl
 1. Didier 'OdyX' Raboud (Debian Developer, former Debian Technical Committee chair)
-1. Dieter Maes
 1. Dillon Pentz (OBS Project Developer)
 1. Dimitri John Ledkov (Debian Developer, Ubuntu Core Developer, former member of the SPI Inc board of directors)
 1. Dirk Hohndel
@@ -329,7 +327,6 @@ Signed,
 1. Faye Duxovni
 1. Federico Mena Quintero (GNOME)
 1. Federico Pontillo
-1. Felix 'fleaz' Breidenstein
 1. Félix 'felix91gr' Fischer
 1. Félix 'passcod' Saparelli
 1. Fernando Pérez (recipient of 2012 FSF Award for the Advancement of Free Software, IPython creator, Project Jupyter co-founder and co-director, NumFOCUS co-founder, 2i2c.org co-founder).
@@ -354,7 +351,6 @@ Signed,
 1. Gerardo Torres
 1. Gerard Ryan
 1. Germán Poo-Caamaño (GNOME)
-1. Gina Häußge (OctoPrint maintainer)
 1. Giovanni Campagna (former GNOME contributor)
 1. Göktuğ Kayaalp
 1. Gordon Byrnes
@@ -368,7 +364,6 @@ Signed,
 1. Gunnar Wolf (Debian Developer, member of the Debian Technical Committee)
 1. Gustaf Lindstedt
 1. Gustavo Costa (Fedora Project contributor)
-1. Gustavo Padovan (Linux Kernel)
 1. Guy Templeton (Kubernetes SIG Autoscaling Chair)
 1. Halla Rempt (maintainer of Krita)
 1. Hannah Aizenman (NYLUG coordinator, Matplotlib community manager)
@@ -576,7 +571,6 @@ Signed,
 1. Mairi Dulaney (Fedora Project contributor)
 1. Máirín Duffy (Fedora Project, former FSF HPP committee member, former LP speaker)
 1. Malleck Braun
-1. Malte `m4schini` Schink
 1. Mano Marks
 1. Manuel Genovés (GNOME)
 1. Margarita Manterola (Debian Developer, member of the Debian Technical Committee)
@@ -605,7 +599,6 @@ Signed,
 1. Matthew S. Wilson (former contributor GNU Image Manipulation Program and GNU Parted, former Director, Software Freedom Conservancy)
 1. Matthew Vernon (Debian developer)
 1. Matthew Wilcox (Linux kernel hacker)
-1. Matthias Antierens
 1. Matthias Arnason
 1. Matthias Bussonnier (Project Jupyter co-founder)
 1. Matthias Klumpp (Debian, freedesktop.org)
@@ -623,7 +616,6 @@ Signed,
 1. Micah Anderson
 1. Micah E Scott
 1. Michael Bikovitsky
-1. Michael Bond (FSF Associate Member)
 1. Michael Carbone (Qubes OS)
 1. Michael Downey (United Nations Foundation)
 1. Michael Gat
@@ -707,7 +699,6 @@ Signed,
 1. Pat Allan
 1. Pat Hickey
 1. Patrick Engelman
-1. Patrick Meyer (`HerrSpace`)
 1. Patrick Robinson
 1. Paul Adams
 1. Paul Aguilar (`penserbjorne` from LIDSOL)
@@ -731,7 +722,6 @@ Signed,
 1. Phil Dibowitz
 1. Philip Balister
 1. Philip Hands (Former Debian Technical Committee member)
-1. Philip Withnall
 1. Philippe Normand
 1. Pierre Dupont
 1. Pierre Marijon
@@ -746,7 +736,6 @@ Signed,
 1. Rami Chowdhury
 1. Randy J. Ray (@rjray)
 1. rany
-1. raichoo (maintainer and contributor for various open source projects)
 1. Raymon Skjørten Hansen
 1. Reed Loden
 1. Rémi Verschelde (Godot Engine, Mageia)
@@ -755,7 +744,6 @@ Signed,
 1. Reuben Morais
 1. Rhonda D'Vine (Debian Developer)
 1. Richard Guy Briggs (FreeS/WAN kernel, OCLUG founding board, kaudit)
-1. Richard Brown (Former openSUSE Chairman)
 1. Richard Maw
 1. Richard Mehlinger
 1. Richard "RichiH" Hartmann (Debian Developer; ex: freenode & OFTC; FOSDEM, CCC, DebConf); see commit message
@@ -778,9 +766,7 @@ Signed,
 1. Roger Light
 1. Rosanna Yuen (GNOME Foundation)
 1. Ross A. Baker
-1. Rossella Sblendido (OpenStack, OPNFV, LF Networking)
 1. Ruben Schade
-1. Ruben Pollan (meskio)
 1. Russ Allbery (Debian Developer, FSF associate member since 2003)
 1. Russell Keith-Magee (@freakboy3742; former President, Django Software Foundation; Founder, BeeWare Project)
 1. Ryan Clark
@@ -801,6 +787,7 @@ Signed,
 1. Sam Pavlovic
 1. Sam Phillips
 1. Sam Pritchard
+1. Sander van der Waal (Waag)
 1. Sander van der Waal (Waag) 
 1. Santeri Kasvi
 1. Santiago Torres-Arias (Arch Linux, Purdue University, in-toto)
@@ -892,7 +879,6 @@ Signed,
 1. Trolli Schmittlauch
 1. Tuna Ilgaz
 1. Ujjwal Sharma (Node.js Core Collaborator, TC39, Igalia)
-1. Vadim Rutkovsky
 1. Vangelis Katsikaros
 1. Victor Hugo Soliz Kuncar
 1. Victoria "tdfischer" Fierce (Former KDE Multimedia and Phonon-GStreamer maintainer)
@@ -905,7 +891,6 @@ Signed,
 1. Vipul Gupta
 1. Vipul Siddharth (Fedora Project Contributor)
 1. Vivia Nikolaidou (GStreamer)
-1. Vojtěch Vengrin (Gnome translator)
 1. Wayne M. Thornton, B.S., CPDT (Co-Founder & Project Manager VIRATRACE)
 1. Wendy Bolm (Chief Operations Officer, CommitChange)
 1. Wes Mason (Ubuntu Community Member and former FSFE Fellow)
@@ -913,6 +898,7 @@ Signed,
 1. Will Barton
 1. Will Greenberg (EFF, signing in personal capacity)
 1. Will Hawkins
+1. Will Hunt / `Half-Shot`
 1. William D. Jones (`cr1901`)
 1. William Kroes
 1. William Starkey
