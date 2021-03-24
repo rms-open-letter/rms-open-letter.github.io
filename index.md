@@ -654,6 +654,7 @@ Signed,
 - Petrohs
 - Phil Dibowitz
 - Philip Balister
+- Philip Hands (Former Debian Technical Committee member)
 - Philippe Normand
 - Pierre Marijon
 - Pierre Ozoux (@pierreozoux)
