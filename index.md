@@ -736,6 +736,7 @@ Signed,
 - Sherman Mui
 - Shiz (former Alpine Linux developer)
 - Síle Ekaterin Aman (APK Fission, Adélie Linux Core Team)
+- Silje Christiansen
 - Simeon Smith
 - Simon Phipps (Former OSI President)
 - Simon Richter
