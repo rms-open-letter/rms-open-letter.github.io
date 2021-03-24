@@ -476,6 +476,7 @@ Signed,
 - Jules Penuchot (Paris-Saclay University)
 - Julian Andres Klode
 - Julian Hofer (GNOME, Deltares) 
+- Julien Cristau (Debian, X.Org, Mozilla)
 - Julien Rabier
 - julien tayon
 - Julien Voisin
