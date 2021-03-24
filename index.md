@@ -542,6 +542,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Florian Neumann
 1. Frances Hocutt
 1. Francis Gulotta (Node SerialPort maintainter, Nodebots founding memeber)
+1. Francois Caen (Former Taclug president)
 1. Francois Lesage
 1. Frank S. Thomas
 1. Frederic Branczyk (Kubernetes SIG Instrumentation Tech Lead, Prometheus maintainer, Thanos maintainer)
