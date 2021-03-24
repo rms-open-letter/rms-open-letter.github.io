@@ -653,6 +653,7 @@ Signed,
 - Steve McIntyre (Former Debian Project Leader)
 - Steven DuBois
 - Sydney Schreckengost
+- Taavi Väänänen (MediaWiki)
 - Tab Atkins-Bittner (@tabatkins, active W3C/TC39/WHATWG editor)
 - Tamás Szelei
 - Tamreen Khan
