@@ -214,6 +214,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Bryan Meyers (Solus Technical Lead)
 1. Bryan Paget
 1. Bryce Adelstein Lelbach aka wash (US Programming Language Standards Chair, ISO C++ Library Evolution Chair)
+1. Burny Boi (Glowers Club member)
 1. Byron Lagrone
 1. Cadence Ember
 1. Caelan
