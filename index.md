@@ -138,6 +138,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Andreas Happe
 1. Andreas M. Antonopoulos (Author of three O'Reilly Media CC-BY-SA licensed books)
 1. Andrea Wieland
+1. Andrea Zonca (University of California San Diego)
 1. Andrei Jiroh Eugenio Halili (Founder of @MadeByThePinsHub)
 1. Andrej Shadura (Collabora, Debian Developer)
 1. Andre Klapper (GNOME)
