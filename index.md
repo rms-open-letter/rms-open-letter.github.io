@@ -293,6 +293,7 @@ Signed,
 - Matteo Tammmaccaro
 - Matthew `mattcen` Cengia
 - Matthew P. Del Buono
+- Matthew Stone
 - Matthew Vernon (Debian developer)
 - Matthew Wilcox (Linux kernel hacker)
 - Matthias Klumpp (Debian, freedesktop.org)
