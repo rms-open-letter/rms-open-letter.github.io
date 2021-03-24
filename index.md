@@ -556,3 +556,4 @@ Signed,
 - Zach Klippenstein (aka @zach-klippenstein, Square)
 - Zach van Rijn
 - Zvi Gilboa
+- Chris Adams (@acdha)
