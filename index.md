@@ -418,6 +418,7 @@ Signed,
 - Rafael Silva
 - Rami Chowdhury
 - rany
+- Reed Loden
 - Rémi Verschelde (Godot Engine, Mageia)
 - Richard Maw
 - Richard Mehlinger
