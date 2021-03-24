@@ -200,6 +200,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Ashish Dixit
 1. Asta Halkjær From
 1. Asumu Takikawa (Igalia)
+1. Asura Enkhbayar
 1. Attila Pinter (aka adathor, openSUSE docs, support, OpenStorage.io CTO)
 1. Attila Szegedi
 1. Aubrey Fletcher
