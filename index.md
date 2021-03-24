@@ -725,6 +725,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Jacob Perkins
 1. Jacob See (Red Hat)
 1. Jacob Weisz
+1. Jacques Favreau
 1. Jacques 'erelde' Rimbault
 1. Jade '0x0ade' Macho
 1. Jaden Pleasants
