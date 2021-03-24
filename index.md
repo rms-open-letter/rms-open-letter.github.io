@@ -122,6 +122,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Andrew Cherry
 1. Andrew Dona-Couch
 1. Andrew J. Stephen
+1. Andrew McDermott
 1. Andrew Pinski (GCC contributor)
 1. Andrija Subotić
 1. Andy Isaacson (@radii, founding member of Noisebridge)
