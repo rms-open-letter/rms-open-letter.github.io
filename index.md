@@ -309,7 +309,6 @@ Signed,
 - Michael Schechter
 - Mike Linksvayer
 - Mikel Johnson
-- Mitchell Baker, on behalf of Mozilla.
 - Morgan-Christopher Brooks
 - Morgan `indrora` Gangwere
 - Morgan Thomas
@@ -399,6 +398,7 @@ Signed,
 - Sydney Schreckengost
 - Tab Atkins-Bittner (@tabatkins, active W3C/TC39/WHATWG editor)
 - Tamás Szelei
+- Tamreen Khan
 - tanmatsu
 - Tanner Filip
 - Taowa (Debian Developer, former LP keynote panelist)
