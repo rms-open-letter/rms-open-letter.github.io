@@ -213,6 +213,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Cadence Ember
 1. Caelan
 1. Caglar Koksal, Phd
+1. Caio Raposo
 1. Calvin Spealman (@ironfroggy, Red Hat Inc.)
 1. Cameron Cash (PizzaLovingNerd)
 1. Cameron Durham
