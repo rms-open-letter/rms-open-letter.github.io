@@ -479,6 +479,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Desiree Zamora Garcia (A List Apart)
 1. Devin Buhl
 1. Devin Halladay
+1. Diana Thayer
 1. Didier 'OdyX' Raboud (Debian Developer, former Debian Technical Committee chair)
 1. Diego Pino (Archipelago Repository Project, Tech Lead)
 1. Dieter Maes
@@ -1509,7 +1510,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Steven DuBois (former FSF intern)
 1. Steve Pomeroy
 1. Stew O'Connor (former Debian debeloper, former freenode staff)
-1. Stig Sandbeck Mathisen (Debian Developer)
 1. Stuart Auld
 1. Stuart A Yeates (former OSS Watch staffer)
 1. Stuart Harrison
