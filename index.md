@@ -74,9 +74,9 @@ Signed,
 - Amy Troschinetz
 - Andrea Denisse Gómez-Martínez (Arch Linux, i3blocks maintainer)
 - Andrea Wieland
+- Andrei Jiroh Eugenio Halili (Founder of @MadeByThePinsHub)
 - Andrej Shadura (Debian Developer)
 - Andre Klapper (GNOME)
-- Andrei Jiroh Eugenio Halili (Founder of @MadeByThePinsHub)
 - Andrés Hernández "`tonejito`" (LIDSoL)
 - Andres Salomon (Debian Developer)
 - Andrew Dona-Couch
