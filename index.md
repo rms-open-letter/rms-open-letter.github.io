@@ -259,6 +259,7 @@ Signed,
 - Enum Cohrs
 - Eric Hodel
 - Eric "Sheppy" Shepherd
+- Eric Shamow
 - Eric Unangst
 - Erin Nova
 - Erin Unterwaditzer
