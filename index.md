@@ -82,11 +82,10 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Alan Ball
 1. Alan Diggs (Schykle)
 1. Alan Pope
-1. Alberto Ruiz (GNOME, Fedora & LibreOffice contributor)
 1. Alexander Herzig (Release Manager SUSE Linux Enterprise)
 1. Alexander Jacocks (Red Hat)
 1. Alexander Koderman
-1. Alexander `lynxis` Couzens (OpenWrt, osmocom)
+1. Alexander `lynxis` Couzens (OpenWrt, osmcocom)
 1. Alexander Windahl
 1. Alexandra Moylett
 1. Alexandra Stehr
@@ -104,7 +103,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Alex Volkov
 1. Alfred Neumayer (UBports developer)
 1. Alison Dowdney (Kubernetes SIG Contributor Experience Chair)
-1. Allan Day (Chair, GNOME Foundation Board of Directors)
 1. Allie `sapphiclinguine` M. (salmon_lib developer)
 1. Allison Lund (Archipelago Repository Project, Metadata Librarian and Open Source Contributor)
 1. Allon Mureinik
@@ -309,7 +307,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Christopher Schmidt
 1. Christoph Wickert (openSUSE contributor, former Fedora Council and Advisory Board member)
 1. Chris Wayne (Ubuntu)
-1. Clara Hobbs
 1. Clare Macrae
 1. Clarissa Borges (GNOME Foundation member)
 1. classabbyamp
@@ -520,7 +517,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Gertjan Lettink a.k.a. Knurpht
 1. Gina Häußge (OctoPrint maintainer)
 1. Giovanni Campagna (former GNOME contributor)
-1. Giuseppe Lavagetto
 1. Göktuğ Kayaalp
 1. Gordon Byrnes
 1. Gordon Haff (OSI Member)
@@ -541,6 +537,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Halla Rempt (maintainer of Krita)
 1. Hannah Aizenman (NYLUG coordinator, Matplotlib community manager)
 1. Hardy Pottinger (DSpace Committer)
+1. Harsh Deep (`harsh183`)
 1. Harsh Shandilya
 1. Havoc Pennington (former GNOME Foundation)
 1. Hayden Barnes
@@ -566,7 +563,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. intrigeri (Debian Developer, Tails Developer)
 1. Irina Rempt
 1. Isaac Ferreira Filho (aka "yzakius", GNOME contributor)
-1. Isaque Galdino de Araujo (GNOME Foundation member)
 1. Isabela Bagueros
 1. Isak Sunde Singh
 1. Italo Vignoli (OSI Director, LibreItalia Honorary President)
@@ -833,7 +829,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Máirín Duffy (Fedora Project, former FSF HPP committee member, former LP speaker)
 1. Malleck Braun
 1. Malte `m4schini` Schink
-1. Malvika Sharan
 1. Mandy Henk
 1. Mano Marks
 1. Manuel Genovés (GNOME)
@@ -903,7 +898,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Mélissa Richard
 1. Micah Anderson
 1. Micah E Scott
-1. Micah Lee
 1. Michael Babker (Former Production Department Coordinator for Joomla!/OpenSourceMatters)
 1. Michael Bikovitsky
 1. Michael Bond (FSF Associate Member)
@@ -921,7 +915,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Michael Reiger
 1. Michael Schechter
 1. Michael Scherer
-1. Michael T. Lombardi (@michaeltlombardi, Puppet developer)
 1. Michal Siedlaczek
 1. Mika Pflüger
 1. Mike Doughney (co-founder, Digital Express Group / DIGEX Incorporated)
@@ -1175,7 +1168,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Sean O'Brien
 1. Sebastian Dröge (GStreamer, GNOME, Debian)
 1. Sebastian Ramacher (Debian Developer)
-1. Sebastian Stauch (@sebidude)
 1. Sébastien Villemot (Debian Developer, FSF associate member)
 1. Seebs
 1. SeongHyun Lee (Kevin Lee / 케빈 리)
@@ -1217,13 +1209,11 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Stefan T. Peters
 1. Stefan Weiberg (Technical Projectmanager SUSE Linux Enterprise)
 1. Stemy (amateur independant self-host)
-1. Step Schwarz
 1. Stephane Graber (LXC, former Ubuntu Technical Board member)
 1. Stephanie Whited
 1. Stephan Lachnit (Debian Maintainer)
 1. Stephen A. Goss
 1. Stephen O'Grady
-1. Steve Desmond
 1. Steve Langasek (former Debian Technical Committee member; Ubuntu Technical Board member)
 1. Steve McIntyre (Former Debian Project Leader)
 1. Steven Beattie
@@ -1307,7 +1297,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Vitor "Krammer" Cardoso
 1. Vivia Nikolaidou (GStreamer)
 1. Vojtěch Vengrin (Gnome translator)
-1. Ward Vandewege (Former FSF staff and FSF member)
 1. Wayne M. Thornton, B.S., CPDT (Co-Founder & Project Manager VIRATRACE)
 1. Wendy Bolm (Chief Operations Officer, CommitChange)
 1. Wendy Seltzer
