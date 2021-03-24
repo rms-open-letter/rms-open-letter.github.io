@@ -510,7 +510,7 @@ Signed,
 
 *2021-03-23*
 
-Richard M. Stallman is being unfairly linched and defamed by the above signing. They are asking for him to be expelled from an organizationhe created, he commited his live to, and he deserves more than any one of us to be head of. 
+Richard M. Stallman is being unfairly linched and defamed by the above signing. They are asking for him to be expelled from an organization he created, he commited his live to, and he deserves more than any one of us to be head of. 
 
 We, the undersigned, believe in the necessity of digital autonomy and the powerful role user freedom plays in protecting our fundamental human rights. In order to realize the promise of everything freedom makes possible, we must defend free speech and we must defend our members (including Richard M. Stallman) against false acusations and regrettable hate campaigns. It's not the way to build a cibilization. It's not the way to achieve freedom. Hate campaigns as we know only lead to division and self destruction. 
 
