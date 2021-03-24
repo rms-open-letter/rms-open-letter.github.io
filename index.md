@@ -819,6 +819,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Jamie Gaskins
 1. Jamie Kyle
 1. Jamie Phillips
+1. Jan Alexander Steffens (`heftig`, Arch Linux)
 1. Jan C. Borchardt (Nextcloud, Open Source Diversity, Open Source Design)
 1. Jan Christian Grünhage (Matrix, Famedly GmbH)
 1. Jane Manchun Wong
