@@ -40,7 +40,9 @@ Signed,
 
 <!-- Any additional signees should go below this comment in alphabetical order (according to `sort -u`) -->
 
+1. Calyx Institute
 1. CommitChange
+1. The FreeDOS Project (@freedos_project)
 1. Globenet
 1. GlobaLeaks
 1. GNOME Foundation
@@ -815,7 +817,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Jill Rouleau (Ansible Maintainer / Steering Commitee member)
 1. Jim Campbell
 1. Jim Perrin (CentOS Project, Fedora Project)
-1. Joanna Janet Zaitseva-Doyle (aka @aoeixsz4 / 'aoei')
+1. Joanna Janet Zaitseva-Doyle (aka @aoeixsz4 / `aoei`)
 1. João Carlos Almeida
 1. João "Johnny" Ciocca (DCG5511)
 1. João Veiga
@@ -1669,4 +1671,73 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Zack Cerza
 1. Zeltzin Rodríguez
 1. Zvi Gilboa
+1. Tiago Vinicius de Andrade Almeida
+1. Nicholas Paladino
+1. Bert Hubert (founder of PowerDNS)
+1. Thomas Maszerowski
+1. Bryce A. Lynch (Director, R&D, Virtual Adept Networks)
+1. Jan van Gils
+1. Jennie Rose Halperin (former Outreachy Intern at Mozilla)
+1. Garrett Brown
+1. Josh Conway (CrankyLinuxUser)
+1. Jim Hall (FreeDOS Project founder and project coordinator, @jimfhall)
+1. Richard J. Barbalace (CEO, Ailectric)
+1. Heather Leson
+1. John Helmert III (Gentoo developer)
+1. Chris Klimas (creator and maintainer of Twine)
+1. Chloe Cota (@sweetpavement)
+1. 8ara7a
+1. Sruthi Chandran (Debian Developer)
+1. Carlos "azra3l" Pineda
+1. Daniel Pasco
+1. Pirate Praveen (Debian Developer, Member of FSF India Working Group)
+1. Otavio Carneiro (2carneiros.tv)
+1. Alycia Sellie
+1. Ricardo Berlim Fonseca (Brasília, Brazil)
+1. Lulu Cathrinus "erkin" Grimalkin
+1. Dan Lyke
+1. Annabeth Parker
+1. Marcos Sebastiao
+1. Owen O'Malley (Apache Hadoop, Hive, and ORC)
+1. Andreas Drewke
+1. Marta Rybczynska
+1. Leon N.
+1. Hassan Hijazi
+1. Dine Gim
+1. William Waites (London School of Hygiene and Tropical Medicine, Former FSF Member)
+1. Bryant Stafford
+1. William Waites (Former FSF member)
+1. Daniel Gomes
+1. Anastasia Papakosta
+1. Kali Escher
+1. Erik Osheim
+1. Jon Langseth
+1. François Pelletier (President of LinuQ, Executive at FACiL, pour l'appropriation collective de l'informatique libre)
+1. Patrick Brunier (Former GNU webmaster, Owner of Brunjee - Liberating Technology)
+1. Manuel Spitschan (University of Oxford)
+1. Johnny Danger Myers
+1. Michael Kees
+1. Galia Mancheva (Former FSFE staff, former Julia Reda and Amelia Andresdotter policy assistant at the European Parliament (The Pirate Party))
+1. Reese "xsychoreese" Todd
+1. Michael Staggs (tausciam)
+1. Magnus Krüger
+1. Cas Rusnov (free software contributor, former Debian developer)
+1. Ryan Hoagland (sothis6881)
+1. Grigorios Mingas (Research Data Scientist)
+1. Elizabeth Denys `lizdenys`
+1. Amber Ankerholz
+1. Luis Arruda
+1. Dawn Leonard
+1. Kevin Carson (researcher on postcapitalist transition)
+1. Pablo Rauzy (former FSF associate member)
+1. Kevin Bloch
+1. Bob Halloran
+1. Jordan Hefcart
+1. Fernando Cosentino (github user fbcosentino)
+1. gimbar
+1. Joseph Jacks (Founder, OSS Capital)
+1. Albert Wong
+1. Lux Amelia Phifollen
+1. SomeHacker
+1. 2048 4096
 <!-- Do not add your name to the bottom, it needs adding in alphabetical order above -->
