@@ -456,6 +456,7 @@ Signed,
 - Lupe Canaviri
 - Lyre Calliope
 - Mackenzie 'maco' Morgan (former Ubuntu Developer Membership Board member)
+- Madhulika Chambers (NumPy contributor)
 - Madison `makyo` Scott-Clary
 - Mairi Dulaney (Fedora Project contributor)
 - Máirín Duffy (Fedora Project, former FSF HPP committee member, former LP speaker)
