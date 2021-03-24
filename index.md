@@ -672,6 +672,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Laura Lytle
 1. Laurence Berland
 1. Laurin Schmidt
+1. Laurynas `NeLaurynas` K.
 1. Leandro A. F. Pereira
 1. Lee Hambley (Capistrano maintainer, former FSFE member)
 1. Leif Walsh
