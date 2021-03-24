@@ -687,6 +687,7 @@ Signed,
 - Rob Smith (SeaGL Co-Founder)
 - Rob Vincent
 - Robyn Speer (ConceptNet)
+- Roger Light
 - Rosanna Yuen (GNOME Foundation)
 - Ross A. Baker
 - Ruben Schade
