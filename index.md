@@ -579,6 +579,7 @@ Signed,
 1. Julien Voisin
 1. Julien Wajsberg (Mozilla)
 1. June Taylor
+1. Jürgen Geuter (@tante)
 1. Justin Dearing (@zippy1981)
 1. Justin Haygood
 1. Justin Reock (Chief Evangelist at OpenLogic)
