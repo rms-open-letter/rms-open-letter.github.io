@@ -618,6 +618,7 @@ Signed,
 - Mike Hawk
 - Mike Linksvayer
 - Mikel Johnson
+- Milan Pässler (Chaos Computer Club, NixOS contributor)
 - Milo Casagrande
 - Mirko Boehm (KDE)
 - Mitchell Baker, on behalf of Mozilla.
