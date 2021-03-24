@@ -70,6 +70,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Adam Miller (Ansible, Fedora)
 1. Adam Salt (Cob:web Development)
 1. Adil Sadik
+1. Aditya Sirish A Yelgundhalli (@adityasaky)
 1. Adolfo Jayme Barrientos (Ubuntu, The Document Foundation)
 1. Adriaan de Groot
 1. Adrian Cochrane
