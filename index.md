@@ -792,6 +792,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Jonathan Moerman
 1. Joni Carr
 1. Jordan Petridis (GNOME)
+1. Jordan T. Thevenow-Harrison
 1. Jordan Uggla
 1. Jordi Gutiérrez Hermoso (GNU Octave maintainer (inactive))
 1. Jordin McEachern
