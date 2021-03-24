@@ -1418,7 +1418,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Song Li
 1. Soren L. Hansen
 1. Srayan Jana
-1. Sriram Ramkrishna
+1. Sriram Ramkrishna (Former GNOME board member)
 1. Starchy Grant (EFF, signing in personal capacity)
 1. Stefan Bethke
 1. Stefan Crain
