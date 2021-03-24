@@ -179,6 +179,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Anne van Kesteren (Mozilla, WHATWG)
 1. Anthony Maki (@4cm4k1)
 1. Anthony Miller
+1. Anthony Nowocien
 1. Anthony Rabbito
 1. Anthony Shaw (Python Software Foundation Fellow, ASF Member)
 1. Antoine Beaupré AKA anarcat (Debian Developer, former FSF member)
