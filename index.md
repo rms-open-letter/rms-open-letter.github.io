@@ -111,6 +111,7 @@ Signed,
 - Ben Ford (`@binford2k`)
 - Ben Hilburn (former GNU Radio lead, current GA member)
 - Ben Hutchings (Debian Developer)
+- Benjamin De Kosnik
 - Benjamin Elder (Kubernetes SIG Testing Chair)
 - Benjamin Kampmann
 - Benjamin Torell (OBS Project)
