@@ -110,6 +110,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Alex Murray
 1. Alex Ose
 1. Alex Stapleton
+1. Alex Tuckey
 1. Alex Volkov
 1. Alfred Neumayer (UBports developer)
 1. Ali Polatel (Exherbo Linux)
@@ -627,6 +628,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Hein-Pieter van Braam-Stewart (FSF associate member since 2008)
 1. Helen Larson
 1. Henri Sivonen
+1. Henry F (Techlore, Owner)
 1. Herman Ho (Collabora)
 1. Hexandcube
 1. Hidde Beydals
@@ -1523,5 +1525,4 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Zack Cerza
 1. Zeltzin Rodríguez
 1. Zvi Gilboa
-2. Henry F (Techlore, Owner)
 <!-- Do not add your name to the bottom, it needs adding in alphabetical order above -->
