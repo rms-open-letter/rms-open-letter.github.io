@@ -547,6 +547,7 @@ Signed,
 1. Joe Bowser
 1. Joe Harley
 1. Joel Bethke (OBS Project)
+1. Joerg Jaspert (Debian Developer, Debian Account Manager, former Vice President of SPI Inc.)
 1. Joe Provo
 1. Johanna Dorothea Reichmann
 1. Johannes Löthberg (Arch Linux Developer)
