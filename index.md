@@ -532,6 +532,7 @@ Signed,
 - Mark Brown (Linux, Debian)
 - Mark Tomko
 - Markus Unterwaditzer
+- Marte Træen
 - Martin Kühl
 - Martin Splitt
 - Martin Wimpress (Former FSF member)
