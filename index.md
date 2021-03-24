@@ -770,6 +770,7 @@ Signed,
 - Taowa (Debian Developer, former LP keynote panelist)
 - Thaddée Tyl
 - TheEvilSkeleton
+- Theodor Tollersrud
 - Thomas Wouters (former GNU contributor)
 - Thom Chiovoloni
 - Tianon Gravi
