@@ -306,6 +306,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Christine Hall (former OSI Board member)
 1. Christof Haerens
 1. Christoph Blecker (Kubernetes Maintainer and Steering Committee Member)
+1. Christoph "Sellerie" Pomaska (@lauch_gemuese)
 1. Christophe Junke
 1. Christophe Moille
 1. Christophe Noisel
