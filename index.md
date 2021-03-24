@@ -508,6 +508,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Gertjan Lettink a.k.a. Knurpht
 1. Gina Häußge (OctoPrint maintainer)
 1. Giovanni Campagna (former GNOME contributor)
+1. Giuseppe Lavagetto
 1. Göktuğ Kayaalp
 1. Gordon Byrnes
 1. Gordon Haff (OSI Member)
