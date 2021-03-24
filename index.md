@@ -520,6 +520,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Hidde Beydals
 1. Highlander Subaron (`HightechSec`)
 1. Holger Levsen (Debian Developer, reproducible-builds.org)
+1. Horst Gutmann
 1. Hubert Figuière
 1. Ian Hyzy
 1. Ian Jackson (Former Debian Project Leader; former President, Software in the Public Interest; GNU Maintainer)
