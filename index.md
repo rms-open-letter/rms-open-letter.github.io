@@ -509,6 +509,7 @@ Signed,
 - Sriram Ramkrishna
 - Starchy Grant (EFF, signing in personal capacity)
 - Stefan Crain
+- Stephane Graber (LXC, former Ubuntu Technical Board member)
 - Stephen A. Goss
 - Steve Langasek (former Debian Technical Committee member; Ubuntu Technical Board member)
 - Steve McIntyre (Former Debian Project Leader)
