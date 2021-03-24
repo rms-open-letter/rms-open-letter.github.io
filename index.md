@@ -383,6 +383,7 @@ Signed,
 - Matthew Vernon (Debian developer)
 - Matthew Wilcox (Linux kernel hacker)
 - Matthias Arnason
+- Matthias Bussonnier (Project Jupyter co-founder)
 - Matthias Klumpp (Debian, freedesktop.org)
 - Matthias Schiffer (OpenWrt committer)
 - Matthieu Gallien (KDE)
