@@ -1271,6 +1271,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Vadim Rutkovsky
 1. Vangelis Katsikaros
 1. Veronica Cary
+1. Vicky Rampin
 1. Victor Hugo Soliz Kuncar
 1. Victoria "tdfischer" Fierce (Former KDE Multimedia and Phonon-GStreamer maintainer)
 1. Viktoriia Leontieva (Product Designer at GitHub)
