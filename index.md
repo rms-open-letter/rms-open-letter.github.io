@@ -815,6 +815,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Michael Pyne (KDE, game-music-emu)
 1. Michael Reiger
 1. Michael Schechter
+1. Michal Siedlaczek
 1. Mika Pflüger
 1. Mike Doughney (co-founder, Digital Express Group / DIGEX Incorporated)
 1. Mike Harris
