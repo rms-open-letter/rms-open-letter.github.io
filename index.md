@@ -614,6 +614,7 @@ Signed,
 1. Marius Gripsgard (UBports Foundation founder, Lead Developer and Board of Directors, Ubuntu Member)
 1. Mark Brown (Linux, Debian)
 1. Mark Tomko
+1. Markos Fragkakis
 1. Markus Unterwaditzer
 1. Marte Træen
 1. Martin Kühl
