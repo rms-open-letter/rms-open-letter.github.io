@@ -153,6 +153,7 @@ Signed,
 - Colin O'Brien
 - Colin Seiler
 - Colin Watson (Former Debian Technical Committee member)
+- Colin Williams
 - Connor Sheridan
 - Conrad Lukawski
 - CookieSource (Head of Administration RebornOS)
@@ -455,7 +456,6 @@ Signed,
 - Pierre Marijon
 - Pierre Ozoux (@pierreozoux)
 - Pranav Teegavarapu
-- Rachel Domagalski
 - Rafael Silva
 - Rami Chowdhury
 - rany
