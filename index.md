@@ -85,6 +85,7 @@ Signed,
 - Ariadne Conill (Alpine Developer, pkgconf)
 - Ariela Wenner
 - Arne Brasseur
+- Artemis Tosini (NixOS contributor)
 - Arthur Richards
 - Artur Tamborski (former FSF member)
 - Ashish Dixit
