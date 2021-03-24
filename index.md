@@ -358,6 +358,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Dorothea Salo
 1. Doug Hellmann (Python Software Foundation Fellow, former OpenStack Technical Committee)
 1. Dr Neil Smith
+1. Drew Winstel (@drewbrew on GitHub, DjangoCon US 2019 Organizer, Python Software Foundation individual member)
 1. Dustin Mitchell (Engineer, Mozilla)
 1. Dylan Graham (Kubernetes)
 1. Dylan Hardison (@dylan_hardison, Bugzilla Project)
