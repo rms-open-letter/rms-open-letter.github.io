@@ -473,6 +473,7 @@ Signed,
 - Kevin McKenzie, M.S (Co-Owner, Built-Right Digital)
 - Kevin O'Brien
 - Kevin Sonney
+- Kev Quirk
 - Khionu Sybiern
 - Khosrow Moossavi
 - Kimball Johnson (Former Chair FLOSS UK aka UKUUG)
