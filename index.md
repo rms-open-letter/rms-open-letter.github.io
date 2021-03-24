@@ -277,6 +277,7 @@ Signed,
 - James Alexander
 - James Cochran
 - James Daly
+- James Renken
 - James Spivey
 - James Troup
 - Jane Manchun Wong
