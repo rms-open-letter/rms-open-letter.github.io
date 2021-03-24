@@ -547,6 +547,7 @@ Signed,
 - Richard Mehlinger
 - Richard Schneeman
 - Rich Felker (musl libc)
+- Richo Healey
 - Rick Scott
 - Roan Kattouw
 - Robert Barat
