@@ -441,6 +441,7 @@ Signed,
 1. Highlander Subaron (`HightechSec`)
 1. Hubert Figuière
 1. Ian Jackson (Former Debian Project Leader; former President, Software in the Public Interest; GNU Maintainer)
+1. Ian Stapleton Cordasco
 1. Idan Gazit (Django project alumnus)
 1. Ignacio Torres Masdeu
 1. Ilya Kreymer
