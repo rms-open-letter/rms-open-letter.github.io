@@ -113,6 +113,7 @@ Signed,
 - Ben Hutchings (Debian Developer)
 - Benjamin Elder (Kubernetes SIG Testing Chair)
 - Benjamin Kampmann
+- Benjamin Ragan-Kelley (Project Jupyter)
 - Benjamin Torell (OBS Project)
 - Ben Klemens
 - Ben Lewis (Former GNU Octave contributor)
