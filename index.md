@@ -1131,6 +1131,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Tristan Rain Hamer
 1. Trolli Schmittlauch
 1. Tuna Ilgaz
+1. Tyrel Souza
 1. Ujjwal Sharma (Node.js Core Collaborator, TC39, Igalia)
 1. Vadim Rutkovsky
 1. Vangelis Katsikaros
