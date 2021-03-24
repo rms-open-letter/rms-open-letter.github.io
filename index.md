@@ -1249,6 +1249,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Yorik van Havre
 1. Youngbin Han (Ubuntu Korea Community)
 1. Young Hun Kim
+1. Yuval Adam
 1. Yuvi Panda (Project Jupyter)
 1. Yvan Sraka
 1. Yvonne Lam
