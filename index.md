@@ -952,6 +952,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Nisha Kumar
 1. Nixon Enraght-Moony
 1. Noah/`coolreader18` (RustPython maintainer)
+1. Noah Hall
 1. Noel Cower
 1. Noel Georgi
 1. Nora Moldestad
