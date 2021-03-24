@@ -442,6 +442,7 @@ Signed,
 - Matt Beland
 - Matteo Tammaccaro
 - Matthew `mattcen` Cengia
+- Matthew Ahrens (OpenZFS)
 - Matthew P. Del Buono
 - Matthew Stone
 - Matthew Vernon (Debian developer)
