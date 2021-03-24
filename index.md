@@ -479,6 +479,7 @@ Signed,
 - Tianon Gravi
 - Tierney Cyren (Node.js Community Committee Chairperson, Electron, OpenJS Foundation CPC)
 - Tim Pierce (former GNU Guile contributor)
+- Tim D. Smith (Mozilla; former member, [Homebrew](https://brew.sh) PLC)
 - Tobias Fella (KDE)
 - Tobias Klausmann
 - Tollef Fog Heen (Former Debian Technical Committee member)
