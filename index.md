@@ -704,5 +704,6 @@ Signed,
 - Zach Klippenstein (aka @zach-klippenstein, Square)
 - Zach Lipton
 - Zach van Rijn
+- Zack Cerza
 - Zeltzin Rodríguez
 - Zvi Gilboa
