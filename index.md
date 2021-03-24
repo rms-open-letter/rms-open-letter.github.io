@@ -111,7 +111,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Amin Mahmudian
 1. Amos `fasterthanlime` Wenger
 1. Amye Scavarda Perrin
-1. Amy Guy `rhiaro`
 1. Amy Null "`queer`"
 1. Amy Russell
 1. Amy Rust
@@ -329,7 +328,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Craig Maloney
 1. Cyril Brulebois (Debian Developer)
 1. Dag Ågren
-1. Dakota Hoornsman
 1. Dakota "Kai" Lyons (owner, Fivnex.co)
 1. Dale Hirt
 1. Dan Arel (owner, ThinkPrivacy.ch)
@@ -913,6 +911,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Michael Reiger
 1. Michael Schechter
 1. Michael Scherer
+1. Michael T. Lombardi (@michaeltlombardi, Puppet developer)
 1. Michal Siedlaczek
 1. Mika Pflüger
 1. Mike Doughney (co-founder, Digital Express Group / DIGEX Incorporated)
