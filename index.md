@@ -1152,6 +1152,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Stuart Auld
 1. Stuart A Yeates (former OSS Watch staffer)
 1. Stuart Harrison
+1. Stuart Langridge
 1. Stuart Spence
 1. Sune Stolborg Vuorela, (Debian, KDE)
 1. Sven `DrMcCoy` Hesse
