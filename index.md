@@ -679,6 +679,7 @@ Signed,
 - Trevor Thalacker
 - Tristan Rain Hamer
 - Trolli Schmittlauch
+- Ujjwal Sharma (Node.js Core Collaborator, TC39, Igalia)
 - Victor Hugo Soliz Kuncar
 - Victoria "tdfischer" Fierce (Former KDE Multimedia and Phonon-GStreamer maintainer)
 - Vincent Huang Jiahao
