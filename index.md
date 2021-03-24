@@ -547,6 +547,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Gabriel Volpe (Practical FP in Scala)
 1. Gale Pedowitz Fagan
 1. Gareth J. Greenaway (Salt Developer, SCALE Co-Founder and former chair person)
+1. Gary Williams
 1. Geir Magnusson Jr.
 1. Gene Liverman (@genebean)
 1. Geoff Langdale
