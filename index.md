@@ -1350,6 +1350,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Ryan Lahfa
 1. Ryan McNeely
 1. Ryan Petrello (Ansible AWX Maintainer, Red Hat)
+1. Ryan Prior (LibrePlanet speaker, GNU Guix, FSF member)
 1. Ryan Schmidt
 1. Ryu "SaidBySolo" JuHeon
 1. Sadie Powell (InspIRCd)
