@@ -1581,6 +1581,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Vitor "Krammer" Cardoso
 1. Vivek Das Mohapatra (Collabora)
 1. Vivia Nikolaidou (GStreamer)
+1. Vivian Lim (Microsoft)
 1. Vojtěch Vengrin (Gnome translator)
 1. Volkan Yazıcı (Apache Logging Services PMC)
 1. Vyivel
