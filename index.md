@@ -260,6 +260,7 @@ Signed,
 - Kevin O'Brien
 - Khionu Sybiern
 - Kimball Johnson (Former Chair FLOSS UK aka UKUUG)
+- Kumar Anirudha
 - Kyle Mitchell
 - Lachlan Campbell
 - Langlais Raphael
