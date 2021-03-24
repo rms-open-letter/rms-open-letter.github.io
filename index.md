@@ -673,6 +673,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Lars Wirzenius
 1. Laura Arjona Reina
 1. Laura Lytle
+1. Laura Smith
 1. Laurence Berland
 1. Laurin Schmidt
 1. Laurynas `NeLaurynas` K.
