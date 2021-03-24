@@ -667,6 +667,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Hexandcube
 1. Hidde Beydals
 1. Highlander Subaron (`HightechSec`)
+1. Hisham Muhammad (htop, LuaRocks, GoboLinux)
 1. Holger Levsen (Debian Developer, reproducible-builds.org)
 1. Honza Král
 1. Horst Gutmann
