@@ -839,6 +839,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Justin W. Flory (UNICEF, Fedora Project D&I Advisor)
 1. Kai Ninomiya (Google LLC, W3C editor)
 1. Kaleb Alves
+1. Kamila Szewczyk (`@kspalaiologos`)
 1. Kara "apaleslimghost" Brightwell
 1. Karen Rustad Tölva (former OpenHatch and Students for Free Culture board member)
 1. Karsten Wade (CentOS Board member, former Fedora Board & Docs Lead, the Open Source Way)
