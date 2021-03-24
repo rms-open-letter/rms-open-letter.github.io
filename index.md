@@ -1169,6 +1169,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Sean O'Brien
 1. Sebastian Dröge (GStreamer, GNOME, Debian)
 1. Sebastian Ramacher (Debian Developer)
+1. Sebastian Stauch (@sebidude)
 1. Sébastien Villemot (Debian Developer, FSF associate member)
 1. Seebs
 1. SeongHyun Lee (Kevin Lee / 케빈 리)
