@@ -390,6 +390,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Cory DeVore
 1. Courtney Thurston (former Spark distro dev)
 1. Craig Maloney
+1. C. Scott Ananian (former FSF member, GNU contributor)
 1. Cyril Brulebois (Debian Developer)
 1. Cyrus Frost (a Linux user)
 1. Dag Ågren
