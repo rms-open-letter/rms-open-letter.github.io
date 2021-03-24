@@ -600,6 +600,7 @@ Signed,
 1. Matthew S. Wilson (former contributor GNU Image Manipulation Program and GNU Parted, former Director, Software Freedom Conservancy)
 1. Matthew Vernon (Debian developer)
 1. Matthew Wilcox (Linux kernel hacker)
+1. Matthias Antierens
 1. Matthias Arnason
 1. Matthias Bussonnier (Project Jupyter co-founder)
 1. Matthias Klumpp (Debian, freedesktop.org)
