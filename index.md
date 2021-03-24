@@ -324,6 +324,7 @@ Signed,
 - Julien Voisin
 - June Taylor
 - Justin W. Flory (UNICEF, Fedora Project D&I Advisor)
+- Justin Wake
 - Karen Rustad Tölva (former OpenHatch and Students for Free Culture board member)
 - Karsten Wade (CentOS Board member, former Fedora Board & Docs Lead, the Open Source Way)
 - Katherine Flavel
