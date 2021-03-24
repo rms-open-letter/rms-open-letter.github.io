@@ -122,6 +122,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Allie `sapphiclinguine` M. (salmon_lib developer)
 1. Allison Lund (Archipelago Repository Project, Metadata Librarian and Open Source Contributor)
 1. Allon Mureinik
+1. Alois Wohlschlager
 1. Alper Cugun-Gscheidel
 1. Alvaro Soliverez (Collabora)
 1. Amelia Andersdotter (former Member of the European Parliament (Piratpartiet), hobby Arch and network scripting aficionado)
