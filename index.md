@@ -166,6 +166,7 @@ Signed,
 - Dan Bornstein (@danfuzz)
 - Dan "Fennix" Sim
 - Daniel Feldroy (previously Daniel Roy Greenfeld)
+- Daniel Kolesa (@octaforge, Void Linux developer)
 - Daniel Murphy (@danhatesnumbers)
 - Daniel Nazer
 - Daniel Soskel
