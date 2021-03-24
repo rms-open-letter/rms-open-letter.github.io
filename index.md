@@ -1218,6 +1218,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Savin Goyal
 1. Sayan Chowdhury (@yudocaa)
 1. Scott Hain
+1. Scott Leggett (Debian Maintainer)
 1. Scott Martin
 1. Scott Starr
 1. Scott Sweeny
