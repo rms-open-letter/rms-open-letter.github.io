@@ -699,6 +699,7 @@ Signed,
 - Xav Paice
 - X.org Foundation Board of Directors (Lyude Paul, Eric Anholt, Mark Filion, Keith Packard, Daniel Vetter, Harry Wentland, Samuel Iglesias Gonsálvez)
 - Yao Li (former FSF Monthly Student Associate Member)
+- Yegor Timoshenko (NixOS contributor)
 - Yorik van Havre
 - Yvan Sraka
 - Zach Klippenstein (aka @zach-klippenstein, Square)
