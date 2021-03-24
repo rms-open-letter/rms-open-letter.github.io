@@ -466,6 +466,7 @@ Signed,
 - Mariatta Wijaya (Python Software Foundation Fellow members, OSI member, PyLadies)
 - Marius Gripsgard (UBports Foundation founder, Lead Developer and Board of Directors, Ubuntu Member)
 - Mark Brown (Linux, Debian)
+- Mark Tomko
 - Markus Unterwaditzer
 - Martin Kühl
 - Martin Splitt
