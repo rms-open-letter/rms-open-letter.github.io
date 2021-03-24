@@ -412,6 +412,7 @@ Signed,
 - Kavi Laud
 - Kayla Anne Cupples
 - Kees Cook (Linux kernel maintainer & Technical Advisory Board member, Debian Developer, Ubuntu core developer, former Ubuntu Technical Board member)
+- Keith Gable (The Museum of Art and Digital Entertainment; contributor: DreamPi, Ruby on Rails, Ember.js; core author of ignitionServer, now defunct)
 - Kellegram
 - Kenny Huynh
 - Kevin Lannen
