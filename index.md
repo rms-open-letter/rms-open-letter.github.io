@@ -705,6 +705,7 @@ Signed,
 - Yao Li (former FSF Monthly Student Associate Member)
 - Yorik van Havre
 - Yvan Sraka
+- Yvonne Lam
 - Zach Klippenstein (aka @zach-klippenstein, Square)
 - Zach Lipton
 - Zach van Rijn
