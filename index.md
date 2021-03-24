@@ -99,6 +99,7 @@ Signed,
 1. Alfred Neumayer (UBports developer)
 1. Alison Dowdney (Kubernetes SIG Contributor Experience Chair)
 1. Allie `sapphiclinguine` M. (salmon_lib developer)
+1. Allison Lund (Archipelago Repository Project, Metadata Librarian and Open Source Contributor)
 1. Allon Mureinik
 1. Alper Cugun-Gscheidel
 1. Amelia Andersdotter (former Member of the European Parliament (Piratpartiet), hobby Arch and network scripting aficionado)
@@ -329,6 +330,7 @@ Signed,
 1. Desiree Zamora Garcia (A List Apart)
 1. Devin Buhl
 1. Didier 'OdyX' Raboud (Debian Developer, former Debian Technical Committee chair)
+1. Diego Pino (Archipelago Repository Project, Tech Lead)
 1. Dieter Maes
 1. Dillon Pentz (OBS Project Developer)
 1. Dimitri John Ledkov (Debian Developer, Ubuntu Core Developer, former member of the SPI Inc board of directors)
@@ -873,6 +875,7 @@ Signed,
 1. Paul Woolcock
 1. Paul Wouters (Libreswan, Fedora developer)
 1. Peder Bergebakken Sundt
+1. Pedro Cambra (Archipelago Repository Project, Software Developer and Open Source Contributor)
 1. Pedro Cunha
 1. Percival Lavoie
 1. Perro Tuerto (Programando LIBREros)
