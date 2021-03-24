@@ -318,6 +318,7 @@ Signed,
 - Eva Lauren Kelly (web & console homebrew developer, aka thejsa)
 - Evan Brown
 - Evangelos Paterakis
+- Ewen McNeill
 - Ezekiel Hendrickson
 - Fabio Di Peri
 - Faith Jasmine Viola
