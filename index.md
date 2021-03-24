@@ -573,6 +573,7 @@ Signed,
 1. Mairi Dulaney (Fedora Project contributor)
 1. Máirín Duffy (Fedora Project, former FSF HPP committee member, former LP speaker)
 1. Malleck Braun
+1. Malte `m4schini` Schink
 1. Mano Marks
 1. Manuel Genovés (GNOME)
 1. Margarita Manterola (Debian Developer, member of the Debian Technical Committee)
