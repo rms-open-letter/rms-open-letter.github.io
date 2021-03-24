@@ -1,4 +1,4 @@
-*2021-03-23*
+macowie/rms-open-letter.github.io*2021-03-23*
 
 Richard M. Stallman, frequently known as RMS, has been a dangerous force in the free software community for a long time. He has shown himself to be misogynist, ableist, and transphobic, among other serious accusations of impropriety. These sorts of beliefs have no place in the free software, digital rights, and tech communities. With his recent reinstatement to the Board of Directors of the Free Software Foundation, we call for the entire Board of the FSF to step down and for RMS to be removed from all leadership positions.
 
@@ -948,6 +948,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Matteo Tammaccaro
 1. Matthew (0tcQd) Sams
 1. Matthew Ahrens (OpenZFS)
+1. Matthew Cowie
 1. Matthew Fernandez
 1. Matthew `mattcen` Cengia
 1. Matthew P. Del Buono
