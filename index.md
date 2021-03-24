@@ -405,6 +405,7 @@ Signed,
 - Thaddée Tyl
 - TheEvilSkeleton
 - Thom Chiovoloni
+- Thomas Wouters (former GNU contributor)
 - Tianon Gravi
 - Tierney Cyren (Node.js Community Committee Chairperson, Electron, OpenJS Foundation CPC)
 - Tobias Fella (KDE)
