@@ -1,6 +1,6 @@
 ---
-title: Petition to remove Richard Stallman from Board of Free Sofware Foundation
-description: We, the undersigned, believe in the necessity of digital autonomy and the powerful role user freedom plays in protecting our fundamental human rights.
+title: Petition to remove the Board of the Free Software Foundation and Richard M. Stallman from the GNU Project
+description: We, the undersigned, are calling for the removal of the entire Board of the Free Software Foundation, for its support of toxic and abusive behavior by Richard M. Stallman.
 ---
 
 *2021-03-23*
