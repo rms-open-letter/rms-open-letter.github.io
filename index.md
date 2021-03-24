@@ -569,6 +569,7 @@ Signed,
 - Philippe Normand
 - Pierre Marijon
 - Pierre Ozoux (@pierreozoux)
+- Pierros Papadeas (Board member, Libre Space Foundation)
 - Pranav Teegavarapu
 - Rachel Chalmers (boardmember, The Ada Initiative)
 - Rachel Domagalski
