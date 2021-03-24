@@ -40,6 +40,7 @@ Signed,
 <!-- Any additional signees should go below this comment in alphabetical order (according to `sort -u`) -->
 
 - Aaron Carson
+- Aaron Crickenberger (Kubernetes Steering Committee Emeritus, SIG Testing Chair)
 - Aaron Honeycutt
 - Aaron M. Ucko (@ucko, Debian Developer)
 - Adam Barber
