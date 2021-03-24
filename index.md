@@ -184,6 +184,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Björn Fahller
 1. Blair Vidakovich (vidak)
 1. Bob Killen (Kubernetes Steering Committee Member)
+1. Bob Murphy (12 year associate member)
 1. Bonnie King
 1. Bram Hagens
 1. Brandon Butler
