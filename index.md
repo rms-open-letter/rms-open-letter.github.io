@@ -591,6 +591,7 @@ Signed,
 - Robert Barat
 - Robert Berg
 - Robert Joslyn
+- Robey Pointer (paramiko, eggdrop)
 - Robin Widegren
 - Rob Smith (SeaGL Co-Founder)
 - Rob Vincent
