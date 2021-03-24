@@ -230,7 +230,7 @@ Signed,
 1. Charles Burton
 1. Charlie Kravetz
 1. Charlotte Masterson (Hardware and R&D manager at Fivnex)
-2. Chinese Develper 🇨🇳 中国开发者（Diemcoin.Network)
+2. Chinese Developers 🇨🇳 中国开发者（Diemcoin.Network)
 3. Chris Adams (@acdha)
 4. Chris Burgess
 5. Chris Desnoyers
