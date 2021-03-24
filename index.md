@@ -473,6 +473,7 @@ Signed,
 1. Joe Harley
 1. Joel Bethke (OBS Project)
 1. Joe Provo
+1. Johanna Dorothea Reichmann
 1. Johannes Löthberg (Arch Linux Developer)
 1. John D. Martin III
 1. John Hess
