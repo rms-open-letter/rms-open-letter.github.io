@@ -297,6 +297,7 @@ Signed,
 1. David Jones (former FSF associate member)
 1. David Jones (kerning consultant)
 1. David M. Douglas
+1. David Malcolm (GCC contributor)
 1. David Newman (recovering network engineer)
 1. David Planella
 1. David Reid
