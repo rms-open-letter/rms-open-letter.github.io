@@ -605,6 +605,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Halla Rempt (maintainer of Krita)
 1. Hannah Aizenman (NYLUG coordinator, Matplotlib community manager)
 1. Hao Ye
+1. Haran Lakha
 1. Hardy Pottinger (DSpace Committer)
 1. Harsh Deep (`harsh183`)
 1. Harsh Shandilya
