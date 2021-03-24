@@ -215,6 +215,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Brenton Cleeland
 1. Bret Moore
 1. Brett Sheffield (Librecast Project)
+1. Brett Smith (Former FSF staff and member)
 1. Brian Chen (`betaveros`)
 1. Brian Dawn
 1. Brian Heim
