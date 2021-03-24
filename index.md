@@ -1250,6 +1250,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Wolthera van Hövell (Krita/KDE)
 1. Xabier Rodríguez Calvar
 1. Xavier Tilley
+1. Xavi Francisco
 1. Xav Paice
 1. Yadav Lamichhane
 1. Yangwook Jeong (@Yangeok)
