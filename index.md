@@ -1158,6 +1158,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Nicole Martinez
 1. nicoo (Debian Developer, NixOS and Rust contributor)
 1. Niels Grewe (GNUstep contributor)
+1. Niels Thykier (Debian Developer)
 1. Nikhita Raghunath (Kubernetes Steering Committee Member)
 1. Nikita Gillmann (ex-GNUnet developer, former GNU Guix contributor, NetBSD/pkgsrc developer)
 1. Nik Kantar
