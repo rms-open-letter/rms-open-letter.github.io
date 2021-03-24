@@ -83,6 +83,7 @@ Signed,
 - Andre Klapper (GNOME)
 - Andrés Hernández "`tonejito`" (LIDSoL)
 - Andres Salomon (Debian Developer)
+- Andrew Cherry
 - Andrew Dona-Couch
 - Andrew J. Stephen
 - Andrew Pinski (GCC contributor)
