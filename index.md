@@ -354,6 +354,7 @@ Signed,
 - TheEvilSkeleton
 - Tianon Gravi
 - Tierney Cyren (Node.js Community Committee Chairperson, Electron, OpenJS Foundation CPC)
+- Tim Pierce (former GNU Guile contributor)
 - Tobias Fella (KDE)
 - Tobias Klausmann
 - Tollef Fog Heen (Former Debian Technical Committee member)
