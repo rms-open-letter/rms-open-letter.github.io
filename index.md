@@ -476,6 +476,7 @@ Signed,
 - Matthew Ahrens (OpenZFS)
 - Matthew `mattcen` Cengia
 - Matthew P. Del Buono
+- Matthew Seal
 - Matthew Stone
 - Matthew Vernon (Debian developer)
 - Matthew Wilcox (Linux kernel hacker)
