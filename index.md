@@ -52,6 +52,7 @@ Signed,
 - Alan Pope
 - Alexandre Dulaunoy (former FSF associate member #53)
 - Alex Arslan (Julia contributor, former Julia community manager)
+- Alex Murray
 - Alexis Danz
 - Alexis Tyler
 - Alfred Neumayer (UBports developer)
