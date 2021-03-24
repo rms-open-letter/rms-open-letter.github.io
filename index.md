@@ -825,6 +825,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Julia Luna
 1. Julian Andres Klode
 1. Julian Bouzas (Collabora)
+1. Julian Graham (former FSF associate member)
 1. Julian Hofer (GNOME, Deltares)
 1. Julianne "KokaKiwi" Hervier
 1. Julien Cristau (Debian, X.Org, Mozilla)
