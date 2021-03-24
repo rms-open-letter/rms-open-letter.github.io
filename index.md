@@ -965,6 +965,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Rami Chowdhury
 1. Randy J. Ray (@rjray)
 1. rany
+1. Rayan Das (@raydeeam)
 1. Raymon Skjørten Hansen
 1. Reed Loden
 1. Rémi Verschelde (Godot Engine, Mageia)
