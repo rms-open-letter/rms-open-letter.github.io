@@ -498,6 +498,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. David Malcolm (GCC contributor)
 1. David M. Douglas
 1. David Millians
+1. David Muckle
 1. David Newman (recovering network engineer)
 1. David Planella
 1. David Reid
