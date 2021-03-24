@@ -74,6 +74,7 @@ Signed,
 - Amy Troschinetz
 - Andrea Denisse Gómez-Martínez (Arch Linux, i3blocks maintainer)
 - Andrea Wieland
+- Andreas Happe
 - Andrej Shadura (Debian Developer)
 - Andre Klapper (GNOME)
 - Andrés Hernández "`tonejito`" (LIDSoL)
