@@ -505,6 +505,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Fabio Di Peri
 1. Fadi Abou Younes (Collabora)
 1. Fabián Rodríguez (`MagicFab`)
+1. Fabio 'Lolix' Loli (Linux and BSD Timeline, AUR packager)
 1. Fabio Neves (@fzero)
 1. Fahad Hossain
 1. Faith Jasmine Viola
