@@ -420,6 +420,7 @@ Signed,
 - Kevin O'Brien
 - Kevin Sonney
 - Khionu Sybiern
+- Khosrow Moossavi
 - Kimball Johnson (Former Chair FLOSS UK aka UKUUG)
 - Krzysztof Sakrejda
 - Kukuh Syafaat (GNOME, openSUSE)
