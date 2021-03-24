@@ -64,6 +64,7 @@ Signed,
 1. Alan Diggs (Schykle)
 1. Alan Pope
 1. Alexander Jacocks (Red Hat)
+1. Alexandra Stehr
 1. Alexandra Moylett
 1. Alexandre Dulaunoy (former FSF associate member #53)
 1. Alex Arslan (Julia contributor, former Julia community manager)
