@@ -713,6 +713,7 @@ Signed,
 1. Mason Jones
 1. Mathieu Comandon (Lutris)
 1. Matt Beland
+1. Matteo Bigoi
 1. Matteo Tammaccaro
 1. Matthew (0tcQd) Sams
 1. Matthew Ahrens (OpenZFS)
