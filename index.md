@@ -356,6 +356,7 @@ Signed,
 - Meadhbh Hamrick
 - Micah E Scott
 - Michael Bikovitsky
+- Michael `NCommander` Casadevall (Ubuntu Core Developer, former Debian Developer, former FSF Savannah Administrator)
 - Michael Downey (United Nations Foundation)
 - Michael Hoffmann
 - Michael `ovyerus` Mitchell
