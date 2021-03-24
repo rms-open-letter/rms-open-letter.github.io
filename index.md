@@ -569,6 +569,7 @@ Signed,
 - Philippe Normand
 - Pierre Marijon
 - Pierre Ozoux (@pierreozoux)
+- Pieter De Praetere
 - Pranav Teegavarapu
 - Rachel Chalmers (boardmember, The Ada Initiative)
 - Rachel Domagalski
