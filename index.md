@@ -470,6 +470,7 @@ Signed,
 - Rob Vincent
 - Rosanna Yuen (GNOME Foundation)
 - Ruben Schade
+- Russ Allbery (Debian Developer, FSF associate member since 2003) 
 - Ryan Finnie (Finnix founder; Debian; Ubuntu)
 - Ryan Gannon
 - Ryan Gonzalez
