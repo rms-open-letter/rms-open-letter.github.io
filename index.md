@@ -669,7 +669,7 @@ Signed,
 - Nicolás `nomeacuerdo` Arteaga
 - Nicolas Schier (Debian maintainer)
 - Nicole Martinez
-- Nikita Gillmann (ex-GNUnet developer, former GNU Guix developer, NetBSD/pkgsrc developer)
+- Nikita Gillmann (ex-GNUnet developer, former GNU Guix contributor, NetBSD/pkgsrc developer)
 - Nikos Roussos (FSFE, GA member)
 - Nils Adermann
 - Nils Philippsen (Fedora Project contributor)
