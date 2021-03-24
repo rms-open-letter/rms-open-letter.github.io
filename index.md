@@ -309,11 +309,11 @@ Signed,
 - Michael Schechter
 - Mike Linksvayer
 - Mikel Johnson
-- Mitchell Baker, on behalf of Mozilla.
 - Morgan-Christopher Brooks
 - Morgan `indrora` Gangwere
 - Morgan Thomas
 - Morten Linderud (Arch Linux maintainer)
+- M. Syamsir Alam
 - Myriam Rita Schweingruber
 - Myrle Krantz (ASF member)
 - Naglis Lesčinskas
