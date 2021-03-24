@@ -1458,6 +1458,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Shadi Alostaz
 1. Shane Coughlan
 1. Shane Fagan
+1. Shane Snover
 1. Shaohua Wen (former Mozilla zh-CN L10n Team Leader)
 1. Shaun Mouton
 1. Shaun Murphy
