@@ -1107,6 +1107,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. SeongHyun Lee (Kevin Lee / 케빈 리)
 1. Seth Marinello (former CPLUG Officer)
 1. Seth McCombs
+1. Shadi Alostaz
 1. Shane Coughlan
 1. Shane Fagan
 1. Shaun Mouton
