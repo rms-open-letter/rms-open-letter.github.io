@@ -84,6 +84,7 @@ Signed,
 - Be Wilson (Mixxx maintainer)
 - Bill Mulligan
 - Bob Killen (Kubernetes Steering Committee Member)
+- Bram Hagens
 - Brendan O'Leary
 - Brett Sheffield (Librecast Project)
 - Brian Pepple (Former Fedora Engineering Steering Committee member)
