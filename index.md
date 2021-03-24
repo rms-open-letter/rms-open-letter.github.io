@@ -46,6 +46,7 @@ Signed,
 1. Abel Moarrensis (`circuitrcay`)
 1. Abigail Cabunoc Mayes
 1. Adam Barber
+1. Adam Čalovka
 1. Adam H. Leventhal
 1. Adam Jackson (X.org, Fedora)
 1. Adam Miller (Ansible, Fedora)
@@ -94,6 +95,7 @@ Signed,
 1. Andy Isaacson (@radii, founding member of Noisebridge)
 1. AndyTuba
 1. Angus Fletcher
+1. Angus Gratton
 1. Aniol Marti (Debian Maintainer, Caliu President)
 1. Anis Tarafdar
 1. Anna Glasgall
@@ -252,8 +254,10 @@ Signed,
 1. Dan 'pixelflow' Humphreys
 1. Dan Stuart
 1. Dan Winship
+1. Dario Ninicato
 1. Dave Camp (Mozilla, Former GNOME Foundation)
 1. David Cantrell (Fedora developer)
+1. David Demelier
 1. David Gilman
 1. David Glick (Plone contributor)
 1. David (gnuconsulting) Bishop
@@ -442,6 +446,7 @@ Signed,
 1. Jesse Raleigh (Sr Security Researcher)
 1. Jesser Lemus
 1. Jesús Castro
+1. Jez Cope
 1. Jill Pelavin
 1. Jill Rouleau (Ansible Maintainer / Steering Commitee member)
 1. Jim Campbell
@@ -456,6 +461,7 @@ Signed,
 1. John Hess
 1. John Krug (jhkrug)
 1. John SJ Anderson
+1. John Sturdy
 1. John "Warthog9" Hawley
 1. John Wiseman
 1. Jona Azizaj (Fedora Project, Open Source Diversity)
@@ -498,6 +504,7 @@ Signed,
 1. Justin Reock (Chief Evangelist at OpenLogic)
 1. Justin Wake
 1. Justin W. Flory (UNICEF, Fedora Project D&I Advisor)
+1. Kara "apaleslimghost" Brightwell
 1. Karen Rustad Tölva (former OpenHatch and Students for Free Culture board member)
 1. Karsten Wade (CentOS Board member, former Fedora Board & Docs Lead, the Open Source Way)
 1. Katharine Berry
@@ -537,6 +544,7 @@ Signed,
 1. Laurin Schmidt
 1. Leandro A. F. Pereira
 1. Leif Walsh
+1. Lee Hambley (Capistrano maintainer, former FSFE member)
 1. Liam R. Howlett (kernel developer)
 1. Linda Fernández
 1. Linus Parker
@@ -583,6 +591,7 @@ Signed,
 1. María Arias de Reyna Domínguez (former OSGeo President, ASF member, maintainer on several FOSS projects)
 1. Mariana Meireles Gontijo (Jupyter contributor, Mozilla contributor)
 1. Mariatta Wijaya (Python Software Foundation Fellow members, OSI member, PyLadies)
+1. Marius Gedminas
 1. Marius Gripsgard (UBports Foundation founder, Lead Developer and Board of Directors, Ubuntu Member)
 1. Mark Brown (Linux, Debian)
 1. Mark Tomko
@@ -604,6 +613,7 @@ Signed,
 1. Matthew Stone
 1. Matthew S. Wilson (former contributor GNU Image Manipulation Program and GNU Parted, former Director, Software Freedom Conservancy)
 1. Matthew Vernon (Debian developer)
+1. Matthew Venn
 1. Matthew Wilcox (Linux kernel hacker)
 1. Matthias Antierens
 1. Matthias Arnason
@@ -671,6 +681,7 @@ Signed,
 1. Nick Chambers
 1. Nick Davis
 1. Nick Guenther
+1. Nick Morrott (Debian Developer, STEM Ambassador, Code Club volunteer)
 1. Nick Ruest
 1. Niclas Zeising (FreeBSD committer)
 1. Nicolai von Neudeck
@@ -703,6 +714,7 @@ Signed,
 1. Pamela S. Chestek (Open Source Initiative Director)
 1. Panagiotis Vasilopoulos
 1. Parker Higgins
+1. Park Seonu
 1. Pascal Jufer
 1. Pat Allan
 1. Pat Hickey
@@ -800,6 +812,7 @@ Signed,
 1. Sam Muirhead
 1. Sam Pavlovic
 1. Sam Phillips
+1. Sam Pikesley, [@pikesley](https://twitter.com/pikesley)
 1. Sam Pritchard
 1. Sander van der Waal (Waag) 
 1. Santeri Kasvi
@@ -832,6 +845,7 @@ Signed,
 1. Silje Christiansen
 1. Simeon "n0emis" Keske
 1. Simeon Smith
+1. Simon Bowie
 1. Simon Phipps (Former OSI President)
 1. Simon Richter
 1. Simon Wistow
@@ -846,6 +860,7 @@ Signed,
 1. Stefan Bethke
 1. Stefan Crain
 1. Stefanie Schirmer
+1. Stemy (amateur independant self-host)
 1. Stephane Graber (LXC, former Ubuntu Technical Board member)
 1. Stephen A. Goss
 1. Stephen O'Grady
@@ -870,6 +885,7 @@ Signed,
 1. TheEvilSkeleton
 1. Theodor Tollersrud
 1. Thierry Carrez (Open Infrastructure Foundation, Python Software Foundation fellow)
+1. Thomas Kluyver (various Python projects)
 1. Thomas Wouters (former GNU contributor)
 1. Thom Chiovoloni
 1. Tianon Gravi
@@ -877,6 +893,7 @@ Signed,
 1. Tim D. Smith (Mozilla; former member, [Homebrew](https://brew.sh) PLC)
 1. Tim Pierce (former GNU Guile contributor)
 1. Tiphaine Viard (Associate professor, Telecom Paris)
+1. Timothée Ravier (Fedora Project Contributor)
 1. Tobias Fella (KDE)
 1. Tobias Klausmann
 1. Tollef Fog Heen (Former Debian Technical Committee member)
