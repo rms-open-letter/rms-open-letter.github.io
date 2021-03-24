@@ -960,6 +960,7 @@ Signed,
 1. Thom Chiovoloni
 1. Tianon Gravi
 1. Tierney Cyren (Node.js Community Committee Chairperson, Electron, OpenJS Foundation CPC)
+1. Tilman Vatteroth (@mrdrogdrog, Frontend developer at [HedgeDoc](https://hedgedoc.org))
 1. Tim D. Smith (Mozilla; former member, Homebrew PLC)
 1. Tim Pierce (former GNU Guile contributor)
 1. Tim Weber (`scy`)
