@@ -520,6 +520,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Guy Templeton (Kubernetes SIG Autoscaling Chair)
 1. Halla Rempt (maintainer of Krita)
 1. Hannah Aizenman (NYLUG coordinator, Matplotlib community manager)
+1. Hardy Pottinger (DSpace Committer)
 1. Harsh Shandilya
 1. Havoc Pennington (former GNOME Foundation)
 1. Hayden Barnes
