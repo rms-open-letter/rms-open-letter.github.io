@@ -318,6 +318,7 @@ Signed,
 1. Elen Eisendle
 1. Eliott Lavier
 1. Elizabeth Bell (Mozilla)
+1. Ellie (@ell1e on GitHub)
 1. Emilio Escobar (Ettercap Project)
 1. Emily Carlsen
 1. Emily Strickland
