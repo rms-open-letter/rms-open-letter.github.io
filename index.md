@@ -219,7 +219,7 @@ Signed,
 1. Christopher `kode54` Snowhill
 1. Christopher Patti
 1. Christopher Schmidt
-1. Christoph Wickert (SUSE, former Fedora Council and Advisory Board member)
+1. Christoph Wickert (openSUSE contributor, former Fedora Council and Advisory Board member)
 1. Chris Wayne (Ubuntu)
 1. Clare Macrae
 1. Clarissa Borges (GNOME Foundation member)
