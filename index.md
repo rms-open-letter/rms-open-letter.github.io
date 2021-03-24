@@ -730,6 +730,7 @@ Signed,
 1. Nicolás `nomeacuerdo` Arteaga
 1. Nicolas Schier (Debian maintainer)
 1. Nicole Martinez
+1. Niels Grewe (GNUstep contributor)
 1. Nikhita Raghunath (Kubernetes Steering Committee Member)
 1. Nikita Gillmann (ex-GNUnet developer, former GNU Guix contributor, NetBSD/pkgsrc developer)
 1. Nikos Roussos (FSFE, GA member)
