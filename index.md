@@ -1241,6 +1241,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Peter Van Eynde
 1. Petrohs
 1. Phil Dibowitz
+1. Phil Pemberton (`@philpem`, DiscFerret developer, ptouch-driver maintainer)
 1. Philip Balister
 1. Philip Gillißen
 1. Philip Hands (Former Debian Technical Committee member)
