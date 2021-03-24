@@ -666,6 +666,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Hein-Pieter van Braam-Stewart (FSF associate member since 2008)
 1. Helen Larson
 1. Henri Sivonen
+1. Henrik Grimler
 1. Henry F (Techlore, Owner)
 1. Herman Ho (Collabora)
 1. Hexandcube
