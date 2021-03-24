@@ -461,6 +461,7 @@ Signed,
 - rany
 - Reed Loden
 - Rémi Verschelde (Godot Engine, Mageia)
+- Renaud Lepage
 - Richard Maw
 - Richard Mehlinger
 - Richard Schneeman
