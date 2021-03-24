@@ -260,6 +260,7 @@ Signed,
 - Eric Hodel
 - Eric "Sheppy" Shepherd
 - Eric Unangst
+- Erik Sundell (Project Juptyer)
 - Erin Nova
 - Erin Unterwaditzer
 - Eriol Fox
