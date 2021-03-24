@@ -1773,6 +1773,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Victoria "tdfischer" Fierce (Former KDE Multimedia and Phonon-GStreamer maintainer)
 1. Victor Westerhuis
 1. Viktoriia Leontieva (Product Designer at GitHub)
+1. Vincent Broz  (`@apiology`)
 1. Vincent Esche
 1. Vincent Huang Jiahao
 1. Vincent Milum Jr (@DarkainMX)
