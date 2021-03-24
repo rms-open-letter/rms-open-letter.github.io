@@ -321,6 +321,7 @@ Signed,
 - Jan Sprinz (UBports Foundation Board of Directors, Ubuntu Member)
 - Jason C. McDonald (a.k.a. CodeMouse92) (MousePaw Media)
 - Jason Crain (GNOME)
+- Jayme Howard
 - Jean-Philippe DUFRAIGNE
 - Jed Brown
 - Jeff Forcier (aka bitprophet) (Python library maintainer, eg Fabric, Paramiko)
