@@ -455,6 +455,7 @@ Signed,
 1. Jill Pelavin
 1. Jill Rouleau (Ansible Maintainer / Steering Commitee member)
 1. Jim Campbell
+1. Joanna Janet Zaitseva-Doyle (`aoei` / @aoeixsz4)
 1. João "Johnny" Ciocca (DCG5511)
 1. João Veiga
 1. Joe Bowser
