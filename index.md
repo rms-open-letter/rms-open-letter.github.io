@@ -876,6 +876,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Milo Casagrande
 1. Mirko Boehm (KDE)
 1. M. Oliver Ghingold
+1. Molly White (@molly on GitHub)
 1. Monica Ayhens-Madon
 1. Morgan-Christopher Brooks
 1. Morgan Fletcher
