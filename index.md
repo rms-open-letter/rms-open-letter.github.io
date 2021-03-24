@@ -419,6 +419,7 @@ Signed,
 - Vincent Huang Jiahao
 - Vipul Gupta
 - Vivia Nikolaidou (GStreamer)
+- Will Barton
 - Will Hawkins
 - William Theaker (Former FSF staff member)
 - Xavier Tilley
