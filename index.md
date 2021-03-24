@@ -742,6 +742,7 @@ Signed,
 - Richard Guy Briggs (FreeS/WAN kernel, OCLUG founding board, kaudit)
 - Richard Maw
 - Richard Mehlinger
+- Richard "RichiH" Hartmann (Debian Developer; ex: freenode & OFTC; FOSDEM, CCC, DebConf); see commit message
 - Richard Schneeman
 - Rich Felker (musl libc)
 - Richo Healey
