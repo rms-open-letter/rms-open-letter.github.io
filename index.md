@@ -511,6 +511,7 @@ Signed,
 1. Joshua Strobl (Solus Experience Lead, Budgie Desktop Lead)
 1. Joshua Timberman
 1. Joy Scharmen
+1. Julianne "KokaKiwi" Hervier
 1. J. Ryan Stinnett
 1. Jugal Kishore
 1. Jules Penuchot (Paris-Saclay University)
