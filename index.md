@@ -85,6 +85,7 @@ Signed,
 - Artur Tamborski (former FSF member)
 - Asta Halkjær From
 - Asumu Takikawa
+- Aubrey Fletcher
 - Aura Vulcano
 - Avery "stars" M-W
 - Behdad Esfahbod (Former director / president, GNOME Foundation)
