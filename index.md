@@ -356,6 +356,7 @@ Signed,
 1. Fintan Horan
 1. Florian Neumann
 1. Frances Hocutt
+1. Francois Lesage
 1. Frank S. Thomas
 1. Fred Oliveira
 1. Frédéric Harper (Director of Developer Relations at MeiliSearch)
