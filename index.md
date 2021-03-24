@@ -90,6 +90,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Alan Pope
 1. Alberto Ruiz (GNOME, Fedora & LibreOffice contributor)
 1. Alex A. G.
+1. Alex Reynolds (BEDOPS and other open-source bioinformatics projects)
 1. Alexander Herzig (Release Manager SUSE Linux Enterprise)
 1. Alexander Jacocks (Red Hat)
 1. Alexander Koderman
