@@ -256,6 +256,7 @@ Signed,
 - Gustavo Costa (Fedora Project contributor)
 - Guy Templeton (Kubernetes SIG Autoscaling Chair)
 - Halla Rempt (maintainer of Krita)
+- Hannah Aizenman (NYLUG coordinator, Matplotlib community manager)
 - Havoc Pennington (former GNOME Foundation)
 - Hayden Barnes
 - Hayden Seay
