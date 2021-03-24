@@ -246,6 +246,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Carlton Whitehead
 1. Carmen Bianca Bakker (Contributor to FSFE, GNOME, Fedora)
 1. Carol Willing
+1. Carolina Brum (FSF member)
 1. Caryn Holt (MidnightBSD)
 1. Casper Sørensen
 1. Cassidy James Blaede (elementary co-founder, GNOME Foundation member)
