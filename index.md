@@ -42,6 +42,7 @@ Signed,
 
 1. Globenet
 1. Mozilla
+1. Open Life Science
 1. Open Source Diversity
 1. Tor Project
 1. X.org Foundation
@@ -867,7 +868,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Máirín Duffy (Fedora Project, former FSF HPP committee member, former LP speaker)
 1. Malleck Braun
 1. Malte `m4schini` Schink
-1. Malvika Sharan
+1. Malvika Sharan (The Alan Turing Institute; Community Manager of The Turing Way project and Co-founder of Open Life Science)
 1. Mandy Henk
 1. Mano Marks
 1. Manuel Genovés (GNOME)
