@@ -606,6 +606,7 @@ Signed,
 - Micah Anderson
 - Micah E Scott
 - Michael Bikovitsky
+- Michael Carbone (Qubes OS)
 - Michael Downey (United Nations Foundation)
 - Michael Gat
 - Michael Hoffmann
