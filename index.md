@@ -67,6 +67,7 @@ Signed,
 - Alison Dowdney (Kubernetes SIG Contributor Experience Chair)
 - Allie `sapphiclinguine` M. (salmon_lib developer)
 - Amelia Andersdotter (former Member of the European Parliament (Piratpartiet), hobby Arch and network scripting aficionado)
+- Amin Mahmudian
 - Amos `fasterthanlime` Wenger
 - Amye Scavarda Perrin
 - Amy Null "`queer`"
