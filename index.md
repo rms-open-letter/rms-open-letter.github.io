@@ -82,6 +82,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Abhishek Veeramalla
 1. Abigail Brady (former GNOME developer)
 1. Abigail Cabunoc Mayes
+1. Achraf Belkahla (@bkmd100)
 1. Adam Barber
 1. Adam Čalovka
 1. Adam Fisk (Brave New Software Project, Inc)
