@@ -1570,6 +1570,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Tony Richards
 1. Tor Lillqvist (Collabora)
 1. Tracie Fabb (Collabora)
+1. Tracy Hinds (Open Source Initiative Director)
 1. Travis Brown
 1. Travis Hardiman
 1. tre murillo
