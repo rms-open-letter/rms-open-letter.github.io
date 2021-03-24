@@ -535,6 +535,7 @@ Signed,
 - Nicole Martinez
 - Nikos Roussos (FSFE, GA member)
 - Nils Adermann
+- Nishkarsh Raj
 - Nixon Enraght-Moony
 - Noah/`coolreader18` (RustPython maintainer)
 - Noel Georgi
