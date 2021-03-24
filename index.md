@@ -20,6 +20,7 @@ Institutional affiliation is provided for identification purposes only and does 
 
 Signed,
 
+- Partha Sarathy Thanka Raj
 - Molly de Blanc (Debian Project, GNOME Foundation)
 - Nathan Freitas
 - Matthew Garrett (Former member of the FSF board of directors)
