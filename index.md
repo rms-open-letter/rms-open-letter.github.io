@@ -144,6 +144,7 @@ Signed,
 - Christopher Allan Perry
 - Christopher Davis (GNOME)
 - Christopher Patti
+- Christian Salamea
 - Christopher Schmidt
 - Chris Wayne (Ubuntu)
 - Clarissa Borges (GNOME Foundation member)
