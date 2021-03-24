@@ -148,6 +148,7 @@ Signed,
 - Courtney Thurston (former Spark distro dev)
 - Craig Maloney
 - Cyril Brulebois (Debian Developer)
+- Dakota "Kai" Lyons (owner, Fivnex.co)
 - Dan Arel (owner, ThinkPrivacy.ch)
 - Dan Bornstein (@danfuzz)
 - Daniel Feldroy (previously Daniel Roy Greenfeld)
