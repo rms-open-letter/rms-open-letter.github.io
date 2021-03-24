@@ -273,6 +273,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. classabbyamp
 1. Claudio Saavedra (former GNOME maintainer and GNOME Foundation member)
 1. Claudius Link
+1. Coby Sher
 1. Cole Helbling (NixOS contributor)
 1. Colin Ian King
 1. Colin O'Brien
