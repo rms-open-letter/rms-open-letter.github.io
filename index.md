@@ -206,6 +206,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Bob Murphy (12 year associate member)
 1. Bonnie King
 1. Brad Crittenden
+1. Brad Solomon
 1. Bram Hagens
 1. Brandon Butler
 1. Brendan Abolivier (Matrix Developer)
@@ -1134,7 +1135,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Sam Pritchard
 1. Samuel Scheiderich
 1. Sam van der Kris
-1. Sander van der Waal (Waag) 
+1. Sander van der Waal (Waag)
 1. Sandro Jäckel (NixOS contributor)
 1. Santeri Kasvi
 1. Santiago Saavedra (former President, GPUL; Co-founder, IUVIA)
