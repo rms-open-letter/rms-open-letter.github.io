@@ -193,6 +193,7 @@ Signed,
 - Noel Georgi
 - Olivier Berger (FSF member, or associate member since 2002)
 - Orion Montoya (former rms-assist, former FSF, GPLv3 drafting-process software developer)
+- Pamela S. Chestek (Open Source Initiative Director)
 - Parker Higgins
 - Paul Adams
 - Peter Hunt
