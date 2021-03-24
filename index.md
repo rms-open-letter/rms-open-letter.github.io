@@ -55,6 +55,7 @@ Signed,
 1. Adolfo Jayme Barrientos (Ubuntu, The Document Foundation)
 1. Adrian Cochrane
 1. Adrián Pérez de Castro
+1. Adrián María Mora Carreto
 1. Adrienne L. Travis
 1. Adrien "PulkoMandy" Destugues
 1. Advaith Madhukar
