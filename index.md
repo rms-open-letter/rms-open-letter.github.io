@@ -44,6 +44,7 @@ Signed,
 1. Globenet
 1. GlobaLeaks
 1. GNOME Foundation
+1. The HardenedBSD Foundation / The HardenedBSD Project
 1. MidnightBSD Project
 1. MousePaw Media
 1. Mozilla
