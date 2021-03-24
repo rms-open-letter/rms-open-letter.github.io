@@ -47,6 +47,7 @@ Signed,
 - Adil Sadik
 - Adrian Cochrane
 - Adrien "PulkoMandy" Destugues
+- Advaith Madhukar
 - Akhil Indurti
 - Alan Ball
 - Alan Diggs (Schykle)
