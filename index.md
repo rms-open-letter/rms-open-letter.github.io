@@ -397,6 +397,7 @@ Signed,
 - James Cochran
 - James Daly
 - James 'jspc' Condron
+- James Kruth
 - James Renken
 - James Spivey
 - James Troup
@@ -559,7 +560,6 @@ Signed,
 - Luna Duclos
 - Lupe Canaviri
 - Lyre Calliope
-- Maarten Beeckmans
 - Mackenzie 'maco' Morgan (former Ubuntu Developer Membership Board member)
 - Maddison Hellstrom
 - Madhulika Chambers (NumPy contributor)
@@ -669,7 +669,7 @@ Signed,
 - Nicolás `nomeacuerdo` Arteaga
 - Nicolas Schier (Debian maintainer)
 - Nicole Martinez
-- Nikita Gillmann (ex-GNUnet developer, former GNU Guix contributor, NetBSD/pkgsrc developer)
+- Nikita Gillmann (ex-GNUnet developer, former GNU Guix developer, NetBSD/pkgsrc developer)
 - Nikos Roussos (FSFE, GA member)
 - Nils Adermann
 - Nils Philippsen (Fedora Project contributor)
