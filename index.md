@@ -271,6 +271,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Britta Gustafson
 1. Britt Yazel (Former GNOME Foundation Director)
 1. Bruno de Paula Kinoshita
+1. Bruno Girin
 1. Bryan Bishop
 1. Bryan Cantrill
 1. Bryan Horstmann-Allen
