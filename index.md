@@ -921,6 +921,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Richard Maw
 1. Richard Mehlinger
 1. Richard "RichiH" Hartmann (Debian Developer; ex: freenode & OFTC; FOSDEM, CCC, DebConf); see commit message
+1. Richard Pospesel (pospeselr, Tor Project)
 1. Richard Schneeman
 1. Rich Felker (musl libc)
 1. Richo Healey
