@@ -45,6 +45,7 @@ Signed,
 1. Open Source Diversity
 1. Tor Project
 1. X.org Foundation
+1. Open Life Science
 
 ### Individuals
 
