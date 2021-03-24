@@ -548,6 +548,7 @@ Signed,
 - Pablo Martín Oldani
 - Pamela S. Chestek (Open Source Initiative Director)
 - Parker Higgins
+- Pascal Jufer
 - Pat Hickey
 - Patrick Engelman
 - Paul Adams
