@@ -1064,6 +1064,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Liza Ainalen Dosso
 1. Liz Fong-Jones (OpenTelemetry governance committee member, linux/aarch64 advocate)
 1. Liz Rice (TOC chair, CNCF; OpenUK ambassador)
+1. Logan Kilpatrick (The Julia Laanguage Community Manager)
 1. Lorena Mesa
 1. Lorenzo Gomez
 1. Louis Borsu
