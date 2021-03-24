@@ -820,6 +820,7 @@ Signed,
 1. Rachel Chalmers (boardmember, The Ada Initiative)
 1. Rachel Domagalski
 1. Rafael Silva
+1. Raffaele Messuti
 1. Ralph FriarTech Loizzo
 1. Rami Chowdhury
 1. Randy J. Ray (@rjray)
