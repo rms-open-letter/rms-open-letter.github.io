@@ -876,6 +876,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Kathleen Lu
 1. Kathryn Spiers
 1. Katie Chan
+1. Katie Gamanji
 1. Katie McLaughlin (Python Software Foundation, former Linux Australia council)
 1. Katrina Riehl (NumFOCUS Board Member)
 1. Kavi Laud
