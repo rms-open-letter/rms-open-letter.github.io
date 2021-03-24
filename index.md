@@ -684,6 +684,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Joerg Jaspert (Debian Developer, Debian Account Manager, former Vice President of SPI Inc.)
 1. Johanna Dorothea Reichmann
 1. Johannes Löthberg (Arch Linux Developer)
+1. John Bond
 1. John D. Martin III
 1. John Hess
 1. John Krug (jhkrug)
