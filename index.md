@@ -401,6 +401,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Daniel Gryniewicz (Red Hat, former Gentoo developer)
 1. Daniel H. Bahr
 1. Daniel Holbach (Former Ubuntu Council Member and Core Developer)
+1. Daniel Kahn Gillmor (@dkg, Debian Developer, former FSF associate member)
 1. Daniel Kolesa (@octaforge, Void Linux developer)
 1. Daniel Murphy (@danhatesnumbers)
 1. Daniel Nazer
