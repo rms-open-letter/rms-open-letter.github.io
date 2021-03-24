@@ -1115,6 +1115,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Philip Balister
 1. Philip Gillißen
 1. Philip Hands (Former Debian Technical Committee member)
+1. Philip Lindsay
 1. Philippe Kalaf (Collabora)
 1. Philippe Normand
 1. Philip Withnall
