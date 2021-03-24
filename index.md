@@ -330,6 +330,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Dan Cross
 1. Dan "Fennix" Sim
 1. Daniel A. Rodriguez (Board of Directors, the Document Foundation)
+1. Daniel Estévez (gr-satellites)
 1. Daniel Feldroy (previously Daniel Roy Greenfeld)
 1. Daniel Foré (Founder, elementary, Inc.)
 1. Daniel Holbach (Former Ubuntu Council Member and Core Developer)
@@ -409,6 +410,9 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Dustin Mitchell (Engineer, Mozilla)
 1. Dylan Graham (Kubernetes)
 1. Dylan Hardison (@dylan_hardison, Bugzilla Project)
+1. Eddie Horton (Northwestern State University)
+2. Eddie Kay
+3.
 1. Eddie Kay
 1. Edel Grace
 1. Ed Marshall
@@ -767,6 +771,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Liam R. Howlett (kernel developer)
 1. Linda Fernández
 1. Lindsay Holmwood (former Vice President of Linux Australia)
+1. Linus Groh
 1. Linus Parker
 1. Lioncache
 1. Lionirdeadman
@@ -1018,6 +1023,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Peter Huene
 1. Peter Hunt
 1. Peter Jones (Fedora developer)
+1. Peter Ludikovsky
 1. Peter Robinson (Fedora developer, former Fedora Board and Council member)
 1. Peter Van Eynde
 1. Petrohs
@@ -1226,7 +1232,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Tianon Gravi
 1. Tierney Cyren (Node.js Community Committee Chairperson, Electron, OpenJS Foundation CPC)
 1. Till Schneidereit
-1. Tilman Vatteroth (@mrdrogdrog, Frontend developer at HedgeDoc
+1. Tilman Vatteroth (@mrdrogdrog, Frontend developer at HedgeDoc)
 1. Tim Bradshaw
 1. Tim D. Smith (Mozilla; former member, Homebrew PLC)
 1. Timothée Ravier (Fedora Project Contributor)
@@ -1315,4 +1321,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Zeltzin Rodríguez
 1. Zvi Gilboa
 1. RT Hatfield (@panzertime)
+1. Wulf C. Krueger (Exherbo Linux)
 1. Nic FitzGerald (Co-Founder Sailex)
+1. Ethan Djeric
