@@ -354,6 +354,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Dan Cross
 1. Dan "Fennix" Sim
 1. Daniel A. Rodriguez (Board of Directors, the Document Foundation)
+1. Daniel Erat
 1. Daniel Estévez (gr-satellites)
 1. Daniel Feldroy (previously Daniel Roy Greenfeld)
 1. Daniel Foré (Founder, elementary, Inc.)
