@@ -287,6 +287,7 @@ Signed,
 - Gabriel Filion
 - Gabriella Coleman (McGill University)
 - Gabriel Volpe (Practical FP in Scala)
+- Gale Pedowitz Fagan
 - Gareth J. Greenaway (Salt Developer, SCALE Co-Founder and former chair person)
 - Geir Magnusson Jr.
 - Geoffrey Thomas
