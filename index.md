@@ -375,6 +375,7 @@ Signed,
 - John Wiseman
 - Jona Azizaj (Fedora Project, Open Source Diversity)
 - Jonas Obrist (PyCon JP Association Board Member)
+- Jonas Schwartz
 - Jonathan Kamens (>30yrs maintaining OSS, one-time FSF contributor) 
 - Jonathan McDowell
 - Jordan Petridis (GNOME)
