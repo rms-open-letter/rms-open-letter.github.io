@@ -578,6 +578,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. James Smith (@floppy)
 1. James Spivey
 1. James Troup
+1. James Turk (Open States)
 1. James Turnbull (former President of Linux Australia)
 1. James Weare
 1. Jamie Gaskins
@@ -1328,4 +1329,3 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Zeltzin Rodríguez
 1. Zvi Gilboa
 <!-- Do not add your name to the bottom, it needs adding in alphabetical order above -->
-
