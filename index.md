@@ -354,6 +354,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Christopher Davis (GNOME)
 1. Christopher Engelhard (Fedora Project contributor)
 1. Christopher `kode54` Snowhill
+1. Christopher Lee
 1. Christopher Patti
 1. Christopher Schmidt
 1. Christopher Swenson (sort.h author and maintainer)
