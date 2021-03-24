@@ -836,6 +836,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Markus Bohnensack
 1. Markus `kmi` S. (Chaos Computer Club)
 1. Markus Unterwaditzer
+1. Marquis Kurt
 1. Marte Træen
 1. Martijn Bos(Galavanto)
 1. Martin Bayo
