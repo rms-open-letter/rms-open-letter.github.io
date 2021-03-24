@@ -975,6 +975,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Matthias `smurf` Urlichs (Debian developer)
 1. Matthieu Gallien (KDE)
 1. Matthilde A. Stella
+1. Mattias Bengtsson (Former GNOME Maps maintainer)
 1. Matt Lee (Libre.fm, former member of the GNU Project)
 1. Matt Ray (former FSF member)
 1. Mauro Lizaur (Former Debian Developer)
