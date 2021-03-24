@@ -573,6 +573,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Gerard Ryan
 1. Germán Poo-Caamaño (GNOME)
 1. Gertjan Lettink a.k.a. Knurpht
+1. Gianni Ceccarelli
 1. Gina Häußge (OctoPrint maintainer)
 1. Gina Likins (Red Hat)
 1. Giovanni Campagna (former GNOME contributor)
