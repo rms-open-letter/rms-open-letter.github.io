@@ -504,6 +504,7 @@ Signed,
 - Simon Wistow
 - Skylar Alexandra Bleed
 - Solly Ross (Kubernetes KubeBuilder maintainer)
+- Song Li
 - Soren L. Hansen
 - Sriram Ramkrishna
 - Starchy Grant (EFF, signing in personal capacity)
