@@ -333,8 +333,8 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Daniel Estévez (gr-satellites)
 1. Daniel Feldroy (previously Daniel Roy Greenfeld)
 1. Daniel Foré (Founder, elementary, Inc.)
-1. Daniel Holbach (Former Ubuntu Council Member and Core Developer)
 1. Daniel Gryniewicz (Red Hat, former Gentoo developer)
+1. Daniel Holbach (Former Ubuntu Council Member and Core Developer)
 1. Daniel Kolesa (@octaforge, Void Linux developer)
 1. Daniel Murphy (@danhatesnumbers)
 1. Daniel Nazer
@@ -411,8 +411,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Dylan Graham (Kubernetes)
 1. Dylan Hardison (@dylan_hardison, Bugzilla Project)
 1. Eddie Horton (Northwestern State University)
-2. Eddie Kay
-3.
 1. Eddie Kay
 1. Edel Grace
 1. Ed Marshall
@@ -451,6 +449,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Ernesto Hernández-Novich (@iamemhn)
 1. Ernie Hartley (AudioMo Creator)
 1. Esther Payne (Librecast Project)
+1. Ethan Djeric
 1. Étienne Mollier (Debian Maintainer)
 1. Eva Lauren Kelly (web & console homebrew developer, aka thejsa)
 1. Evan Brown
@@ -941,6 +940,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Nathan Shelly
 1. Neal Gompa (Fedora Project contributor, Mageia Project Council Member, Mageia.Org Board Member, openSUSE Project Board Member, OpenMandriva contributor)
 1. Neil Watson (Former CFEngine Community Advisory Board Member)
+1. Nic FitzGerald (Co-Founder Sailex)
 1. Nicholas LaPointe (Krita contributor)
 1. Nick Chambers
 1. Nick Davis
@@ -1055,9 +1055,9 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Rayan Das (@raydeeam)
 1. Raymon Skjørten Hansen
 1. Reed Loden
-1. Renata Rocha
 1. Rémi Verschelde (Godot Engine, Mageia)
 1. Rémy Grünblatt
+1. Renata Rocha
 1. Renaud Lepage
 1. Reuben Morais
 1. Rhonda D'Vine (Debian Developer, Open Source Diversity)
@@ -1097,6 +1097,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Ross A. Baker
 1. Rossella Sblendido (OpenStack, OPNFV, LF Networking)
 1. Ross Nelson
+1. RT Hatfield (@panzertime)
 1. Ruben Pollan (meskio)
 1. Ruben Schade
 1. Rubi Jihantoro
@@ -1298,6 +1299,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Wilson "Chilly" Hightower
 1. Wim Taymans (PipeWire, GStreamer)
 1. Wolthera van Hövell (Krita/KDE)
+1. Wulf C. Krueger (Exherbo Linux)
 1. Xabier Rodríguez Calvar
 1. Xavier Tilley
 1. Xavi Francisco
@@ -1322,7 +1324,5 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Zack Cerza
 1. Zeltzin Rodríguez
 1. Zvi Gilboa
-1. RT Hatfield (@panzertime)
-1. Wulf C. Krueger (Exherbo Linux)
-1. Nic FitzGerald (Co-Founder Sailex)
-1. Ethan Djeric
+2. Eddie Kay
+3.
