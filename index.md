@@ -581,6 +581,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Gary Williams
 1. Geir Magnusson Jr.
 1. Gene Liverman (@genebean)
+1. Genelle Denzin (R-Ladies co-organizer)
 1. Geoff Langdale
 1. Geoffrey Bessereau
 1. Geoffrey Michael
