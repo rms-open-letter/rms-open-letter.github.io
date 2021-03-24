@@ -794,6 +794,7 @@ Signed,
 - Ujjwal Sharma (Node.js Core Collaborator, TC39, Igalia)
 - Victor Hugo Soliz Kuncar
 - Victoria "tdfischer" Fierce (Former KDE Multimedia and Phonon-GStreamer maintainer)
+- Viktoriia Leontieva (Product Designer at GitHub)
 - Vincent Huang Jiahao
 - Vincent Milum Jr (@DarkainMX)
 - Vincent Singer (aka cukmekerb)
