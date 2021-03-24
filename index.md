@@ -632,6 +632,7 @@ Signed,
 1. Lee Hambley (Capistrano maintainer, former FSFE member)
 1. Leif Walsh
 1. Leo Famulari
+1. leo60228
 1. Liam R. Howlett (kernel developer)
 1. Linda Fernández
 1. Lindsay Holmwood (former Vice President of Linux Australia)
