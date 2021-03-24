@@ -623,6 +623,7 @@ Signed,
 1. Kiran Jonnalagadda
 1. kpcyrd (Arch Linux, Debian, Reproducible Builds)
 1. Kris Buytaert
+1. Kristi Progri
 1. Krzysztof Sakrejda
 1. Kuesji Koesnu
 1. Kukuh Syafaat (GNOME, openSUSE)
