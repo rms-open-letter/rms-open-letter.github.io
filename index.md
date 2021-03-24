@@ -61,6 +61,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Aadil Ayub
 1. Aaron Carson
 1. Aaron Crickenberger (Kubernetes Steering Committee Emeritus, SIG Testing Chair)
+1. Aaron D Borden (former GNOME developer)
 1. Aaron Honeycutt
 1. Aaron Jones
 1. Aaron M. Ucko (@ucko, Debian Developer)
@@ -912,7 +913,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Kendra Albert
 1. Ken Guest (PEAR, Phing)
 1. Ken Irwin
-1. Kenneth Gardner
 1. Kenneth Love (PSF Fellow)
 1. Kenny Huynh
 1. Kevin Ackroyd
@@ -1496,7 +1496,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Sven Hüster
 1. Sy Brand (Microsoft)
 1. Sydney Schreckengost
-1. Syds Bearda (openSUSE member + treasurer)
 1. Sylvestre Ledru (Debian, LLVM and Mozilla)
 1. Taavi Väänänen (MediaWiki)
 1. Tab Atkins-Bittner (@tabatkins, active W3C/TC39/WHATWG editor)
