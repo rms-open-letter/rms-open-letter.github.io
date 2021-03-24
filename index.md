@@ -1148,6 +1148,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Paul McLanahan (Engineer at Mozilla)
 1. Paul Moore (Linux Kernel maintainer, libseccomp maintainer)
 1. Paul Oldham
+1. Paul Tagliamonte (Debian Developer and Former Director of the Open Source Initiative)
 1. Paul Wankadia
 1. Paul Woolcock
 1. Paul Wouters (Libreswan, Fedora developer)
