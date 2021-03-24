@@ -225,6 +225,7 @@ Signed,
 - David Turner (former GPL Compliance Engineer at FSF)
 - D. Ben Knoble
 - Dennis Schubert (Mozilla, former diaspora\* maintainer)
+- Derek Payton (Founder/Executive Director, Root Access Hackerspace; Former FSF Associate Member)
 - Desiree Zamora Garcia (A List Apart)
 - Devin Buhl
 - Dillon Pentz (OBS Project Developer)
