@@ -476,6 +476,7 @@ Signed,
 - Ryan Gonzalez
 - Ryan Heywood
 - Ryan Lahfa
+- Ryan Prior (LibrePlanet speaker, GNU Guix, FSF member)
 - Sajid Ali
 - Sambhav Saggi
 - Sam Hartman (Former Debian Project Leader)
