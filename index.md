@@ -130,6 +130,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Andrija Subotić
 1. Andy "@grifferz" Smith (both personally and on behalf of BitFolk Ltd)
 1. Andy Isaacson (@radii, founding member of Noisebridge)
+1. Andy R. Terrel
 1. AndyTuba
 1. Angus Fletcher
 1. Angus Gratton
@@ -206,7 +207,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Brad Crittenden
 1. Bram Hagens
 1. Brandon Butler
-1. Brendan Abolivier (Matrix Developer)
+1. Brendan Abolivier
 1. Brendan Hickey
 1. Brendan O'Leary
 1. Brennen Bearnes
