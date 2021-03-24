@@ -351,6 +351,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Christoph "Sellerie" Pomaska (@lauch_gemuese)
 1. Christoph Wickert (openSUSE contributor, former Fedora Council and Advisory Board member)
 1. Chris Wayne (Ubuntu)
+1. Claire Connelly (FSF associate member; former Debian developer)
 1. Clara Hobbs
 1. Clare Macrae
 1. Clarissa Borges (GNOME Foundation member)
