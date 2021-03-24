@@ -693,6 +693,7 @@ Signed,
 - Will Greenberg (EFF, signing in personal capacity)
 - Will Hawkins
 - William Kroes
+- William Starkey
 - William Theaker (Former FSF staff member)
 - Wolthera van Hövell (Krita/KDE)
 - Xavier Tilley
