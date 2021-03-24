@@ -667,6 +667,7 @@ Signed,
 - Nikita Gillmann (ex-GNUnet developer, former GNU Guix developer, NetBSD/pkgsrc developer)
 - Nikos Roussos (FSFE, GA member)
 - Nils Adermann
+- Nils Philippsen (Fedora Project contributor)
 - Nishkarsh Raj
 - Nixon Enraght-Moony
 - Noah/`coolreader18` (RustPython maintainer)
