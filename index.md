@@ -559,6 +559,7 @@ Signed,
 - Paul Woolcock
 - Paul Wouters (Libreswan, Fedora developer)
 - Perro Tuerto (Programando LIBREros)
+- Peter Aufner (`Adrixan`)
 - Peter Hazenberg (`Peetz0r`)
 - Peter Hunt
 - Peter Jones (Fedora developer)
