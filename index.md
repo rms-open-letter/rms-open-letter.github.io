@@ -308,6 +308,7 @@ Signed,
 - Guy Templeton (Kubernetes SIG Autoscaling Chair)
 - Halla Rempt (maintainer of Krita)
 - Hannah Aizenman (NYLUG coordinator, Matplotlib community manager)
+- Harsh Shandilya
 - Havoc Pennington (former GNOME Foundation)
 - Hayden Barnes
 - Hayden Seay
