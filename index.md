@@ -248,6 +248,7 @@ Signed,
 - Ee Durbin (PyPI Administrator)
 - Efraim Flashner (GNU Guix contributor)
 - Eirik Øverby
+- Elanna Grossman
 - Elen Eisendle
 - Eliott Lavier
 - Elizabeth Bell (Mozilla)
