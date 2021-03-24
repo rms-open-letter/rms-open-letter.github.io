@@ -558,6 +558,7 @@ Signed,
 - Paul McLanahan (Engineer at Mozilla)
 - Paul Woolcock
 - Paul Wouters (Libreswan, Fedora developer)
+- Percival Lavoie
 - Perro Tuerto (Programando LIBREros)
 - Peter Hazenberg (`Peetz0r`)
 - Peter Hunt
