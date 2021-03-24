@@ -529,6 +529,7 @@ Signed,
 - Niclas Zeising (FreeBSD committer)
 - Nicolai von Neudeck
 - Nicolás Alvarez (KDE)
+- Nicolás `nomeacuerdo` Arteaga
 - Nicolas Dandrimont (Debian Developer, former FSF associate member)
 - Nicolas Fella (KDE)
 - Nicolas Schier (Debian maintainer)
