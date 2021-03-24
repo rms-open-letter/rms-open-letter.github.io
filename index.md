@@ -611,6 +611,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Joe Harley
 1. Joe Julian
 1. Joel Bethke (OBS Project)
+1. Joel 'kirch' Kirchartz
 1. Joe Provo
 1. Joerg Jaspert (Debian Developer, Debian Account Manager, former Vice President of SPI Inc.)
 1. Johanna Dorothea Reichmann
