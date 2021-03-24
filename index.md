@@ -213,6 +213,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Arno Fleming (Community organiser)
 1. Artemis Tosini (NixOS contributor)
 1. Arthur Richards
+1. Arturs Dobrecovs
 1. Artur Tamborski (former FSF member)
 1. Ashish Dixit
 1. Asta Halkjær From
