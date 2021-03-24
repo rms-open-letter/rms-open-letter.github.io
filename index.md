@@ -204,6 +204,7 @@ Signed,
 - Daniel Kolesa (@octaforge, Void Linux developer)
 - Daniel Murphy (@danhatesnumbers)
 - Daniel Nazer
+- Daniel Raniz Raneland
 - Daniel Soskel
 - Daniel Stone (freedesktop.org, Wayland)
 - Dan Jacka
