@@ -403,6 +403,7 @@ Signed,
 - Lars Wirzenius
 - Laurin Schmidt
 - Leandro A. F. Pereira
+- Leif Walsh
 - Liam R. Howlett (kernel developer)
 - Linus Parker
 - Lionirdeadman
