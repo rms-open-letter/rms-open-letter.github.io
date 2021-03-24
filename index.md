@@ -1001,6 +1001,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Romain Menke
 1. Rosanna Yuen (GNOME Foundation)
 1. Ross A. Baker
+1. Ross Nelson
 1. Rossella Sblendido (OpenStack, OPNFV, LF Networking)
 1. Ruben Pollan (meskio)
 1. Ruben Schade
