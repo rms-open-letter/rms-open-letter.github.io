@@ -599,6 +599,7 @@ Signed,
 - Ruben Schade
 - Russ Allbery (Debian Developer, FSF associate member since 2003) 
 - Russell Keith-Magee (@freakboy3742; former President, Django Software Foundation; Founder, BeeWare Project)
+- Ryan Clark
 - Ryan (DasGeek) (Host of Destination Linux, Partner of Destination Linux, LLC.)
 - Ryan Finnie (Finnix founder; Debian; Ubuntu)
 - Ryan Gannon
