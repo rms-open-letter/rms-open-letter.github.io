@@ -700,6 +700,7 @@ Signed,
 - Ryan Heywood
 - Ryan Lahfa
 - Ryan Schmidt
+- Ryu "SaidBySolo" JuHeon
 - Sajid Ali
 - Sambhav Saggi
 - Sam Hartman (Former Debian Project Leader)
