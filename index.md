@@ -259,6 +259,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Bruno de Paula Kinoshita
 1. Bryan Bishop
 1. Bryan Cantrill
+1. Bryan Horstmann-Allen
 1. Bryan Meyers (Solus Technical Lead)
 1. Bryan Paget
 1. Bryce Adelstein Lelbach aka wash (US Programming Language Standards Chair, ISO C++ Library Evolution Chair)
