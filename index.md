@@ -70,7 +70,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Adam H. Leventhal
 1. Adam Jackson (X.org, Fedora)
 1. Adam Miller (Ansible, Fedora)
-1. Adam Monsen (SeaGL co-founder)
 1. Adam Salt (Cob:web Development)
 1. Adil Sadik
 1. Aditya Sirish A Yelgundhalli (@adityasaky)
@@ -119,7 +118,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Alvaro Soliverez (Collabora)
 1. Amelia Andersdotter (former Member of the European Parliament (Piratpartiet), hobby Arch and network scripting aficionado)
 1. Amin Mahmudian
-1. Amir Sarabadani (Wikimedia)
 1. Amos `fasterthanlime` Wenger
 1. Amye Scavarda Perrin
 1. Amy Guy `rhiaro`
@@ -212,7 +210,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Benji Mauer (ActBlue Technical Services)
 1. Benji Vesterby
 1. Ben Klemens
-1. Ben Kreeger
 1. Ben Lewis (Former GNU Octave contributor)
 1. Ben Nied
 1. Ben Rosengart
@@ -580,6 +577,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Gordon Haff (OSI Member)
 1. Gordon Stratton
 1. Graham Christensen (NixOS contributor)
+1. Graham Freeman
 1. Graham Sutherland
 1. Grant Seltzer Richman
 1. Greg Day
