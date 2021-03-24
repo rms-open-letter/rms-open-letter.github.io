@@ -874,6 +874,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Mélissa Richard
 1. Micah Anderson
 1. Micah E Scott
+1. Michael Babker (Former Production Department Coordinator for Joomla!/OpenSourceMatters)
 1. Michael Bikovitsky
 1. Michael Bond (FSF Associate Member)
 1. Michael Carbone (Qubes OS)
