@@ -708,6 +708,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Guilhem Moulin (Debian Developer)
 1. Guillaume Desmottes (Collabora, GStreamer developer)
 1. Guillaume Gay
+1. Guillem Jover (Debian Developer, freedesktop.org)
 1. Gunnar Monell
 1. Gunnar Wolf (Debian Developer, member of the Debian Technical Committee)
 1. Gürkan Gür
