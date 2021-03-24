@@ -388,6 +388,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Dirk Hohndel
 1. DJ Chase (Fedora Project contributer, FSF associate member)
 1. D. Joe Anderson
+1. Dmitri Goosens (@dgoosens)
 1. Dmitry Borodaenko (Debian Developer, Former Fuel for OpenStack Project Technical Lead)
 1. Dmitry Kochnev
 1. Dmitry Porunov
