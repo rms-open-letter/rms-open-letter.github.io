@@ -698,6 +698,7 @@ Signed,
 1. Nathan Ritchie
 1. Nathan Shelly
 1. Neal Gompa (Fedora Project contributor, Mageia Project Council Member, Mageia.Org Board Member, openSUSE Project Board Member, OpenMandriva contributor)
+1. Dr Neil Smith
 1. Neil Watson (Former CFEngine Community Advisory Board Member)
 1. Nick Chambers
 1. Nick Davis
