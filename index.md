@@ -617,6 +617,7 @@ Signed,
 - Santiago Torres-Arias (Arch Linux, Purdue University, in-toto)
 - Saptak S
 - Sarah Connor
+- Sarah Voegeli
 - Sasi Olin (openSUSE Member, former openSUSE Board member)
 - Satvik Sharma
 - Sayan Chowdhury (@yudocaa)
