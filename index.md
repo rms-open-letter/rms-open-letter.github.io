@@ -318,6 +318,7 @@ Signed,
 - Linus Parker
 - Lionirdeadman
 - Louis Jones
+- Louis-Philippe Véronneau (Debian Developer)
 - Luca Martinelli
 - Lucas Bickel
 - Lucas Nussbaum (Former Debian Project Leader)
