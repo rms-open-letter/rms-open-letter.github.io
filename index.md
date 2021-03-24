@@ -1376,6 +1376,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Rosellyne Worrall
 1. Ross A. Baker
 1. Rossella Sblendido (OpenStack, OPNFV, LF Networking)
+1. Ross Lannen
 1. Ross Nelson
 1. RT Hatfield (@panzertime)
 1. Ruben Pollan (meskio)
