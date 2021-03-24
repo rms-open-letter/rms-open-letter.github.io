@@ -539,6 +539,7 @@ Signed,
 - Victor Hugo Soliz Kuncar
 - Victoria "tdfischer" Fierce (Former KDE Multimedia and Phonon-GStreamer maintainer)
 - Vincent Huang Jiahao
+- Vincent Singer (aka cukmekerb)
 - Vincent Wong
 - Vipul Gupta
 - Vivia Nikolaidou (GStreamer)
@@ -555,4 +556,3 @@ Signed,
 - Zach Klippenstein (aka @zach-klippenstein, Square)
 - Zach van Rijn
 - Zvi Gilboa
-- Vincent Singer (aka cukmekerb)
