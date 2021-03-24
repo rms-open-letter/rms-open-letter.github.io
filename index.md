@@ -126,6 +126,7 @@ Signed,
 - Carina C. Zona (CallbackWomen)
 - Carlos Soriano Sanchez (Former GNOME Foundation director and Nautilus maintainer, GNOME GitLab admin)
 - Carl Schwan (KDE)
+- Carlton Whitehead
 - Carol Willing
 - Casper Sørensen
 - Chris Burgess
