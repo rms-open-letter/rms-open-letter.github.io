@@ -992,6 +992,7 @@ Signed,
 1. Vojtěch Vengrin (Gnome translator)
 1. Wayne M. Thornton, B.S., CPDT (Co-Founder & Project Manager VIRATRACE)
 1. Wendy Bolm (Chief Operations Officer, CommitChange)
+1. Wendy Seltzer
 1. Wes Mason (Ubuntu Community Member and former FSFE Fellow)
 1. whitequark
 1. Will Barton
