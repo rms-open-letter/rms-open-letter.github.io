@@ -60,6 +60,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Aaron Jones
 1. Aaron M. Ucko (@ucko, Debian Developer)
 1. Abel Moarrensis (`circuitrcay`)
+1. Abhishek Veeramalla
 1. Abigail Brady (former GNOME developer)
 1. Abigail Cabunoc Mayes
 1. Adam Barber
