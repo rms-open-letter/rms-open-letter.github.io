@@ -609,7 +609,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Greg Day
 1. Greg Donald
 1. Greg Grossmeier
-1. Gregory Smith (PostgreSQL, Crunchy Data)
 1. Guilhem Moulin (Debian Developer)
 1. Guillaume Desmottes (Collabora, GStreamer developer)
 1. Guillaume Gay
@@ -665,7 +664,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Italo Nicola (Collabora)
 1. Italo Vignoli (OSI Director, LibreItalia Honorary President)
 1. Ivana Kellyérová
-1. J. Eric Ivancich
 1. Jack Firth
 1. Jack 'jrabbit' Laxson
 1. Jack Leadford
@@ -1334,6 +1332,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Santiago Torres-Arias (Arch Linux, Purdue University, in-toto)
 1. Santosh Mahto (Collabora)
 1. Saptak S
+1. Sarah Aladetan
 1. Sarah Connor
 1. Sarah Voegeli
 1. Sarina Canelake
