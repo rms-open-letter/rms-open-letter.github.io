@@ -1010,6 +1010,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Scott Starr
 1. Scott Walters
 1. Sean Eric Fagan
+1. Sean Howard
 1. Sean McGinnis
 1. Sean O'Brien
 1. Sebastian Dröge (GStreamer, GNOME, Debian)
