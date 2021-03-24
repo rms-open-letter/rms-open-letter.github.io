@@ -56,7 +56,7 @@ Signed,
 - Alexis Tyler
 - Alfred Neumayer (UBports developer)
 - Alison Dowdney (Kubernetes SIG Contributor Experience Chair)
-- Allie M. (salmon_lib developer)
+- Allie `sapphiclinguine` M. (salmon_lib developer)
 - Amelia Andersdotter (former Member of the European Parliament (Piratpartiet), hobby Arch and network scripting aficionado)
 - Amos `fasterthanlime` Wenger
 - Amye Scavarda Perrin
