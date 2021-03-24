@@ -110,6 +110,7 @@ Signed,
 - Benjamin Torell (OBS Project)
 - Ben Klemens
 - Ben Lewis (Former GNU Octave contributor)
+- Ben Nied
 - Ben Rosengart
 - Ben Werdmuller
 - Bert JW Regeer (`xistence`)
