@@ -1433,6 +1433,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Thomas Guillem (VLC developer)
 1. Thomas Kluyver (various Python projects)
 1. Thomas Renger
+1. Thomas Sirack
 1. Thomas Wouters (former GNU contributor)
 1. Thom Chiovoloni
 1. Tianon Gravi
