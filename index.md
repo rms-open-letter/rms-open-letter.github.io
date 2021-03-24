@@ -968,6 +968,7 @@ Signed,
 1. William Kroes
 1. William Starkey
 1. William Theaker (Former FSF staff member)
+1. Wim Taymans (PipeWire, GStreamer)
 1. Wolthera van Hövell (Krita/KDE)
 1. Xavier Tilley
 1. Xav Paice
