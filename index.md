@@ -354,7 +354,6 @@ Signed,
 1. Gerardo Torres
 1. Gerard Ryan
 1. Germán Poo-Caamaño (GNOME)
-1. Gina Häußge (OctoPrint maintainer)
 1. Giovanni Campagna (former GNOME contributor)
 1. Göktuğ Kayaalp
 1. Gordon Byrnes
@@ -604,6 +603,7 @@ Signed,
 1. Matthew Stone
 1. Matthew S. Wilson (former contributor GNU Image Manipulation Program and GNU Parted, former Director, Software Freedom Conservancy)
 1. Matthew Vernon (Debian developer)
+1. Matthew Venn
 1. Matthew Wilcox (Linux kernel hacker)
 1. Matthias Antierens
 1. Matthias Arnason
@@ -746,7 +746,6 @@ Signed,
 1. Rami Chowdhury
 1. Randy J. Ray (@rjray)
 1. rany
-1. raichoo (maintainer and contributor for various open source projects)
 1. Raymon Skjørten Hansen
 1. Reed Loden
 1. Rémi Verschelde (Godot Engine, Mageia)
@@ -780,7 +779,6 @@ Signed,
 1. Ross A. Baker
 1. Rossella Sblendido (OpenStack, OPNFV, LF Networking)
 1. Ruben Schade
-1. Ruben Pollan (meskio)
 1. Russ Allbery (Debian Developer, FSF associate member since 2003)
 1. Russell Keith-Magee (@freakboy3742; former President, Django Software Foundation; Founder, BeeWare Project)
 1. Ryan Clark
