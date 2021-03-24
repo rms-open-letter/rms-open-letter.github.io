@@ -962,6 +962,7 @@ Signed,
 1. Tierney Cyren (Node.js Community Committee Chairperson, Electron, OpenJS Foundation CPC)
 1. Tim D. Smith (Mozilla; former member, Homebrew PLC)
 1. Tim Pierce (former GNU Guile contributor)
+1. Tim Weber (`scy`)
 1. Tiphaine Viard (Associate professor, Telecom Paris)
 1. Timothée Ravier (Fedora Project Contributor)
 1. Tobias Fella (KDE)
