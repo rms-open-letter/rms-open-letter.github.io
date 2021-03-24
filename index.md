@@ -408,7 +408,8 @@ Signed,
 - Katharine Berry
 - Katherine Flavel
 - Kathleen Lu
-- Kathryn Spiers
+- Kathryn Spiers 
+- Katie McLaughlin (Python Software Foundation, former Linux Australia council)
 - Kavi Laud
 - Kayla Anne Cupples
 - Kees Cook (Linux kernel maintainer & Technical Advisory Board member, Debian Developer, Ubuntu core developer, former Ubuntu Technical Board member)
