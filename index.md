@@ -1683,6 +1683,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Sydney Schreckengost
 1. Syds Bearda (openSUSE member + treasurer)
 1. Sylvestre Ledru (Debian, LLVM and Mozilla)
+1. t. Macleod Sawyer (Founder & CEO of DNX Robotics, `@macleodsawyerms` && `@drannex42`)
 1. Taavi Väänänen (MediaWiki)
 1. Tab Atkins-Bittner (@tabatkins, active W3C/TC39/WHATWG editor)
 1. Taher Chegini (@cheginit)
