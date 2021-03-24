@@ -104,6 +104,7 @@ Signed,
 - Aubrey Fletcher
 - Aura Vulcano
 - Avery "stars" M-W
+- Baptiste Fontaine
 - Barret Rennie (Mozilla)
 - Behdad Esfahbod (Former director / president, GNOME Foundation)
 - Ben Cotton (Fedora Project contributor)
