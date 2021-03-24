@@ -577,6 +577,7 @@ Signed,
 - Rami Chowdhury
 - Randy J. Ray (@rjray)
 - rany
+- Raymon Skjørten Hansen
 - Reed Loden
 - Rémi Verschelde (Godot Engine, Mageia)
 - Renaud Lepage
