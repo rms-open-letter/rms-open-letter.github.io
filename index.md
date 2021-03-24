@@ -452,6 +452,7 @@ Signed,
 - Lukasz Erecinski
 - Łukasz Langa (Python Software Foundation Fellow, Python 3.8 and 3.9 Release Manager)
 - Luke Faraone (Debian FTP master, Ubuntu developer, former English Wikipedia Arbitration Committee member)
+- Luke Triantafyllidis
 - Luna Duclos
 - Lupe Canaviri
 - Lyre Calliope
