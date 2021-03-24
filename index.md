@@ -526,6 +526,7 @@ Signed,
 1. J. Ryan Stinnett
 1. Jugal Kishore
 1. Jules Penuchot (Paris-Saclay University)
+1. Julia Buchner (aka @PetiPandaRou)
 1. Julia Luna
 1. Julian Andres Klode
 1. Julian Hofer (GNOME, Deltares) 
@@ -1032,4 +1033,3 @@ Signed,
 1. Zack Cerza
 1. Zeltzin Rodríguez
 1. Zvi Gilboa
-1. Julia Buchner (aka @PetiPandaRou)
