@@ -104,6 +104,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Alan Pope
 1. Alberto Ruiz (GNOME, Fedora & LibreOffice contributor)
 1. Albert Wong
+1. Alejandro AR (`kinduff`)
 1. Alex A. G.
 1. Alexander Herzig (Release Manager SUSE Linux Enterprise)
 1. Alexander Jacocks (Red Hat)
@@ -210,7 +211,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Ariadne Conill (Alpine Developer, pkgconf)
 1. Ariela Wenner
 1. Arne Brasseur
-1. Arne Visscher
 1. Arno Fleming (Community organiser)
 1. Artemis Tosini (NixOS contributor)
 1. Arthur Richards
@@ -356,7 +356,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Chloe Cota (@sweetpavement)
 1. Chris Adams (@acdha)
 1. Chris Aniszczyk
-1. Chris Boyle (Debian Developer)
 1. Chris Burgess
 1. Chris `chutten` Hutten-Czapski (Mozilla)
 1. Chris Coulson
@@ -389,7 +388,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Christina Dunbar-Hester (Author of _Hacking Diversity_)
 1. Christine Hall (former OSI Board member)
 1. Christof Haerens
-1. Christoph Berg (Debian Technical Committee member, PostgreSQL Major Contributor, OFTC NOC member and former chair)
 1. Christoph Blecker (Kubernetes Maintainer and Steering Committee Member)
 1. Christophe Junke
 1. Christophe Moille
@@ -510,7 +508,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. David Rodríguez (@davidjguru, Drupal developer and FLOSS contributor)
 1. David Schmitt
 1. David Smith (@shmish111)
-1. David D. Smith
 1. David Thompson (GNU Guile/Guix contributor, ex-FSF)
 1. David Turner (former GPL Compliance Engineer at FSF)
 1. Dawn Leonard
@@ -570,7 +567,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Eilidh Martin
 1. Eirik Øverby
 1. Elanna Grossman
-1. Eleanor Ashton
 1. Elen Eisendle
 1. Eli Heuer
 1. Eliott Lavier
@@ -1032,7 +1028,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Kiran Jonnalagadda
 1. Kirstie Whitaker (Programme Lead for Tools, Practices and Systems, The Alan Turing Institute; Core contributor to The Turing Way project.)
 1. Konstantin Baranovskiy
-1. Koz Ross (former FSF associate student member)
 1. kpcyrd (Arch Linux, Debian, Reproducible Builds)
 1. Kris Buytaert
 1. Kristi Progri
@@ -1211,9 +1206,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Matt Ray (former FSF member)
 1. Mauro Lizaur (Former Debian Developer)
 1. Max Burke
-1. Max Perrello
 1. Maxime Renusson (Telecom engineer, FLOSS user and advocate)
-1. Maxine Aubrey (NixOS contributor)
 1. Maya Rashish (NetBSD)
 1. Meadhbh Hamrick
 1. Megan Marsh
@@ -1580,7 +1573,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Seth Marinello (former CPLUG Officer)
 1. Seth McCombs
 1. Seth Peasley
-1. Seunguk Lee
 1. Shadi Alostaz
 1. Shane Coughlan
 1. Shane Fagan
