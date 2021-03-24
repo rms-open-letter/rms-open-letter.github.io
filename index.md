@@ -1694,6 +1694,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Werner Mahr
 1. Wes Mason (Ubuntu Community Member and former FSFE Fellow)
 1. Weston Steimel
+1. Wez Furlong
 1. Wheeler Law (Red Hat Inc.)
 1. whitequark
 1. Will Barton
