@@ -461,6 +461,7 @@ Signed,
 - Micah E Scott
 - Michael Bikovitsky
 - Michael Downey (United Nations Foundation)
+- Michael Gat
 - Michael Hoffmann
 - Michael Juarez
 - Michael `NCommander` Casadevall (Ubuntu Core Developer, former Debian Developer, former FSF Savannah Administrator)
