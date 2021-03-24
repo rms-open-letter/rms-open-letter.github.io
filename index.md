@@ -451,6 +451,7 @@ Signed,
 - Lukas Grossar
 - Lukasz Erecinski
 - Łukasz Langa (Python Software Foundation Fellow, Python 3.8 and 3.9 Release Manager)
+- Łukasz Jendrysik
 - Luke Faraone (Debian FTP master, Ubuntu developer, former English Wikipedia Arbitration Committee member)
 - Luna Duclos
 - Lupe Canaviri
