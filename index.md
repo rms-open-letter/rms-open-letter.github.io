@@ -538,6 +538,7 @@ Signed,
 - Luca Martinelli
 - Lucas Bickel
 - Lucas Nussbaum (Former Debian Project Leader)
+- Lucas Werkmeister
 - Ludovic Gasc
 - Ludvig Norgren Guldhag
 - Luis Antonio Sánchez Romero
