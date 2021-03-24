@@ -859,6 +859,7 @@ Signed,
 1. Stefan Bethke
 1. Stefan Crain
 1. Stefanie Schirmer
+1. Stemy (amateur independant self-host)
 1. Stephane Graber (LXC, former Ubuntu Technical Board member)
 1. Stephen A. Goss
 1. Stephen O'Grady
