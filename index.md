@@ -303,6 +303,7 @@ Signed,
 - Johannes Löthberg (Arch Linux Developer)
 - John D. Martin III
 - John Hess
+- John SJ Anderson
 - Jona Azizaj (Fedora Project, Open Source Diversity)
 - Jonathan McDowell
 - Jordan Petridis (GNOME)
