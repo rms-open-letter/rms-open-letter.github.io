@@ -619,6 +619,7 @@ Signed,
 1. Khosrow Moossavi
 1. Kimball Johnson (Former Chair FLOSS UK aka UKUUG)
 1. Kiran Jonnalagadda
+1. kpcyrd (Arch Linux, Debian, Reproducible Builds)
 1. Kris Buytaert
 1. Krzysztof Sakrejda
 1. Kuesji Koesnu
