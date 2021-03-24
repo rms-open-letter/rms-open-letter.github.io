@@ -893,6 +893,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Jess Mysers
 1. Jesús Castro
 1. Jez Cope
+1. Jiahao Chen (JPMorgan AI Research; Julia language, `@acidflask` and `@jiahao`)
 1. Jill Pelavin
 1. Jill Rouleau (Ansible Maintainer / Steering Commitee member)
 1. Jim Campbell
