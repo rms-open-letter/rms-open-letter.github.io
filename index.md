@@ -543,6 +543,7 @@ Signed,
 - Vipul Gupta
 - Vivia Nikolaidou (GStreamer)
 - Wendy Bolm (Chief Operations Officer, CommitChange)
+- Wes Mason (Ubuntu Community Member and former FSFE Fellow)
 - Will Barton
 - Will Hawkins
 - William Theaker (Former FSF staff member)
