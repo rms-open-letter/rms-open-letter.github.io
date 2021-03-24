@@ -667,6 +667,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Gerard Ryan
 1. Germán Poo-Caamaño (GNOME)
 1. Gertjan Lettink a.k.a. Knurpht
+1. Gianluca Bine
 1. Gianni Ceccarelli
 1. gimbar
 1. Gina Häußge (OctoPrint maintainer)
