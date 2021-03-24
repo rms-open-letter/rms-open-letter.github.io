@@ -619,6 +619,7 @@ Signed,
 - Sarah Connor
 - Sasi Olin (openSUSE Member, former openSUSE Board member)
 - Satvik Sharma
+- Savin Goyal
 - Sayan Chowdhury (@yudocaa)
 - Scott Hain
 - Scott Starr
