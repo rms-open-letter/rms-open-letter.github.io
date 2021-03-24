@@ -385,6 +385,7 @@ Signed,
 - Jörn Huxhorn
 - José Antonio Rey (Ubuntu Community Council, freenode Staff)
 - José Duarte
+- José Manrique López de la Fuente
 - Josh Levinger (OpenSourceActivism.tech)
 - Josh Simmons (President of the Open Source Initiative)
 - Joshua Ashton
