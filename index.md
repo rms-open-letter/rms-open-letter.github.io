@@ -441,6 +441,7 @@ Signed,
 - Parker Higgins
 - Patrick Engelman
 - Paul Adams
+- Paul Aguilar (`penserbjorne` from LIDSOL)
 - Paul Cutler (former GNOME Foundation)
 - Paul Fisher (Former FSF employee and union representative)
 - Paul McLanahan (Engineer at Mozilla)
