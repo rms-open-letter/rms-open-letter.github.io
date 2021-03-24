@@ -196,6 +196,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Ben Hutchings (Debian Developer)
 1. Benjamin De Kosnik
 1. Benjamin Elder (Kubernetes SIG Testing Chair)
+1. Benjamin Flesch
 1. Benjamin Kampmann
 1. Benjamin Ragan-Kelley (Project Jupyter)
 1. Benjamin Torell (OBS Project)
