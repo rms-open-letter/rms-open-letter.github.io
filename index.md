@@ -304,6 +304,7 @@ Signed,
 - John D. Martin III
 - John Hess
 - Jona Azizaj (Fedora Project, Open Source Diversity)
+- Jonathan Kamens (>30yrs maintaining OSS, one-time FSF contributor) 
 - Jonathan McDowell
 - Jordan Petridis (GNOME)
 - Jordan Uggla
