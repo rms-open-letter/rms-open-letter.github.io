@@ -1309,6 +1309,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Theodor Tollersrud
 1. TheSpiritingPoet
 1. Thierry Carrez (Open Infrastructure Foundation, Python Software Foundation fellow)
+1. Thomas Belvin
 1. Thomas Castleman (`Batcastle`, Drauger OS Founder and Lead Developer)
 1. Thomas Guillem (VLC developer)
 1. Thomas Kluyver (various Python projects)
