@@ -1368,6 +1368,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Petrohs
 1. Phil Dibowitz
 1. Philip Balister
+1. Philip Chimento (`ptomato`; Igalia, GNOME Foundation director)
 1. Philip Gillißen
 1. Philip Hands (Former Debian Technical Committee member)
 1. Philip Lindsay
