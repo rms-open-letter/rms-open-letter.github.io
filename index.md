@@ -387,6 +387,7 @@ Signed,
 - Kayla Anne Cupples
 - Kees Cook (Linux kernel maintainer & Technical Advisory Board member, Debian Developer, Ubuntu core developer, former Ubuntu Technical Board member)
 - Kellegram
+- Kenny Huynh
 - Kevin Lannen
 - Kevin López B.
 - Kevin McKenzie, M.S (Co-Owner, Built-Right Digital)
