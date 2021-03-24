@@ -915,6 +915,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Liz Rice (TOC chair, CNCF; OpenUK ambassador)
 1. Lorena Mesa
 1. Lorenzo Gomez
+1. Louis Borsu
 1. Louis-Francis Ratté-Boulianne (Collabora)
 1. Louis Jones
 1. Louis-Philippe Véronneau (Debian Developer)
