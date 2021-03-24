@@ -1286,6 +1286,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Sébastien Villemot (Debian Developer, FSF associate member)
 1. Seebs
 1. SeongHyun Lee (Kevin Lee / 케빈 리)
+1. Seth Hillbrand
 1. Seth Marinello (former CPLUG Officer)
 1. Seth McCombs
 1. Seth Peasley
