@@ -655,6 +655,7 @@ Signed,
 - Phil Dibowitz
 - Philip Balister
 - Philippe Normand
+- Pierre Dupont
 - Pierre Marijon
 - Pierre Ozoux (@pierreozoux)
 - Pierros Papadeas (Board member, Libre Space Foundation)
