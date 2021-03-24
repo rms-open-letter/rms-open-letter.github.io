@@ -301,6 +301,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Chris DiBona (Google LLC.)
 1. Chris Garaffa (Tech for the People)
 1. Chris Hoge
+1. Chris Holdgraf (2i2c, Project Jupyter)
 1. Chris `chutten` Hutten-Czapski (Mozilla)
 1. Chris Johnson
 1. Chris Koerner (Wikimedia, WordPress)
