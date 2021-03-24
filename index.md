@@ -391,6 +391,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Courtney Thurston (former Spark distro dev)
 1. Craig Maloney
 1. Cyril Brulebois (Debian Developer)
+1. Cyrus Frost (a Linux user)
 1. Dag Ågren
 1. Dakota Hoornsman
 1. Dakota "Kai" Lyons (owner, Fivnex.co)
