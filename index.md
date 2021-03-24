@@ -73,6 +73,7 @@ Signed,
 1. Alexis Tyler
 1. Alex Murray
 1. Alex Ose
+1. Alex Stapleton
 1. Alfred Neumayer (UBports developer)
 1. Alison Dowdney (Kubernetes SIG Contributor Experience Chair)
 1. Allie `sapphiclinguine` M. (salmon_lib developer)
