@@ -39,7 +39,6 @@ Signed,
 
 <!-- Any additional signees should go below this comment in alphabetical order (according to `sort -u`) -->
 
-1. Aadil Ayub
 1. Aaron Carson
 1. Aaron Crickenberger (Kubernetes Steering Committee Emeritus, SIG Testing Chair)
 1. Aaron Honeycutt
@@ -421,7 +420,6 @@ Signed,
 1. James 'jspc' Condron
 1. James Kruth
 1. James Renken
-1. James Smith
 1. James Spivey
 1. James Troup
 1. James Turnbull (former President of Linux Australia)
@@ -838,6 +836,7 @@ Signed,
 1. Sam Pritchard
 1. Sander van der Waal (Waag) 
 1. Santeri Kasvi
+1. Santiago Saavedra, [@ssice](https://twitter.com/ssice) (former President, GPUL; Co-founder, IUVIA)
 1. Santiago Torres-Arias (Arch Linux, Purdue University, in-toto)
 1. Saptak S
 1. Sarah Connor
@@ -848,7 +847,6 @@ Signed,
 1. Savin Goyal
 1. Sayan Chowdhury (@yudocaa)
 1. Scott Hain
-1. Scott Martin
 1. Scott Starr
 1. Scott Walters
 1. Sean McGinnis
