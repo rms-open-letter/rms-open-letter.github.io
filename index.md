@@ -430,6 +430,7 @@ Signed,
 - Rob Vincent
 - Rosanna Yuen (GNOME Foundation)
 - Ruben Schade
+- Ryan Finnie (Finnix founder; Debian; Ubuntu)
 - Ryan Gannon
 - Ryan Gonzalez
 - Ryan Heywood
