@@ -1161,6 +1161,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Rubi Jihantoro
 1. Russ Allbery (Debian Developer, FSF associate member since 2003)
 1. Russell Keith-Magee (@freakboy3742; former President, Django Software Foundation; Founder, BeeWare Project)
+1. Rute Correia
 1. Ryan Clark
 1. Ryan (DasGeek) (Host of Destination Linux, Partner of Destination Linux, LLC.)
 1. Ryan Finnie (Finnix founder; Debian; Ubuntu)
