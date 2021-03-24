@@ -187,6 +187,7 @@ Signed,
 - Gerard Ryan
 - Göktuğ Kayaalp
 - Graham Christensen (NixOS contributor)
+- Graham Sutherland
 - Greg Grossmeier
 - Gunnar Wolf (Debian Developer, member of the Debian Technical Committee)
 - Gustavo Costa (Fedora Project contributor)
