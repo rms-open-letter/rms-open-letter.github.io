@@ -262,6 +262,7 @@ Signed,
 - Jeffrey Yoo Warren
 - Jeff Warnica
 - Jeremy Bingham
+- Jeremy Carter
 - Jerome Charaoui (Debian Developer, former FSF member)
 - Jesse Clark
 - Jesse Cooke
