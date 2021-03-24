@@ -333,6 +333,7 @@ Signed,
 - Kellegram
 - Kevin Lannen
 - Kevin O'Brien
+- Kevin Sonney
 - Khionu Sybiern
 - Kimball Johnson (Former Chair FLOSS UK aka UKUUG)
 - Krzysztof Sakrejda
