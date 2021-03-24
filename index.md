@@ -85,6 +85,7 @@ Signed,
 1. Alison Dowdney (Kubernetes SIG Contributor Experience Chair)
 1. Allie `sapphiclinguine` M. (salmon_lib developer)
 1. Allon Mureinik
+1. Alper Cugun-Gscheidel
 1. Amelia Andersdotter (former Member of the European Parliament (Piratpartiet), hobby Arch and network scripting aficionado)
 1. Amin Mahmudian
 1. Amos `fasterthanlime` Wenger
@@ -193,6 +194,7 @@ Signed,
 1. Cadence Ember
 1. Caelan
 1. Caglar Koksal, Phd
+1. Calvin Spealman (@ironfroggy, Red Hat Inc.)
 1. Cameron Cash (PizzaLovingNerd)
 1. Cameron Durham
 1. Cameron Tauxe
@@ -336,6 +338,7 @@ Signed,
 1. Eduardo Habkost
 1. Ee Durbin (PyPI Administrator)
 1. Efraim Flashner (GNU Guix contributor)
+1. Egor `infdev` Golovin
 1. Eirik Øverby
 1. Elanna Grossman
 1. Elen Eisendle
@@ -442,6 +445,7 @@ Signed,
 1. Highlander Subaron (`HightechSec`)
 1. Hubert Figuière
 1. Ian Jackson (Former Debian Project Leader; former President, Software in the Public Interest; GNU Maintainer)
+1. Ian Stapleton Cordasco
 1. Idan Gazit (Django project alumnus)
 1. Ignacio Torres Masdeu
 1. Ilya Kreymer
@@ -485,6 +489,7 @@ Signed,
 1. Jason Barbier
 1. Jason C. McDonald (a.k.a. CodeMouse92) (MousePaw Media)
 1. Jason Crain (GNOME)
+1. Jason Robinson
 1. Jayme Howard
 1. Jean-Paul Argudo (CEO at Dalibo, @jpargudo)
 1. Jean-Philippe DUFRAIGNE
@@ -497,6 +502,7 @@ Signed,
 1. Jeffrey Strauss
 1. Jeffrey Yasskin
 1. Jeffrey Yoo Warren
+1. Jeff Warnica
 1. Jens Georg (GNOME Foundation member)
 1. Jeremie Miller (Jabber/XMPP)
 1. Jeremy Allison (Co-Creator of the Samba project)
@@ -578,6 +584,7 @@ Signed,
 1. Julien Voisin
 1. Julien Wajsberg (Mozilla)
 1. June Taylor
+1. Jürgen Geuter (@tante)
 1. Justin Dearing (@zippy1981)
 1. Justin Haygood
 1. Justin Reock (Chief Evangelist at OpenLogic)
@@ -632,6 +639,7 @@ Signed,
 1. Lee Hambley (Capistrano maintainer, former FSFE member)
 1. Leif Walsh
 1. Leo Famulari
+1. leo60228
 1. Liam R. Howlett (kernel developer)
 1. Linda Fernández
 1. Lindsay Holmwood (former Vice President of Linux Australia)
@@ -842,6 +850,7 @@ Signed,
 1. Paul Fisher (Former FSF employee and union representative)
 1. Paul McLanahan (Engineer at Mozilla)
 1. Paul Oldham
+1. Paul Wankadia
 1. Paul Woolcock
 1. Paul Wouters (Libreswan, Fedora developer)
 1. Peder Bergebakken Sundt
@@ -1021,6 +1030,7 @@ Signed,
 1. Taowa (Debian Developer, former LP keynote panelist)
 1. Thaddée Tyl
 1. TheEvilSkeleton
+1. TheSpiritingPoet
 1. Theodor Tollersrud
 1. Thierry Carrez (Open Infrastructure Foundation, Python Software Foundation fellow)
 1. Thomas Guillem (VLC developer)
@@ -1072,6 +1082,7 @@ Signed,
 1. Wendy Bolm (Chief Operations Officer, CommitChange)
 1. Wendy Seltzer
 1. Wes Mason (Ubuntu Community Member and former FSFE Fellow)
+1. Weston Steimel
 1. whitequark
 1. Will Barton
 1. Will Greenberg (EFF, signing in personal capacity)
