@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/usr/bin/env bash
 # Very simple tool to help manage floods of PRs
 for I in `gh pr list|cut -f 1`; do
     gh pr diff $I
