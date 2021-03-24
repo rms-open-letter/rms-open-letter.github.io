@@ -370,6 +370,7 @@ Signed,
 - Jaden Pleasants
 - James Alexander
 - James Cochran
+- James 'jspc' Condron
 - James Daly
 - James Renken
 - James Spivey
