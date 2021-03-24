@@ -206,7 +206,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Bob Murphy (12 year associate member)
 1. Bonnie King
 1. Brad Crittenden
-1. Brad Solomon
 1. Bram Hagens
 1. Brandon Butler
 1. Brendan Abolivier (Matrix Developer)
@@ -349,7 +348,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Danny Bouimad
 1. Danny "Rushyo" Moules (Security researcher, EFF Member, Former Mozilla contributor)
 1. Dan 'pixelflow' Humphreys
-1. Dan McDonald (illumos)
 1. Dan Stuart
 1. Dan Winship
 1. Dario Ninicato
@@ -464,7 +462,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Ewen McNeill
 1. Ezekiel Hendrickson
 1. Fabio Di Peri
-1. Fabio Neves (@fzero)
 1. Fahad Hossain
 1. Faith Jasmine Viola
 1. Fanael Linithien
@@ -988,7 +985,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Oliver Drotbohm
 1. Oliver Falk (Libravatar project)
 1. Olivier Berger (FSF member, or associate member since 2002)
-1. Ondřej Surý (Debian Developer; Director of DNS Engineering @ ISC)
 1. Orhun Parmaksız (Arch Linux maintainer)
 1. Orion Montoya (former rms-assist, former FSF, GPLv3 drafting-process software developer)
 1. Otavio Salvador (former FSF associate member, former Debian Installer Release Manager)
@@ -1136,7 +1132,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Sam Pritchard
 1. Samuel Scheiderich
 1. Sam van der Kris
-1. Sander van der Waal (Waag)
+1. Sander van der Waal (Waag) 
 1. Sandro Jäckel (NixOS contributor)
 1. Santeri Kasvi
 1. Santiago Saavedra (former President, GPUL; Co-founder, IUVIA)
@@ -1207,6 +1203,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Stephan Lachnit (Debian Maintainer)
 1. Stephen A. Goss
 1. Stephen O'Grady
+1. Steve Desmond
 1. Steve Langasek (former Debian Technical Committee member; Ubuntu Technical Board member)
 1. Steve McIntyre (Former Debian Project Leader)
 1. Steven Beattie
