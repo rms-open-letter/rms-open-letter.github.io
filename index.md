@@ -248,6 +248,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Ben Lewis (Former GNU Octave contributor)
 1. Ben Nied
 1. Ben Rosengart
+1. Ben Sandeen
 1. Ben Werdmuller
 1. Bernhard Hayden
 1. Bert Hubert (founder of PowerDNS)
