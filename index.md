@@ -317,6 +317,7 @@ Signed,
 - Liam R. Howlett (kernel developer)
 - Linus Parker
 - Lionirdeadman
+- Liz Fong-Jones (OpenTelemetry governance committee member, linux/aarch64 advocate)
 - Louis Jones
 - Luca Martinelli
 - Lucas Bickel
