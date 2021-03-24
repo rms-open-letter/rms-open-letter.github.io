@@ -438,6 +438,7 @@ Signed,
 - [Open Source Diversity](https://opensourcediversity.org/) Community
 - Orhun Parmaksız (Arch Linux maintainer)
 - Orion Montoya (former rms-assist, former FSF, GPLv3 drafting-process software developer)
+- Otavio Salvador (former FSF associate member, former Debian Installer Release Manager)
 - Parker Higgins
 - Patrick Engelman
 - Paul Adams
