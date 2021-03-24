@@ -428,6 +428,7 @@ Signed,
 1. James 'jspc' Condron
 1. James Kruth
 1. James Renken
+1. James Seconde
 1. James Smith (@floppy)
 1. James Spivey
 1. James Troup
