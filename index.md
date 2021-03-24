@@ -714,6 +714,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. James Seconde
 1. James Smith (@floppy)
 1. James Spivey
+1. James Toto (@jptoto)
 1. James Troup
 1. James Turk (Open States)
 1. James Turnbull (former President of Linux Australia)
