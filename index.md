@@ -47,6 +47,7 @@ Signed,
 - Adam Jackson (X.org, Fedora)
 - Adam Miller (Ansible, Fedora)
 - Adil Sadik
+- Adolfo Jayme Barrientos (Ubuntu, The Document Foundation)
 - Adrian Cochrane
 - Adrienne L. Travis
 - Adrien "PulkoMandy" Destugues
