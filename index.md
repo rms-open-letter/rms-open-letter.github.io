@@ -746,6 +746,7 @@ Signed,
 1. Rami Chowdhury
 1. Randy J. Ray (@rjray)
 1. rany
+1. raichoo (maintainer and contributor for various open source projects)
 1. Raymon Skjørten Hansen
 1. Reed Loden
 1. Rémi Verschelde (Godot Engine, Mageia)
