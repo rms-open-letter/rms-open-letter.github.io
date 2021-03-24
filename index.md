@@ -483,6 +483,7 @@ Signed,
 - Matthias Bussonnier (Project Jupyter co-founder)
 - Matthias Klumpp (Debian, freedesktop.org)
 - Matthias Schiffer (OpenWrt committer)
+- Matthias `smurf` Urlichs (Debian developer)
 - Matthieu Gallien (KDE)
 - Matthilde A. Stella
 - Matt Lee (Libre.fm, former member of the GNU Project)
