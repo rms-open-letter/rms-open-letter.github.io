@@ -1439,6 +1439,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Rojen Zaman
 1. Romain Menke
 1. Rosanna Yuen (GNOME Foundation)
+1. Rose Davidson
 1. Rosellyne Worrall
 1. Ross A. Baker
 1. Rossella Sblendido (OpenStack, OPNFV, LF Networking)
