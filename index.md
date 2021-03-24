@@ -1320,5 +1320,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Zeltzin Rodríguez
 1. Zvi Gilboa
 1. RT Hatfield (@panzertime)
+1. Wulf C. Krueger (Exherbo Linux)
 1. Nic FitzGerald (Co-Founder Sailex)
 1. Ethan Djeric
