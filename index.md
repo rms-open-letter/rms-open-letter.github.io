@@ -256,8 +256,8 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Bert Van de Poel
 1. Be Wilson (Mixxx maintainer)
 1. Bill Budington (EFF Sr. Staff Technologist, LibrePlanet 2021 Presenter, signed in personal capacity)
-1. Billy Messenger (member of the RustyDAW group)
 1. Bill Mulligan
+1. Billy Messenger (member of the RustyDAW group)
 1. Bjoern Michaelsen (former the Document Foundation director, LibreOffice developer)
 1. Björn Fahller
 1. Blair Vidakovich (vidak)
@@ -324,10 +324,10 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Carl George (CentOS Project, Fedora Project)
 1. Carlos Alexandro Becker (`caarlos0`)
 1. Carlos "azra3l" Pineda
+1. Carlos O'Donell (GNU libc maintainer, GNU Assembly member)
 1. Carlos Soriano Sanchez (Former GNOME Foundation director and Nautilus maintainer, GNOME GitLab admin)
 1. Carlos Tadeu Panato Junior
 1. Carl Schwan (KDE)
-1. Carlos O'Donell (GNU libc maintainer, GNU Assembly member)
 1. Carlton Whitehead
 1. Carmen Bianca Bakker (Contributor to FSFE, GNOME, Fedora)
 1. Carolina Brum (FSF member)
@@ -436,9 +436,9 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Dan Arel (owner, ThinkPrivacy.ch)
 1. Dan Bornstein (@danfuzz)
 1. Dan Cross
-1. Daniel 'Dobrado' Oshiro
 1. Dan "Fennix" Sim
 1. Daniel A. Rodriguez (Board of Directors, the Document Foundation)
+1. Daniel 'Dobrado' Oshiro
 1. Daniel Erat
 1. Daniel Estévez (gr-satellites)
 1. Daniele Tricoli (Debian Developer)
@@ -1337,6 +1337,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Patrick Robinson
 1. Patrick Wu (Ubuntu developer)
 1. Patric Mueller (NetHack DevTeam member)
+1. Patryk Nogaś (@PatrykNog)
 1. Paul Adams
 1. Paula de la Hoz Garrido (Interferencias association president and cofounder)
 1. Paul Aguilar (`penserbjorne` from LIDSOL)
@@ -1589,8 +1590,8 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Stephane Graber (LXC, former Ubuntu Technical Board member)
 1. Stephanie Whited
 1. Stephan Lachnit (Debian Maintainer)
-1. Stephen Augustus (Co-founder of the Inclusive Naming Initiative, CNCF SIG Contributor Strategy Chair, KubeCon + CloudNativeCon Chair, Kubernetes SIG Release Chair, Dex maintainer)
 1. Stephen A. Goss
+1. Stephen Augustus (Co-founder of the Inclusive Naming Initiative, CNCF SIG Contributor Strategy Chair, KubeCon + CloudNativeCon Chair, Kubernetes SIG Release Chair, Dex maintainer)
 1. Stephen O'Grady
 1. Step Schwarz
 1. Steve Desmond
@@ -1729,8 +1730,8 @@ identification purposes only and does not constitute endorsement.)</small>
 1. William Denton
 1. William D. Jones (`cr1901`)
 1. William Gathoye (Collabora)
-1. William Light (@wrl)
 1. William Kroes
+1. William Light (@wrl)
 1. William Starkey
 1. William Theaker (Former FSF staff member)
 1. William Waites (Former FSF member)
@@ -1769,5 +1770,4 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Zack Cerza
 1. Zeltzin Rodríguez
 1. Zvi Gilboa
-1. Patryk Nogaś (@PatrykNog)
 <!-- Do not add your name to the bottom, it needs adding in alphabetical order above -->
