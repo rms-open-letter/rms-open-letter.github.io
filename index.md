@@ -945,6 +945,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Julien Wajsberg (Mozilla)
 1. June Taylor
 1. Jürgen Geuter (@tante)
+1. Justin Baugh (@baughj, former FSF staff)
 1. Justin Brock
 1. Justin Dearing (@zippy1981)
 1. Justin Haygood
