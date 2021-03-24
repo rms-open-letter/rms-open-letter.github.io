@@ -907,6 +907,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Louis-Francis Ratté-Boulianne (Collabora)
 1. Louis-Philippe Véronneau (Debian Developer)
 1. Louis Suárez-Potts
+1. Luca Andrea Fusè
 1. Luca Martinelli
 1. Lucas Bickel
 1. Lucas Nussbaum (Former Debian Project Leader)
