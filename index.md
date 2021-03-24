@@ -104,6 +104,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Alan Coopersmith (former member, X.Org Foundation Board of Directors)
 1. Alan Diggs (Schykle)
 1. Alan Pope
+1. Alain Y. Meza H. (Planner App)
 1. Alberto Ruiz (GNOME, Fedora & LibreOffice contributor)
 1. Albert Wong
 1. Alex A. G.
