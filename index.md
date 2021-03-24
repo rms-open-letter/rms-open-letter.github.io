@@ -346,6 +346,7 @@ Signed,
 - Stefan Crain
 - Steve Langasek (former Debian Technical Committee member; Ubuntu Technical Board member)
 - Steve McIntyre (Former Debian Project Leader)
+- Steven Dake (Former {elected OpenStack BOD member|Heat PTL|former Kolla PTL|Corosync lead})
 - Steven DuBois
 - Sydney Schreckengost
 - tanmatsu
