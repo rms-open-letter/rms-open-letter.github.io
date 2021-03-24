@@ -46,7 +46,6 @@ Signed,
 1. Abel Moarrensis (`circuitrcay`)
 1. Abigail Cabunoc Mayes
 1. Adam Barber
-1. Adam Čalovka
 1. Adam H. Leventhal
 1. Adam Jackson (X.org, Fedora)
 1. Adam Miller (Ansible, Fedora)
@@ -753,6 +752,7 @@ Signed,
 1. Randy J. Ray (@rjray)
 1. rany
 1. raichoo (maintainer and contributor for various open source projects)
+1. Rainer Bendig
 1. Raymon Skjørten Hansen
 1. Reed Loden
 1. Rémi Verschelde (Godot Engine, Mageia)
