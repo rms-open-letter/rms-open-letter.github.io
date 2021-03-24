@@ -426,6 +426,7 @@ Signed,
 - Jonas Schwartz
 - Jonathan Kamens (>30yrs maintaining OSS, one-time FSF contributor)
 - Jonathan McDowell
+- Jonathan Moerman
 - Jordan Petridis (GNOME)
 - Jordan Uggla
 - Jordi Gutiérrez Hermoso (GNU Octave maintainer (inactive))
