@@ -218,6 +218,7 @@ Signed,
 - David Glick (Plone contributor)
 - David (gnuconsulting) Bishop
 - David Grynnerup Pedersen
+- David JM Emmett
 - David Jones (former FSF associate member)
 - David Reid
 - David Revoy (Pepper&Carrot)
