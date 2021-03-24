@@ -128,6 +128,7 @@ Signed,
 - Carl Schwan (KDE)
 - Carol Willing
 - Casper Sørensen
+- Cassidy James Blaede (elementary co-founder, GNOME Foundation member)
 - Chris Burgess
 - Chris DiBona (Google LLC.)
 - Chris Garaffa (Tech for the People)
