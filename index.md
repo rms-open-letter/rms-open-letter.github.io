@@ -753,6 +753,7 @@ Signed,
 1. Reuben Morais
 1. Rhonda D'Vine (Debian Developer)
 1. Richard Guy Briggs (FreeS/WAN kernel, OCLUG founding board, kaudit)
+1. Richard Brown (Former openSUSE Chairman)
 1. Richard Maw
 1. Richard Mehlinger
 1. Richard "RichiH" Hartmann (Debian Developer; ex: freenode & OFTC; FOSDEM, CCC, DebConf); see commit message
