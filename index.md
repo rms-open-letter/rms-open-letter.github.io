@@ -112,6 +112,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Amye Scavarda Perrin
 1. Amy Null "`queer`"
 1. Amy Russell
+1. Amy Rust
 1. Amy Troschinetz
 1. Ana Guerrero López
 1. Andrea Denisse Gómez-Martínez (Arch Linux, i3blocks maintainer)
@@ -237,8 +238,8 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Caglar Koksal, Phd
 1. Caio Raposo
 1. Calub Veim (CollabVM)
-1. Calvin W. Metcalf
 1. Calvin Spealman (@ironfroggy, Red Hat Inc.)
+1. Calvin W. Metcalf
 1. Cameron Cash (PizzaLovingNerd)
 1. Cameron Durham
 1. Cameron Tauxe
@@ -249,8 +250,9 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Carl Schwan (KDE)
 1. Carlton Whitehead
 1. Carmen Bianca Bakker (Contributor to FSFE, GNOME, Fedora)
-1. Carol Willing
 1. Carolina Brum (FSF member)
+1. Carol Willing
+1. Carsten Duch
 1. Caryn Holt (MidnightBSD)
 1. Casper Sørensen
 1. Cassidy James Blaede (elementary co-founder, GNOME Foundation member)
@@ -261,6 +263,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Charles Burton
 1. Charlie Kravetz
 1. Charlotte Masterson (Hardware and R&D manager at Fivnex)
+1. Chen Chang
 1. Chinese Developers 🇨🇳 中国开发者（Diemcoin.Network)
 1. Chris Adams (@acdha)
 1. Chris Burgess
@@ -360,7 +363,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. David JM Emmett
 1. David Jones (former FSF associate member)
 1. David Jones (kerning consultant)
-1. David M. Douglas
 1. David Maher
 1. David Malcolm (GCC contributor)
 1. David M. Douglas
@@ -431,6 +433,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Enrico Zini (Debian Developer)
 1. Enum Cohrs
 1. Eric Hodel
+1. Erick Perez Castellanos
 1. Eric Shamow
 1. Eric "Sheppy" Shepherd
 1. Eric Unangst
@@ -571,6 +574,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Jan Christian Grünhage (Matrix, Famedly GmbH)
 1. Jane Manchun Wong
 1. Jani "zment" Kärkkäinen
+1. Jan Krasoczko
 1. Jan Lehnardt (Apache CouchDB PMC Chair)
 1. jan Lentan (a.k.a. "/dev/urandom")
 1. Jannis Leidel (aka "jezdez", Fellow and Director, Python Software Foundation; former Director, Django Software Foundation; Django project alumnus; Software Engineer, Mozilla; founder, PyPA; founder, Jazzband)
@@ -610,6 +614,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Jesse Li
 1. Jesse Raleigh (Sr Security Researcher)
 1. Jesser Lemus
+1. Jess Mysers
 1. Jesús Castro
 1. Jez Cope
 1. Jill Pelavin
@@ -702,17 +707,17 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Kathryn Spiers
 1. Katie Chan
 1. Katie McLaughlin (Python Software Foundation, former Linux Australia council)
+1. Katrina Riehl (NumFOCUS Board Member)
 1. Kavi Laud
 1. Kayla Anne Cupples
 1. Kees Cook (Linux kernel maintainer & Technical Advisory Board member, Debian Developer, Ubuntu core developer, former Ubuntu Technical Board member)
 1. Keith Gable (The Museum of Art and Digital Entertainment; contributor: DreamPi, Ruby on Rails, Ember.js; core author of ignitionServer, now defunct)
 1. Kellegram
-1. Ken Guest (PEAR, Phing)
 1. Kelly Hopkins (former FSF staffer)
-1. Ken Irwin
 1. Kemal Akkoyun
 1. Kendra Albert
 1. Ken Guest (PEAR, Phing)
+1. Ken Irwin
 1. Kenny Huynh
 1. Kevin Gimbel
 1. Kevin Lannen
@@ -804,6 +809,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Mandy Henk
 1. Mano Marks
 1. Manuel Genovés (GNOME)
+1. Marcantonio Rendino
 1. Marcelo Teider Lopes
 1. Marek Kubica
 1. Margarita Manterola (Debian Developer, member of the Debian Technical Committee)
@@ -892,6 +898,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Mike Hawk
 1. Mike Linksvayer
 1. Mikel Johnson
+1. Mike Olson (Postgres, Berkeley DB, Cloudera)
 1. Milan Pässler (Chaos Computer Club, NixOS contributor)
 1. Milo Casagrande
 1. Ming-ting Yao Wei (Debian Developer, former LXTerminal developer)
@@ -937,8 +944,8 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Nicolas Dandrimont (Debian Developer, former FSF associate member)
 1. Nicolas Fella (KDE)
 1. Nicolas Fleurot
-1. Nicolás `nomeacuerdo` Arteaga
 1. Nicolas Machado
+1. Nicolás `nomeacuerdo` Arteaga
 1. Nicolas Schier (Debian maintainer)
 1. Nicole Martinez
 1. Niels Grewe (GNUstep contributor)
@@ -948,8 +955,8 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Nils Adermann
 1. Nils Philippsen (Fedora Project contributor)
 1. Nirbheek Chauhan (GStreamer, GNOME, Mesonbuild; former Gentoo developer)
-1. Nishkarsh Raj
 1. Nisha Kumar
+1. Nishkarsh Raj
 1. Nixon Enraght-Moony
 1. Noah/`coolreader18` (RustPython maintainer)
 1. Noel Cower
@@ -977,6 +984,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Pat Allan
 1. Pat Hickey
 1. Patrick Engelman
+1. Patrick Geahan
 1. Patrick Meyer (`HerrSpace`)
 1. Patrick Robinson
 1. Patric Mueller (NetHack DevTeam member)
@@ -1132,6 +1140,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. SeongHyun Lee (Kevin Lee / 케빈 리)
 1. Seth Marinello (former CPLUG Officer)
 1. Seth McCombs
+1. Seth Peasley
 1. Shadi Alostaz
 1. Shane Coughlan
 1. Shane Fagan
@@ -1250,6 +1259,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Vincent Wong
 1. Vipul Gupta
 1. Vipul Siddharth (Fedora Project Contributor)
+1. Vitor "Krammer" Cardoso
 1. Vivia Nikolaidou (GStreamer)
 1. Vojtěch Vengrin (Gnome translator)
 1. Wayne M. Thornton, B.S., CPDT (Co-Founder & Project Manager VIRATRACE)
@@ -1295,15 +1305,3 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Zack Cerza
 1. Zeltzin Rodríguez
 1. Zvi Gilboa
-1. Katrina Riehl (NumFOCUS Board Member)
-1. Vitor "Krammer" Cardoso
-1. Erick Perez Castellanos
-1. Carsten Duch
-1. Patrick Geahan
-1. Amy Rust
-1. Jan Krasoczko
-1. Seth Peasley
-1. Mike Olson (Postgres, Berkeley DB, Cloudera)
-1. Jess Mysers
-1. Marcantonio Rendino
-1. Chen Chang
