@@ -320,6 +320,7 @@ Signed,
 - Idan Gazit (Django project alumnus)
 - Ignacio Torres Masdeu
 - Ilya Kreymer
+- intrigeri (Debian Developer, Tails Developer)
 - Irina Rempt
 - Isabela Bagueros
 - Italo Vignoli (OSI Director, LibreItalia Honorary President)
