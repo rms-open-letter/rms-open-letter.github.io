@@ -908,6 +908,7 @@ Signed,
 1. Tamreen Khan
 1. tanmatsu
 1. Tanner Filip
+1. Tanvi Bhakta (Former EC member of Free Software Movement Karnataka, India)
 1. Taowa (Debian Developer, former LP keynote panelist)
 1. Thaddée Tyl
 1. TheEvilSkeleton
