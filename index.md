@@ -427,6 +427,7 @@ Signed,
 - Jeremy Cline (Fedora Project)
 - Jeremy Soller (System76 Principal Engineer, Pop!\_OS Maintainer, Redox OS BDFL)
 - Jerome Charaoui (Debian Developer, former FSF member)
+- Jérôme Petazzoni
 - Jesse Clark
 - Jesse Cooke
 - Jesse Li
