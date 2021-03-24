@@ -1161,6 +1161,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Rayan Das (@raydeeam)
 1. Raymon Skjørten Hansen
 1. Reed Loden
+1. Reese "xsychoreese" Todd
 1. Rémi Lauzier
 1. Rémi Verschelde (Godot Engine, Mageia)
 1. Rémy Grünblatt
