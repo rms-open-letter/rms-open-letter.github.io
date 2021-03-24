@@ -1431,6 +1431,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Robin Bowes
 1. Robin Ward (Discourse Co-Founder)
 1. Robin Widegren
+1. Rob Knight (CTO, Enterprise Cloud Products @ SUSE)
 1. Rob Smith (SeaGL Co-Founder)
 1. Rob Vincent
 1. Robyn Speer (ConceptNet)
