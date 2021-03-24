@@ -309,6 +309,7 @@ Signed,
 1. Dustin Mitchell (Engineer, Mozilla)
 1. Dylan Graham (Kubernetes)
 1. Dylan Hardison (@dylan_hardison, Bugzilla Project)
+1. Ed Summers
 1. Eddie Kay
 1. Edel Grace
 1. Ed Marshall
