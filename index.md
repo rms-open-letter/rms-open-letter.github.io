@@ -1533,6 +1533,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Vivia Nikolaidou (GStreamer)
 1. Vojtěch Vengrin (Gnome translator)
 1. Volkan Yazıcı (Apache Logging Services PMC)
+1. Vyivel
 1. Ward Vandewege (Former FSF staff and FSF member)
 1. Wayne M. Thornton, B.S., CPDT (Co-Founder & Project Manager VIRATRACE)
 1. Wendy Bolm (Chief Operations Officer, CommitChange)
