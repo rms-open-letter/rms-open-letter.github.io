@@ -348,6 +348,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Donnie Barnes (former Red Hat employee #2)
 1. Dorothea Salo
 1. Dr Neil Smith
+1. Drew Winstel (@drewbrew on GitHub, DjangoCon US 2019 Organizer, Python Software Foundation individual member)
 1. Dustin Mitchell (Engineer, Mozilla)
 1. Dylan Graham (Kubernetes)
 1. Dylan Hardison (@dylan_hardison, Bugzilla Project)
