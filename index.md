@@ -593,6 +593,7 @@ Signed,
 1. Lionirdeadman
 1. Liza Ainalen Dosso
 1. Liz Fong-Jones (OpenTelemetry governance committee member, linux/aarch64 advocate)
+1. Liz Rice (TOC chair, CNCF; OpenUK ambassador)
 1. Lorenzo Gomez
 1. Louis Jones
 1. Louis-Philippe Véronneau (Debian Developer)
