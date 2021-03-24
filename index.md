@@ -1121,6 +1121,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Yaroslav Kargapolov
 1. Yegor Timoshenko (NixOS contributor)
 1. Yorik van Havre
+1. Young Hun Kim
 1. Youngbin Han (Ubuntu Korea Community)
 1. Yuvi Panda (Project Jupyter)
 1. Yvan Sraka
