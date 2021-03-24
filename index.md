@@ -554,6 +554,7 @@ Signed,
 - Luna Duclos
 - Lupe Canaviri
 - Lyre Calliope
+- Maarten Beeckmans
 - Mackenzie 'maco' Morgan (former Ubuntu Developer Membership Board member)
 - Maddison Hellstrom
 - Madhulika Chambers (NumPy contributor)
