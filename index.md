@@ -635,6 +635,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Fanael Linithien
 1. Farkhad Akmuratov
 1. Faye Duxovni
+1. Federico Hernandez (@recollir) (taskwarrior alumni)
 1. Federico Mena Quintero (GNOME)
 1. Federico Pontillo
 1. Felipe Borges (GNOME Foundation Board member)
