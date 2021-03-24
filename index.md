@@ -976,7 +976,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Saptak S
 1. Sarah Connor
 1. Sarah Voegeli
-1. Sarina Canelake
 1. Sasha Weiss
 1. Sasi Olin (openSUSE Member, former openSUSE Board member)
 1. Satvik Sharma
@@ -1008,6 +1007,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Simeon Smith
 1. Simon Bowie
 1. Simonetta Batteiger
+1. Simon Menke (`fd`)
 1. Simon Phipps (Former OSI President)
 1. Simon Richter
 1. Simon Wistow
