@@ -667,6 +667,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Jack Firth
 1. Jack 'jrabbit' Laxson
 1. Jack Leadford
+1. Jacob Dreesen
 1. Jacob H. Haven
 1. Jacob Kaplan-Moss (Django co-creator; Founder, Django Software Foundation)
 1. Jacob Perkins
