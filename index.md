@@ -641,6 +641,7 @@ Signed,
 1. Markos Fragkakis
 1. Markus Unterwaditzer
 1. Marte Træen
+1. Martin Guillon
 1. Martin Kühl
 1. Martin Robinson (Igalia)
 1. Martin Splitt
