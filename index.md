@@ -220,6 +220,7 @@ Signed,
 - Geoffrey Thomas
 - George Chriss
 - Gerard Ryan
+- Gerardo Torres
 - Göktuğ Kayaalp
 - Gordon Haff (OSI Member)
 - Graham Christensen (NixOS contributor)
