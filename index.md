@@ -415,6 +415,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Edel Grace
 1. Ed Marshall
 1. Ed Summers
+1. Eddie Kay
 1. Eduardo Habkost
 1. Edward L. Platt (i3 Detroit cofounder, NetworkX contributor)
 1. Ee Durbin (PyPI Administrator)
@@ -1324,5 +1325,5 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Zack Cerza
 1. Zeltzin Rodríguez
 1. Zvi Gilboa
-2. Eddie Kay
-3.
+<!-- Do not add your name to the bottom, it needs adding in alphabetical order above -->
+
