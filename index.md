@@ -370,6 +370,7 @@ Signed,
 - Johannes Löthberg (Arch Linux Developer)
 - John D. Martin III
 - John Hess
+- John Krug (jhkrug)
 - John SJ Anderson
 - John "Warthog9" Hawley
 - John Wiseman
