@@ -406,6 +406,7 @@ Signed,
 - Paul Cutler (former GNOME Foundation)
 - Paul Fisher (Former FSF employee and union representative)
 - Paul Woolcock
+- Paul Wouters (Libreswan, Fedora developer)
 - Peter Hunt
 - Peter Jones (Fedora developer)
 - Peter Van Eynde
