@@ -209,6 +209,7 @@ Signed,
 1. Christian `shibumi` Rebischke (Arch Linux)
 1. Christina Dunbar-Hester (Author of *Hacking Diversity*)
 1. Christine Hall (former OSI Board member)
+1. Christof Haerens
 1. Christophe Noisel
 1. Christopher Allan Perry
 1. Christopher Davis (GNOME)
