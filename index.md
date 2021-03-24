@@ -123,6 +123,7 @@ Signed,
 - Chris DiBona (Google LLC.)
 - Chris Garaffa (Tech for the People)
 - Chris Hoge
+- Chris Johnson
 - Chris Rose
 - Chris Talib (Source! - a radio show on FLOSS, Le Reset - queer hackerspace)
 - Christian Glombek (Fedora Project contributor)
