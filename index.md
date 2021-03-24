@@ -924,6 +924,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Lucas Holt
 1. Lucas Nussbaum (Former Debian Project Leader)
 1. Lucas Werkmeister
+1. Lucy Wyman
 1. Ludovic Gasc
 1. Ludvig Norgren Guldhag
 1. Luis Antonio Sánchez Romero
