@@ -422,7 +422,7 @@ Signed,
 1. James 'jspc' Condron
 1. James Kruth
 1. James Renken
-1. James Smith
+1. James Smith (@floppy)
 1. James Spivey
 1. James Troup
 1. James Turnbull (former President of Linux Australia)
