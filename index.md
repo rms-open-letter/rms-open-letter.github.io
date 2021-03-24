@@ -778,6 +778,7 @@ Signed,
 1. Ross A. Baker
 1. Rossella Sblendido (OpenStack, OPNFV, LF Networking)
 1. Ruben Schade
+1. Ruben Pollan (meskio)
 1. Russ Allbery (Debian Developer, FSF associate member since 2003)
 1. Russell Keith-Magee (@freakboy3742; former President, Django Software Foundation; Founder, BeeWare Project)
 1. Ryan Clark
