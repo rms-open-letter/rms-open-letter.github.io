@@ -1071,6 +1071,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Leah Lundqvist (leahlundqvist, V maintainer)
 1. Leandro A. F. Pereira
 1. Lee Hambley (Capistrano maintainer, former FSFE member)
+1. Lee-Roy King
 1. Leif Walsh
 1. Leigh Scott (leigh123linux, Fedora)
 1. leo60228
