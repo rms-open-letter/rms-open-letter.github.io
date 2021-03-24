@@ -565,6 +565,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Graham Christensen (NixOS contributor)
 1. Graham Sutherland
 1. Grant Seltzer Richman
+1. Greg Day
 1. Greg Grossmeier
 1. Guilhem Moulin (Debian Developer)
 1. Guillaume Desmottes (Collabora, GStreamer developer)
