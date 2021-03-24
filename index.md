@@ -375,6 +375,7 @@ Signed,
 1. Greg Grossmeier
 1. Guilhem Moulin (Debian Developer)
 1. Guillaume Gay
+1. Gunnar Monell
 1. Gunnar Wolf (Debian Developer, member of the Debian Technical Committee)
 1. Gustaf Lindstedt
 1. Gustavo Costa (Fedora Project contributor)
