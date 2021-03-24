@@ -434,6 +434,7 @@ Signed,
 - Leandro A. F. Pereira
 - Liam R. Howlett (kernel developer)
 - Linus Parker
+- Lioncache
 - Lionirdeadman
 - Liza Ainalen Dosso
 - Liz Fong-Jones (OpenTelemetry governance committee member, linux/aarch64 advocate)
