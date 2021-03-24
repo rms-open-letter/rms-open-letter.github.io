@@ -490,6 +490,7 @@ Signed,
 - Mauro Lizaur (Former Debian Developer)
 - Maxime Renusson (Telecom engineer, FLOSS user and advocate)
 - Meadhbh Hamrick
+- Melissa Draper
 - Micah Anderson
 - Micah E Scott
 - Michael Bikovitsky
