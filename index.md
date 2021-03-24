@@ -504,6 +504,7 @@ Signed,
 - Michael Schechter
 - Mike Linksvayer
 - Mikel Johnson
+- Mirko Boehm (KDE)
 - Mitchell Baker, on behalf of Mozilla.
 - M. Oliver Ghingold
 - Monica Ayhens-Madon
