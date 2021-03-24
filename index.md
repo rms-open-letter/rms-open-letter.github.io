@@ -228,6 +228,7 @@ Signed,
 - Jesse Raleigh (Sr Security Researcher)
 - Jesser Lemus
 - Jill Rouleau (Ansible Maintainer / Steering Commitee member)
+- João "Johnny" Ciocca (DCG5511)
 - Joe Harley
 - Joel Bethke (OBS Project)
 - John D. Martin III
