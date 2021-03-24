@@ -61,6 +61,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Aadil Ayub
 1. Aaron Carson
 1. Aaron Crickenberger (Kubernetes Steering Committee Emeritus, SIG Testing Chair)
+1. Aaron D Borden (former GNOME developer)
 1. Aaron Honeycutt
 1. Aaron Jones
 1. Aaron M. Ucko (@ucko, Debian Developer)
