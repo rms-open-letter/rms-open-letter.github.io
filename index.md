@@ -486,6 +486,7 @@ Signed,
 1. Jason Barbier
 1. Jason C. McDonald (a.k.a. CodeMouse92) (MousePaw Media)
 1. Jason Crain (GNOME)
+1. Jason Robinson
 1. Jayme Howard
 1. Jean-Paul Argudo (CEO at Dalibo, @jpargudo)
 1. Jean-Philippe DUFRAIGNE
