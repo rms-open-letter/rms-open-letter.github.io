@@ -314,6 +314,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Calub Veim (CollabVM)
 1. Calvin Spealman (@ironfroggy, Red Hat Inc.)
 1. Calvin W. Metcalf
+1. Camden Mecklem
 1. Cameron Cash (PizzaLovingNerd)
 1. Cameron Durham
 1. Cameron Tauxe
