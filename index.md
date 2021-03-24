@@ -426,6 +426,7 @@ Signed,
 - Kumar Anirudha
 - Kunal Mehta (MediaWiki, Debian Developer, FSF associate member)
 - Kyle Mitchell
+- Kyle Robbertze (Debian Developer)
 - Lachlan Campbell
 - Langlais Raphael
 - Lars Wirzenius
