@@ -55,6 +55,7 @@ Signed,
 - Alan Pope
 - Alexandre Dulaunoy (former FSF associate member #53)
 - Alex Arslan (Julia contributor, former Julia community manager)
+- Alex Callejas
 - Alex Desmond
 - Alex Engelberg
 - Alexis Danz
