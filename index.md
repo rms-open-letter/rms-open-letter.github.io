@@ -623,6 +623,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Keith Gable (The Museum of Art and Digital Entertainment; contributor: DreamPi, Ruby on Rails, Ember.js; core author of ignitionServer, now defunct)
 1. Kellegram
 1. Ken Guest (PEAR, Phing)
+1. Kemal Akkoyun
 1. Kenny Huynh
 1. Kevin Gimbel
 1. Kevin Lannen
