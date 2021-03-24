@@ -254,6 +254,7 @@ Signed,
 1. Dan Winship
 1. Dave Camp (Mozilla, Former GNOME Foundation)
 1. David Cantrell (Fedora developer)
+1. David Demelier
 1. David Gilman
 1. David Glick (Plone contributor)
 1. David (gnuconsulting) Bishop
