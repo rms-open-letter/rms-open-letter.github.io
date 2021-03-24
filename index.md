@@ -943,6 +943,7 @@ Signed,
 1. Ryan Lahfa
 1. Ryan Schmidt
 1. Ryu "SaidBySolo" JuHeon
+1. Sadie Powell (InspIRCd)
 1. Sajid Ali
 1. Sam Bailey
 1. Sambhav Saggi
