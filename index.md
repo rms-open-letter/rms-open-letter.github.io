@@ -1310,6 +1310,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Rob Vincent
 1. Robyn Speer (ConceptNet)
 1. Roger Light
+1. Roger Robertson (strangrjrjr)
 1. Rojen Zaman
 1. Romain Menke
 1. Rosanna Yuen (GNOME Foundation)
