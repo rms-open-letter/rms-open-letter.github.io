@@ -866,6 +866,7 @@ Signed,
 - Trolli Schmittlauch
 - Tuna Ilgaz
 - Ujjwal Sharma (Node.js Core Collaborator, TC39, Igalia)
+- Vangelis Katsikaros
 - Victor Hugo Soliz Kuncar
 - Victoria "tdfischer" Fierce (Former KDE Multimedia and Phonon-GStreamer maintainer)
 - Viktoriia Leontieva (Product Designer at GitHub)
