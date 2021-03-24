@@ -916,6 +916,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Mandy Henk
 1. Mano Marks
 1. Manuel Genovés (GNOME)
+1. Manuel González
 1. Marcantonio Rendino
 1. Marcelo Teider Lopes
 1. Marcus Weiner
