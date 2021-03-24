@@ -1087,6 +1087,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Robin Widegren
 1. Rob Smith (SeaGL Co-Founder)
 1. Rob Vincent
+1. Robin Ward (Discourse Co-Founder)
 1. Robyn Speer (ConceptNet)
 1. Roger Light
 1. Rojen Zaman
