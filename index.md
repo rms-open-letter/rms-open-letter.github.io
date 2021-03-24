@@ -46,6 +46,7 @@ Signed,
 1. Open Source Diversity
 1. Tor Project
 1. X.org Foundation
+1. CommitChange Corporation
 
 ### Individuals
 
@@ -96,7 +97,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Alexandre Dulaunoy (former FSF associate member #53)
 1. Alex A. G.
 1. Alex Arslan (Julia contributor, former Julia community manager)
-1. Alex Brown
 1. Alex Callejas
 1. Alex Desmond
 1. Alex Engelberg
@@ -128,7 +128,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Ana Rute Mendes (Collabora)
 1. André Almeida (Collabora)
 1. Andrea Denisse Gómez-Martínez (Arch Linux, i3blocks maintainer)
-1. Andreas M. Antonopoulos (Author of three O'Reilly Media CC-BY-SA licensed books)
 1. Andreas Happe
 1. Andrea Wieland
 1. Andrei Jiroh Eugenio Halili (Founder of @MadeByThePinsHub)
@@ -198,7 +197,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Ben Hutchings (Debian Developer)
 1. Benjamin De Kosnik
 1. Benjamin Elder (Kubernetes SIG Testing Chair)
-1. Benjamin Flesch
 1. Benjamin Kampmann
 1. Benjamin Ragan-Kelley (Project Jupyter)
 1. Benjamin Torell (OBS Project)
@@ -814,7 +812,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Khosrow Moossavi
 1. Kimball Johnson (Former Chair FLOSS UK aka UKUUG)
 1. Kiran Jonnalagadda
-1. Kirstie Whitaker (Programme Lead for Tools, Practices and Systems, The Alan Turing Institute; Core contributor to The Turing Way project.)
+1. Kirstie Whitaker (Programme Lead for Tools, Practices and Systems, The Alan Turing Institute; Core contributor to The Turing Way project.) 
 1. kpcyrd (Arch Linux, Debian, Reproducible Builds)
 1. Kris Buytaert
 1. Kristi Progri
@@ -962,7 +960,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Meadhbh Hamrick
 1. Mehdi Dogguy (Former Debian Project Leader)
 1. Melissa Draper
-1. Merlijn Sebrechts (`galgalesh`)
 1. Mélissa Richard
 1. Micah Anderson
 1. Micah E Scott
