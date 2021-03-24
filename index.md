@@ -232,6 +232,7 @@ Signed,
 1. Courtney Thurston (former Spark distro dev)
 1. Craig Maloney
 1. Cyril Brulebois (Debian Developer)
+1. Dag Ågren
 1. Dakota "Kai" Lyons (owner, Fivnex.co)
 1. Dale Hirt
 1. Dan Arel (owner, ThinkPrivacy.ch)
