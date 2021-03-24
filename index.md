@@ -334,6 +334,7 @@ Signed,
 - James Renken
 - James Spivey
 - James Troup
+- James Turnbull (former President of Linux Australia)
 - James Weare
 - Jane Manchun Wong
 - Jani "zment" Kärkkäinen
