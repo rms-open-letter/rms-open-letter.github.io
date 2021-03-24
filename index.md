@@ -1722,6 +1722,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Vipul Gupta
 1. Vipul Siddharth (Fedora Project Contributor)
 1. Vitor "Krammer" Cardoso
+1. Vittorio Roberto Alfieri (`@rebtoor`, FSFE supporter, EFF member)
 1. Vivek Das Mohapatra (Collabora)
 1. Vivia Nikolaidou (GStreamer)
 1. Vivian Lim (Microsoft)
