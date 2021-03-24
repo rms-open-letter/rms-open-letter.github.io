@@ -1326,6 +1326,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Travis Hardiman
 1. tre murillo
 1. Trevor Keller / @tkphd, enby computational scientist at NIST (National Institute of Standards and Technology)
+1. Trevor Manz
 1. Trevor Thalacker
 1. Trinity Pointard
 1. Tristan Rain Hamer
