@@ -1282,6 +1282,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Ricardo Salveti
 1. Richard Brown (Former openSUSE Chairman)
 1. Richard Guy Briggs (FreeS/WAN kernel, OCLUG founding board, kaudit)
+1. Richard Lowe
 1. Richard Maw
 1. Richard Mehlinger
 1. Richard Pospesel (pospeselr, Tor Project)
