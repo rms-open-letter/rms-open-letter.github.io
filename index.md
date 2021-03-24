@@ -740,6 +740,7 @@ Signed,
 - Robert Berg
 - Robert Joslyn
 - Robert Lipe (GPSBabel creator, contributor to open source since 87)
+- Robert Newson (Apache CouchDB PMC, ASF Member)
 - Robey Pointer (paramiko, eggdrop)
 - Robin Widegren
 - Rob Smith (SeaGL Co-Founder)
