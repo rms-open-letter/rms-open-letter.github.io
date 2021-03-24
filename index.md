@@ -96,7 +96,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Alexandre Dulaunoy (former FSF associate member #53)
 1. Alex A. G.
 1. Alex Arslan (Julia contributor, former Julia community manager)
-1. Alex Brown
 1. Alex Callejas
 1. Alex Desmond
 1. Alex Engelberg
@@ -128,7 +127,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Ana Rute Mendes (Collabora)
 1. André Almeida (Collabora)
 1. Andrea Denisse Gómez-Martínez (Arch Linux, i3blocks maintainer)
-1. Andreas M. Antonopoulos (Author of three O'Reilly Media CC-BY-SA licensed books)
 1. Andreas Happe
 1. Andrea Wieland
 1. Andrei Jiroh Eugenio Halili (Founder of @MadeByThePinsHub)
@@ -198,7 +196,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Ben Hutchings (Debian Developer)
 1. Benjamin De Kosnik
 1. Benjamin Elder (Kubernetes SIG Testing Chair)
-1. Benjamin Flesch
 1. Benjamin Kampmann
 1. Benjamin Ragan-Kelley (Project Jupyter)
 1. Benjamin Torell (OBS Project)
@@ -360,7 +357,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Dan Cross
 1. Dan "Fennix" Sim
 1. Daniel A. Rodriguez (Board of Directors, the Document Foundation)
-1. Daniel Erat
 1. Daniel Estévez (gr-satellites)
 1. Daniel Feldroy (previously Daniel Roy Greenfeld)
 1. Daniel Foré (Founder, elementary, Inc.)
@@ -520,7 +516,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Fintan Horan
 1. Florian Neumann
 1. Frances Hocutt
-1. Francis Gulotta (Node SerialPort maintainter, Nodebots founding memeber)
 1. Francois Lesage
 1. Frank S. Thomas
 1. Frederic Branczyk (Kubernetes SIG Instrumentation Tech Lead, Prometheus maintainer, Thanos maintainer)
@@ -599,6 +594,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Honza Král
 1. Horst Gutmann
 1. Hubert Figuière
+1. Hypolite Petovan (Friendica Developer)
 1. Iain Nicol
 1. Ian Hyzy
 1. Ian Jackson (Former Debian Project Leader; former President, Software in the Public Interest; GNU Maintainer)
@@ -815,7 +811,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Khosrow Moossavi
 1. Kimball Johnson (Former Chair FLOSS UK aka UKUUG)
 1. Kiran Jonnalagadda
-1. Kirstie Whitaker (Programme Lead for Tools, Practices and Systems, The Alan Turing Institute; Core contributor to The Turing Way project.)
+1. Kirstie Whitaker (Programme Lead for Tools, Practices and Systems, The Alan Turing Institute; Core contributor to The Turing Way project.) 
 1. kpcyrd (Arch Linux, Debian, Reproducible Builds)
 1. Kris Buytaert
 1. Kristi Progri
@@ -963,7 +959,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Meadhbh Hamrick
 1. Mehdi Dogguy (Former Debian Project Leader)
 1. Melissa Draper
-1. Merlijn Sebrechts (`galgalesh`)
 1. Mélissa Richard
 1. Micah Anderson
 1. Micah E Scott
@@ -978,7 +973,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Michael Juarez
 1. Michael B. Klein
 1. Michael Laird
-1. Michael Lingelbach (Neovim, NixOS contributor)
 1. Michael `lethargilistic` MacTaggert (Programming Discussions server on Discord)
 1. Michael `NCommander` Casadevall (Ubuntu Core Developer, former Debian Developer, former FSF Savannah Administrator)
 1. Michael `ovyerus` Mitchell
@@ -1049,7 +1043,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Nicolás `nomeacuerdo` Arteaga
 1. Nicolas Schier (Debian maintainer)
 1. Nicole Martinez
-1. nicoo (Debian Developer, NixOS and Rust contributor)
 1. Niels Grewe (GNUstep contributor)
 1. Nikhita Raghunath (Kubernetes Steering Committee Member)
 1. Nikita Gillmann (ex-GNUnet developer, former GNU Guix contributor, NetBSD/pkgsrc developer)
