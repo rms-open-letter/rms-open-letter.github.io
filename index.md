@@ -927,6 +927,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Nicolas Fella (KDE)
 1. Nicolas Fleurot
 1. Nicolás `nomeacuerdo` Arteaga
+1. Nicolas Machado
 1. Nicolas Schier (Debian maintainer)
 1. Nicole Martinez
 1. Niels Grewe (GNUstep contributor)
