@@ -268,6 +268,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Caelan
 1. Caglar Koksal, Phd
 1. Caio Raposo
+1. Callum Farmer (openSUSE member & maintainer)
 1. Calub Veim (CollabVM)
 1. Calvin Spealman (@ironfroggy, Red Hat Inc.)
 1. Calvin W. Metcalf
