@@ -933,6 +933,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Roan Kattouw
 1. Robert Barat
 1. Robert Berg
+1. Robert Foss (Linux kernel dev)
 1. Robert Joslyn
 1. Robert Lipe (GPSBabel creator, contributor to open source since 87)
 1. Robert McQueen (President of the GNOME Foundation)
