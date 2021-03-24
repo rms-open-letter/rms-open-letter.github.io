@@ -829,6 +829,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Máirín Duffy (Fedora Project, former FSF HPP committee member, former LP speaker)
 1. Malleck Braun
 1. Malte `m4schini` Schink
+1. Malvika Sharan
 1. Mandy Henk
 1. Mano Marks
 1. Manuel Genovés (GNOME)
