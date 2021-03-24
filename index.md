@@ -401,7 +401,6 @@ Signed,
 1. Geir Magnusson Jr.
 1. Geoffrey Thomas
 1. George Chriss
-1. Georgia Young (former FSF staff)
 1. Georgiana Dolocan
 1. Gerardo Torres
 1. Gerard Ryan
@@ -1097,3 +1096,4 @@ Signed,
 1. Zack Cerza
 1. Zeltzin Rodríguez
 1. Zvi Gilboa
+1. Egor `infdev` Golovin
