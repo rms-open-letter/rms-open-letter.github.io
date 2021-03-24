@@ -1525,6 +1525,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Vincent Milum Jr (@DarkainMX)
 1. Vincent Singer (aka cukmekerb)
 1. Vincent Wong
+1. Vincenzo Palazzo (@vincenzopalazzo)
 1. Vipul Gupta
 1. Vipul Siddharth (Fedora Project Contributor)
 1. Vitor "Krammer" Cardoso
