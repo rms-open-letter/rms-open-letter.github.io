@@ -272,6 +272,7 @@ Signed,
 - Michael Schechter
 - Mike Linksvayer
 - Mikel Johnson
+- Mitchell Baker, on behalf of Mozilla.
 - Morgan-Christopher Brooks
 - Morgan `indrora` Gangwere
 - Morgan Thomas
