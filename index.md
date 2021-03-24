@@ -131,6 +131,7 @@ Signed,
 - Brendan O'Leary
 - Bret Moore
 - Brett Sheffield (Librecast Project)
+- Brian Chen (`betaveros`)
 - Brian Dawn
 - Brian Ketelsen
 - Brian Pepple (Former Fedora Engineering Steering Committee member)
