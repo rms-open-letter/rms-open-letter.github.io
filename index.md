@@ -685,6 +685,7 @@ Signed,
 - Vincent Singer (aka cukmekerb)
 - Vincent Wong
 - Vipul Gupta
+- Vipul Siddharth (Fedora Project Contributor)
 - Vivia Nikolaidou (GStreamer)
 - Wayne M. Thornton, B.S., CPDT (Co-Founder & Project Manager VIRATRACE)
 - Wendy Bolm (Chief Operations Officer, CommitChange)
