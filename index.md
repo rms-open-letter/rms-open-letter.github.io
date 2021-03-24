@@ -98,7 +98,6 @@ Signed,
 - Anis Tarafdar
 - Anna Glasgall
 - Anne Nicolas (Kernel Recipes organizer)
-- Anne van Kesteren (Mozilla, WHATWG)
 - Anthony Maki (@4cm4k1)
 - Anthony Miller
 - Anthony Rabbito
@@ -260,7 +259,6 @@ Signed,
 - David Holmes
 - David JM Emmett
 - David Jones (former FSF associate member)
-- David Jones (kerning consultant)
 - David Planella
 - David Reid
 - David Revoy (Pepper&Carrot)
@@ -327,6 +325,7 @@ Signed,
 - Faye Duxovni
 - Federico Mena Quintero (GNOME)
 - Federico Pontillo
+- Felix 'fleaz' Breidenstein
 - Félix 'felix91gr' Fischer
 - Félix 'passcod' Saparelli
 - Fernando Pérez (recipient of 2012 FSF Award for the Advancement of Free Software, IPython creator, Project Jupyter co-founder and co-director, NumFOCUS co-founder, 2i2c.org co-founder).
@@ -744,7 +743,6 @@ Signed,
 - Richard Guy Briggs (FreeS/WAN kernel, OCLUG founding board, kaudit)
 - Richard Maw
 - Richard Mehlinger
-- Richard "RichiH" Hartmann (Debian Developer; ex: freenode & OFTC; FOSDEM, CCC, DebConf); see commit message
 - Richard Schneeman
 - Rich Felker (musl libc)
 - Richo Healey
@@ -815,7 +813,6 @@ Signed,
 - Shiz (former Alpine Linux developer)
 - Síle Ekaterin Aman (APK Fission, Adélie Linux Core Team)
 - Silje Christiansen
-- Simeon "n0emis" Keske
 - Simeon Smith
 - Simon Phipps (Former OSI President)
 - Simon Richter
