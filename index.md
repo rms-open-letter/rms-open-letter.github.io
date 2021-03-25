@@ -1832,6 +1832,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Simeon "n0emis" Keske
 1. Simeon Smith
 1. Simon Bowie
+1. Simon Cozens
 1. Simonetta Batteiger
 1. Simon McVittie (Collabora, Debian Technical Committee member)
 1. Simon Menke (`fd`)
