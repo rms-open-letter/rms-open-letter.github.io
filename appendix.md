@@ -1,4 +1,6 @@
-RMS has a history of mistreating women and making them feel uncomfortable, unsafe, and unwelcome. For incidents relating to RMS and MIT, please see: <https://selamjie.medium.com/remove-richard-stallman-appendix-a-a7e41e784f88>.
+RMS has a history of mistreating women and making them feel uncomfortable, unsafe, and unwelcome. For incidents relating to RMS and MIT, please see [0].
+
+[0]: https://selamjie.medium.com/remove-richard-stallman-appendix-a-a7e41e784f88
 
 RMS’s views on rape and child sex laws were publicly discussed in the Fall of 2019, when Selam G wrote about them.[1]  Especially chilling is when Stallman addresses the accusations that Marvin Minsky sexually assaulted one of Jeffrey Epstein’s trafficking victims (Virginia Giuffre) by saying “but the most plausible scenario is that she presented herself to him as entirely willing.”[2] RMS decries that this is not “sexual assault” because “‘assaulting’ presumes that he applied force or violence” while the report being discussed “says no such thing. Only that they had sex.”[3] Rather than discussing this further, let’s instead focus on his personal web site, where he also shares his views on minors being "entirely willing."[4] (Note: While several news reports misrepresented Stallman's position while discussing allegations against Minsky, Stallman has previously expressed opinions that were consistent with the inaccurate portrayal.)
 
