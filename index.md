@@ -1120,6 +1120,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Josh Simmons (President of the Open Source Initiative)
 1. Josh Triplett
 1. Joshua Ashton
+1. Joshua Brindle
 1. Joshua Jun
 1. Joshua Peisach (Debian, Ubuntu, GNOME/Cinnamon Desktop)
 1. Joshua Strobl (Solus Experience Lead, Budgie Desktop Lead)
