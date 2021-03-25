@@ -99,6 +99,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Abigail Brady (former GNOME developer)
 1. Abigail Cabunoc Mayes
 1. Achraf Belkahla (@bkmd100)
+1. Ada Worcester (`pikhq`; former Sabotage Linux developer)
 1. Adam A. (Developer, Innatical)
 1. Adam Barber
 1. Adam Čalovka
