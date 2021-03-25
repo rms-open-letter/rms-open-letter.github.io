@@ -4,3 +4,5 @@ languages:
     code: "fr"
   - name: "Spanish"
     code: "es"
+  - name: "Turkish"
+    code: "tr"
