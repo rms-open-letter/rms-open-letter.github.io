@@ -698,6 +698,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Evan Prodromou
 1. Evan Sklarski
 1. Evelin Heidel
+1. Evgeni Golov (Debian Developer)
 1. Evpok Padding
 1. Ewen McNeill
 1. Ezekiel Hendrickson
