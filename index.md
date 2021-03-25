@@ -315,6 +315,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Benjamin Elder (Kubernetes SIG Testing Chair)
 1. Benjamin Flesch
 1. Benjamin Kampmann
+1. Benjamin "bizzl" Kleiner
 1. Benjamin Ragan-Kelley (Project Jupyter)
 1. Benjamin Torell (OBS Project)
 1. Benji Mauer (ActBlue Technical Services)
@@ -662,6 +663,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Dewey Dunnington (R package developer)
 1. Devin Buhl
 1. Devin Halladay
+1. Dhaval Giani (Linux Kernel)
 1. Diana Thayer
 1. Didier 'OdyX' Raboud (Debian Developer, former Debian Technical Committee chair)
 1. Diego Pino (Archipelago Repository Project, Tech Lead)
@@ -1166,6 +1168,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Jonas Anderö
 1. Jonas Meurer (Debian)
 1. Jonas Obrist (PyCon JP Association Board Member)
+1. Jonas Schievink
 1. Jonas Schwartz
 1. Jonas Verhofsté
 1. Jonatas Baldin
@@ -1223,6 +1226,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Jugal Kishore
 1. Jules Penuchot (Paris-Saclay University)
 1. Julia Buchner (aka @PetiPandaRou)
+1. Julia Ferraioli (Google, LLC)
 1. Julia Luna
 1. Julian Andres Klode
 1. Julian Bouzas (Collabora)
@@ -1583,6 +1587,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Mike Linksvayer
 1. Mikel Johnson
 1. Mike Olson (Postgres, Berkeley DB, Cloudera)
+1. Mike Patterson
 1. Mike Wyatt
 1. Mikhail Popov (Wikimedia Foundation)
 1. Milan Pässler (Chaos Computer Club, NixOS contributor)
@@ -1641,6 +1646,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Nick Richards
 1. Nick Ruest
 1. Nick Sieger
+1. Nick Wanninger (@nickwanninger)
 1. Niclas Zeising (FreeBSD committer)
 1. Nicolai von Neudeck
 1. Nicolás Alvarez (KDE)
@@ -1846,12 +1852,14 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Rigin Oommen
 1. Riley V. (@hopolapola)
 1. Rima Sghaier (GlobaLeaks Outreach Director)
+1. Rin K. (ry00001)
 1. Roan Kattouw
 1. Robbie Harwood (Fedora developer)
 1. Robert Barat
 1. Robert Berg
 1. Robert C Jennings (Ubuntu member, kernel dev)
 1. Robert Foss (Linux kernel dev)
+1. Robert Fridzema
 1. Robert J. Hansen (formerly of GnuPG)
 1. Robert Joslyn
 1. Robert L Davidson (data scientist, open data activist, co-founder of Scientists for EU)
