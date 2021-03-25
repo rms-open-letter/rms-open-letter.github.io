@@ -12,6 +12,6 @@ Wij dringen er bij degenen die daartoe in staat zijn met klem op de Free Softwar
 
 [Wij hebben verschillende openbare incidenten van het gedrag van RMS uiteengezet][1]. Sommigen van ons hebben onze eigen verhalen over RMS en onze interacties met hem, dingen die niet zijn vastgelegd in e-mailthreads of op video. We hopen dat u zult lezen wat er is gedeeld en zult nadenken over de schade die hij heeft toegebracht aan onze gemeenschap en anderen.
 
-[1]: https://rms-open-letter.github.io/appendix
+[1]: https://rms-open-letter.github.io/appendix.nl
 
 Om te tekenen, stuur een e-mail naar digitalautonomy op riseup.net of [open een pull request](https://github.com/rms-open-letter/rms-open-letter.github.io/pulls).
