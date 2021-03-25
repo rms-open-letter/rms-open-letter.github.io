@@ -101,6 +101,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Aaron Jacobs
 1. Aaron Jones
 1. Aaron M. Ucko (@ucko, Debian Developer)
+1. Aaron Niskode-Dossett (Apache Storm PMC, emeritus)
 1. Aaron Wasserman
 1. Abel Moarrensis (`circuitrcay`)
 1. Abhishek Veeramalla
