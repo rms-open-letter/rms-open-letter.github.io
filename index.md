@@ -111,6 +111,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Alberto Ruiz (GNOME, Fedora & LibreOffice contributor)
 1. Albert Wong
 1. Alejandro AR (`kinduff`)
+1. Alejandro R. Urzúa (INAOE MX, @rurz at Github)
 1. Alex A. G.
 1. Alexander Herzig (Release Manager SUSE Linux Enterprise)
 1. Alexander Jacocks (Red Hat)
