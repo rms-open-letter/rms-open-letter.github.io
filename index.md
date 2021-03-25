@@ -400,6 +400,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Britta Gustafson
 1. Britt Gresham (`demophoon`)
 1. Britt Yazel (Former GNOME Foundation Director)
+1. Brunno dos Santos (`@squiter`)
 1. Bruno de Paula Kinoshita
 1. Bruno Girin
 1. Bryan Bishop
