@@ -545,6 +545,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Christophe Moille
 1. Christophe Noisel
 1. Christopher Allan Perry
+1. Christopher Biggs (@unixbigot)
 1. Christopher Branston
 1. Christopher Davis (GNOME)
 1. Christopher Engelhard (Fedora Project contributor)
