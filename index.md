@@ -2153,6 +2153,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Wim Taymans (PipeWire, GStreamer)
 1. Wolthera van Hövell (Krita/KDE)
 1. Woohyeong Kim
+1. Wouter Verhelst (Debian Developer, FOSDEM orga team member)
 1. Wulf C. Krueger (Exherbo Linux)
 1. Xabier Rodríguez Calvar (Igalia)
 1. Xavier Claessens (Collabora)
