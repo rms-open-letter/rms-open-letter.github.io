@@ -24,6 +24,7 @@ These translations have been contributed by our community translators. Thanks!
 - [Italian][it]
 - [Russian][ru]
 - [Dutch][nl]
+- [Persian][fa]
 
 [pt_BR]: index.pt.md
 [fr]: index.fr.md
@@ -34,6 +35,7 @@ These translations have been contributed by our community translators. Thanks!
 [it]: index.it.md
 [ru]: index.ru.md
 [nl]: index.nl.md
+[fa]: index.fa.md
 
 Want to contribute? Adding a new language can be done in 3 steps :
 1. Copy `index.md` to `index.xx.md` and translate it.

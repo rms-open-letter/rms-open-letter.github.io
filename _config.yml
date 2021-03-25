@@ -12,6 +12,8 @@ languages:
     code: "it"
   - name: "Polish"
     code: "pl"
+  - name: "Persian"
+    code: "fa"
   - name: "Spanish"
     code: "es"
   - name: "Turkish"
