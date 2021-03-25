@@ -828,6 +828,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Ernest Mueller
 1. Ernesto Hernández-Novich (@iamemhn)
 1. Ernie Hartley (AudioMo Creator)
+1. Esteve Fernandez
 1. Esther Payne (Librecast Project)
 1. Esther Plomp
 1. Esther Weidauer
