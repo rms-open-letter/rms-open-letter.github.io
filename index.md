@@ -2114,6 +2114,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Thomas Rodgers (libstdc++ contributor)
 1. Thomas Sirack
 1. Thomas Wouters (former GNU contributor)
+1. Thomas Winkelmann (diamantth)
 1. Thom Chiovoloni
 1. Thorsten Behrens (director, The Document Foundation)
 1. Thorsten Leemhuis (Fedora and Linux kernel contributor)
