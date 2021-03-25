@@ -446,6 +446,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Cameron Tauxe
 1. Camila Ayres (@camilasan, Nextcloud)
 1. Cam Tenny (Igalia)
+1. Capi Etheriel
 1. Cara Esten Hurtle
 1. Carina C. Zona (CallbackWomen)
 1. Carla Schroder (Linux nerd, uppity woman and not sorry)
