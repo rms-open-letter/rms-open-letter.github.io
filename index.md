@@ -2133,6 +2133,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Sean McGinnis
 1. Sean O'Brien
 1. seb1g
+1. Sebastian Behrens
 1. Sebastian Dröge (GStreamer, GNOME, Debian)
 1. Sebastian Kügler (KDE)
 1. Sebastian Ramacher (Debian Developer)
