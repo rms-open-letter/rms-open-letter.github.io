@@ -52,6 +52,7 @@ Signed,
 1. Calyx Institute
 1. CommitChange
 1. Echap
+1. Fivnex
 1. The FreeDOS Project (@freedos_project)
 1. Globenet
 1. GlobaLeaks
