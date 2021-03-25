@@ -557,6 +557,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Cooper Quintin (Senior Staff Technologist, EFF)
 1. Coraline Ada Ehmke (Founder, Organization for Ethical Source)
 1. Coranna Howard
+1. Corbin Crutchley
 1. Corentin "codl" Delcourt
 1. Corentin Noël (Collabora, elementary, GNOME)
 1. Cor Nouws (Collabora Productivity Marketing Lead)
