@@ -732,6 +732,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Farhad Salehi
 1. Farkhad Akmuratov
 1. Faye Duxovni
+1. Federico Damián Schonborn (@fdschonborn)
 1. Federico Hernandez (@recollir) (taskwarrior alumni)
 1. Federico Mena Quintero (GNOME)
 1. Federico Pontillo
