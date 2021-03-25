@@ -811,6 +811,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Galia Mancheva (Former FSFE staff, former Julia Reda and Amelia Andresdotter policy assistant at the European Parliament (The Pirate Party))
 1. Gareth J. Greenaway (Salt Developer, SCALE Co-Founder and former chair person)
 1. Garrett Brown
+1. Garrett LeSage (Designer at Red Hat, member of the Cockpit Project, a founder of the Tango Project and Fedora)
 1. Gary Kramlich (Pidgin Lead Developer)
 1. Gary Williams
 1. Gaurav Gahlot (Docker Community Leader, Tinkerbell contributor)
