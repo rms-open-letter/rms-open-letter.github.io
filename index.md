@@ -924,6 +924,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Jim Perrin (CentOS Project, Fedora Project)
 1. Joanna Janet Zaitseva-Doyle (aka @aoeixsz4 / `aoei`)
 1. João Carlos Almeida
+1. João da Silva (IslandC0der)
 1. João "Johnny" Ciocca (DCG5511)
 1. João Veiga
 1. Joby Elliott
