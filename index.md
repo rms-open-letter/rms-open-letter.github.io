@@ -55,13 +55,14 @@ Signed,
 1. Calyx Institute
 1. Ceccun
 1. CommitChange
+1. Creative Commons
 1. DataMade
 1. Dot HQ
 1. Echap
 1. Exherbo Linux
 1. Fivnex
 1. Freedom of the Press Foundation
-1. The FreeDOS Project (@freedos_project)
+1. The FreeDOS Project
 1. Globenet
 1. GlobaLeaks
 1. GNOME Foundation
@@ -78,6 +79,7 @@ Signed,
 1. Open Observatory of Network Interference (OONI)
 1. Open Source Collective
 1. Open Source Diversity
+1. Public Laboratory for Open Technology and Science
 1. SUSE
 1. TEN7
 1. Tor Project
@@ -336,7 +338,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Ben Tasker
 1. Ben Werdmuller
 1. Bernhard Hayden
-1. Bert Boeland (Drupal Netherlands)
+1. Bert Boerland (Drupal Netherlands)
 1. Bert Hubert (founder of PowerDNS)
 1. Bert JW Regeer (`xistence`)
 1. Bert Raeymaekers
@@ -847,7 +849,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Fred Hebert (Erlang Ecosystem Foundation co-founder and board member)
 1. Fred Oliveira
 1. Fredrik Lindh
-1. Freemor (FSF member since 2009, Parabola contributor)
+1. Freemor ((FSF member since 2009, Parabola contributor, Membership cancelled over this issue and 24 hours of silence.)
 1. Freya Arbjerg
 1. Fridrich Strba
 1. Gabriela Rodriguez
@@ -1134,7 +1136,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Jim Bair
 1. Jim Campbell
 1. Jim Gettys
-1. Jim Hall (FreeDOS Project founder and project coordinator, @jimfhall)
+1. Jim Hall (FreeDOS Project founder and project coordinator)
 1. Jim Perrin (CentOS Project, Fedora Project)
 1. Joachim Weinbrenner
 1. Joanna Janet Zaitseva-Doyle (aka @aoeixsz4 / `aoei`)
@@ -2299,4 +2301,35 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Zander Brown (GNOME and more)
 1. Zeltzin Rodríguez
 1. Zvi Gilboa
+1. Christopher Owens
+1. Garv Virginkar
+1. Much0m0rek
+1. Heiki Lõhmus
+1. Henry Edward Hardy
+1. Caitlyn M. Martin
+1. Evan Colvin
+1. Tobia Alberti (creator of Precisely Private)
+1. Christian Späh
+1. Laura Hausmann
+1. Manuel Uberti
+1. Moritz Bunkus (MKVToolNix)
+1. Edward Garbade
+1. Richard Kettlewell
+1. Andreas Jaeger
+1. Guillaume Bréhier (Linux user, maintainer and deployer)
+1. Liam Dawe (GamingOnLinux.com)
+1. Liera Zaitseva
+1. Vince Asta
+1. Autumn Boyhan
+1. Tom Lakey
+1. Jason Riedy
+1. Sara Stephens (SUSE)
+1. Scott Randby
+1. Daniel Baumann (Debian Developer)
+1. Philip Dolbel
+1. Gregory Adam Norcie (@dontbenebby)
+1. GlitchyPSI (@GlitchyPSIX)
+1. Stefan Kramer
+1. Catherine Stihler (CEO, Creative Commons)
+1. Robert Jacobi (Former President Joomla!/OpenSourceMatters)
 <!-- Do not add your name to the bottom, it needs adding in alphabetical order above -->
