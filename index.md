@@ -1914,6 +1914,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. TheEvilSkeleton
 1. Theodor Tollersrud
 1. Theo Schlossnagle
+1. Théodore Biadala
 1. TheSpiritingPoet
 1. Thiago Jung Bauermann (former GDB contributor, Linux kernel contributor)
 1. Thibault Walterspieler (Fullstack developer at Blacksmith)
