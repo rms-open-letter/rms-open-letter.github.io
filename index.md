@@ -650,6 +650,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Derek Payton (Founder/Executive Director, Root Access Hackerspace; Former FSF Associate Member)
 1. Derrell Piper
 1. Desiree Zamora Garcia (A List Apart)
+1. Dewey Dunnington (R package developer)
 1. Devin Buhl
 1. Devin Halladay
 1. Diana Thayer
