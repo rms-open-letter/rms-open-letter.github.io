@@ -1547,6 +1547,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Mike Elsmore (@ukmadlz everywhere)
 1. Mike Harris
 1. Mike Hawk
+1. Mike Hoye (mhoye, Mozilla)
 1. Mike Linksvayer
 1. Mikel Johnson
 1. Mike Olson (Postgres, Berkeley DB, Cloudera)
