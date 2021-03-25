@@ -1589,6 +1589,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Martin Kühl
 1. Martin Michlmayr (Former Debian Project Leader)
 1. Martin Robinson (Igalia)
+1. Martin Sande Costa
 1. Martin Splitt
 1. Martin Wimpress (Former FSF member)
 1. Martyn Welch (Collabora)
