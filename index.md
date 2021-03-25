@@ -1552,6 +1552,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Noah Hall
 1. Noel Cower
 1. Noel Georgi
+1. noirscape
 1. Nora Moldestad
 1. Nordine Bittich
 1. Norbert Tretkowski (Debian Developer, FSFE Supporter)
