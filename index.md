@@ -600,6 +600,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Daniel Kolesa (@octaforge, Void Linux developer)
 1. Danielle Heberling
 1. Danielle Lancashire (Contributor, NixOS/Kubernetes; formerly CocoaPods, Nomad)
+1. Daniel F. Maxwell-Ross
 1. Daniel Morris
 1. Daniel Murphy (@danhatesnumbers)
 1. Daniel Nazer
@@ -1281,7 +1282,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Julian Bouzas (Collabora)
 1. Julian Graham (former FSF associate member)
 1. Julian Hofer (GNOME, Deltares)
-1. Julian Sparber (GNOME, Fractal)
 1. Julianne "KokaKiwi" Hervier
 1. Julien Cristau (Debian, X.Org, Mozilla)
 1. Julien Humbert
