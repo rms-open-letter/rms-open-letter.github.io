@@ -78,6 +78,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. 0x5c
 1. 8ara7a
 1. Aadil Ayub
+1. Aaron Berger
 1. Aaron Carson
 1. Aaron Crickenberger (Kubernetes Steering Committee Emeritus, SIG Testing Chair)
 1. Aaron D Borden (former GNOME developer)
