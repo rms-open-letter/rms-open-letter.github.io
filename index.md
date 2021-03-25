@@ -495,6 +495,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Christian Brunschen
 1. Christian Buhtz
 1. Christian Glombek (Fedora Project contributor)
+1. Christian Grobmeier (Open Source contributor and author of _The Zen Programmer_)
 1. Christian “haseHH” Hase
 1. Christian Heimes (Python)
 1. Christian Hergert (GNOME)
