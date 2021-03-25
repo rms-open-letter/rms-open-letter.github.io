@@ -806,6 +806,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Guillaume Desmottes (Collabora, GStreamer developer)
 1. Guillaume Gay
 1. Guillem Jover (Debian Developer, freedesktop.org)
+1. Guinevere Saenger (Kubernetes contributor)
 1. Gunnar Monell
 1. Gunnar Wolf (Debian Developer, member of the Debian Technical Committee)
 1. Gürkan Gür
@@ -1863,7 +1864,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Theodor Tollersrud
 1. Theo Schlossnagle
 1. TheSpiritingPoet
-1. Thiago Jung Bauermann (former GDB contributor, Linux kernel contributor)
 1. Thierry Carrez (Open Infrastructure Foundation, Python Software Foundation fellow)
 1. Thijs van der Vossen (Fingertips)
 1. Thomas Belvin
