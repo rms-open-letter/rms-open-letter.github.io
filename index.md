@@ -120,6 +120,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Adam Katz (17y FSF associate membership canceled due to this)
 1. Adam Miller (Ansible, Fedora)
 1. Adam Monsen (SeaGL co-founder)
+1. Adam Meek
 1. Adam Reichold
 1. Adam Salt (Cob:web Development)
 1. Adam Schmackpfeffer
