@@ -149,6 +149,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. alexis richardson (former TOC chair, cloud native computing foundation)
 1. Alexis Tyler
 1. Alex Macafee (@lxmcf)
+1. Alex YeongGwon Jeong
 1. Alex McCabe (@alexdmccabe, Red Hat, Drupal community)
 1. Alex Murray
 1. Alex Ose
@@ -806,6 +807,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Guillaume Desmottes (Collabora, GStreamer developer)
 1. Guillaume Gay
 1. Guillem Jover (Debian Developer, freedesktop.org)
+1. Guinevere Saenger (Kubernetes contributor)
 1. Gunnar Monell
 1. Gunnar Wolf (Debian Developer, member of the Debian Technical Committee)
 1. Gürkan Gür
