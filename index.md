@@ -1546,6 +1546,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Marcel Kuehlhorn (openSUSE contributor)
 1. Marcelo Teider Lopes
 1. Marcel Timmer
+1. Marcela Tiznado
 1. Marcin Konowalczyk (they/them, University of Oxford)
 1. Marco Benatto
 1. Marco 'eukara' Hladik
