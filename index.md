@@ -70,6 +70,7 @@ Signed,
 1. Tor Project
 1. Sanctuary Computer
 1. X.org Foundation
+1. Open Source Collective
 
 ### Individuals
 
