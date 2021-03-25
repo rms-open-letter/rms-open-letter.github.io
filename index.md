@@ -63,6 +63,7 @@ Signed,
 1. GlobaLeaks
 1. GNOME Foundation
 1. GNU Radio
+1. Great Scott Gadgets
 1. Innatical
 1. The HardenedBSD Foundation / The HardenedBSD Project
 1. Metaform
@@ -1564,6 +1565,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Michael Mattsson (@datamattsson)
 1. Michael `NCommander` Casadevall (Ubuntu Core Developer, former Debian Developer, former FSF Savannah Administrator)
 1. Michael `ovyerus` Mitchell
+1. Michael Ossmann
 1. Michael Perron
 1. Michael Pyne (KDE, game-music-emu)
 1. Michael Reiger
