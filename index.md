@@ -109,6 +109,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Aditya Sirish A Yelgundhalli (@adityasaky)
 1. Adolfo Jayme Barrientos (Ubuntu, The Document Foundation)
 1. Adriaan de Groot
+1. Adriaan Tijsseling
 1. Adrian Cochrane
 1. Adrián María Mora Carreto
 1. Adrián Pérez de Castro
@@ -2067,5 +2068,4 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Zander Brown (GNOME and more)
 1. Zeltzin Rodríguez
 1. Zvi Gilboa
-
 <!-- Do not add your name to the bottom, it needs adding in alphabetical order above -->
