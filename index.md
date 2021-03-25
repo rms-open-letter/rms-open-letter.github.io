@@ -1651,6 +1651,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Nikita Orlov (`rozenov` Virtualization engineer, Red Hat inc. supporter, Fedora contributor and former Xen contributor)
 1. Nik Kantar
 1. Nikolai Vazquez
+1. Nikolaus Einhauser (Mixxx developer)
 1. Nikos Roussos (FSFE, GA member)
 1. Nils Adermann
 1. Nils Philippsen (Fedora Project contributor)
