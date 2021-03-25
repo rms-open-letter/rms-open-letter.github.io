@@ -1043,6 +1043,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Jonas Schwartz
 1. Jonas Verhofsté
 1. Jonatas Baldin
+1. Jonathan Blandford (GNOME)
 1. Jonathan Carter (Debian Project Leader, former FSF member and one of the top referrers (#3066))
 1. Jonathan de Jong (`ShadowJonathan`)
 1. Jonathan Kamens (>30yrs maintaining OSS, one-time FSF contributor)
