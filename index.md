@@ -860,6 +860,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Geoffrey Gilmour-Taylor (giltay)
 1. Geoffrey Michael
 1. Geoffrey Thomas
+1. Georg Link (Bitergia, CHAOSS)
 1. George Chriss
 1. George DeMet
 1. George Kiagiadakis (Collabora)
