@@ -1816,6 +1816,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Till Schneidereit
 1. Tilman Vatteroth (@mrdrogdrog, Frontend developer at HedgeDoc)
 1. Tim Bradshaw
+1. Tim Casasola
 1. Tim D. Smith (Mozilla; former member, Homebrew PLC)
 1. Timothée Ravier (Fedora Project Contributor)
 1. Timothy C. Quinn
