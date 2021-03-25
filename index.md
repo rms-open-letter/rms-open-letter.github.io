@@ -459,7 +459,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Claudio Saavedra (former GNOME maintainer and GNOME Foundation member)
 1. Claudius Link
 1. C. Morgan Hamill (former FSF member)
-1. Clint Moore
 1. Coby Sher
 1. Cole Helbling (NixOS contributor)
 1. Colin Ian King
@@ -682,7 +681,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Eva Knewes
 1. Eva Lauren Kelly (web & console homebrew developer, aka thejsa)
 1. Evan Brown
-1. Evan Hunt (BIND maintainer, ISC)
 1. Evangelos Paterakis
 1. Evan Prodromou
 1. Evan Sklarski
@@ -894,7 +892,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. James 'jspc' Condron
 1. James Kruth
 1. James LaPlaine (@csangos)
-1. James Pancoast
 1. James Renken
 1. James Seconde
 1. James Smith (@floppy)
@@ -1292,6 +1289,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Martyn Welch (Collabora)
 1. Mason Jones
 1. Mathieu Comandon (Lutris)
+1. Matheus Fantinel
 1. Matt Barron
 1. Matt Beland
 1. Matt Travi
