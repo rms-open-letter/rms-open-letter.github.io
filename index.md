@@ -1963,6 +1963,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Rémy Grünblatt
 1. Renata Rocha
 1. Renaud Lepage
+1. René Ladan (FreeBSD Developer)
 1. Reuben Morais
 1. Reynir Björnsson
 1. Rhonda D'Vine (Debian Developer, Open Source Diversity)
