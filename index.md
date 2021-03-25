@@ -1386,6 +1386,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Marcel Timmer
 1. Marcin Konowalczyk (they/them, University of Oxford) 
 1. Marco 'eukara' Hladik
+1. Marco Matos (Blockchain Director & Cloud Architect at 23 Bulbs)
 1. Marcos Sebastiao
 1. Marcus Weiner
 1. Marek Kubica
