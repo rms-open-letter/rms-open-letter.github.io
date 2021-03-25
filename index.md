@@ -1677,6 +1677,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Nora Moldestad
 1. Norbert Tretkowski (Debian Developer, FSFE Supporter)
 1. Nordine Bittich
+1. Nyx DeMarco
 1. Odhiambo Dormnic (@ayimdomnic)
 1. Ole Bang Ottosen (Former Core Team member Production/Community Joomla!/OpenSourceMatters)
 1. Ole Streicher (Debian Developer)
