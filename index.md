@@ -474,6 +474,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Claudia Beresford
 1. Claudio Saavedra (former GNOME maintainer and GNOME Foundation member)
 1. Claudius Link
+1. Clément Paillier (@clmntpllr)
 1. Clint Moore
 1. C. Morgan Hamill (former FSF member)
 1. Coby Sher
