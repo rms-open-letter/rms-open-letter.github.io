@@ -1196,6 +1196,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. John Helmert III (Gentoo developer)
 1. John Hess
 1. John Krug (jhkrug)
+1. John L. Cooper
 1. John Molakvoæ (skjnldsv)
 1. Johnny Danger Myers
 1. John Reese (The Omnilib Project)
