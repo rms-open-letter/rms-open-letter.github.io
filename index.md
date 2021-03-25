@@ -109,6 +109,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Aditya Sirish A Yelgundhalli (@adityasaky)
 1. Adolfo Jayme Barrientos (Ubuntu, The Document Foundation)
 1. Adriaan de Groot
+1. Adriaan Tijsseling
 1. Adrian Cochrane
 1. Adrián María Mora Carreto
 1. Adrián Pérez de Castro
@@ -189,6 +190,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Andrea Denisse Gómez-Martínez (Arch Linux, i3blocks maintainer)
 1. André Almeida (Collabora)
 1. Andreas Drewke
+1. Andreas Frisch (`fraxinas`)
 1. Andreas Happe
 1. Andreas M. Antonopoulos (Author of three O'Reilly Media CC-BY-SA licensed books)
 1. Andrea Wieland
@@ -233,6 +235,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Anthony Nowocien
 1. Anthony Rabbito
 1. Anthony Shaw (Python Software Foundation Fellow, ASF Member)
+1. Antoine Adrien Parent
 1. Antoine Beaupré AKA anarcat (Debian Developer, former FSF member)
 1. Antonela Debiasi
 1. Antonia Calia-Bogan 
@@ -431,6 +434,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Chris Riley
 1. Chris Rose
 1. Chris Sienkiewicz
+1. Dr. Chris Zimmermann (Linux Inlaws, FraLUG)
 1. Chrissy LeMaire (@cl - dbatools creator)
 1. Chris Talib (Source! - a radio show on FLOSS, Le Reset - queer hackerspace)
 1. Christian Brauner (Linux Kernel Hacker, LXC maintainer)
@@ -1306,6 +1310,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Marc-Antoine `Keruspe` Perennou (Exherbo)
 1. Marcantonio Rendino
 1. Marcel Kapfer
+1. Marcel Timmer
 1. Marcelo Teider Lopes
 1. Marco 'eukara' Hladik
 1. Marcos Sebastiao
@@ -1317,6 +1322,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Mariatta Wijaya (Python Software Foundation Fellow members, OSI member, PyLadies)
 1. Marina "deneb_alpha" Latini (former The Document Foundation chairperson, former openSUSE board member, LibreOffice and openSUSE contributor)
 1. Mario Sánchez Prada (Igalia, GNOME)
+1. Mario Rodríguez Carrasco
 1. Mario Torre
 1. Marius Gedminas
 1. Marius Gripsgard (UBports Foundation founder, Lead Developer and Board of Directors, Ubuntu Member)
@@ -2064,5 +2070,4 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Zander Brown (GNOME and more)
 1. Zeltzin Rodríguez
 1. Zvi Gilboa
-
 <!-- Do not add your name to the bottom, it needs adding in alphabetical order above -->
