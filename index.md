@@ -620,6 +620,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Danny "Rushyo" Moules (Security researcher, EFF Member, Former Mozilla contributor)
 1. Dan Orzechowski
 1. Dan 'pixelflow' Humphreys
+1. Dan Poltawski
 1. Dan Ryan
 1. Dan Stuart
 1. Dan Watkins (cloud-init maintainer, Ubuntu developer)
