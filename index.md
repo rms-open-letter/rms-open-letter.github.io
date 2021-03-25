@@ -1464,6 +1464,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Otavio Salvador (former FSF associate member, former Debian Installer Release Manager)
 1. Owen Anderson
 1. Owen O'Malley (Apache Hadoop, Hive, and ORC)
+1. Owen Sullivan
 1. Owen Williams (Mixxx Developer)
 1. Øystein Øverng
 1. Pablo Costas Sánchez
