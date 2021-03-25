@@ -1915,6 +1915,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Tanvi Bhakta (Former EC member of Free Software Movement Karnataka, India)
 1. Tanya Lattner (LLVM Foundation)
 1. Taowa (Debian Developer, former LP keynote panelist)
+1. Tasos Latsas
 1. tastytea
 1. Teo Schulze
 1. Thaddée Tyl
