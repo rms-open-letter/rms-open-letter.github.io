@@ -1221,6 +1221,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Laurence Berland
 1. Lauren Liberda (@selfisekai)
 1. Laurent Doguin
+1. Laurent Peuch
 1. Laurin Schmidt
 1. Laurynas `NeLaurynas` K.
 1. Leah Lundqvist (leahlundqvist, V maintainer)
