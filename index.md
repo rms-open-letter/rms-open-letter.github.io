@@ -284,6 +284,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Arthur Richards
 1. Arturs Dobrecovs
 1. Artur Tamborski (former FSF member)
+1. Arun Raghavan (PulseAudio, GStreamer, GNOME; formerly Gentoo)
 1. Ashish Dixit
 1. Ashley Norris
 1. Assaf Rutenberg
