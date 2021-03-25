@@ -1347,6 +1347,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Martijn Bos(Galavanto)
 1. Martina Ferrari (Debian developer)
 1. Martin Bayo
+1. Martin Gollowitzer
 1. Martin Guillon
 1. Martin Kühl
 1. Martin Michlmayr (Former Debian Project Leader)
