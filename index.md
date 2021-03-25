@@ -2118,6 +2118,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Todd C. Miller (sudo maintainer, OpenBSD developer)
 1. Tollef Fog Heen (Former Debian Technical Committee member)
 1. Tom Brantseg
+1. Tom Fish (`Guerillero`)
 1. Tomeu Vizoso (Collabora, Mesa)
 1. Tom Henderson (Founder, ExtremeLabs)
 1. Tom Howard
