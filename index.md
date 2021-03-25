@@ -1748,6 +1748,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Pierros Papadeas (Board member, Libre Space Foundation)
 1. Pieter De Praetere
 1. Pietro Gagliardi (`andlabs`; currently at Google)
+1. Piotr Drąg (GNOME, Mozilla and Fedora contributor)
 1. Pirate Praveen (Debian Developer, Member of FSF India Working Group)
 1. Pj Sheffield.
 1. Pranav Teegavarapu
