@@ -539,6 +539,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Dan "Fennix" Sim
 1. Daniel A. Rodriguez (Board of Directors, the Document Foundation)
 1. Daniel Bailey
+1. Daniel Donateli
 1. Daniel 'Dobrado' Oshiro
 1. Daniel Erat
 1. Daniel Estévez (gr-satellites)
@@ -1090,6 +1091,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Joby Elliott
 1. Joe Bowser
 1. Joe Brockmeier
+1. Joe Carpinelli
 1. Joe Harley
 1. Joe Julian
 1. Joel Bethke (OBS Project)
@@ -1303,6 +1305,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Lina B (elatelation)
 1. Linda Fernández
 1. Lindsay Holmwood (former Vice President of Linux Australia)
+1. Link Dupont (GNOME Foundation)
 1. Linus A. Wozniak (@MadsRach)
 1. Linus Groh
 1. Linus Parker
@@ -1644,6 +1647,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Park Seonu
 1. Partha Sarathy Thanka Raj
 1. Pascal Jufer
+1. Pascal Klaßen (@klassenpascal22)
 1. Pat Allan
 1. Pat Hickey
 1. Patrick Brunier (Former GNU webmaster, Owner of Brunjee - Liberating Technology)
