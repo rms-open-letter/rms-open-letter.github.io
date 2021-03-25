@@ -990,6 +990,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Horst Gutmann
 1. Hrishikesh Barman
 1. Hubert Figuière
+1. Hugo Blom
 1. Hypolite Petovan (Friendica Developer)
 1. Iain Nicol
 1. Ian Coldwater (Kubernetes SIG Security Chair, Open Source Security Foundation Governing Board)
