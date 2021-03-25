@@ -266,6 +266,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Aria Buckles
 1. Ariadne Conill (Alpine Developer, pkgconf)
 1. Ariela Wenner
+1. Arnav Jiindal (aka Daggy1234, founder DaggyTech)
 1. Arne Brasseur
 1. Arne Visscher
 1. Arno Broekhof
@@ -1232,7 +1233,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Kararou Ren
 1. Karen Bruner
 1. Karen Rustad Tölva (former OpenHatch and Students for Free Culture board member)
-1. Karol Herbst (Nouveau, X.org, Red Hat)
 1. Karsten Gerloff (former president, Free Software Foundation Europe, 2009-2015)
 1. Karsten Wade (CentOS Board member, former Fedora Board & Docs Lead, the Open Source Way)
 1. Karthik Kumar Viswanathan
