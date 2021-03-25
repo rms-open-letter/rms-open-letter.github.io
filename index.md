@@ -864,6 +864,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Georgiana Dolocan
 1. Georgia Young (former FSF staff)
 1. Gerardo Torres
+1. Gerard Braad
 1. Gerard Ryan
 1. Germán Poo-Caamaño (GNOME)
 1. Gerry Demaret
