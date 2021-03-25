@@ -30,7 +30,7 @@ In 2015 and 2016 RMS made three posts on his website about Down’s syndrome. He
 
 RMS has spent years on a campaign against using people’s correct pronouns. This is poorly disguised transphobia. In the original publication of the GNU Kind Communication Guidelines, he said “there are various ways to express gender neutrality in third-person singular pronouns in English; you do not have to use 'they.'”[15] This text has since been updated, but is still transphobic.[16] The main page on his web site includes the statement that  “‘They’ is plural — for singular antecedents, use singular gender-neutral pronouns.”[17]
 
-[15]: https://web.archive.org/web/20210325014959/https://www.gnu.org/philosophy/kind-communication.html
+[15]: https://web.archive.org/web/20181022140126/https://www.gnu.org/philosophy/kind-communication.html
 [16]: https://web.archive.org/web/20210325014959/https://www.gnu.org/philosophy/kind-communication.html
 [17]: https://web.archive.org/web/20210325014851/https://stallman.org/
 
