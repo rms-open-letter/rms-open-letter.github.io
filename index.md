@@ -1383,6 +1383,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Karol Herbst (Nouveau, X.org, Red Hat)
 1. Karsten Gerloff (former president, Free Software Foundation Europe, 2009-2015)
 1. Karsten Wade (CentOS Board member, former Fedora Board & Docs Lead, the Open Source Way)
+1. Kaslin Fields
 1. Karthik Kumar Viswanathan
 1. Kate Travers
 1. Katharine Berry
