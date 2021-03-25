@@ -148,6 +148,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Alexis Danz
 1. alexis richardson (former TOC chair, cloud native computing foundation)
 1. Alexis Tyler
+1. Alex McCabe (@alexdmccabe, Red Hat, Drupal community)
 1. Alex Murray
 1. Alex Ose
 1. Alex Reynolds (BEDOPS and other open-source bioinformatics projects)
