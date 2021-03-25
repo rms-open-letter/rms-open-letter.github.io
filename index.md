@@ -1019,7 +1019,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Ian Denhardt (Sandstorm contributor, former developer for GNU Social and Parabola GNU/Linux, former FSF member)
 1. Ian Hyzy
 1. Ian Jackson (Former Debian Project Leader; former President, Software in the Public Interest; GNU Maintainer)
-1. Ian Macdonald
 1. Ian Stapleton Cordasco
 1. İbrahim Yöndemli
 1. Idan Gazit (Django project alumnus)
