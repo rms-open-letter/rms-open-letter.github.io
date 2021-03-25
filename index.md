@@ -270,7 +270,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Aria Buckles
 1. Ariadne Conill (Alpine Developer, pkgconf)
 1. Ariela Wenner
-1. Arnav Jiindal (aka Daggy1234, founder DaggyTech)
 1. Arne Brasseur
 1. Arne Visscher
 1. Arno Broekhof
@@ -600,7 +599,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Dave Camp (Mozilla, Former GNOME Foundation)
 1. Dave Cottlehuber
 1. Dave F. Kleinschmidt
-1. Dave Jones (@waveform80)
 1. Dave Lester
 1. Dave Marwick (Twitter)
 1. David Anderson (Tailscale, MetalLB, Go contributor)
@@ -1292,6 +1290,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Kiran Jonnalagadda
 1. Kirill Sokolov (@novathefaded)
 1. Kirstie Whitaker (Programme Lead for Tools, Practices and Systems, The Alan Turing Institute; Core contributor to The Turing Way project.)
+1. Kitteh
 1. Konstantina Papadea
 1. Kosta Harlan
 1. Koz Ross (former FSF associate student member)
@@ -2228,6 +2227,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Yu-Wei Wu
 1. Yvan Sraka
 1. Yvonne Lam
+1. Z
 1. Zac Adam-MacEwen (Arcana Labs)
 1. Zachinquarantine
 1. Zach Klippenstein (aka @zach-klippenstein, Square)
