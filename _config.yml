@@ -14,3 +14,5 @@ languages:
     code: "es"
   - name: "Turkish"
     code: "tr"
+  - name: "Russian"
+    code: "ru"
