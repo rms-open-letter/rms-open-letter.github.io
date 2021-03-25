@@ -366,6 +366,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Bret Moore
 1. Brett Sheffield (Librecast Project)
 1. Brett Smith (Former FSF staff and member)
+1. Brian Bennett
 1. Brian Bowling
 1. Brian Chen (`betaveros`)
 1. Brian Curtin (Fellow at Python Software Foundation, former board member)
@@ -412,6 +413,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Cara Esten Hurtle
 1. Carina C. Zona (CallbackWomen)
 1. Carl George (CentOS Project, Fedora Project)
+1. Carla Schroder (Linux nerd, uppity woman and not sorry)
 1. Carlos Alexandro Becker (`caarlos0`)
 1. Carlos "azra3l" Pineda
 1. Carlos Chacin
@@ -655,6 +657,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Derek Kozel (GNU Radio President)
 1. Derek Payton (Founder/Executive Director, Root Access Hackerspace; Former FSF Associate Member)
 1. Derrell Piper
+1. Derwin McGeary
 1. Desiree Zamora Garcia (A List Apart)
 1. Dewey Dunnington (R package developer)
 1. Devin Buhl
@@ -865,6 +868,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Georgiana Dolocan
 1. Georgia Young (former FSF staff)
 1. Gerardo Torres
+1. Gerard Braad
 1. Gerard Ryan
 1. Germán Poo-Caamaño (GNOME)
 1. Gerry Demaret
@@ -914,6 +918,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Gustavo Soares (PlayzinhoAgro, OSM Mapper)
 1. Guy Lunardi (Collabora)
 1. Guy Templeton (Kubernetes SIG Autoscaling Chair)
+1. Haelwenn (`lanodan`) Monnier (Pleroma maintainer, Gentoo contributor)
 1. Haïkel Guémar (Fedora Project, former Board and Fesco member)
 1. Halla Rempt (maintainer of Krita)
 1. Hannah Aizenman (NYLUG coordinator, Matplotlib community manager)
@@ -1112,6 +1117,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Jiahao Chen (JPMorgan AI Research; Julia language, `@acidflask` and `@jiahao`)
 1. Jill Pelavin
 1. Jill Rouleau (Ansible Maintainer / Steering Commitee member)
+1. Jim Bair
 1. Jim Campbell
 1. Jim Gettys
 1. Jim Hall (FreeDOS Project founder and project coordinator, @jimfhall)
@@ -1656,6 +1662,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Nikita Orlov (`rozenov` Virtualization engineer, Red Hat inc. supporter, Fedora contributor and former Xen contributor)
 1. Nik Kantar
 1. Nikolai Vazquez
+1. Nikolaus Einhauser (Mixxx developer)
 1. Nikos Roussos (FSFE, GA member)
 1. Nils Adermann
 1. Nils Philippsen (Fedora Project contributor)
@@ -1683,6 +1690,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Olivier Berger (FSF member, or associate member since 2002)
 1. Olivier Crête (Collabora, GStreamer)
 1. Olivier Duquesne (DaffyDuke, French LUG volonteer)
+1. Ollivier Robert (FreeBSD committer, long-time free software dev.)
 1. Omar Akkila (Collabora)
 1. Ondřej Surý (Debian Developer; Director of DNS Engineering @ ISC)
 1. Orhun Parmaksız (Arch Linux maintainer)
@@ -1865,6 +1873,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Roger Light
 1. Roger Robertson (strangrjrjr)
 1. Rojen Zaman
+1. Roger Zanoni (Igalia)
 1. Romain Menke
 1. Romina Suarez (@rowasc)
 1. Rosanna Yuen (GNOME Foundation)
@@ -2210,9 +2219,11 @@ identification purposes only and does not constitute endorsement.)</small>
 1. William Gathoye (Collabora)
 1. William Kroes
 1. William Light (@wrl)
+1. William Orr (@worr)
 1. William Starkey
 1. William Theaker (Former FSF staff member)
 1. William Waites (London School of Hygiene and Tropical Medicine, Former FSF Member)
+1. William Wilson (Ubuntu Developer)
 1. Williham Williham Totland
 1. Will Lachance (Mozilla)
 1. Will Thompson

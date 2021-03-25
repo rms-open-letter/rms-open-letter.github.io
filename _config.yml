@@ -14,4 +14,3 @@ languages:
     code: "es"
   - name: "Turkish"
     code: "tr"
-theme: minima
