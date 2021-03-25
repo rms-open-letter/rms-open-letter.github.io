@@ -526,6 +526,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Daniel Pasco
 1. Daniel Powell
 1. Daniel Raniz Raneland
+1. Daniel Richard G. (iskunk)
 1. Daniel Soskel
 1. Daniel Srb
 1. Daniel Stone (Collabora, freedesktop.org, Wayland)
