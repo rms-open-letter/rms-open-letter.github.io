@@ -13,9 +13,11 @@ These translations have been contributed by our community translators. Thanks!
 
 - [Brazilian Portuguese][pt_BR]
 - [Spanish][es]
+- [Turkish][tr]
 
 [pt_BR]: index.pt.md
 [es]: index.es.md
+[tr]: index.tr.md
 
 Want to contribute? See [#1186](https://github.com/rms-open-letter/rms-open-letter.github.io/issues/1186).
 
