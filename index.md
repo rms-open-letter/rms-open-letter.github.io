@@ -1565,6 +1565,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Magnus Krüger
 1. Mairi Dulaney (Fedora Project contributor)
 1. Máirín Duffy (Fedora Project, former FSF HPP committee member, former LP speaker)
+1. Malcolm Barrett
 1. Malleck Braun
 1. Malte `m4schini` Schink
 1. Malvika Sharan (The Alan Turing Institute; Community Manager of The Turing Way project and Co-founder of Open Life Science)
