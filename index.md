@@ -40,6 +40,7 @@ Signed,
 
 <!-- Any additional signees should go below this comment in alphabetical order (according to `sort -u`) -->
 
+1. 3NSoft
 1. Calyx Institute
 1. CommitChange
 1. Echap
@@ -1291,6 +1292,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Michel Alexandre Salim (Fedora Project contributor)
 1. Miguel Raz Guzmán Macedo, (Julia Language, UNAM, @miguelraz on Github)   
 1. Mika Pflüger
+1. Mikalai Birukou (3NSoft)
 1. Mike Doughney (co-founder, Digital Express Group / DIGEX Incorporated)
 1. Mike Elsmore (@ukmadlz everywhere)
 1. Mike Harris
