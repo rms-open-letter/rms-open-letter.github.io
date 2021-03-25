@@ -786,6 +786,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Federico Hernandez (@recollir) (taskwarrior alumni)
 1. Federico Mena Quintero (GNOME)
 1. Federico Pontillo
+1. Felicia Alexa Hummel (PartKeepr)
 1. Felipe Borges (GNOME Foundation Board member)
 1. Félix 'felix91gr' Fischer
 1. Felix 'fleaz' Breidenstein
