@@ -216,6 +216,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Amy Troschinetz
 1. Ana Guerrero López
 1. Ana Rute Mendes (Collabora)
+1. Ananya Cleetus (@ananyacleetus)
 1. Anastasia Papakosta
 1. Andrea Denisse Gómez-Martínez (Arch Linux, i3blocks maintainer)
 1. André Almeida (Collabora)
