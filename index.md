@@ -1867,6 +1867,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Roger Light
 1. Roger Robertson (strangrjrjr)
 1. Rojen Zaman
+1. Roger Zanoni (Igalia)
 1. Romain Menke
 1. Romina Suarez (@rowasc)
 1. Rosanna Yuen (GNOME Foundation)
