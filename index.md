@@ -1907,6 +1907,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Selam Gano
 1. SeongHyun Lee (Kevin Lee / 케빈 리)
 1. Seraphim R.P. (Kerygma Digital)
+1. Seth Aldini
 1. Seth Hillbrand
 1. Seth Marinello (former CPLUG Officer)
 1. Seth McCombs
