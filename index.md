@@ -1292,6 +1292,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Kiran Jonnalagadda
 1. Kirill Sokolov (@novathefaded)
 1. Kirstie Whitaker (Programme Lead for Tools, Practices and Systems, The Alan Turing Institute; Core contributor to The Turing Way project.)
+1. Kitteh
 1. Konstantina Papadea
 1. Kosta Harlan
 1. Koz Ross (former FSF associate student member)
@@ -2231,6 +2232,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Yu-Wei Wu
 1. Yvan Sraka
 1. Yvonne Lam
+1. Z
 1. Zac Adam-MacEwen (Arcana Labs)
 1. Zachinquarantine
 1. Zach Klippenstein (aka @zach-klippenstein, Square)
