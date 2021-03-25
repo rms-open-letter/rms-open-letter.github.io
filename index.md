@@ -1163,6 +1163,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Jonas Anderö
 1. Jonas Meurer (Debian)
 1. Jonas Obrist (PyCon JP Association Board Member)
+1. Jonas Schievink
 1. Jonas Schwartz
 1. Jonas Verhofsté
 1. Jonatas Baldin
