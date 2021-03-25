@@ -1409,6 +1409,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Nic FitzGerald (Co-Founder Sailex)
 1. Nicholas LaPointe (Krita contributor)
 1. Nicholas Paladino
+1. Nick Badal
 1. Nick Chambers
 1. Nick Davis
 1. Nick Gerace (Software Engineer at SUSE and Rancher Labs)
