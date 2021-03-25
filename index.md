@@ -892,6 +892,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Gabriella Coleman (McGill University)
 1. Gabriel Volpe (Practical FP in Scala)
 1. Gaeel Bradshaw-Rodriguez
+1. Galen Guyer (Rochester Institute of Technology Student, Computer Science House Sysadmin, Society of Software Engineers, `galenguyer` on GitHub)
 1. Gale Pedowitz Fagan
 1. Galia Mancheva (Former FSFE staff, former Julia Reda and Amelia Andresdotter policy assistant at the European Parliament (The Pirate Party))
 1. Gareth J. Greenaway (Salt Developer, SCALE Co-Founder and former chair person)
