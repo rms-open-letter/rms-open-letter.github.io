@@ -4,7 +4,10 @@ description: We, the undersigned, call for the entire Board of the FSF to step d
 image: /assets/og-image.png
 twitter:
   card: summary_large_image
+share_text: I support this call for the entire Board of the FSF to step down and for Richard M. Stallman to be removed from all leadership positions.
 ---
+
+{% include share-links.html %}
 
 _2021-03-23_
 
