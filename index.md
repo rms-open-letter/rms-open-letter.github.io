@@ -1421,6 +1421,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Nathan Dyer (former FSF associate member)
 1. Nathan Handler (Ubuntu/Debian Developer, freenode Staff, SeaGL Program Committee Co-Chair)
 1. Nathanial (`d0nut`) Lattimer
+1. Nathan Moos (@moosingin3space, drive-by Rust, NixOS, and Firefox contributor)
 1. Nathaniel J. Smith
 1. Nathan Ritchie
 1. Nathan Shelly
