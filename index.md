@@ -595,6 +595,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Daniel A. Rodriguez (Board of Directors, the Document Foundation)
 1. Daniel Bailey
 1. Daniel Baumann (Debian Developer)
+1. Daniel Córdova A. (Software Developer)
 1. Daniel 'Dobrado' Oshiro
 1. Daniel Donateli
 1. Daniel Erat
