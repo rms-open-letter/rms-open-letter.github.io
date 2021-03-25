@@ -66,11 +66,11 @@ Signed,
 1. Mozilla
 1. OBS Project
 1. Open Life Science
+1. Open Source Collective
 1. Open Source Diversity
 1. Tor Project
 1. Sanctuary Computer
 1. X.org Foundation
-1. Open Source Collective
 
 ### Individuals
 
