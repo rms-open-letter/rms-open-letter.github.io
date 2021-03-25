@@ -1779,7 +1779,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Rachel Chalmers (boardmember, The Ada Initiative)
 1. Rachel Domagalski
 1. Rachel Kadel
-1. Rachel Lawson
+1. Rachel Lawson (One of Drupal's many maintainers)
 1. Rafael Bautista
 1. Rafael Silva
 1. Rafael Tovar
