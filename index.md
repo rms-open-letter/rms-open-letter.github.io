@@ -1109,6 +1109,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Jiahao Chen (JPMorgan AI Research; Julia language, `@acidflask` and `@jiahao`)
 1. Jill Pelavin
 1. Jill Rouleau (Ansible Maintainer / Steering Commitee member)
+1. Jim Bair
 1. Jim Campbell
 1. Jim Gettys
 1. Jim Hall (FreeDOS Project founder and project coordinator, @jimfhall)
