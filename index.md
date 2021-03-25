@@ -1071,6 +1071,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Jordin McEachern
 1. Jorge Gaspar Sanz Salinas
 1. Jorge Jara
+1. Jorge Schrauwen
 1. Jörgen Lundman (OpenZFS)
 1. Jörn Huxhorn
 1. José Antonio Rey (Ubuntu Community Council, freenode Staff)
