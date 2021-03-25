@@ -590,6 +590,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Corentin Noël (Collabora, elementary, GNOME)
 1. Cor Nouws (Collabora Productivity Marketing Lead)
 1. Cory DeVore
+1. Corey Alexander
 1. Courtney Thurston (former Spark distro dev)
 1. Craig Maloney
 1. cricket c. piapiac
