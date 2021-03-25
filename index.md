@@ -117,7 +117,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Adam Fisk (Brave New Software Project, Inc)
 1. Adam H. Leventhal
 1. Adam Jackson (X.org, Fedora)
-1. Adam W. Meek
 1. Adam Katz (17y FSF associate membership canceled due to this)
 1. Adam Miller (Ansible, Fedora)
 1. Adam Monsen (SeaGL co-founder)
@@ -2292,6 +2291,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Vyivel
 1. Ward Vandewege (Former FSF staff and FSF member)
 1. Wayne M. Thornton, B.S., CPDT (Co-Founder & Project Manager VIRATRACE)
+1. Wayne Warren (nerd of no particular note)
 1. Weilbyte
 1. Wendy Bolm (Chief Operations Officer, CommitChange)
 1. Wendy Seltzer
