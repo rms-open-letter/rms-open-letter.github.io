@@ -668,6 +668,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Eli Heuer
 1. Eliott Lavier
 1. Elizabeth Bell (Mozilla)
+1. Elizabeth Anne Cray
 1. Elizabeth Denys `lizdenys`
 1. Ellie (@ell1e on GitHub)
 1. Emanuele Aina (Collabora)
