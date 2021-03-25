@@ -21,12 +21,12 @@ Of a woman having sex with a minor, he said “I wish an attractive woman had 'a
 [9]: https://web.archive.org/web/20210325014249/https://stallman.org/archives/2012-nov-feb.html#04_January_2013_(Pedophilia)
 [10]: https://web.archive.org/web/20210325015259/https://stallman.org/archives/2019-jul-oct.html#14_September_2019_(Sex_between_an_adult_and_a_child_is_wrong)
 
-In 2015 and 2016 RMS made three posts on his website about Down’s syndrome. He recommended that, should someone find out they are pregnant and the child tests positive for Down’s syndrome “the right course of action for the woman is to terminate the pregnancy.”[11] He referred to people deciding to “carry fetuses with Down’s syndrome to term” as “perverse” and said that there is “nothing virtuous” in “[increasing] the number of people that have Down’s syndrome.”[12] He also said that “when a fetus has Down's syndrome, you should abort it and try again.”[13] On at least one occasion RMS likened having a child with Down’s syndrome to having a pet.[14]
+In 2015 and 2016 RMS made three posts on his website about Down’s syndrome. He recommended that, should someone find out they are pregnant and the child tests positive for Down’s syndrome “the right course of action for the woman is to terminate the pregnancy.”[11] He referred to people deciding to “carry fetuses with Down’s syndrome to term” as “perverse” and said that there is “nothing virtuous” in “[increasing] the number of people that have Down’s syndrome.”[12] He also said that “when a fetus has Down's syndrome, you should abort it and try again.”[13] On at least one occasion RMS likened having a child with Down’s syndrome to having a pet.[14] (Note: Link 14 added 25 March, 2021 - 11:33 EDT.)
 
 [11]: https://web.archive.org/web/20210325014348/https://stallman.org/archives/2016-jul-oct.html#31_October_2016_(Down's_syndrome)
 [12]: https://web.archive.org/web/20210325014343/https://stallman.org/archives/2015-jul-oct.html#21_October_2015_(Mistaking_a_fetus_for_a_baby)
 [13]: https://web.archive.org/web/20210325014628/https://stallman.org/archives/2016-mar-jun.html#23_April_2016_(Fetuses_with_Downs_syndrome)
-[14]: https://web.archive.org/web/20210325014348/https://stallman.org/archives/2016-jul-oct.html#31_October_2016_(Down's_syndrome)
+[14]: https://web.archive.org/web/20161107050933/https://stallman.org/archives/2016-jul-oct.html#31_October_2016_(Down's_syndrome)
 
 RMS has spent years on a campaign against using people’s correct pronouns. This is poorly disguised transphobia. In the original publication of the GNU Kind Communication Guidelines, he said “there are various ways to express gender neutrality in third-person singular pronouns in English; you do not have to use 'they.'”[15] This text has since been updated, but is still transphobic.[16] The main page on his web site includes the statement that  “‘They’ is plural — for singular antecedents, use singular gender-neutral pronouns.”[17]
 
