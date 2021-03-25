@@ -1587,6 +1587,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Naglis Lesčinskas
 1. Nalin Dahyabhai
 1. Naomi Ceder (former director & past chair, Python Software Foundation)
+1. Nat Budin
 1. Natacha Rault (les sans pagEs)
 1. Natalia Portillo (aka claunia, Aaru Data Preservation Suite, Claunia Ltd., Hit Save!)
 1. Natalie Amery (née Jonathan)
