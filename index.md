@@ -117,6 +117,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Adam Schmackpfeffer
 1. Adarsh K Kumar
 1. Adil Sadik
+1. Adit Bhargava (Author of Grokking Algorithms)
 1. Aditya Sirish A Yelgundhalli (@adityasaky)
 1. Adolfo Jayme Barrientos (Ubuntu, The Document Foundation)
 1. Adriaan de Groot
