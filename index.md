@@ -2214,6 +2214,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. William Gathoye (Collabora)
 1. William Kroes
 1. William Light (@wrl)
+1. William Orr (@worr)
 1. William Starkey
 1. William Theaker (Former FSF staff member)
 1. William Waites (London School of Hygiene and Tropical Medicine, Former FSF Member)
