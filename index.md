@@ -175,7 +175,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Amber Ankerholz
 1. Amber Yust
 1. Amelia Andersdotter (former Member of the European Parliament (Piratpartiet), hobby Arch and network scripting aficionado)
-1. Amin Mahmudian
 1. Amir Sarabadani (Wikimedia)
 1. Amos `fasterthanlime` Wenger
 1. Amye Scavarda Perrin
@@ -200,6 +199,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Andrés Hernández "`tonejito`" (LIDSoL)
 1. Andres Salomon (Debian Developer)
 1. Andrés Torres
+1. Andrew Hung ("`@AndrewDaGuy`")
 1. Andrew Cherry
 1. Andrew Dona-Couch
 1. Andrew J. Stephen
@@ -236,6 +236,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Antoine Beaupré AKA anarcat (Debian Developer, former FSF member)
 1. Antonela Debiasi
 1. Antonia Calia-Bogan 
+1. Antonin Delpeuch (OpenRefine)
 1. Antonio Caggiano (Collabora)
 1. Antonio Tauro (Toni Tauro, @eyenx)
 1. Antony Jordan
@@ -451,6 +452,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Christophe Junke
 1. Christophe Moille
 1. Christophe Noisel
+1. Christophe Van Reeth
 1. Christopher Allan Perry
 1. Christopher Branston
 1. Christopher Davis (GNOME)
@@ -469,8 +471,10 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Clare Macrae
 1. Clarissa Borges (GNOME Foundation member)
 1. classabbyamp
+1. Claudia Beresford
 1. Claudio Saavedra (former GNOME maintainer and GNOME Foundation member)
 1. Claudius Link
+1. Clément Paillier (@clmntpllr)
 1. Clint Moore
 1. C. Morgan Hamill (former FSF member)
 1. Coby Sher
@@ -766,6 +770,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Galia Mancheva (Former FSFE staff, former Julia Reda and Amelia Andresdotter policy assistant at the European Parliament (The Pirate Party))
 1. Gareth J. Greenaway (Salt Developer, SCALE Co-Founder and former chair person)
 1. Garrett Brown
+1. Gary Kramlich (Pidgin Lead Developer)
 1. Gary Williams
 1. Gaurav Gahlot (Docker Community Leader, Tinkerbell contributor)
 1. Geir Magnusson Jr.
@@ -877,6 +882,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Igmar Palsenberg
 1. Ignacio Torres Masdeu
 1. Ilya Kreymer
+1. Ioannis Cherouvim
 1. intrigeri (Debian Developer, Tails Developer)
 1. Irina Rempt
 1. Isaac Ferreira Filho (aka "yzakius", GNOME contributor)
@@ -958,6 +964,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Jason Robinson
 1. Jason Tubnor
 1. Jassie Badion (Collabora)
+1. Javier Martinez Canillas (Fedora developer)
 1. Jayme Howard
 1. Jay Mueller
 1. Jean-Paul Argudo (CEO at Dalibo, @jpargudo)
@@ -967,6 +974,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Jeff Byrnes (@jeffbyrnes)
 1. Jeff Forcier (aka bitprophet) (Python library maintainer, eg Fabric, Paramiko)
 1. Jeff Fortin T. (former president of the GNOME Foundation)
+1. Jeff Hammond
 1. Jeffrey Blinksma (Co-founder of Robin's Media Team)
 1. Jeffrey “Jefro” Osier-Mixon
 1. Jeffrey Sica (Kubernetes SIG-UI Chair)
@@ -1246,6 +1254,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Louis-Philippe Véronneau (Debian Developer)
 1. Louis Suárez-Potts
 1. Luana Neder
+1. Luc Rocher (Imperial College London)
 1. Luca Andrea Fusè
 1. Luca Martinelli
 1. Lucas Bickel
@@ -1296,6 +1305,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Manuel Spitschan (University of Oxford)
 1. Marc-Antoine `Keruspe` Perennou (Exherbo)
 1. Marcantonio Rendino
+1. Marcel Kapfer
 1. Marcelo Teider Lopes
 1. Marco 'eukara' Hladik
 1. Marcos Sebastiao
@@ -1533,6 +1543,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Otavio Carneiro (2carneiros.tv)
 1. Otavio Salvador (former FSF associate member, former Debian Installer Release Manager)
 1. Owen Anderson
+1. Owen Kirby
 1. Owen O'Malley (Apache Hadoop, Hive, and ORC)
 1. Owen Sullivan
 1. Owen Williams (Mixxx Developer)
@@ -1576,6 +1587,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Peder Bergebakken Sundt
 1. Pedro Cambra (Archipelago Repository Project, Software Developer and Open Source Contributor)
 1. Pedro Cunha
+1. Pedro Juan Ferrer Matoses
 1. Pedro Valentim
 1. Percival Lavoie
 1. Perro Tuerto (Programando LIBREros)
@@ -1894,6 +1906,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Theo Schlossnagle
 1. TheSpiritingPoet
 1. Thiago Jung Bauermann (former GDB contributor, Linux kernel contributor)
+1. Thibault Walterspieler (Fullstack developer at Blacksmith)
 1. Thierry Carrez (Open Infrastructure Foundation, Python Software Foundation fellow)
 1. Thijs van der Vossen (Fingertips)
 1. Thomas Belvin
@@ -1987,7 +2000,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Vivia Nikolaidou (GStreamer)
 1. Vivian Lim (Microsoft)
 1. Vladimir Cortés
-1. Vojtěch Vengrin (Gnome translator)
 1. Volkan Yazıcı (Apache Logging Services PMC)
 1. Vyivel
 1. Ward Vandewege (Former FSF staff and FSF member)
