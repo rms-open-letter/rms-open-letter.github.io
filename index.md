@@ -417,6 +417,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Chris Johnson
 1. Chris Klimas (creator and maintainer of Twine)
 1. Chris Koerner (Wikimedia, WordPress)
+1. Chris Lattner (LLVM)
 1. Chris `tweedge` Partridge
 1. Chris Petersen (SeaGL Co-Founder)
 1. Chris Riley
