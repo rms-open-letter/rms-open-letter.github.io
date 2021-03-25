@@ -1581,6 +1581,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Nathan Ritchie
 1. Nathan Shelly
 1. Neal Gompa (Fedora Project contributor, Mageia Project Council Member, Mageia.Org Board Member, openSUSE Project Board Member, OpenMandriva contributor)
+1. Neel Chauhan (FreeBSD Ports Committer, Tor Core Contributor)
 1. Neil Watson (Former CFEngine Community Advisory Board Member)
 1. Nelson Minar
 1. Nic FitzGerald (Co-Founder Sailex)
