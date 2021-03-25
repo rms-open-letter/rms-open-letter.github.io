@@ -10,10 +10,8 @@ Il y a eu suffisamment de tolérance envers les idées et le comportement répug
 
 Nous demandons instamment à ceux qui sont en mesure de le faire de cesser de soutenir la Free Software Foundation. Refuser de contribuer aux projets liés à la FSF et à RMS. Ne prenez pas la parole et n'assistez pas aux événements de la FSF, ou aux événements qui accueillent RMS et sa marque d'intolérance. Nous demandons aux contributeurs aux projets de logiciels libres de prendre position contre le sectarisme et la haine au sein de leurs projets. En faisant ces choses, dites à ces communautés et à la FSF pourquoi.
 
-Nous avons détaillé plusieurs incidents publics du comportement de RMS][1]. Certains d'entre nous ont leurs propres histoires à propos de RMS et de leurs interactions avec lui, des choses qui ne sont pas capturées dans des fils de discussion ou sur des vidéos. Nous espérons que vous lirez ce qui a été partagé et que vous réfléchirez au mal qu'il a fait à notre communauté et aux autres.
+[Nous avons détaillé plusieurs incidents publics du comportement de RMS][1]. Certains d'entre nous ont leurs propres histoires à propos de RMS et de leurs interactions avec lui, des choses qui ne sont pas capturées dans des fils de discussion ou sur des vidéos. Nous espérons que vous lirez ce qui a été partagé et que vous réfléchirez au mal qu'il a fait à notre communauté et aux autres.
 
-1] : https://rms-open-letter.github.io/appendix
+[1]: https://rms-open-letter.github.io/appendix
 
 Pour signer, veuillez envoyer un e-mail à digitalautonomy at riseup.net ou [ouvrez une pull request](https://github.com/rms-open-letter/rms-open-letter.github.io/pulls).
-
-Traduit avec www.DeepL.com/Translator (version gratuite)
