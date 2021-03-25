@@ -51,6 +51,7 @@ Signed,
 1. 3NSoft
 1. Calyx Institute
 1. CommitChange
+1. Dot HQ
 1. Echap
 1. Fivnex
 1. The FreeDOS Project (@freedos_project)
