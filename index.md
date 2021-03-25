@@ -1672,6 +1672,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Ole Streicher (Debian Developer)
 1. Oliver Drotbohm
 1. Oliver Falk (Libravatar project)
+1. Oliver Ni
 1. Oliver Propst (GNOME)
 1. Olivier Berger (FSF member, or associate member since 2002)
 1. Olivier Crête (Collabora, GStreamer)
