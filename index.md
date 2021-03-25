@@ -1685,6 +1685,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Michael B. Klein
 1. Michael Bond (FSF Associate Member)
 1. Michael Carbone (Qubes OS)
+1. Michael Chunko
 1. Michael Dexter
 1. Michael Downey (United Nations Foundation)
 1. Michael Gat
