@@ -68,6 +68,7 @@ Signed,
 1. Mozilla
 1. OBS Project
 1. Open Life Science
+1. Open Observatory of Network Interference (OONI)
 1. Open Source Collective
 1. Open Source Diversity
 1. SUSE
