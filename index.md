@@ -2023,6 +2023,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Will Greenberg (EFF, signing in personal capacity)
 1. Will Hawkins
 1. Will Hunt (`Half-Shot`)
+1. Will Thompson
 1. William Brown (389 Directory Server, SUSE Labs)
 1. William Denton
 1. William D. Jones (`cr1901`)
