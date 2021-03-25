@@ -233,6 +233,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Anthony Nowocien
 1. Anthony Rabbito
 1. Anthony Shaw (Python Software Foundation Fellow, ASF Member)
+1. Antoine Adrien Parent
 1. Antoine Beaupré AKA anarcat (Debian Developer, former FSF member)
 1. Antonela Debiasi
 1. Antonia Calia-Bogan 
