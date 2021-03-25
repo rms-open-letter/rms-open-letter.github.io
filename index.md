@@ -830,6 +830,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. James Daly
 1. James 'jspc' Condron
 1. James Kruth
+1. James LaPlaine (@csangos)
 1. James Renken
 1. James Seconde
 1. James Smith (@floppy)
