@@ -644,6 +644,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. David Muckle
 1. David Newman (recovering network engineer)
 1. David Planella
+1. David Prévot (Debian Member, Globenet President)
 1. David Reid
 1. David Revoy (Pepper&Carrot)
 1. David Rodríguez (@davidjguru, Drupal developer and FLOSS contributor)
