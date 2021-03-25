@@ -1538,6 +1538,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Maarten Beeckmans
 1. Maarten Dirkse
 1. Mackenzie 'maco' Morgan (former Ubuntu Developer Membership Board member)
+1. Mac `sexualrhinoceros` Wilkinson (Coreboot Project Contributor)
 1. Maddison Hellstrom
 1. Madhulika Chambers (NumPy contributor)
 1. Madison `makyo` Scott-Clary
