@@ -738,6 +738,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Dmitry Kochnev
 1. Dmitry Porunov
 1. Dominic Hayes (The Feren OS Developer)
+1. Dominick DiMaggio
 1. Dominika `sdomi` Liberda
 1. Dom Rodriguez (shymega)
 1. Donald Harper (duckunix)
