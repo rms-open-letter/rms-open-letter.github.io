@@ -992,6 +992,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Jade '0x0ade' Macho
 1. Jaden Pleasants
 1. Jae Beojkkoch
+1. JaeYoon Whang
 1. Jake Harrison (@GloomyJD)
 1. Jakob Bornecrantz (Collabora, OpenHMD & Monado Co-Founder)
 1. Jakob 'sur5r' Haufe (Debian Developer)
