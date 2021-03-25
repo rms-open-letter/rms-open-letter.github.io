@@ -13,6 +13,6 @@ Wir ersuchen Personen in entsprechenden Positionen, die Free Software Foundation
 
 [Wir haben verschiedene öffentliche Vorfälle von RMS’s Fehlverhalten aufgelistet][1]. Einige von uns haben ihre eigenen Geschichten über RMS und unsere Interaktionen mit ihm; Begebenheiten, die nicht in E-Mails niedergeschrieben oder auf Video aufgezeichnet wurden. Wir hoffen, dass ihr alles lest, was wir mit euch teilen und das Leid betrachtet, das er unserer Gemeinschaft und anderen angetan hat.
 
-[1]: https://rms-open-letter.github.io/appendix
+[1]: https://rms-open-letter.github.io/appendix.de
 
 Um den Brief zu unterschreiben, schick bitte eine E-Mail an digitalautonomy at riseup.net oder [reiche einen Pull Request ein](https://github.com/rms-open-letter/rms-open-letter.github.io/pulls).
