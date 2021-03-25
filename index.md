@@ -1730,6 +1730,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Ming-ting Yao Wei (Debian Developer, former LXTerminal developer)
 1. Minho Ryang (@minhoryang on Github)
 1. Mirko Boehm (KDE)
+1. Misha Nasledov
 1. Mithun Hunsur
 1. M. Oliver Ghingold
 1. Molly White (@molly on GitHub)
