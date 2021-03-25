@@ -9,16 +9,16 @@
     <div>
       <p>Share</p>
       <a href="https://twitter.com/intent/tweet?text={{site.share_text | uri_escape }}&url={{site.url | uri_escape}}" target="_blank" rel="noopener noreferrer">
-        <img src="{{site.url}}/assets/twitter.svg" alt="Link to share on Twitter">
+        <img src="{{site.url}}{{site.baseurl}}/assets/twitter.svg" alt="Link to share on Twitter">
       </a>
       <a href="http://www.reddit.com/submit?title={{site.share_text | uri_escape }}&url={{site.url | uri_escape}}" target="_blank" rel="noopener noreferrer">
-        <img src="{{site.url}}/assets/reddit.svg" alt="Link to share on Reddit">
+        <img src="{{site.url}}{{site.baseurl}}/assets/reddit.svg" alt="Link to share on Reddit">
       </a>
       <a href="https://www.facebook.com/sharer/sharer.php?u={{site.url | uri_escape }}" target="_blank" rel="noopener noreferrer">
-        <img src="{{site.url}}/assets/facebook.svg" alt="Link to share on Facebook">
+        <img src="{{site.url}}{{site.baseurl}}/assets/facebook.svg" alt="Link to share on Facebook">
       </a>
       <a href="https://www.linkedin.com/shareArticle?url={{site.url}}&summary={{site.share_text | uri_escape}}" target="_blank" rel="noopener noreferrer">
-        <img src="{{site.url}}/assets/linkedin.svg" alt="Link to share on LinkedIn">
+        <img src="{{site.url}}{{site.baseurl}}/assets/linkedin.svg" alt="Link to share on LinkedIn">
       </a>
     </div>
 
