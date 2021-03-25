@@ -64,7 +64,6 @@ Signed,
 1. MidnightBSD Project
 1. MousePaw Media
 1. Mozilla
-1. OBS Project
 1. Open Life Science
 1. Open Source Diversity
 1. Tor Project
@@ -139,8 +138,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Alexandra Moylett
 1. Alexandra Pereira (Collabora)
 1. Alexandra Stehr
-1. Alexandre Dulaunoy (former FSF associate member #53) 
-1. Alexandria Christina Leal et al.
+1. Alexandre Dulaunoy (former FSF associate member #53)
 1. Alexandros Bourantas
 1. Alex Arslan (Julia contributor, former Julia community manager)
 1. Alex Brown
@@ -301,7 +299,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Bernhard Hayden
 1. Bert Hubert (founder of PowerDNS)
 1. Bert JW Regeer (`xistence`)
-1. Bert Raeymaekers
 1. Bert Van de Poel
 1. Be Wilson (Mixxx developer)
 1. Bill Budington (EFF Sr. Staff Technologist, LibrePlanet 2021 Presenter, signed in personal capacity)
@@ -529,7 +526,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Daniel Pasco
 1. Daniel Powell
 1. Daniel Raniz Raneland
-1. Daniel Richard G. (iskunk)
 1. Daniel Soskel
 1. Daniel Srb
 1. Daniel Stone (Collabora, freedesktop.org, Wayland)
@@ -706,10 +702,8 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Evan Prodromou
 1. Evan Sklarski
 1. Evelin Heidel
-1. Evgeni Golov (Debian Developer)
 1. Evpok Padding
 1. Ewen McNeill
-1. Exiele Daniel Fagundes de Oliveira
 1. Ezekiel Hendrickson
 1. Fabiano Fidêncio (GNOME & Fedora Project contributor, Kata Containers Architecture Committee member)
 1. Fabián Rodríguez (`MagicFab`)
@@ -723,6 +717,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Farhad Salehi
 1. Farkhad Akmuratov
 1. Faye Duxovni
+1. Federico Damián Schonborn (@fdschonborn)
 1. Federico Hernandez (@recollir) (taskwarrior alumni)
 1. Federico Mena Quintero (GNOME)
 1. Federico Pontillo
@@ -1074,9 +1069,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Jordi Mallach (Debian)
 1. Jordi Mas (GNOME)
 1. Jordin McEachern
-1. Jorge Gaspar Sanz Salinas
 1. Jorge Jara
-1. Jorge Schrauwen
 1. Jörgen Lundman (OpenZFS)
 1. Jörn Huxhorn
 1. José Antonio Rey (Ubuntu Community Council, freenode Staff)
@@ -1180,7 +1173,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Kirstie Whitaker (Programme Lead for Tools, Practices and Systems, The Alan Turing Institute; Core contributor to The Turing Way project.)
 1. Konstantina Papadea
 1. Konstantin Baranovskiy
-1. Kosta Harlan
 1. Koz Ross (former FSF associate student member)
 1. kpcyrd (Arch Linux, Debian, Reproducible Builds)
 1. Kris Buytaert
@@ -1712,7 +1704,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Rute Correia
 1. Ryan A. Pavlik (Collabora, Monado Co-Founder, OpenXR Spec Editor)
 1. Ryan C. Cooper (@cooperrc)
-1. Ryan Castellucci (@ryancdotorg, former LUGOD officer)
 1. Ryan Clark
 1. Ryan (DasGeek) (Host of Destination Linux, Partner of Destination Linux, LLC.)
 1. Ryan Finnie (Finnix founder; Debian; Ubuntu)
@@ -1749,7 +1740,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Sam Tobin-Hochstadt
 1. Samuel Scheiderich
 1. Sam van der Kris
-1. Sammy Fung (GNOME, Mozilla, Open Source Hong Kong, PyCon HK)
 1. Sander Steffann (@sjmsteffann / sjms)
 1. Sander van der Waal (Waag)
 1. Sandro Jäckel (NixOS contributor)
@@ -1802,7 +1792,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Shaohua Wen (former Mozilla zh-CN L10n Team Leader)
 1. Shaun Mouton
 1. Shaun Murphy
-1. Shaurya (`coolshaurya`)
 1. Shawon Ashraf
 1. Shelly Coen
 1. Sherman Mui
@@ -1936,7 +1925,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Tom Prince
 1. Tom Sorensen (Zathrus on freenode irc)
 1. Tom "spot" Callaway (Fedora Council member, former LP speaker)
-1. TomoeMami
 1. Tony Colston
 1. Tony Richards
 1. Tor Lillqvist (Collabora)
