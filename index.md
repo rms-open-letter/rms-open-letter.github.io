@@ -451,6 +451,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Cassidy Kattler
 1. Catherine Stihler (CEO, Creative Commons)
 1. Cathy Warner
+1. Cedric Kienzler
 1. Celeste Horgan
 1. Chad Booker
 1. Chad Robinson
