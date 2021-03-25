@@ -1,5 +1,5 @@
 ---
-title: Petition to remove the Board of the Free Software Foundation and Richard M. Stallman from the GNU Project
+title: An open letter to remove Richard M. Stallman from all leadership positions
 description: We, the undersigned, are calling for the removal of the entire Board of the Free Software Foundation, for its support of toxic and abusive behavior by Richard M. Stallman.
 image: /assets/og-image.png
 twitter:
