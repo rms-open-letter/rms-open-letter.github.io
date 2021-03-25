@@ -1581,6 +1581,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Peder Bergebakken Sundt
 1. Pedro Cambra (Archipelago Repository Project, Software Developer and Open Source Contributor)
 1. Pedro Cunha
+1. Pedro Juan Ferrer Matoses
 1. Pedro Valentim
 1. Percival Lavoie
 1. Perro Tuerto (Programando LIBREros)
