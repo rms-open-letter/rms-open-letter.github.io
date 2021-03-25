@@ -255,6 +255,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Andrew Kane
 1. Andrew McDermott
 1. Andrew Pinski (GCC contributor)
+1. Andrew Schwartzmeyer (Microsoft, @andschwa)
 1. Andrew Stewart (@stewart)
 1. Andrew Sutherland
 1. Andrew Thorp (`@athorp96`)
