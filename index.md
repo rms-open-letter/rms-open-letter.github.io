@@ -1032,6 +1032,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Ioanna Dimitriou (Igalia)
 1. Ioannis Cherouvim
 1. Irina Rempt
+1. Iris Morelle (Battle For Wesnoth Project developer and Board of Directors)
 1. Isaac Ferreira Filho (aka "yzakius", GNOME contributor)
 1. Isabela Bagueros
 1. Isak Sunde Singh
