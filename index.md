@@ -68,8 +68,6 @@ Signed,
 1. Open Life Science
 1. Open Source Collective
 1. Open Source Diversity
-1. SUSE
-1. TEN7
 1. Tor Project
 1. Sanctuary Computer
 1. X.org Foundation
@@ -276,6 +274,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Aura Vulcano
 1. Avery "stars" M-W
 1. Avital Kelman
+1. Avi Douglen
 1. Avi Zajac
 1. Bailey (the2048)
 1. Bandie (Chaos Computer Club, pam_panic, former FSF member)
@@ -2085,7 +2084,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Wim Taymans (PipeWire, GStreamer)
 1. Wolthera van Hövell (Krita/KDE)
 1. Wulf C. Krueger (Exherbo Linux)
-1. Xabier Rodríguez Calvar (Igalia)
+1. Xabier Rodríguez Calvar
 1. Xavier Claessens (Collabora)
 1. Xavier Tilley
 1. Xavi Francisco
@@ -2117,55 +2116,4 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Zander Brown (GNOME and more)
 1. Zeltzin Rodríguez
 1. Zvi Gilboa
-1. JeanHeyd Meneide (ISO/IEC JTC1 SC22 WG14 - Programming Languages C,
-Project Editor)
-1. James Shrig
-1. Yannick Sabau
-1. Sebastian Kügler (KDE)
-1. Dirk Deimeke
-1. Virgile Ferroukh
-1. Giancarlo Razzolini (Arch Linux Developer)
-1. Rafael Tovar
-1. Bert Boeland (Drupal Netherlands)
-1. David Wolfpaw
-1. Jae Beojkkoch
-1. Karsten Gerloff (former president, Free Software Foundation Europe,
-  2009-2015)
-1. Niels G. W. Serup
-1. Sally Jo Cunningham (Waikato University)
-1. Colin Tuckley
-1. Al Sweigart (Python Software Foundation fellow, former Noisebridge director)
-1. Eric Pigal
-1. Signed Kiran Graefenstedt
-1. Jürgen Nickelsen
-1. Yalın Pala
-1. Benoit Sarda (infrastructure architect)
-1. Claudia Hogan (SUSE, Chief of Staff)
-1. Drew DeVore (Jupiter Broadcasting)
-1. David Bordowitz
-1. Rob White
-1. Eric Casteleijn
-1. Clayton Dewey (Drupal contributor)
-1. Ivan Stegic
-1. Nina Eleanor Alter
-1. Trevor Bell
-1. void witch
-1. Aaron Wasserman
-1. Brian Bowling
-1. Matthew Stedman
-1. Đorđe Mančić
-1. Dave Lester
-1. Subhashish P. (open culture advocate)
-1. Dave Marwick (Twitter)
-1. Karthik Kumar Viswanathan
-1. Joachim Weinbrenner
-1. Melissa Di Donato (CEO, SUSE)
-1. seb1g
-1. April Moh
-1. Tristan D. Bohnen
-1. Caluã de Lacerda Pataca
-1. James O'Keefe (Massachusetts Pirate Party)
-1. Tim Eisenmann
-1. İbrahim Yöndemli
-1. Tyler Childs (D13 Labs)
 <!-- Do not add your name to the bottom, it needs adding in alphabetical order above -->
