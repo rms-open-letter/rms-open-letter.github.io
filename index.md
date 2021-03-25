@@ -1495,6 +1495,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Noel Cower
 1. Noel Georgi
 1. Nora Moldestad
+1. Nordine Bittich
 1. Norbert Tretkowski (Debian Developer, FSFE Supporter)
 1. Odhiambo Dormnic (@ayimdomnic)
 1. Ole Bang Ottosen (Former Core Team member Production/Community Joomla!/OpenSourceMatters)
