@@ -1181,6 +1181,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Leon N.
 1. Leo Wagner
 1. Liam R. Howlett (kernel developer)
+1. Lili McCoy
 1. Lilly Winfree (Open Knowledge Foundation)
 1. Lily Ballard
 1. Lily Foster (@lilyinstarlight)
