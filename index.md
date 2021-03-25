@@ -270,6 +270,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Aria Buckles
 1. Ariadne Conill (Alpine Developer, pkgconf)
 1. Ariela Wenner
+1. Arnav Jindal (aka Daggy1234, founder DaggyTech)
 1. Arne Brasseur
 1. Arne Visscher
 1. Arno Broekhof
@@ -599,6 +600,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Dave Camp (Mozilla, Former GNOME Foundation)
 1. Dave Cottlehuber
 1. Dave F. Kleinschmidt
+1. Dave Jones (@waveform80)
 1. Dave Lester
 1. Dave Marwick (Twitter)
 1. David Anderson (Tailscale, MetalLB, Go contributor)
@@ -1537,6 +1539,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Michael Gat
 1. Michael Hoffmann
 1. Michael Juarez
+1. Michael Käufl
 1. Michael Kees
 1. Michael Kohler (Mozilla volunteer)
 1. Michael Laird
@@ -2076,6 +2079,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Thomas Jepp
 1. Thomas Kluyver (various Python projects)
 1. Thomas Maszerowski
+1. Thomas Pintaric
 1. Thomas Renger
 1. Thomas Rodgers (libstdc++ contributor)
 1. Thomas Sirack
