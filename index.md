@@ -407,7 +407,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Bryce Adelstein Lelbach aka wash (US Programming Language Standards Chair, ISO C++ Library Evolution Chair)
 1. Bryce A. Lynch (Director, R&D, Virtual Adept Networks)
 1. Burak Sezer
-1. Burny Boi (Glowers Club member)
 1. Byron Lagrone
 1. c47
 1. Cadence Ember
