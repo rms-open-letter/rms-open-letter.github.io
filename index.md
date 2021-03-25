@@ -651,6 +651,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Dmitry Porunov
 1. dmt
 1. Dominic Hayes (The Feren OS Developer)
+1. Dominika `sdomi` Liberda
 1. Dom Rodriguez (shymega)
 1. Donald Harper (duckunix)
 1. Donald Lobo (Founder CiviCRM and Project Tech4Dev)
