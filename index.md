@@ -155,6 +155,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Alex Tuckey
 1. Alex Volkov
 1. Alex Macafee (@lxmcf)
+1. Alex YeongGwon Jeong
 1. Alfred Neumayer (UBports developer)
 1. Alice Berg
 1. Alicia Boya Garcia (Igalia)
