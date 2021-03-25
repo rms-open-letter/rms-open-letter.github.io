@@ -469,9 +469,9 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Chris Riley
 1. Chris Rose
 1. Chris Sienkiewicz
-1. Chris Turra (@cturra)
 1. Chrissy LeMaire (@cl - dbatools creator)
 1. Chris Talib (Source! - a radio show on FLOSS, Le Reset - queer hackerspace)
+1. Chris Turra (@cturra)
 1. Christian Brauner (Linux Kernel Hacker, LXC maintainer)
 1. Christian Brunschen
 1. Christian Buhtz
