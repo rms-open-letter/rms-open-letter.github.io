@@ -924,7 +924,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Jim Perrin (CentOS Project, Fedora Project)
 1. Joanna Janet Zaitseva-Doyle (aka @aoeixsz4 / `aoei`)
 1. João Carlos Almeida
-1. João da Silva (IslandC0der)
 1. João "Johnny" Ciocca (DCG5511)
 1. João Veiga
 1. Joby Elliott
@@ -1235,6 +1234,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Matthew Peveler
 1. Matthew Pounsett
 1. Matthew R. Green (NetBSD core, bozohttpd, ircII)
+1. Matthew Helmke (open source author)
 1. Matthew Robertson
 1. Matthew Seal
 1. Matthew Stone
