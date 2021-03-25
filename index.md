@@ -1635,6 +1635,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Nicolas Fleurot
 1. Nicolas Machado
 1. Nicolás `nomeacuerdo` Arteaga
+1. Nicolás Javier Salazar Echeverry
 1. Nicolas Schier (Debian maintainer)
 1. Nicole Faerber
 1. Nicole Martinez
