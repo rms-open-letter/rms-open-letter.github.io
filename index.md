@@ -1993,7 +1993,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Vivia Nikolaidou (GStreamer)
 1. Vivian Lim (Microsoft)
 1. Vladimir Cortés
-1. Vojtěch Vengrin (Gnome translator)
 1. Volkan Yazıcı (Apache Logging Services PMC)
 1. Vyivel
 1. Ward Vandewege (Former FSF staff and FSF member)
