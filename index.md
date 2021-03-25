@@ -712,6 +712,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Dylan Graham (Kubernetes)
 1. Dylan Hardison (@dylan_hardison, Bugzilla Project)
 1. Dylan McCall (@dylanmccall)
+1. Ecmel Berk Canlıer
 1. Eddie Horton (Northwestern State University)
 1. Eddie Kay
 1. Edel Grace
