@@ -2,6 +2,8 @@ remote_theme: rms-open-letter/minima
 languages:
   - name: "Brazilian Portuguese"
     code: "pt"
+  - name: "Dutch"
+    code: "nl"
   - name: "French"
     code: "fr"
   - name: "German"

@@ -1604,6 +1604,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Matthew (0tcQd) Sams
 1. Matthew Adams
 1. Matthew Ahrens (OpenZFS)
+1. Matthew Bakhtiari
 1. Matthew Cowie
 1. Matthew Fernandez
 1. Matthew Helmke (open source author)
