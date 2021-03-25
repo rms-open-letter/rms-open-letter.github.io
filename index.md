@@ -579,6 +579,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. David Grynnerup Pedersen
 1. David Holmes
 1. David JM Emmett
+1. David J. Fiddes
 1. David Jones (former FSF associate member)
 1. David Jones (kerning consultant)
 1. David Lopez (@gonzoucab)
