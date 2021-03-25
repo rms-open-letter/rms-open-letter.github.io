@@ -1136,6 +1136,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Jona Azizaj (Fedora Project, Open Source Diversity)
 1. Jonas Ådahl (GNOME, freedesktop.org, Fedora)
 1. Jonas Anderö
+1. Jonas Meurer (Debian)
 1. Jonas Obrist (PyCon JP Association Board Member)
 1. Jonas Schwartz
 1. Jonas Verhofsté
