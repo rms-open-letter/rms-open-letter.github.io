@@ -947,6 +947,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Giancarlo Razzolini (Arch Linux Developer)
 1. Gianluca Bine
 1. Gianni Ceccarelli
+1. Gil Forcada Codinachs
 1. gimbar
 1. Gina Häußge (OctoPrint maintainer)
 1. Gina Likins (Red Hat)
