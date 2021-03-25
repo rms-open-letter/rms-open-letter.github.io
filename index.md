@@ -1608,6 +1608,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Nikos Roussos (FSFE, GA member)
 1. Nils Adermann
 1. Nils Philippsen (Fedora Project contributor)
+1. Nils Ratusznik (LinuxFr.org team member, NetBSD/pkgsrc developer)
 1. Nina Eleanor Alter
 1. Nirbheek Chauhan (GStreamer, GNOME, Mesonbuild; former Gentoo developer)
 1. Nisha Kumar
