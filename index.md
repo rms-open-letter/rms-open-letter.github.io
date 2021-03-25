@@ -1934,6 +1934,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Thomas Castleman (`Batcastle`, Drauger OS Founder and Lead Developer)
 1. Thomas Di Giacomo (CTO, SUSE)
 1. Thomas Guillem (VLC developer)
+1. Thomas Jepp
 1. Thomas Kluyver (various Python projects)
 1. Thomas Maszerowski
 1. Thomas Renger
