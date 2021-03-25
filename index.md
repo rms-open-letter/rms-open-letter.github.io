@@ -417,6 +417,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Carsten Duch
 1. Caryn Holt (MidnightBSD)
 1. Casper Sørensen
+1. Cas Eliëns
 1. Cas Rusnov (free software contributor, former Debian developer)
 1. Cassidy James Blaede (elementary co-founder, GNOME Foundation member)
 1. Cassidy Kattler
