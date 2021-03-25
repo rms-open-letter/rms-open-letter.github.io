@@ -49,6 +49,7 @@ Signed,
 <!-- Any additional signees should go below this comment in alphabetical order (according to `sort -u`) -->
 
 1. 3NSoft
+1. Aaru Data Preservation Suite
 1. Calyx Institute
 1. CommitChange
 1. Dot HQ
@@ -1562,6 +1563,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Nalin Dahyabhai
 1. Naomi Ceder (former director & past chair, Python Software Foundation)
 1. Natacha Rault (les sans pagEs)
+1. Natalia Portillo (aka claunia, Aaru Data Preservation Suite, Claunia Ltd., Hit Save!)
 1. Natalie Amery (née Jonathan)
 1. Natan B. C. "`natanbc`"
 1. Nate Hill (Director, Metropolitan New York Library Council)
