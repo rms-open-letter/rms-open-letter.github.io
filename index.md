@@ -727,7 +727,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Dimitris Maroulidis
 1. Dine Gim
 1. Dirk Deimeke
-1. Dirk Hohndel
+1. Dirk Hohndel (VMware, Subsurface maintainer)
 1. DJ Chase (Fedora Project contributor, FSF associate member)
 1. D. Joe Anderson
 1. Dmitri Goosens (@dgoosens)
