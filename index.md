@@ -706,6 +706,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Evelin Heidel
 1. Evpok Padding
 1. Ewen McNeill
+1. Exiele Daniel Fagundes de Oliveira
 1. Ezekiel Hendrickson
 1. Fabiano Fidêncio (GNOME & Fedora Project contributor, Kata Containers Architecture Committee member)
 1. Fabián Rodríguez (`MagicFab`)
