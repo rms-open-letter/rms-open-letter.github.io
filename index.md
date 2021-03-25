@@ -1489,6 +1489,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Martin Wimpress (Former FSF member)
 1. Martyn Welch (Collabora)
 1. Mason Jones
+1. Matheus Fantinel
 1. Mathieu Comandon (Lutris)
 1. Matt
 1. Matt Barron
