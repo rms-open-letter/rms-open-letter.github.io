@@ -1481,6 +1481,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Lukasz Erecinski
 1. Łukasz Jendrysik
 1. Łukasz Langa (Python Software Foundation Fellow, Python 3.8 and 3.9 Release Manager)
+1. Łukasz Sowa
 1. Luke Crouch
 1. Luke Faraone (Debian FTP master, Ubuntu developer, former English Wikipedia Arbitration Committee member)
 1. Luke Jones (asus-nb-ctrl, ASUS ROG laptop hacker/support)
