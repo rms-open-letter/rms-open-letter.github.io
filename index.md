@@ -552,6 +552,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. David C Yang (UNIST, Korea)
 1. David Demelier
 1. David D. Smith
+1. David E. Battey
 1. David Gilman
 1. David Glick (Plone contributor)
 1. David (gnuconsulting) Bishop
