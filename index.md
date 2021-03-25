@@ -2208,6 +2208,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. William Starkey
 1. William Theaker (Former FSF staff member)
 1. William Waites (London School of Hygiene and Tropical Medicine, Former FSF Member)
+1. William Wilson (Ubuntu Developer)
 1. Williham Williham Totland
 1. Will Lachance (Mozilla)
 1. Will Thompson
