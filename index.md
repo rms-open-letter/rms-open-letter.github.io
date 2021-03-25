@@ -234,6 +234,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Antoine Beaupré AKA anarcat (Debian Developer, former FSF member)
 1. Antonela Debiasi
 1. Antonia Calia-Bogan 
+1. Antonin Delpeuch (OpenRefine)
 1. Antonio Caggiano (Collabora)
 1. Antonio Tauro (Toni Tauro, @eyenx)
 1. Antony Jordan
