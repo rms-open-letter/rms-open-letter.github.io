@@ -57,6 +57,7 @@ Signed,
 1. GlobaLeaks
 1. GNOME Foundation
 1. The HardenedBSD Foundation / The HardenedBSD Project
+1. Metaform
 1. MidnightBSD Project
 1. MousePaw Media
 1. Mozilla
@@ -73,7 +74,6 @@ Signed,
 <small>(For individual signatures, institutional affiliation is provided for
 identification purposes only and does not constitute endorsement.)</small>
 
-1. 2048 4096
 1. 8ara7a
 1. Aadil Ayub
 1. Aaron Carson
@@ -242,6 +242,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Aura Vulcano
 1. Avery "stars" M-W
 1. Avital Kelman
+1. Bailey (the2048)
 1. Bandie (Chaos Computer Club, pam_panic, former FSF member)
 1. Baptiste Fontaine
 1. Barnaby Wilks
