@@ -1814,6 +1814,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Scott Starr
 1. Scott Sweeny
 1. Scott Walters
+1. Sean Davis (Xfce, Xubuntu)
 1. Sean Eric Fagan
 1. Sean Howard
 1. Sean Knox
