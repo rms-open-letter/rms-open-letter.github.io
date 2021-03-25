@@ -309,6 +309,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Arun Raghavan (PulseAudio, GStreamer, GNOME; formerly Gentoo)
 1. Ashish Dixit
 1. Ashley Norris
+1. Ask Bjørn Hansen (NTP Pool Project, perl.org)
 1. Assaf Rutenberg
 1. Asta Halkjær From
 1. Asumu Takikawa (Igalia)
