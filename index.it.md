@@ -1,0 +1,17 @@
+*2021-03-23*
+
+Richard M. Stallman, conosciuto anche come RMS, rappresenta da molto tempo un problema per la comunità del software libero. Tra le accuse di scorrettezza, ci sono comportamenti di tipo misogino, discriminanti nei confronti dei disabili e transfobici, che non sono tollerabili nel software libero, tra i diritti digitali e nelle comunità tecnologiche. A seguito del suo recente reintegro nel consiglio della Free Software Foundation, chiediamo che l'intero consiglio della FSF si dimetta e che RMS venga rimosso da tutte le posizioni di leadership.
+
+Noi, i firmatari, crediamo nell'assoluta necessità dell'autonomia digitale e nel ruolo della libertà degli utenti per la protezione dei diritti umani fondamentali. Per realizzare la promessa di tutto quello che la libertà del software rende possibile, ci deve essere un cambiamento radicale nella comunità. Crediamo in un presente e in un futuro in cui la tecnologia sostenga - e non opprima - le persone. Sappiamo che questo è possibile solo in un mondo dove la tecnologia è costruita per rispettare i diritti fondamentali dell'essere umano. Idee che sono state divulgate in qualche modo da Richard M. Stallman, ma che non gli attribuiscono il diritto di parlare per noi. Non condoniamo le sue azioni e le sue opinioni, e non riconosciamo la sua leadership o la leadership della Free Software Foundation nella sua forma attuale.
+
+Le idee e i comportamenti riprovevoli di RMS sono stati tollerati per troppo tempo, e non possiamo continuare a lasciare che una persona danneggi il nostro lavoro. Nella comunità non c'è spazio per persone come Richard M. Stallman, e non continueremo a subire il suo comportamento, a dargli un ruolo di leadership, o a considerare lui e le sue idee pericolose e offensive come accettabili.
+
+Chiediamo la rimozione dell'intero consiglio della Free Software Foundation. Si tratta delle persone che hanno dato potere a RMS per anni, e gli hanno permesso i suoi comportamenti riprovevoli. E lo fanno per l'ennesima volta permettendogli di rientrare nel consiglio della FSF. È tempo che RMS faccia un passo indietro dalla comunità del software libero, dell'etica tecnologica, dei diritti digitali e della tecnologia, perché non è assolutamente in grado di essere il leader di cui abbiamo bisogno. Chiediamo anche che Richard M. Stallman venga rimosso da tutte le posizioni di leadership, incluso il progetto GNU.
+
+Chiediamo a tutti coloro che sono nella posizione di poterlo fare di smettere di sostenere la Free Software Foundation, e di rifiutare di contribuire a progetti legati a FSF e RMS. Evitiamo di parlare o partecipare agli eventi della FSF, o agli eventi che accolgono RMS e il suo atteggiamento intollerante. Chiediamo a tutti coloro che collaborano a progetti di software libero di prendere posizione contro il bigottismo e l'odio nei loro progetti, e di farlo spiegando il perché alla comunità e alla FSF.
+
+[Abbiamo elencato diversi incidenti pubblici relativi al comportamento di RMS][1]. Alcuni di noi hanno avuto interazioni con lui, che non sono catturate nei thread di e-mail o nei video. Speriamo che leggiate quello che è stato condiviso e valutiate il danno che ha fatto alla nostra comunità e ai singoli individui.
+
+[1]: https://rms-open-letter.github.io/appendix
+
+Per firmare, inviate un e-mail a digitalautonomy at riseup.net oppure [fate una pull request](https://github.com/rms-open-letter/rms-open-letter.github.io/pulls).
