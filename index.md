@@ -855,6 +855,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Felix Fontein
 1. Félix 'passcod' Saparelli
 1. Felix 'thegoliath' Golatofski
+1. Felix Zielcke (Debian Maintainer)
 1. F / erbridge
 1. Ferdia McKeogh
 1. Fernando Cosentino (github user fbcosentino)
