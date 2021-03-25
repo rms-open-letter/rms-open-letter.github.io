@@ -1639,6 +1639,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Nick Richards
 1. Nick Ruest
 1. Nick Sieger
+1. Nick Wanninger (@nickwanninger)
 1. Niclas Zeising (FreeBSD committer)
 1. Nicolai von Neudeck
 1. Nicolás Alvarez (KDE)
