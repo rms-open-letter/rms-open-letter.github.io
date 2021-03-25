@@ -808,6 +808,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Isaque Galdino de Araujo (GNOME Foundation member)
 1. Italo Nicola (Collabora)
 1. Italo Vignoli (OSI Director, LibreItalia Honorary President)
+1. Ivan Hudson (@sidpatchy)
 1. Ivana Kellyérová
 1. Jaana Dogan
 1. Jacek Pruciak (@juniorjpdj)
