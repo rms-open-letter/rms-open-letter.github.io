@@ -1586,6 +1586,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Robbie Harwood (Fedora developer)
 1. Robert Barat
 1. Robert Berg
+1. Robert C Jennings (Ubuntu member, kernel dev)
 1. Robert Foss (Linux kernel dev)
 1. Robert J. Hansen (formerly of GnuPG)
 1. Robert Joslyn
