@@ -1359,6 +1359,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Maximiliano Ferrer G. (@PandaFoss)
 1. Maxine Aubrey (NixOS contributor)
 1. Max Perrello
+1. Maya L.
 1. Maya Rashish (NetBSD)
 1. Meadhbh Hamrick
 1. Megan Marsh
