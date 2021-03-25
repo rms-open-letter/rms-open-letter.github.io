@@ -805,6 +805,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Eric Unangst
 1. Erik Faye-Lund (Collabora, Mesa Developer)
 1. Erik Johnson
+1. Erik Nygren
 1. Erik Osheim
 1. Erik Sundell (Project Juptyer)
 1. Erik Swanson
