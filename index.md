@@ -2313,6 +2313,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Yann Ramin
 1. Yao Li (former FSF Monthly Student Associate Member)
 1. Yaroslav Kargapolov
+1. Yeaji Shin (@Bloodevil)
 1. Yegor Timoshenko (NixOS contributor)
 1. Yorik van Havre
 1. Youko Omori (Collabora)
