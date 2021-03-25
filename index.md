@@ -404,6 +404,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Brett Sheffield (Librecast Project)
 1. Brett Smith (Former FSF staff and member)
 1. Brian Bennett
+1. Brian Breniser (Red Hat app dev consultant)
 1. Brian Bowling
 1. Brian Chen (`betaveros`)
 1. Brian Curtin (Fellow at Python Software Foundation, former board member)
