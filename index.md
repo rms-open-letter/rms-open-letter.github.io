@@ -886,6 +886,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Filip S. (`fantoro`)
 1. Fintan Horan
 1. Firdavs Zakhirov
+1. Flavio Curella (@fcurella)
 1. Florian Müllner (GNOME)
 1. Florian Neumann
 1. Florian Segginger
