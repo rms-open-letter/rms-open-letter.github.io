@@ -17,7 +17,7 @@ These translations have been contributed by our community translators. Thanks!
 - [Turkish][tr]
 
 [pt_BR]: index.pt.md
-[fr]: https://rms-open-letter.github.io/index.fr
+[fr]: index.fr.md
 [es]: index.es.md
 [tr]: index.tr.md
 
