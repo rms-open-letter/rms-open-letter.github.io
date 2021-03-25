@@ -1311,6 +1311,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Madhulika Chambers (NumPy contributor)
 1. Madison `makyo` Scott-Clary
 1. Mads Johansen
+1. Mae Dartmann
 1. Magnus Frühling (Freifunk Frankfurt contributor, OpenWrt committer, Chaos Computer Club)
 1. Magnus Krüger
 1. Mairi Dulaney (Fedora Project contributor)
