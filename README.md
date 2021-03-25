@@ -27,7 +27,12 @@ These translations have been contributed by our community translators. Thanks!
 [pl]: index.pl.md
 [it]: index.it.md
 
-Want to contribute? See [#1186](https://github.com/rms-open-letter/rms-open-letter.github.io/issues/1186).
+Want to contribute? Adding a new language can be done in 3 steps :
+1. Copy `index.md` to `index.xx.md` and translate it.
+2. Copy `appendix.md` to `appendix.xx.md` and translate it.
+3. Add your new translation to `README.md` and `_config.yml`.
+
+_Note: Do not forget to update the link in `index` pointing to the `appendix` translation if you are adding one._
 
 ## Contributing
 
