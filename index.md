@@ -766,6 +766,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Germán Poo-Caamaño (GNOME)
 1. Gerry Demaret
 1. Gertjan Lettink a.k.a. Knurpht
+1. Giacomo Alessandroni (Wikimedia Italia)
 1. Gianluca Bine
 1. Gianni Ceccarelli
 1. gimbar
@@ -1674,6 +1675,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Ryan Schmidt
 1. Ryu "SaidBySolo" JuHeon
 1. Sadie Powell (InspIRCd)
+1. Sai Vamshi (Business Analyst)
 1. Sajid Ali
 1. Sam Bailey
 1. Sambhav Saggi
