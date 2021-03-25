@@ -6,7 +6,7 @@ twitter:
   card: summary_large_image
 ---
 
-*2021-03-23*
+_2021-03-23_
 
 Richard M. Stallman, frequently known as RMS, has been a dangerous force in the free software community for a long time. He has shown himself to be misogynist, ableist, and transphobic, among other serious accusations of impropriety. These sorts of beliefs have no place in the free software, digital rights, and tech communities. With his recent reinstatement to the Board of Directors of the Free Software Foundation, we call for the entire Board of the FSF to step down and for RMS to be removed from all leadership positions.
 
@@ -42,7 +42,6 @@ Signed,
 - Joan Touzet (Apache CouchDB PMC, Former Apache Software Foundation Director)
 - Luis Villa (Former Director of the Open Source Initiative and the GNOME Foundation; contributor to the GPL v3 drafting process)
 - Stefano Zacchiroli (Former Debian Project Leader and Former Director of the Open Source Initiative)
-
 
 ### Organizations
 
@@ -152,7 +151,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Alexandra Moylett
 1. Alexandra Pereira (Collabora)
 1. Alexandra Stehr
-1. Alexandre Dulaunoy (former FSF associate member #53) 
+1. Alexandre Dulaunoy (former FSF associate member #53)
 1. Alexandria Christina Leal et al.
 1. Alexandros Bourantas
 1. Alex Arslan (Julia contributor, former Julia community manager)
@@ -257,7 +256,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Antoine Adrien Parent
 1. Antoine Beaupré AKA anarcat (Debian Developer, former FSF member)
 1. Antonela Debiasi
-1. Antonia Calia-Bogan 
+1. Antonia Calia-Bogan
 1. Antonin Delpeuch (OpenRefine)
 1. Antonio Caggiano (Collabora)
 1. Antonio Tauro (Toni Tauro, @eyenx)
@@ -476,7 +475,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Christian Heimes (Python)
 1. Christian Hergert (GNOME)
 1. Christian Kellner (GNOME, Fedora)
-1. Christian 'penyaskito' López Espínola (Drupal contributor, ArgoUML contributor (inactive), OpenLayers contributor (inactive), co-translator of *ProducingOSS*)
+1. Christian 'penyaskito' López Espínola (Drupal contributor, ArgoUML contributor (inactive), OpenLayers contributor (inactive), co-translator of _ProducingOSS_)
 1. Christian Salamea
 1. Christian `shibumi` Rebischke (Arch Linux)
 1. Christina Dunbar-Hester (Author of _Hacking Diversity_)
@@ -1176,6 +1175,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Jordi Mallach (Debian)
 1. Jordi Mas (GNOME)
 1. Jordin McEachern
+1. Jorge Acero
 1. Jorge Gaspar Sanz Salinas
 1. Jorge Jara
 1. Jörgen Lundman (OpenZFS)
@@ -1275,7 +1275,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Kevin Bloch
 1. Kevin Carson (researcher on postcapitalist transition)
 1. Kevin Gimbel
-1. Kevin Johnson   
+1. Kevin Johnson
 1. Kevin Jullien (`@jukefr`)
 1. Kevin Lannen
 1. Kevin López B.
@@ -1424,7 +1424,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Marcel Kuehlhorn (openSUSE contributor)
 1. Marcelo Teider Lopes
 1. Marcel Timmer
-1. Marcin Konowalczyk (they/them, University of Oxford) 
+1. Marcin Konowalczyk (they/them, University of Oxford)
 1. Marco 'eukara' Hladik
 1. Marco Matos (Blockchain Director & Cloud Architect at 23 Bulbs)
 1. Marcos Sebastiao
@@ -1558,7 +1558,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Michael T. Lombardi (@michaeltlombardi, Puppet developer)
 1. Michal Siedlaczek
 1. Michel Alexandre Salim (Fedora Project contributor)
-1. Miguel Raz Guzmán Macedo, (Julia Language, UNAM, @miguelraz on Github)   
+1. Miguel Raz Guzmán Macedo, (Julia Language, UNAM, @miguelraz on Github)
 1. Mikalai Birukou (3NSoft)
 1. Mika Pflüger
 1. Mike Doughney (co-founder, Digital Express Group / DIGEX Incorporated)
@@ -1743,7 +1743,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Peter Ludikovsky
 1. Peter Robinson (Fedora developer, former Fedora Board and Council member)
 1. Peter Sharpe (@peterdsharpe)
-1. Peter Stein 
+1. Peter Stein
 1. Peter Van Eynde
 1. Peter K. G. Williams (`@pkgw`)
 1. Petrohs
@@ -2156,7 +2156,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Victoria "tdfischer" Fierce (Former KDE Multimedia and Phonon-GStreamer maintainer)
 1. Victor Westerhuis
 1. Viktoriia Leontieva (Product Designer at GitHub)
-1. Vincent Broz  (`@apiology`)
+1. Vincent Broz (`@apiology`)
 1. Vincent Esche
 1. Vincent Huang Jiahao
 1. Vincent Milum Jr (@DarkainMX)
