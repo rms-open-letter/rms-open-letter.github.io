@@ -1253,6 +1253,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Lulu Cathrinus "erkin" Grimalkin
 1. Luna Duclos
 1. Lunar (ex-Debian, ex-Tor, ex-reproducible-builds.org, Nos Oignons, La Dérivation)
+1. Lup Yuen Lee
 1. Lupe Canaviri
 1. Lux Amelia Phifollen
 1. Lyre Calliope
