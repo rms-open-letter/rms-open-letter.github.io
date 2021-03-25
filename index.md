@@ -471,6 +471,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Clare Macrae
 1. Clarissa Borges (GNOME Foundation member)
 1. classabbyamp
+1. Claudia Beresford
 1. Claudio Saavedra (former GNOME maintainer and GNOME Foundation member)
 1. Claudius Link
 1. Clint Moore
