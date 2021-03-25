@@ -1425,6 +1425,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Kyle Mitchell
 1. Kyle Riedemann
 1. Kyle Robbertze (Debian Developer)
+1. Lacey Williams Henschel (former conference chair of DjangoCon US)
 1. Lachlan Campbell
 1. Lætitia Avrot (PostgreSQL contributor, Postgres Women co-founder)
 1. Lander Van den Bulcke
