@@ -1133,7 +1133,8 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Jeremy Flores (@jnf)
 1. Jeremy Katz (former Fedora Board member)
 1. Jeremy Meiss
-1. Jeremy Soller (System76 Principal Engineer, Pop!\_OS Maintainer, Redox OS BDFL)
+1. Jeremy Soller (System76 Principal Engineer, Pop!\_OS Maintainer, Redox OS BDF
+1. Jeremy Tinley (@techwolf359)
 1. Jeremy Whiting (Collabora)
 1. J. Eric Ivancich
 1. Jerome Charaoui (Debian Developer, former FSF member)
