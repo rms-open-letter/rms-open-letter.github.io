@@ -1969,6 +1969,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Seunguk Lee
 1. Shadi Alostaz
 1. Shane Coughlan
+1. Shane Curcuru (Punderthings Consulting)
 1. Shane Fagan
 1. Shane Snover
 1. Shannon Dosemagen
