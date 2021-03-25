@@ -1863,6 +1863,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Theodor Tollersrud
 1. Theo Schlossnagle
 1. TheSpiritingPoet
+1. Thiago Jung Bauermann (former GDB contributor, Linux kernel contributor)
 1. Thierry Carrez (Open Infrastructure Foundation, Python Software Foundation fellow)
 1. Thijs van der Vossen (Fingertips)
 1. Thomas Belvin
