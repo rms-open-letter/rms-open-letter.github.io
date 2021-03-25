@@ -1098,6 +1098,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Julien Cristau (Debian, X.Org, Mozilla)
 1. Julien Humbert
 1. Julien Rabier
+1. Julien Sagot
 1. julien tayon
 1. Julien Voisin
 1. Julien Wajsberg (Mozilla)
