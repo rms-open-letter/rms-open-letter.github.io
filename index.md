@@ -1797,6 +1797,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Shaohua Wen (former Mozilla zh-CN L10n Team Leader)
 1. Shaun Mouton
 1. Shaun Murphy
+1. Shaurya (`coolshaurya`)
 1. Shawon Ashraf
 1. Shelly Coen
 1. Sherman Mui
