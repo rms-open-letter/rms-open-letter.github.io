@@ -1,1 +1,4 @@
 remote_theme: jukefr/minima
+languages:
+  - name: "French"
+    code: "fr"
