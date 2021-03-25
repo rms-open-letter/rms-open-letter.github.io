@@ -1314,6 +1314,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Matt Travi
 1. Matteo Bigoi
 1. Matteo Tammaccaro
+1. Matthew Adams
 1. Matthew (0tcQd) Sams
 1. Matthew Ahrens (OpenZFS)
 1. Matthew Cowie
