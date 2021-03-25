@@ -51,6 +51,7 @@ Signed,
 1. 3NSoft
 1. Calyx Institute
 1. CommitChange
+1. Dot HQ
 1. Echap
 1. Fivnex
 1. The FreeDOS Project (@freedos_project)
@@ -153,6 +154,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Alex Stapleton
 1. Alex Tuckey
 1. Alex Volkov
+1. Alex Macafee (@lxmcf)
 1. Alfred Neumayer (UBports developer)
 1. Alice Berg
 1. Alicia Boya Garcia (Igalia)
@@ -459,6 +461,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Claudio Saavedra (former GNOME maintainer and GNOME Foundation member)
 1. Claudius Link
 1. C. Morgan Hamill (former FSF member)
+1. Clint Moore
 1. Coby Sher
 1. Cole Helbling (NixOS contributor)
 1. Colin Ian King
@@ -682,6 +685,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Eva Lauren Kelly (web & console homebrew developer, aka thejsa)
 1. Evan Brown
 1. Evan Hirsh
+1. Evan Hunt (BIND maintainer, ISC)
 1. Evangelos Paterakis
 1. Evan Prodromou
 1. Evan Sklarski
@@ -890,9 +894,11 @@ identification purposes only and does not constitute endorsement.)</small>
 1. James Colliander (2i2c.org Co-Founder, Callysto.ca Co-Founder, Syzygy.ca Co-Founder, PIMS Director)
 1. James Daly
 1. James Henstridge (Ubuntu developer, former GNOME Foundation director)
+1. James Huff
 1. James 'jspc' Condron
 1. James Kruth
 1. James LaPlaine (@csangos)
+1. James Pancoast
 1. James Renken
 1. James Seconde
 1. James Smith (@floppy)
@@ -1594,6 +1600,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Richard Brown (Former openSUSE Chairman)
 1. Richard Guy Briggs (FreeS/WAN kernel, OCLUG founding board, kaudit)
 1. Richard J. Barbalace (CEO, Ailectric)
+1. Richard Littauer
 1. Richard Lowe
 1. Richard Maw
 1. Richard Mehlinger
@@ -1860,6 +1867,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Tobias Klausmann
 1. Tobias 'knilch' Jordan
 1. Tobias Rueetschi
+1. Todd Bush
 1. Todd C. Miller (sudo maintainer, OpenBSD developer)
 1. Tollef Fog Heen (Former Debian Technical Committee member)
 1. Tom Brantseg
