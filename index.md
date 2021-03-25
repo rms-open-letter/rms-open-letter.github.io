@@ -670,6 +670,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Donald Lobo (Founder CiviCRM and Project Tech4Dev)
 1. Don Goodman-Wilson (Founding Member and resident ethicist, Organization for Ethical Source)
 1. Donnie Barnes (former Red Hat employee #2)
+1. Donny Johnson
 1. Đorđe Mančić
 1. Dorothea Salo
 1. Doug Harple
