@@ -780,6 +780,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Enum Cohrs
 1. Eric A. Smalling (@ericsmalling)
 1. Eric Casteleijn
+1. Eric Dallo (@ericdallo)
 1. Eric Gisse
 1. Eric Hodel
 1. Eric Klein
