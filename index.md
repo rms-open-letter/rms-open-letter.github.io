@@ -1809,6 +1809,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Partha Sarathy Thanka Raj
 1. Pascal Jufer
 1. Pascal Klaßen (@klassenpascal22)
+1. Pasha Captanovska (@almaceleste, genderqueer)
 1. Pat Allan
 1. Pat Hickey
 1. Patrick Brunier (Former GNU webmaster, Owner of Brunjee - Liberating Technology)
