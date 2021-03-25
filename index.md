@@ -651,6 +651,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Ed Summers
 1. Eduardo Bellido Bellido (former FSFE supporter)
 1. Eduardo Habkost
+1. Eduardo Terrell Ferrari Otubo
 1. Eduardo Pacheco
 1. Eduard Tolosa (@edu4rdshl - BlackArch Linux and Nspawn.org developer, findomain.app founder)
 1. Edward L. Platt (i3 Detroit cofounder, NetworkX contributor)
