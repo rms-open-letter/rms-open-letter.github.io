@@ -600,6 +600,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Emery Hemingway
 1. Emilie Karlsson
 1. Emilio Escobar (Ettercap Project)
+1. Emily 'forivall' Klassen
 1. Emily Carlsen
 1. Emily Strickland
 1. Emma Best (Distributed Denial of Secrets)
