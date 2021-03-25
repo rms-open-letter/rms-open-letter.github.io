@@ -731,6 +731,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Eric Schrock
 1. Eric Shamow
 1. Eric "Sheppy" Shepherd
+1. Eric A. Smalling (@ericsmalling)
 1. Eric Unangst
 1. Erik Faye-Lund (Collabora, Mesa Developer)
 1. Erik Johnson
