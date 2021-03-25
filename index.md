@@ -783,6 +783,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Eleanor Ashton
 1. Elen Eisendle
 1. Eli Heuer
+1. Elio Qoshi
 1. Eliott Lavier
 1. Elizabeth Anne Cray
 1. Elizabeth Bell (Mozilla)
