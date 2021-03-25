@@ -600,6 +600,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Dave Camp (Mozilla, Former GNOME Foundation)
 1. Dave Cottlehuber
 1. Dave F. Kleinschmidt
+1. Dave Jones (@waveform80)
 1. Dave Lester
 1. Dave Marwick (Twitter)
 1. David Anderson (Tailscale, MetalLB, Go contributor)
