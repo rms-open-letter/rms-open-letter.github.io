@@ -1208,6 +1208,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. julien tayon
 1. Julien Voisin
 1. Julien Wajsberg (Mozilla)
+1. Juliette Tisseyre
 1. June Taylor
 1. Juno Suárez (@junosz)
 1. Jürgen Geuter (@tante)
