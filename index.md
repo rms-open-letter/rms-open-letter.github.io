@@ -566,6 +566,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Doug Hellmann (Python Software Foundation Fellow, former OpenStack Technical Committee)
 1. Doug Targett (Collabora)
 1. Drew Fisher
+1. Drew Marjorie Uhlmann (@d-m-u)
 1. Drew Winstel (@drewbrew on GitHub, DjangoCon US 2019 Organizer, Python Software Foundation individual member)
 1. Dr Neil Smith
 1. Dustin Mitchell (Engineer, Mozilla)
