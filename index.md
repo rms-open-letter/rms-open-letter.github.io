@@ -1124,6 +1124,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Joe Carpinelli
 1. Joe Harley
 1. Joe Julian
+1. Joe Nosie
 1. Joel Bethke (OBS Project)
 1. Joel Denning (full time open source developer)
 1. Joel 'kirch' Kirchartz
