@@ -1008,6 +1008,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Jason Crain (GNOME)
 1. Jason DeTiberus (@detiber)
 1. Jason Garber
+1. Jason Gillam
 1. Jason Griffey
 1. Jason Harley
 1. Jason LACAM (open-source and free software defender)
