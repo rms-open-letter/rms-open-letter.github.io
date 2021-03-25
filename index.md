@@ -56,6 +56,7 @@ Signed,
 1. DataMade
 1. Dot HQ
 1. Echap
+1. Exherbo Linux
 1. Fivnex
 1. Freedom of the Press Foundation
 1. The FreeDOS Project (@freedos_project)
