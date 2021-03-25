@@ -14,3 +14,5 @@ languages:
     code: "es"
   - name: "Turkish"
     code: "tr"
+theme: minima
+share_text: I support this call for the entire Board of the FSF to step down and for Richard M. Stallman to be removed from all leadership positions.
