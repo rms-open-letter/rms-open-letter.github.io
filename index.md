@@ -649,6 +649,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Edel Grace
 1. Ed Marshall
 1. Ed Summers
+1. Edoardo Tenani
 1. Eduardo Bellido Bellido (former FSFE supporter)
 1. Eduardo Habkost
 1. Eduardo Terrell Ferrari Otubo
