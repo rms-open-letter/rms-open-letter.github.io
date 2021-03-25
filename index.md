@@ -1426,6 +1426,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Myriam Rita Schweingruber
 1. Myrle Krantz (ASF member)
 1. Naglis Lesčinskas
+1. Nabarun Pal (Kubernetes 1.21 Release Lead, PyCon India 2020/2021 Tech Lead)
 1. Nalin Dahyabhai
 1. Naomi Ceder (former director & past chair, Python Software Foundation)
 1. Natacha Rault (les sans pagEs)
