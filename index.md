@@ -1325,6 +1325,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Melissa Boiko
 1. Melissa Draper
 1. Mélissa Richard
+1. Melody ✨
 1. Merlijn Sebrechts (`galgalesh`)
 1. Micah Anderson
 1. Micah E Scott
@@ -1962,4 +1963,5 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Zander Brown (GNOME and more)
 1. Zeltzin Rodríguez
 1. Zvi Gilboa
+
 <!-- Do not add your name to the bottom, it needs adding in alphabetical order above -->
