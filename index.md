@@ -813,6 +813,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Félix 'passcod' Saparelli
 1. Felix 'thegoliath' Golatofski
 1. F / erbridge
+1. Ferdia McKeogh
 1. Fernando Cosentino (github user fbcosentino)
 1. Fernando Pérez (recipient of 2012 FSF Award for the Advancement of Free Software, IPython creator, Project Jupyter co-founder and co-director, NumFOCUS co-founder, 2i2c.org co-founder).
 1. Filipe Laíns (Arch Linux TU, PyPA maintainer)
