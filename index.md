@@ -594,6 +594,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Dan McDonald (illumos)
 1. Dan McKinley (Mozilla)
 1. Danny Bouimad
+1. Danny Colin (Mozilla Contributor)
 1. Danny Roberts
 1. Danny "Rushyo" Moules (Security researcher, EFF Member, Former Mozilla contributor)
 1. Dan Orzechowski
