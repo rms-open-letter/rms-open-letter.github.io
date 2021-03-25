@@ -155,6 +155,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Alex Macafee (@lxmcf)
 1. Alex YeongGwon Jeong
 1. Alex McCabe (@alexdmccabe, Red Hat, Drupal community)
+1. Alex Jones ( VP JPMC, Principal Engineer )
 1. Alex Murray
 1. Alex Ose
 1. Alex Reynolds (BEDOPS and other open-source bioinformatics projects)
