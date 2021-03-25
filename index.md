@@ -1280,6 +1280,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Marius Gedminas
 1. Marius Gripsgard (UBports Foundation founder, Lead Developer and Board of Directors, Ubuntu Member)
 1. Marius Quabeck (NerdZoom Media)
+1. Mark Baggett
 1. Mark Brown (Linux, Debian)
 1. Mark Filion (Collabora)
 1. Mark Musante
