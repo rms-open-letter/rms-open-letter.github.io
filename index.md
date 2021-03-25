@@ -1630,6 +1630,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Ricky White
 1. Ridley Combs (rcombs)
 1. Rigin Oommen
+1. Riley V. (@hopolapola)
 1. Rima Sghaier (GlobaLeaks Outreach Director)
 1. Roan Kattouw
 1. Robbie Harwood (Fedora developer)
