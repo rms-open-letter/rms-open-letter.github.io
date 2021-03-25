@@ -1932,6 +1932,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Solly Ross (Kubernetes KubeBuilder maintainer)
 1. SomeHacker
 1. Song Li
+1. Sophie Herold (GNOME Foundation member)
 1. Soren L. Hansen
 1. Spencer Hunley
 1. Srayan Jana
