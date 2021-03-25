@@ -1,3 +1,11 @@
+---
+title: An open letter to remove Richard M. Stallman from all leadership positions
+description: We, the undersigned, call for the entire Board of the FSF to step down and for Richard M. Stallman to be removed from all leadership positions. We will not continue suffering his behavior, giving him a leadership role, or otherwise holding him and his hurtful and dangerous ideology as acceptable.
+image: /assets/og-image.png
+twitter:
+  card: summary_large_image
+---
+
 *2021-03-23*
 
 Richard M. Stallman, frequently known as RMS, has been a dangerous force in the free software community for a long time. He has shown himself to be misogynist, ableist, and transphobic, among other serious accusations of impropriety. These sorts of beliefs have no place in the free software, digital rights, and tech communities. With his recent reinstatement to the Board of Directors of the Free Software Foundation, we call for the entire Board of the FSF to step down and for RMS to be removed from all leadership positions.
