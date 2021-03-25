@@ -2113,6 +2113,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Stephan Lachnit (Debian Maintainer)
 1. Stephen A. Goss
 1. Stephen Augustus (Co-founder of the Inclusive Naming Initiative, CNCF SIG Contributor Strategy Chair, KubeCon + CloudNativeCon Chair, Kubernetes SIG Release Chair, Dex maintainer)
+1. Stephen Canon
 1. Stephen Hemminger (Iproute2 Maintainer)
 1. Stephen Jacobs
 1. Stephen O'Grady
