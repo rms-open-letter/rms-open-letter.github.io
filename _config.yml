@@ -1,1 +1,4 @@
 remote_theme: rms-open-letter/minima
+
+  - name: "Russian"
+    code: "ru"
