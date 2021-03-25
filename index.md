@@ -10,9 +10,9 @@ _2021-03-23_
 
 Richard M. Stallman, frequently known as RMS, has been a dangerous force in the free software community for a long time. He has shown himself to be misogynist, ableist, and transphobic, among other serious accusations of impropriety. These sorts of beliefs have no place in the free software, digital rights, and tech communities. With his recent reinstatement to the Board of Directors of the Free Software Foundation, we call for the entire Board of the FSF to step down and for RMS to be removed from all leadership positions.
 
-We, the undersigned, believe in the necessity of digital autonomy and the powerful role user freedom plays in protecting our fundamental human rights. In order to realize the promise of everything software freedom makes possible, there must be radical change within the community. We believe in a present and a future where all technology empowers – not oppresses – people. We know that this is only possible in a world where technology is built to pay respect to our rights at its most foundational levels. While these ideas have been popularized in some form by Richard M. Stallman, he does not speak for us. We do not condone his actions and opinions. We do not acknowledge his leadership or the leadership of the Free Software Foundation as it stands today.
+We, the undersigned, believe in the necessity of digital autonomy and the powerful role user freedom plays in protecting our fundamental human rights. In order to realize the promise of everything software freedom makes possible, there must be radical change within the community. We believe in a present and a future where all technology empowers - not oppresses - people. We know that this is only possible in a world where technology is built to pay respect to our rights at its most foundational levels. While these ideas have been popularized in some form by Richard M. Stallman, he does not speak for us. We do not condone his actions and opinions. We do not acknowledge his leadership or the leadership of the Free Software Foundation as it stands today.
 
-There has been enough tolerance of RMS’s repugnant ideas and behavior. We cannot continue to let one person ruin the meaning of our work. Our communities have no space for people like Richard M. Stallman, and we will not continue suffering his behavior, giving him a leadership role, or otherwise holding him and his hurtful and dangerous ideology as acceptable.
+There has been enough tolerance of RMS's repugnant ideas and behavior. We cannot continue to let one person ruin the meaning of our work. Our communities have no space for people like Richard M. Stallman, and we will not continue suffering his behavior, giving him a leadership role, or otherwise holding him and his hurtful and dangerous ideology as acceptable.
 
 **We are calling for the removal of the entire Board of the Free Software Foundation.** These are people who have enabled and empowered RMS for years. They demonstrate this again by permitting him to rejoin the FSF Board. It is time for RMS to step back from the free software, tech ethics, digital rights, and tech communities, for he cannot provide the leadership we need. **We are also calling for Richard M. Stallman to be removed from all leadership positions, including the GNU Project.**
 
@@ -107,7 +107,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Ada Worcester (`pikhq`; former Sabotage Linux developer)
 1. Adam A. (Developer, Innatical)
 1. Adam Barber
-1. Adam Čalovka
+1. Adam ?alovka
 1. Adam Fisk (Brave New Software Project, Inc)
 1. Adam H. Leventhal
 1. Adam Jackson (X.org, Fedora)
@@ -227,7 +227,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Andrew Stewart (@stewart)
 1. Andrew Sutherland
 1. Andrew Thorp (`@athorp96`)
-1. Andrija Subotić
+1. Andrija Suboti?
 1. Andy Brody (FSF associate member)
 1. Andy "@grifferz" Smith (both personally and on behalf of BitFolk Ltd)
 1. Andy Isaacson (@radii, founding member of Noisebridge)
@@ -472,7 +472,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Christian Brunschen
 1. Christian Buhtz
 1. Christian Glombek (Fedora Project contributor)
-1. Christian “haseHH” Hase
+1. Christian "haseHH" Hase
 1. Christian Heimes (Python)
 1. Christian Hergert (GNOME)
 1. Christian Kellner (GNOME, Fedora)
@@ -682,7 +682,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Don Goodman-Wilson (Founding Member and resident ethicist, Organization for Ethical Source)
 1. Donnie Barnes (former Red Hat employee #2)
 1. Donny Johnson
-1. Đorđe Mančić
+1. ?or?e Man?i?
 1. Dorothea Salo
 1. Doug Harple
 1. Doug Hellmann (Python Software Foundation Fellow, former OpenStack Technical Committee)
@@ -875,8 +875,8 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Giovanni Campagna (former GNOME contributor)
 1. Giovanni Pellerano (GlobaLeaks Lead Developer)
 1. Giuseppe Lavagetto
-1. Gökay Şatır (Collabora)
-1. Göktuğ Kayaalp
+1. Gökay ?at?r (Collabora)
+1. Göktu? Kayaalp
 1. Gordon Byrnes
 1. Gordon Haff (OSI Member)
 1. Gordon Stratton
@@ -956,7 +956,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Ian Jackson (Former Debian Project Leader; former President, Software in the Public Interest; GNU Maintainer)
 1. Ian Macdonald
 1. Ian Stapleton Cordasco
-1. İbrahim Yöndemli
+1. ?brahim Yöndemli
 1. Idan Gazit (Django project alumnus)
 1. Igmar Palsenberg
 1. Ignacio Torres Masdeu
@@ -995,7 +995,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Jake Harrison (@GloomyJD)
 1. Jakob Bornecrantz (Collabora, OpenHMD & Monado Co-Founder)
 1. Jakob 'sur5r' Haufe (Debian Developer)
-1. Jakub Kozłowski
+1. Jakub Koz?owski
 1. James Alexander
 1. James Antill
 1. James Belchamber
@@ -1064,7 +1064,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Jeff Fortin T. (former president of the GNOME Foundation)
 1. Jeff Hammond
 1. Jeffrey Blinksma (Co-founder of Robin's Media Team)
-1. Jeffrey “Jefro” Osier-Mixon
+1. Jeffrey "Jefro" Osier-Mixon
 1. Jeffrey Sica (Kubernetes SIG-UI Chair)
 1. Jeffrey Strauss
 1. Jeffrey Yasskin
@@ -1386,8 +1386,8 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Lukas Häusermann
 1. Lukas Märdian (Ubuntu Core Developer)
 1. Lukasz Erecinski
-1. Łukasz Jendrysik
-1. Łukasz Langa (Python Software Foundation Fellow, Python 3.8 and 3.9 Release Manager)
+1. ?ukasz Jendrysik
+1. ?ukasz Langa (Python Software Foundation Fellow, Python 3.8 and 3.9 Release Manager)
 1. Luke Crouch
 1. Luke Faraone (Debian FTP master, Ubuntu developer, former English Wikipedia Arbitration Committee member)
 1. Luke Jones (asus-nb-ctrl, ASUS ROG laptop hacker/support)
@@ -1525,9 +1525,10 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Melissa Draper
 1. Mélissa Richard
 1. Melissa Weber Mendonça
-1. Melody ✨
+1. Melody ?
 1. Merlijn Sebrechts (`galgalesh`)
 1. Mic Whitehorn-Gillam
+1. Mica Eliza Geßner
 1. Micah Anderson
 1. Micah E Scott
 1. Micah Lee
@@ -1594,7 +1595,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Myriam Rita Schweingruber
 1. Myrle Krantz (ASF member)
 1. Nabarun Pal (Kubernetes 1.21 Release Lead, PyCon India 2020/2021 Tech Lead)
-1. Naglis Lesčinskas
+1. Naglis Les?inskas
 1. Nalin Dahyabhai
 1. Naomi Ceder (former director & past chair, Python Software Foundation)
 1. Nat Budin
@@ -1676,8 +1677,8 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Olivier Crête (Collabora, GStreamer)
 1. Olivier Duquesne (DaffyDuke, French LUG volonteer)
 1. Omar Akkila (Collabora)
-1. Ondřej Surý (Debian Developer; Director of DNS Engineering @ ISC)
-1. Orhun Parmaksız (Arch Linux maintainer)
+1. Ond?ej Surý (Debian Developer; Director of DNS Engineering @ ISC)
+1. Orhun Parmaks?z (Arch Linux maintainer)
 1. Orion Montoya (former rms-assist, former FSF, GPLv3 drafting-process software developer)
 1. Otavio Carneiro (2carneiros.tv)
 1. Otavio Salvador (former FSF associate member, former Debian Installer Release Manager)
@@ -1709,7 +1710,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Patrick Robinson
 1. Patrick Wu (Ubuntu developer)
 1. Patric Mueller (NetHack DevTeam member)
-1. Patryk Nogaś (@PatrykNog)
+1. Patryk Noga? (@PatrykNog)
 1. Paul Adams
 1. Paula de la Hoz Garrido (Interferencias association president and cofounder)
 1. Paul Aguilar (`penserbjorne` from LIDSOL)
@@ -1725,7 +1726,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Paul Wankadia
 1. Paul Woolcock
 1. Paul Wouters (Libreswan, Fedora developer)
-1. Paweł Krupa
+1. Pawe? Krupa
 1. Peder Bergebakken Sundt
 1. Pedro Cambra (Archipelago Repository Project, Software Developer and Open Source Contributor)
 1. Pedro Cunha
@@ -1768,7 +1769,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Pierros Papadeas (Board member, Libre Space Foundation)
 1. Pieter De Praetere
 1. Pietro Gagliardi (`andlabs`; currently at Google)
-1. Piotr Drąg (GNOME, Mozilla and Fedora contributor)
+1. Piotr Dr?g (GNOME, Mozilla and Fedora contributor)
 1. Pirate Praveen (Debian Developer, Member of FSF India Working Group)
 1. Pj Sheffield.
 1. Pranav Teegavarapu
@@ -1956,7 +1957,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Sébastien Villemot (Debian Developer, FSF associate member)
 1. Seebs
 1. Selam Gano
-1. SeongHyun Lee (Kevin Lee / 케빈 리)
+1. SeongHyun Lee (Kevin Lee / ?? ?)
 1. Seraphim R.P. (Kerygma Digital)
 1. Seth Aldini
 1. Seth Hillbrand
@@ -2177,7 +2178,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Vivian Lim (Microsoft)
 1. Vladimir Cortés
 1. void witch
-1. Volkan Yazıcı (Apache Logging Services PMC)
+1. Volkan Yaz?c? (Apache Logging Services PMC)
 1. Vyivel
 1. Ward Vandewege (Former FSF staff and FSF member)
 1. Wayne M. Thornton, B.S., CPDT (Co-Founder & Project Manager VIRATRACE)
@@ -2219,7 +2220,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Xavi Francisco
 1. Xav Paice
 1. Yadav Lamichhane
-1. Yalın Pala
+1. Yal?n Pala
 1. Yangwook Jeong (@Yangeok)
 1. Yannick Sabau
 1. Yann Ramin
