@@ -49,12 +49,12 @@ Signed,
 <!-- Any additional signees should go below this comment in alphabetical order (according to `sort -u`) -->
 
 1. 3NSoft
-1. Aaru Data Preservation Suite
 1. Calyx Institute
 1. CommitChange
 1. Dot HQ
 1. Echap
 1. Fivnex
+1. Freedom of the Press Foundation
 1. The FreeDOS Project (@freedos_project)
 1. Globenet
 1. GlobaLeaks
@@ -68,7 +68,6 @@ Signed,
 1. Mozilla
 1. OBS Project
 1. Open Life Science
-1. Open Observatory of Network Interference (OONI)
 1. Open Source Collective
 1. Open Source Diversity
 1. SUSE
@@ -101,7 +100,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Abigail Brady (former GNOME developer)
 1. Abigail Cabunoc Mayes
 1. Achraf Belkahla (@bkmd100)
-1. Ada Worcester (`pikhq`; former Sabotage Linux developer)
 1. Adam A. (Developer, Innatical)
 1. Adam Barber
 1. Adam Čalovka
@@ -647,7 +645,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Didier 'OdyX' Raboud (Debian Developer, former Debian Technical Committee chair)
 1. Diego Pino (Archipelago Repository Project, Tech Lead)
 1. Dieter Maes
-1. Digit (@doawoo)
 1. Diligent Circle (Project: Starfighter maintainer, Naev contributor, former FSF associate member)
 1. Dillon Pentz (OBS Project Developer)
 1. Dilyn Corner (KISS Linux BDFL)
@@ -1029,7 +1026,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Jason Harley
 1. Jason LACAM (open-source and free software defender)
 1. Jason Robinson
-1. Jason Rosenzweig
 1. Jason Tubnor
 1. Jassie Badion (Collabora)
 1. Javier Martinez Canillas (Fedora developer)
@@ -1137,7 +1133,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Jonas Schwartz
 1. Jonas Verhofsté
 1. Jonatas Baldin
-1. Jonathan Behrens
 1. Jonathan Blandford (GNOME)
 1. Jonathan Carter (Debian Project Leader, former FSF member and one of the top referrers (#3066))
 1. Jonathan de Jong (`ShadowJonathan`)
@@ -1402,7 +1397,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Marco 'eukara' Hladik
 1. Marco Matos (Blockchain Director & Cloud Architect at 23 Bulbs)
 1. Marcos Sebastiao
-1. Marcus Müller (Former GNU Radio Maintainer, GNU Radio General Assembly member)
 1. Marcus Weiner
 1. Marek Kubica
 1. Margarita Manterola (Debian Developer, member of the Debian Technical Committee)
@@ -1569,7 +1563,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Nalin Dahyabhai
 1. Naomi Ceder (former director & past chair, Python Software Foundation)
 1. Natacha Rault (les sans pagEs)
-1. Natalia Portillo (aka claunia, Aaru Data Preservation Suite, Claunia Ltd., Hit Save!)
 1. Natalie Amery (née Jonathan)
 1. Natan B. C. "`natanbc`"
 1. Nate Hill (Director, Metropolitan New York Library Council)
@@ -1638,7 +1631,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Ole Streicher (Debian Developer)
 1. Oliver Drotbohm
 1. Oliver Falk (Libravatar project)
-1. Oliver Propst (GNOME)
 1. Olivier Berger (FSF member, or associate member since 2002)
 1. Olivier Crête (Collabora, GStreamer)
 1. Olivier Duquesne (DaffyDuke, French LUG volonteer)
@@ -1757,7 +1749,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. rany
 1. Rayan Das (@raydeeam)
 1. Raymon Skjørten Hansen
-1. Red Huang (@gcaaa31928)
 1. Reed Loden
 1. Reese Rivers (@Fussmatte)
 1. Reese "xsychoreese" Todd
