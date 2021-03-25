@@ -967,6 +967,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Jens Georg (GNOME Foundation member)
 1. Jen Zajac
 1. Jeong Arm (@kjwon15)
+1. Jeongeun Kim (`jkim`; Igalia)
 1. Jeremiah C. Foster
 1. Jeremie Miller (Jabber/XMPP)
 1. Jeremy Allison (Co-Creator of the Samba project)
