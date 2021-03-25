@@ -1967,6 +1967,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Rémi Verschelde (Godot Engine, Mageia)
 1. Rémy Grünblatt
 1. Renata Rocha
+1. Renato Botelho (FreeBSD developer)
 1. Renaud Lepage
 1. René Ladan (FreeBSD Developer)
 1. Reuben Morais
