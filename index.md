@@ -34,6 +34,7 @@ Signed,
 - Joan Touzet (Apache CouchDB PMC, Former Apache Software Foundation Director)
 - Luis Villa (Former Director of the Open Source Initiative and the GNOME Foundation; contributor to the GPL v3 drafting process)
 - Stefano Zacchiroli (Former Debian Project Leader and Former Director of the Open Source Initiative)
+- Donald Lobo (Founder CiviCRM and Project Tech4Dev)
 
 
 ### Organizations
