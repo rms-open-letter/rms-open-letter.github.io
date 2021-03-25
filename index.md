@@ -1741,6 +1741,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Paulino Michelazzo (Founder Brazilian Drupal Association, PT-BR Drupal revisor, Pinguino de Honor)
 1. Paul McLanahan (Engineer at Mozilla)
 1. Paul Moore (Linux Kernel maintainer, libseccomp maintainer)
+1. Paulo Henrique de Lima Santana (Debian Developer)
 1. Paul Oldham
 1. Paul Tagliamonte (Debian Developer and Former Director of the Open Source Initiative)
 1. Paul Visscher (former GNU chief webmaster)
