@@ -58,6 +58,7 @@ Signed,
 1. Globenet
 1. GlobaLeaks
 1. GNOME Foundation
+1. GNU Radio
 1. Innatical
 1. The HardenedBSD Foundation / The HardenedBSD Project
 1. Metaform
@@ -627,6 +628,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Delan Azabani (Igalia)
 1. Denis Evsyukov
 1. Dennis Schubert (Mozilla, former diaspora\* maintainer)
+1. Derek Kozel (GNU Radio President)
 1. Derek Payton (Founder/Executive Director, Root Access Hackerspace; Former FSF Associate Member)
 1. Derrell Piper
 1. Desiree Zamora Garcia (A List Apart)
