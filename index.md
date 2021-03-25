@@ -533,6 +533,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Daltro Augusto (@daltroaugusto)
 1. Damian Senn
 1. Damien Duportal (CloudBees, @dduportal, Jenkins, Asciidoctor)
+1. Damien Mathieu (@dmathieu)
 1. Damien Stanton (@damienstanton)
 1. Dan Arel (owner, ThinkPrivacy.ch)
 1. Dan Bornstein (@danfuzz)
