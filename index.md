@@ -2005,7 +2005,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Renaud Lepage
 1. René Ladan (FreeBSD Developer)
 1. Reuben Morais
-1. Rhett Aultman (they/them)
+1. Rhett Aultman (they/them, @roadriverrail)
 1. Rhonda D'Vine (Debian Developer, Open Source Diversity)
 1. Rhys Davies
 1. Rhys Powell
@@ -2487,4 +2487,32 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Zander Brown (GNOME and more)
 1. Zeltzin Rodríguez
 1. Zvi Gilboa
+1. NotNite
+1. Derric Atzrott
+1. J. Bruce Fields (kernel developer at Red Hat)
+1. John Olson
+1. Colin Mahns (former FSF member)
+1. Emily Gonyer
+1. Steven R. Ringwald
+1. Ciaran McCarthy
+1. Martin Albisetti (Ubuntu)
+1. Tobi Smethurst
+1. Sebastián Monía
+1. Ben Reinhold
+1. Deb Goodkin
+1. Mia Nordentoft (Former FSF member)
+1. Silas Laspada
+1. Phil Hagelberg
+1. River Espinosa
+1. Ben Reichert
+1. Skylar Thorne
+1. Stefan Schindler
+1. Leonard Richardson
+1. Melissa Logan
+1. Madelyn Mayne
+1. Smokey Ardisson (former libwpd and Camino contributor)
+1. Myriam Jessier
+1. Robert Fruchtman
+1. Pouhiou Noénaute (co-director of Framasoft)
+1. Augustin Delporte
 <!-- Do not add your name to the bottom, it needs adding in alphabetical order above -->
