@@ -400,6 +400,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Britta Gustafson
 1. Britt Gresham (`demophoon`)
 1. Britt Yazel (Former GNOME Foundation Director)
+1. Brunno dos Santos (`@squiter`)
 1. Bruno de Paula Kinoshita
 1. Bruno Girin
 1. Bryan Bishop
@@ -452,6 +453,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Cassidy Kattler
 1. Catherine Stihler (CEO, Creative Commons)
 1. Cathy Warner
+1. Cedric Kienzler
 1. Celeste Horgan
 1. Chad Booker
 1. Chad Robinson
@@ -466,6 +468,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Charlie Kravetz
 1. Charlotte Masterson (Hardware and R&D manager at Fivnex)
 1. Chen Chang
+1. Chjara Yebgui (tuxcrafting)
 1. Chloe Cota (@sweetpavement)
 1. Chloe Ramos (`Chaspen`)
 1. Chris Adams (@acdha)
@@ -638,6 +641,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Dave Jones (@waveform80)
 1. Dave Lester
 1. Dave Marwick (Twitter)
+1. Dave Smart
 1. David Anderson (Tailscale, MetalLB, Go contributor)
 1. David A. Symons
 1. David Bordowitz
@@ -1593,6 +1597,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Matt Lee (Libre.fm, former member of the GNU Project, former FSF staff)
 1. Matt Ray (former FSF member)
 1. Matt Travi
+1. Maurice Meyer (`morre`)
 1. Mauro Lizaur (Former Debian Developer)
 1. Max Bruckner (`FSMaxB`)
 1. Max Burke
@@ -1778,6 +1783,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Ondřej Surý (Debian Developer; Director of DNS Engineering @ ISC)
 1. Orhun Parmaksız (Arch Linux maintainer)
 1. Orion Montoya (former rms-assist, former FSF, GPLv3 drafting-process software developer)
+1. Osama Esmail
 1. Otavio Carneiro (2carneiros.tv)
 1. Otavio Salvador (former FSF associate member, former Debian Installer Release Manager)
 1. Owen Anderson
@@ -1884,6 +1890,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Rafael Bautista
 1. Rafael Silva
 1. Rafael Tovar
+1. Rafał Kołucki
 1. Raffaele Messuti
 1. Raghavendra Kamath (raghukamath) (Illustrator & Designer / Krita volunteer)
 1. raichoo (maintainer and contributor for various open source projects)
@@ -2207,6 +2214,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Thomas Rodgers (libstdc++ contributor)
 1. Thomas Sirack
 1. Thomas Wouters (former GNU contributor)
+1. Thomas Winkelmann (diamantth)
 1. Thom Chiovoloni
 1. Thorsten Behrens (director, The Document Foundation)
 1. Thorsten Leemhuis (Fedora and Linux kernel contributor)
