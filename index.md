@@ -1710,6 +1710,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Peter Huene
 1. Peter Hunt
 1. Peter Hutterer
+1. Peter C. Jentsch
 1. Peter Jones (Fedora developer)
 1. Peter Ludikovsky
 1. Peter Robinson (Fedora developer, former Fedora Board and Council member)
