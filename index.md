@@ -80,10 +80,13 @@ Signed,
 1. Open Source Collective
 1. Open Source Diversity
 1. Public Laboratory for Open Technology and Science
+1. Riseup Networks
+1. Sanctuary Computer
 1. SUSE
 1. TEN7
 1. Tor Project
-1. Sanctuary Computer
+1. Velvetyne – Libre and Open Source Foundry
+1. wiquaya.org
 1. X.org Foundation
 
 ### Individuals
@@ -2409,4 +2412,24 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Zvi Gilboa
 1. Baciu Florin-George ('bfgelectronics',BFG-E#2734)
 1. Afraz Khan (@mrafrazkhan)
+1. 1. Antonio Terceiro (Debian Developer, FSF associate member)
+1. Emma Mulqueeny OBE
+1. Andrew Kane
+1. Markiyan Kryvonis
+1. Morgan Kelly
+1. Felice Damken
+1. Noah Ackerman
+1. Christian Ledermann
+1. Gregory Grebe
+1. Romina Tidona
+1. Eric Freedman Goldhagen (Founding member, Openflows Community Technology Cooperative)
+1. Emily Qin
+1. Amelia Ikeda
+1. Rasmus Lerdorf (PHP Project Founder)
+1. Guido Panebianco
+1. Paulo Pinto
+1. Katie Gradowski
+1. Samantha N. Bueno (Fedora Project)
+1. Michel Morin
+1. John Mark Ockerbloom
 <!-- Do not add your name to the bottom, it needs adding in alphabetical order above -->
