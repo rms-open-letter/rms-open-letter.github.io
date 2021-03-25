@@ -852,6 +852,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Gustavo Noronha (Collabora)
 1. Gustavo Padovan (Collabora, Linux Kernel)
 1. Gustavo Santarém Silva
+1. Gustavo Soares (PlayzinhoAgro, OSM Mapper)
 1. Guy Lunardi (Collabora)
 1. Guy Templeton (Kubernetes SIG Autoscaling Chair)
 1. Haïkel Guémar (Fedora Project, former Board and Fesco member)
