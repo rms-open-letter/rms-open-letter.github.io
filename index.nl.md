@@ -14,4 +14,4 @@ Wij dringen er bij degenen die daartoe in staat zijn de Free Software Foundation
 
 [1]: https://rms-open-letter.github.io/appendix.nl
 
-Om te tekenen, stuur een e-mail naar digitalautonomy op riseup.net of [open een pull request](https://github.com/rms-open-letter/rms-open-letter.github.io/pulls).
+Om te tekenen, stuur een e-mail naar digitalautonomy at riseup.net of [open een pull request](https://github.com/rms-open-letter/rms-open-letter.github.io/pulls).
