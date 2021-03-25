@@ -1971,6 +1971,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Stephane Graber (LXC, former Ubuntu Technical Board member)
 1. Stephanie Gruss (@sagruss)
 1. Stephanie Whited
+1. Stephan Barth (Technical Project Manager for Maintenance, SUSE)
 1. Stephan Lachnit (Debian Maintainer)
 1. Stephen A. Goss
 1. Stephen Augustus (Co-founder of the Inclusive Naming Initiative, CNCF SIG Contributor Strategy Chair, KubeCon + CloudNativeCon Chair, Kubernetes SIG Release Chair, Dex maintainer)
