@@ -1189,6 +1189,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. J. Ryan Stinnett
 1. JT Perry
 1. JuanJo Ciarlante (`jjo`, >25yrs F/OSS software developer)
+1. Juan Visbal
 1. Jugal Kishore
 1. Jules Penuchot (Paris-Saclay University)
 1. Julia Buchner (aka @PetiPandaRou)
