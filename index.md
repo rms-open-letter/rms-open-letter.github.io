@@ -64,6 +64,7 @@ Signed,
 1. MidnightBSD Project
 1. MousePaw Media
 1. Mozilla
+1. OBS Project
 1. Open Life Science
 1. Open Source Diversity
 1. Tor Project
