@@ -2104,6 +2104,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Simon Menke (`fd`)
 1. Simon Phipps (Former OSI President)
 1. Simon Richter
+1. Simon Walker
 1. Simon Wistow
 1. Simon Woldemichael
 1. Sjoerd Simons (Collabora, Debian Developer)
