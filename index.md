@@ -468,6 +468,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Charlie Kravetz
 1. Charlotte Masterson (Hardware and R&D manager at Fivnex)
 1. Chen Chang
+1. Chjara Yebgui (tuxcrafting)
 1. Chloe Cota (@sweetpavement)
 1. Chloe Ramos (`Chaspen`)
 1. Chris Adams (@acdha)
