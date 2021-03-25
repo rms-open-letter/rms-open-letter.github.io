@@ -1103,6 +1103,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. J. Eric Ivancich
 1. Jerome Charaoui (Debian Developer, former FSF member)
 1. Jérôme Petazzoni
+1. Jessamyn West (Vermont Mutual Aid Society)
 1. Jesse Clark
 1. Jesse Cooke
 1. Jesse Hamner
