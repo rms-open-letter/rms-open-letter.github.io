@@ -660,6 +660,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Dewey Dunnington (R package developer)
 1. Devin Buhl
 1. Devin Halladay
+1. Dhaval Giani (Linux Kernel)
 1. Diana Thayer
 1. Didier 'OdyX' Raboud (Debian Developer, former Debian Technical Committee chair)
 1. Diego Pino (Archipelago Repository Project, Tech Lead)
