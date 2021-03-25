@@ -199,6 +199,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Andrés Hernández "`tonejito`" (LIDSoL)
 1. Andres Salomon (Debian Developer)
 1. Andrés Torres
+1. Andrew Hung ("`@AndrewDaGuy`")
 1. Andrew Cherry
 1. Andrew Dona-Couch
 1. Andrew J. Stephen
