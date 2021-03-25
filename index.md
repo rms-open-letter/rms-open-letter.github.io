@@ -1396,6 +1396,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Marco 'eukara' Hladik
 1. Marco Matos (Blockchain Director & Cloud Architect at 23 Bulbs)
 1. Marcos Sebastiao
+1. Marcus Müller (Former GNU Radio Maintainer, GNU Radio General Assembly member)
 1. Marcus Weiner
 1. Marek Kubica
 1. Margarita Manterola (Debian Developer, member of the Debian Technical Committee)
