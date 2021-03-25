@@ -534,6 +534,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Chris Turra (@cturra)
 1. Chris `tweedge` Partridge
 1. Chris Wayne (Ubuntu)
+1. ChronosX88
 1. Claire Connelly (FSF associate member; former Debian developer)
 1. Clara Hobbs
 1. Clare Macrae
