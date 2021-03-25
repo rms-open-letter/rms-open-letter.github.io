@@ -1,0 +1,17 @@
+*2021-03-25*
+
+Richard M. Stallman, vaak bekend als RMS, is al lange tijd een gevaarlijke kracht in de vrije softwaregemeenschap. Hij heeft laten zien dat hij vrouwenhater, validist en transfobisch is, naast andere ernstige beschuldigingen van ongepastheid. Dit soort overtuigingen horen niet thuis in de vrije software, digitale rechten en technische gemeenschappen. Met zijn recente herplaatsing in de Raad van Bestuur van de Free Software Foundation, roepen we de hele raad van de FSF op om af te treden en om RMS uit alle leidinggevende posities te verwijderen.
+
+Wij, ondergetekenden, geloven in de noodzaak van digitale autonomie en de krachtige rol die gebruikersvrijheid speelt bij het beschermen van onze fundamentele mensenrechten. Om de belofte waar te maken van alles wat softwarevrijheid mogelijk maakt, moet er radicale verandering plaatsvinden binnen de gemeenschap. Wij geloven in een nu en in de toekomst waarin alle technologie mensen kracht geeft - niet onderdrukt. We weten dat dit alleen mogelijk is in een wereld waar technologie is gebouwd om onze rechten op het meest fundamentele niveau te respecteren. Hoewel deze ideeën in de een of andere vorm zijn gepopulariseerd door Richard M. Stallman, spreekt hij niet namens ons. We keuren zijn daden en meningen niet goed. We erkennen niet zijn leiderschap of het leiderschap van de Free Software Foundation zoals het er nu uitziet.
+
+Er is voldoende tolerantie geweest voor de weerzinwekkende ideeën en gedrag van RMS. We kunnen niet blijven toestaan ​​dat één persoon de betekenis van ons werk verpest. Onze gemeenschappen hebben geen ruimte voor mensen zoals Richard M. Stallman, en we zullen niet blijven lijden aan zijn gedrag, hem een ​​leidende rol geven of hem en zijn kwetsende en gevaarlijke ideologie op een andere manier als acceptabel beschouwen.
+
+**We pleiten voor de verwijdering van het hele bestuur van de Free Software Foundation.** Dit zijn mensen die RMS jarenlang hebben ingeschakeld en bekrachtigd. Zij demonstreren dit nogmaals door hem toe te staan ​​opnieuw toe te treden tot het bestuur van de FSF. Het wordt tijd dat RMS afstand neemt van de vrije software, technische ethiek, digitale rechten en technische gemeenschappen, want hij kan niet het leiderschap bieden dat we nodig hebben. **We roepen ook op om Richard M. Stallman te verwijderen uit alle leidinggevende posities, inclusief het GNU-project.**
+
+Wij dringen er bij degenen die daartoe in staat zijn met klem op de Free Software Foundation te steunen. Weigeren om bij te dragen aan projecten die verband houden met de FSF en RMS. Spreek niet tijdens FSF-evenementen of evenementen die RMS en zijn soort onverdraagzaamheid verwelkomen. We vragen bijdragers aan vrije softwareprojecten om stelling te nemen tegen onverdraagzaamheid en haat binnen hun projecten. Vertel deze gemeenschappen en de FSF terwijl u deze dingen doet, waarom.
+
+[Wij hebben verschillende openbare incidenten van het gedrag van RMS uiteengezet][1]. Sommigen van ons hebben onze eigen verhalen over RMS en onze interacties met hem, dingen die niet zijn vastgelegd in e-mailthreads of op video. We hopen dat u zult lezen wat er is gedeeld en zult nadenken over de schade die hij heeft toegebracht aan onze gemeenschap en anderen.
+
+[1]: https://rms-open-letter.github.io/appendix
+
+Om te tekenen, stuur een e-mail naar digitalautonomy op riseup.net of [open een pull request](https://github.com/rms-open-letter/rms-open-letter.github.io/pulls).
