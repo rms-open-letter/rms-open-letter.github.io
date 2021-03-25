@@ -881,6 +881,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. François Pelletier (President of LinuQ, Executive at FACiL, pour l'appropriation collective de l'informatique libre)
 1. Frank Louwers
 1. Frank S. Thomas
+1. Frank Wong ( @frankofsandiego )
 1. Frederic Branczyk (Kubernetes SIG Instrumentation Tech Lead, Prometheus maintainer, Thanos maintainer)
 1. Frédéric Harper (Director of Developer Relations at MeiliSearch)
 1. Fred Hebert (Erlang Ecosystem Foundation co-founder and board member)
