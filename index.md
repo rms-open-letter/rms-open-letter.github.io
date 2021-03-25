@@ -156,6 +156,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Alan Pope
 1. Alasdair Nottingham
 1. Alberto Ruiz (GNOME, Fedora & LibreOffice contributor)
+1. Albert Bellonch
 1. Albert Wong
 1. Alejandro AR (`kinduff`)
 1. Alejandro R. Urzúa (INAOE MX, @rurz at Github)
