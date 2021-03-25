@@ -1374,6 +1374,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Marc-Antoine `Keruspe` Perennou (Exherbo)
 1. Marcantonio Rendino
 1. Marcel Kapfer
+1. Marcel Kuehlhorn (openSUSE contributor)
 1. Marcelo Teider Lopes
 1. Marcel Timmer
 1. Marcin Konowalczyk (they/them, University of Oxford) 
