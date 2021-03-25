@@ -1306,6 +1306,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Lux Amelia Phifollen
 1. Lyre Calliope
 1. Maarten Beeckmans
+1. Maarten Dirkse
 1. Mackenzie 'maco' Morgan (former Ubuntu Developer Membership Board member)
 1. Maddison Hellstrom
 1. Madhulika Chambers (NumPy contributor)
