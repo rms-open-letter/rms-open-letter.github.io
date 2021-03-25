@@ -615,6 +615,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Edel Grace
 1. Ed Marshall
 1. Ed Summers
+1. Eduardo Bellido Bellido (former FSFE supporter)
 1. Eduardo Habkost
 1. Eduardo Pacheco
 1. Eduard Tolosa (@edu4rdshl - BlackArch Linux and Nspawn.org developer, findomain.app founder)
