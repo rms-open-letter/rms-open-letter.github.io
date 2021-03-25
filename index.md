@@ -1279,6 +1279,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Luis Arruda
 1. Luis Lavaire (Nitrux developer)
 1. Luiz Irber
+1. Lukas Ekberg
 1. Lukas Fittl
 1. Lukas Grossar
 1. Lukasz Erecinski
