@@ -788,6 +788,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Firdavs Zakhirov
 1. Florian Müllner (GNOME)
 1. Florian Neumann
+1. Florian Segginger
 1. Frances Hocutt
 1. Francis Gulotta (Node SerialPort maintainter, Nodebots founding memeber)
 1. Francois Caen (Former Taclug president)
