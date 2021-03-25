@@ -1690,6 +1690,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Rute Correia
 1. Ryan A. Pavlik (Collabora, Monado Co-Founder, OpenXR Spec Editor)
 1. Ryan C. Cooper (@cooperrc)
+1. Ryan Castellucci (@ryancdotorg, former LUGOD officer)
 1. Ryan Clark
 1. Ryan (DasGeek) (Host of Destination Linux, Partner of Destination Linux, LLC.)
 1. Ryan Finnie (Finnix founder; Debian; Ubuntu)
