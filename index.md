@@ -931,6 +931,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Jan Krasoczko
 1. Jan Lehnardt (Apache CouchDB PMC Chair)
 1. jan Lentan (a.k.a. "/dev/urandom")
+1. Jan Markus Wolf (@gnarflord)
 1. Jannis Leidel (aka "jezdez", Fellow and Director, Python Software Foundation; former Director, Django Software Foundation; Django project alumnus; Software Engineer, Mozilla; founder, PyPA; founder, Jazzband)
 1. Jan Sprinz (UBports Foundation Board of Directors, Ubuntu Member)
 1. Jan van Gils
