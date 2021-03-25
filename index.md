@@ -751,6 +751,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Dom Rodriguez (shymega)
 1. Donald Harper (duckunix)
 1. Donald Lobo (Founder CiviCRM and Project Tech4Dev)
+1. Don Armstrong (Debian Developer, former Debian Technical Committee chair)
 1. Don Goodman-Wilson (Founding Member and resident ethicist, Organization for Ethical Source)
 1. Donnie Barnes (former Red Hat employee #2)
 1. Donny Johnson
