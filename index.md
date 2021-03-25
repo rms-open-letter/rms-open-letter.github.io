@@ -983,6 +983,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Jason Tubnor
 1. Jassie Badion (Collabora)
 1. Javier Martinez Canillas (Fedora developer)
+1. Javi Polo (PandaCrew member)
 1. Jayme Howard
 1. Jay Mueller
 1. Jean-Paul Argudo (CEO at Dalibo, @jpargudo)
