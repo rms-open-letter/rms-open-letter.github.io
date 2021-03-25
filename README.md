@@ -31,7 +31,8 @@ Want to contribute? Adding a new language can be done in 3 steps :
 1. Copy `index.md` to `index.xx.md` and translate it.
 2. Copy `appendix.md` to `appendix.xx.md` and translate it.
 3. Add your new translation to `README.md` and `_config.yml`.
-Do not forget to update the link in `index` pointing to the translation if you are adding one.
+
+_Note: Do not forget to update the link in `index` pointing to the `appendix` translation if you are adding one._
 
 ## Contributing
 
