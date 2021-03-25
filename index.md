@@ -284,7 +284,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Bert Hubert (founder of PowerDNS)
 1. Bert JW Regeer (`xistence`)
 1. Bert Van de Poel
-1. Be Wilson (Mixxx maintainer)
+1. Be Wilson (Mixxx developer)
 1. Bill Budington (EFF Sr. Staff Technologist, LibrePlanet 2021 Presenter, signed in personal capacity)
 1. Bill Mulligan
 1. Billy Messenger (member of the RustyDAW group)
