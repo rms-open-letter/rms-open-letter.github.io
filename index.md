@@ -1883,6 +1883,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Rafael Bautista
 1. Rafael Silva
 1. Rafael Tovar
+1. Rafał Kołucki
 1. Raffaele Messuti
 1. Raghavendra Kamath (raghukamath) (Illustrator & Designer / Krita volunteer)
 1. raichoo (maintainer and contributor for various open source projects)
