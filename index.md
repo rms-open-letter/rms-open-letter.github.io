@@ -452,6 +452,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Christophe Junke
 1. Christophe Moille
 1. Christophe Noisel
+1. Christophe Van Reeth
 1. Christopher Allan Perry
 1. Christopher Branston
 1. Christopher Davis (GNOME)
