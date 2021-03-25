@@ -199,18 +199,19 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Ana Guerrero López
 1. Ana Rute Mendes (Collabora)
 1. Anastasia Papakosta
-1. Andrea Denisse Gómez-Martínez (Arch Linux, i3blocks maintainer)
 1. André Almeida (Collabora)
+1. Andre Klapper (GNOME)
+1. André "Kody" Fernandes
+1. Andrea Denisse Gómez-Martínez (Arch Linux, i3blocks maintainer)
+1. Andrea Wieland
+1. Andrea Zonca (University of California San Diego)
 1. Andreas Drewke
 1. Andreas Frisch (`fraxinas`)
 1. Andreas Fuchs (`antifuchs`)
 1. Andreas Happe
 1. Andreas M. Antonopoulos (Author of three O'Reilly Media CC-BY-SA licensed books)
-1. Andrea Wieland
-1. Andrea Zonca (University of California San Diego)
 1. Andrei Jiroh Eugenio Halili (Founder of @MadeByThePinsHub)
 1. Andrej Shadura (Collabora, Debian Developer)
-1. Andre Klapper (GNOME)
 1. Andrés Hernández "`tonejito`" (LIDSoL)
 1. Andres Salomon (Debian Developer)
 1. Andrés Torres
