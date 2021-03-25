@@ -1115,6 +1115,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Joey Hess
 1. Johanna Dorothea Reichmann
 1. Johannes Löthberg (Arch Linux Developer)
+1. Johannes Nixdorf (Exherbo)
 1. Johan van Selst
 1. John Bond
 1. John Burnett (@johnburnett on GitHub)
