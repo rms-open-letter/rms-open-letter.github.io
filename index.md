@@ -1225,6 +1225,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Joni Carr
 1. Jon Langseth
 1. Jonny Spicer
+1. Joop Kiefte (@lapingvino)
 1. Jordan Hefcart
 1. Jordan Petridis (GNOME)
 1. Jordan T. Thevenow-Harrison
