@@ -1849,6 +1849,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Robert Berg
 1. Robert C Jennings (Ubuntu member, kernel dev)
 1. Robert Foss (Linux kernel dev)
+1. Robert Fridzema
 1. Robert J. Hansen (formerly of GnuPG)
 1. Robert Joslyn
 1. Robert L Davidson (data scientist, open data activist, co-founder of Scientists for EU)
