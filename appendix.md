@@ -12,7 +12,7 @@ He regularly and repeatedly makes comments about “the dishonest law that label
 [5]: https://stallman.org/archives/2017-sep-dec.html#13_November_2017_(Jelani_Maraj)
 [6]: https://stallman.org/archives/2018-may-aug.html#14_May_2018_(Death_sentence_in_Sudan)
 
-Of a woman having sex with a minor, he said “I wish an attractive woman had 'abused' me that way when I was 14.”[7] He directly addressed child pornography by saying that “making such photos should be a crime, and is a crime, but that is no reason to prohibit possessing copies of the photos.”[8] He defended pedophilia, in general, in saying that “there is little evidence to justify the widespread assumption that willing participation in pedophilia hurts children.”[9]
+Of a woman having sex with a minor, he said “I wish an attractive woman had 'abused' me that way when I was 14.”[7] He directly addressed child pornography by saying that “making such photos should be a crime, and is a crime, but that is no reason to prohibit possessing copies of the photos.”[8] He defended pedophilia, in general, in saying that “there is little evidence to justify the widespread assumption that willing participation in pedophilia hurts children.”[9] *Note: RMS apologized for this comment on 14 September, 2019.[Citation](https://stallman.org/archives/2019-jul-oct.html#14_September_2019_(Sex_between_an_adult_and_a_child_is_wrong)). Edit made: 24 March, 2021 - 08:50 EDT.*
 
 [7]: https://stallman.org/archives/2015-mar-jun.html#5_June_2015_(Law_being_an_ass)
 [8]: https://stallman.org/archives/2014-jul-oct.html#26_October_2014_(Prison_for_cartoon)
