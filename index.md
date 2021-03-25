@@ -1504,6 +1504,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Rich Felker (musl libc)
 1. Richo Healey
 1. Rick Scott
+1. Ridley Combs (rcombs)
 1. Rigin Oommen
 1. Rima Sghaier (GlobaLeaks Outreach Director)
 1. Roan Kattouw
