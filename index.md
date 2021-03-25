@@ -655,6 +655,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Enio Gemmo (LibreItalia Chairman)
 1. Enrico Zini (Debian Developer)
 1. Enum Cohrs
+1. Eric Gisse
 1. Eric Hodel
 1. Erick Perez Castellanos
 1. Eric Rösch
