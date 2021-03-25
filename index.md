@@ -345,6 +345,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Bjoern Michaelsen (former the Document Foundation director, LibreOffice developer)
 1. Björn Fahller
 1. Blair Vidakovich (vidak)
+1. BlastoiseVeteran
 1. Blake Ridgway (Found of Lyvia.io)
 1. Bob Halloran
 1. Bob Killen (Kubernetes Steering Committee Member)
@@ -2277,5 +2278,4 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Zander Brown (GNOME and more)
 1. Zeltzin Rodríguez
 1. Zvi Gilboa
-1. BlastoiseVeteran
 <!-- Do not add your name to the bottom, it needs adding in alphabetical order above -->
