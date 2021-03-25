@@ -559,6 +559,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Idan Gazit (Django project alumnus)
 1. Ignacio Torres Masdeu
 1. Ilya Kreymer
+1. Ioannis Cherouvim
 1. intrigeri (Debian Developer, Tails Developer)
 1. Irina Rempt
 1. Isaac Ferreira Filho (aka "yzakius", GNOME contributor)
