@@ -1575,6 +1575,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Richo Healey
 1. Rich Sands
 1. Rick Scott
+1. Ricky White
 1. Ridley Combs (rcombs)
 1. Rigin Oommen
 1. Rima Sghaier (GlobaLeaks Outreach Director)
