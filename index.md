@@ -427,6 +427,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Chris DiBona (Google LLC.)
 1. Chris Garaffa (Tech for the People)
 1. Chris Gardner
+1. Christophe Henry (FreshRSS Android and other FLOSS projects)
 1. Chris Hoge
 1. Chris Holdgraf (2i2c, Project Jupyter)
 1. Chris Johnson
