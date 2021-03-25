@@ -640,6 +640,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Dave Jones (@waveform80)
 1. Dave Lester
 1. Dave Marwick (Twitter)
+1. Dave Smart
 1. David Anderson (Tailscale, MetalLB, Go contributor)
 1. David A. Symons
 1. David Bordowitz
