@@ -1309,6 +1309,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Kitteh
 1. Konstantina Papadea
 1. Kosta Harlan
+1. Kot Cat (@kotx)
 1. Koz Ross (former FSF associate student member)
 1. kpcyrd (Arch Linux, Debian, Reproducible Builds)
 1. Kris Buytaert
