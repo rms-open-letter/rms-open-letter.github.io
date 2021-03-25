@@ -1435,6 +1435,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Peter Jones (Fedora developer)
 1. Peter Ludikovsky
 1. Peter Robinson (Fedora developer, former Fedora Board and Council member)
+1. Peter Stein 
 1. Peter Van Eynde
 1. Petrohs
 1. Phil Dibowitz
