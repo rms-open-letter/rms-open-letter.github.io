@@ -681,6 +681,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Eva Knewes
 1. Eva Lauren Kelly (web & console homebrew developer, aka thejsa)
 1. Evan Brown
+1. Evan Hirsh
 1. Evangelos Paterakis
 1. Evan Prodromou
 1. Evan Sklarski
