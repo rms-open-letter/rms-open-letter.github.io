@@ -1,6 +1,6 @@
 ---
 title: An open letter to remove Richard M. Stallman from all leadership positions
-description: We, the undersigned, are calling for the removal of the entire Board of the Free Software Foundation, for its support of toxic and abusive behavior by Richard M. Stallman.
+description: We, the undersigned, call for the entire Board of the FSF to step down and for Richard M. Stallman to be removed from all leadership positions. We will not continue suffering his behavior, giving him a leadership role, or otherwise holding him and his hurtful and dangerous ideology as acceptable.
 image: /assets/og-image.png
 twitter:
   card: summary_large_image
