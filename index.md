@@ -116,6 +116,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Adam Jackson (X.org, Fedora)
 1. Adam Miller (Ansible, Fedora)
 1. Adam Monsen (SeaGL co-founder)
+1. Adam Reichold
 1. Adam Salt (Cob:web Development)
 1. Adam Schmackpfeffer
 1. Adarsh K Kumar
