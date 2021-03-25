@@ -16,12 +16,14 @@ These translations have been contributed by our community translators. Thanks!
 - [Spanish][es]
 - [Turkish][tr]
 - [German][de]
+- [Polish][pl]
 
 [pt_BR]: index.pt.md
 [fr]: index.fr.md
 [es]: index.es.md
 [tr]: index.tr.md
 [de]: index.de.md
+[pl]: index.pl.md
 
 Want to contribute? See [#1186](https://github.com/rms-open-letter/rms-open-letter.github.io/issues/1186).
 
