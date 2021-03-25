@@ -410,6 +410,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Cara Esten Hurtle
 1. Carina C. Zona (CallbackWomen)
 1. Carl George (CentOS Project, Fedora Project)
+1. Carla Schroder (Linux nerd, uppity woman and not sorry)
 1. Carlos Alexandro Becker (`caarlos0`)
 1. Carlos "azra3l" Pineda
 1. Carlos Chacin
