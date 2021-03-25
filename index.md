@@ -56,6 +56,7 @@ Signed,
 1. Globenet
 1. GlobaLeaks
 1. GNOME Foundation
+1. Innatical
 1. The HardenedBSD Foundation / The HardenedBSD Project
 1. MidnightBSD Project
 1. MousePaw Media
@@ -89,6 +90,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Abigail Brady (former GNOME developer)
 1. Abigail Cabunoc Mayes
 1. Achraf Belkahla (@bkmd100)
+1. Adam A. (Developer, Innatical)
 1. Adam Barber
 1. Adam Čalovka
 1. Adam Fisk (Brave New Software Project, Inc)
@@ -1171,6 +1173,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Liza Ainalen Dosso
 1. Liz Fong-Jones (OpenTelemetry governance committee member, linux/aarch64 advocate)
 1. Liz Rice (TOC chair, CNCF; OpenUK ambassador)
+1. Lleyton Gray (CEO, Innatical)
 1. Logan Kilpatrick (The Julia Language Community Manager)
 1. Lorena Mesa
 1. Lorenzo Gomez
