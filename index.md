@@ -382,7 +382,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Cadence Ember
 1. Caelan
 1. Caglar Koksal, Phd
-1. Caio Raposo
 1. Callum Farmer (openSUSE member & maintainer)
 1. Caluã de Lacerda Pataca
 1. Calub Veim (CollabVM)
