@@ -1250,6 +1250,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Louis-Philippe Véronneau (Debian Developer)
 1. Louis Suárez-Potts
 1. Luana Neder
+1. Luc Rocher (Imperial College London)
 1. Luca Andrea Fusè
 1. Luca Martinelli
 1. Lucas Bickel
