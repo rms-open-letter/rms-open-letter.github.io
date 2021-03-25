@@ -1,5 +1,7 @@
-remote_theme: jukefr/minima
+remote_theme: rms-open-letter/minima
 languages:
+  - name: "Brazilian Portuguese"
+    code: "pt"
   - name: "French"
     code: "fr"
   - name: "Spanish"
