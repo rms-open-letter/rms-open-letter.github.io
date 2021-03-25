@@ -1093,6 +1093,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Julien Voisin
 1. Julien Wajsberg (Mozilla)
 1. June Taylor
+1. Juno Suárez (@junosz)
 1. Jürgen Geuter (@tante)
 1. Justin Baugh (@baughj, former FSF staff)
 1. Justin Brock
