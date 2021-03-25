@@ -138,7 +138,8 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Alexandra Moylett
 1. Alexandra Pereira (Collabora)
 1. Alexandra Stehr
-1. Alexandre Dulaunoy (former FSF associate member #53)
+1. Alexandre Dulaunoy (former FSF associate member #53)1. 
+1. Alexandria Christina Leal
 1. Alexandros Bourantas
 1. Alex Arslan (Julia contributor, former Julia community manager)
 1. Alex Brown
