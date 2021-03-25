@@ -1593,6 +1593,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Matt Lee (Libre.fm, former member of the GNU Project, former FSF staff)
 1. Matt Ray (former FSF member)
 1. Matt Travi
+1. Maurice Meyer (`morre`)
 1. Mauro Lizaur (Former Debian Developer)
 1. Max Bruckner (`FSMaxB`)
 1. Max Burke
