@@ -1382,6 +1382,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Lukas Fittl
 1. Lukas Grossar
 1. Lukas Häusermann
+1. Lukas Märdian (Ubuntu Core Developer)
 1. Lukasz Erecinski
 1. Łukasz Jendrysik
 1. Łukasz Langa (Python Software Foundation Fellow, Python 3.8 and 3.9 Release Manager)
