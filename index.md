@@ -678,6 +678,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Elizabeth Denys `lizdenys`
 1. Ellie (@ell1e on GitHub)
 1. Emanuele Aina (Collabora)
+1. Emanuil Tolev
 1. Emery Hemingway
 1. Emilie Karlsson
 1. Emilio Escobar (Ettercap Project)
