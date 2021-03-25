@@ -53,6 +53,7 @@ Signed,
 1. Calyx Institute
 1. Ceccun
 1. CommitChange
+1. DataMade
 1. Dot HQ
 1. Echap
 1. Fivnex
