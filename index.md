@@ -228,6 +228,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Anastasia Papakosta
 1. Andrea Denisse Gómez-Martínez (Arch Linux, i3blocks maintainer)
 1. André Almeida (Collabora)
+1. Andre Bogus
 1. Andreas Beger
 1. Andreas Drewke
 1. Andreas Frisch (`fraxinas`)
