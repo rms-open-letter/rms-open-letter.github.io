@@ -190,6 +190,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Andrea Denisse Gómez-Martínez (Arch Linux, i3blocks maintainer)
 1. André Almeida (Collabora)
 1. Andreas Drewke
+1. Andreas Frisch (`fraxinas`)
 1. Andreas Happe
 1. Andreas M. Antonopoulos (Author of three O'Reilly Media CC-BY-SA licensed books)
 1. Andrea Wieland
