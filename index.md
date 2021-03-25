@@ -1281,6 +1281,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Matthew Peveler
 1. Matthew Pounsett
 1. Matthew R. Green (NetBSD core, bozohttpd, ircII)
+1. Matthew Helmke (open source author)
 1. Matthew Robertson
 1. Matthew Seal
 1. Matthew Stone
