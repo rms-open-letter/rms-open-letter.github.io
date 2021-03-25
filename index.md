@@ -51,6 +51,7 @@ Signed,
 1. 3NSoft
 1. Aaru Data Preservation Suite
 1. Calyx Institute
+1. Ceccun
 1. CommitChange
 1. Dot HQ
 1. Echap
@@ -315,7 +316,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Ben Kreeger
 1. Ben Lewis (Former GNU Octave contributor)
 1. Ben Nied
-1. Benoit Sarda (infrastructure architect)
+1. Benoit Sarda (infrastructure architect)
 1. Ben Pfaff
 1. Ben Rosengart
 1. Ben Sandeen
@@ -705,6 +706,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Egor `infdev` Golovin
 1. Eilidh Martin
 1. Eirik Øverby
+1. Ejaz Ali (Ceccun)
 1. Elanna Grossman
 1. Eleanor Ashton
 1. Elen Eisendle
@@ -854,7 +856,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Gerry Demaret
 1. Gertjan Lettink a.k.a. Knurpht
 1. Giacomo Alessandroni (Wikimedia Italia)
-1. Giancarlo Razzolini (Arch Linux Developer)
+1. Giancarlo Razzolini (Arch Linux Developer)
 1. Gianluca Bine
 1. Gianni Ceccarelli
 1. gimbar
@@ -986,7 +988,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. James Antill
 1. James Belchamber
 1. James Cochran
-1. James Colliander (2i2c.org Co-Founder, Callysto.ca Co-Founder, Syzygy.ca Co-Founder, PIMS Director)
+1. James Colliander (2i2c.org Co-Founder, Callysto.ca Co-Founder, Syzygy.ca Co-Founder, PIMS Director)
 1. James Daly
 1. James Henstridge (Ubuntu developer, former GNOME Foundation director)
 1. James Huff
@@ -1096,7 +1098,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Jim Gettys
 1. Jim Hall (FreeDOS Project founder and project coordinator, @jimfhall)
 1. Jim Perrin (CentOS Project, Fedora Project)
-1. Joachim Weinbrenner
+1. Joachim Weinbrenner
 1. Joanna Janet Zaitseva-Doyle (aka @aoeixsz4 / `aoei`)
 1. João Carlos Almeida
 1. João da Silva (IslandC0der)
@@ -2017,7 +2019,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Stuart Harrison
 1. Stuart Langridge
 1. Stuart Spence
-1. Subhashish P. (open culture advocate)
+1. Subhashish P. (open culture advocate)
 1. Sune Stolborg Vuorela, (Debian, KDE)
 1. Sven `DrMcCoy` Hesse
 1. Sven Hüster
