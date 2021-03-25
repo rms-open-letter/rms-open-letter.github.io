@@ -1146,6 +1146,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Javi Polo (PandaCrew member)
 1. Jayme Howard
 1. Jay Mueller
+1. Jayson Paul
 1. JeanHeyd Meneide (ISO/IEC JTC1 SC22 WG14 - Programming Languages C, Project Editor)
 1. Jean-Paul Argudo (CEO at Dalibo, @jpargudo)
 1. Jean-Philippe DUFRAIGNE
