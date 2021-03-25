@@ -1580,6 +1580,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Mike Linksvayer
 1. Mikel Johnson
 1. Mike Olson (Postgres, Berkeley DB, Cloudera)
+1. Mike Patterson
 1. Mike Wyatt
 1. Mikhail Popov (Wikimedia Foundation)
 1. Milan Pässler (Chaos Computer Club, NixOS contributor)
