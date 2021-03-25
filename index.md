@@ -1458,6 +1458,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Pierre Dupont
 1. Pierre Marijon
 1. Pierre Ozoux (@pierreozoux)
+1. Pierre-Antoine "Leny" Delnatte
 1. Pierre-Yves (Solus)
 1. Pierros Papadeas (Board member, Libre Space Foundation)
 1. Pieter De Praetere
