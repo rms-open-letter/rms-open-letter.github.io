@@ -2158,6 +2158,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Stephen Hemminger (Iproute2 Maintainer)
 1. Stephen Jacobs
 1. Stephen O'Grady
+1. Stephen P. Huff (@hakamadare)
 1. Step Schwarz
 1. Steve Axthelm
 1. Steve Desmond
