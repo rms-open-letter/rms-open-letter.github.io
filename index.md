@@ -874,6 +874,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. James Cochran
 1. James Colliander (2i2c.org Co-Founder, Callysto.ca Co-Founder, Syzygy.ca Co-Founder, PIMS Director)
 1. James Daly
+1. James Henstridge (Ubuntu developer, former GNOME Foundation director)
 1. James 'jspc' Condron
 1. James Kruth
 1. James LaPlaine (@csangos)
