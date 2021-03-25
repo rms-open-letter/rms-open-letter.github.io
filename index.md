@@ -190,6 +190,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Alice Berg
 1. Alicia Boya Garcia (Igalia)
 1. Ali Polatel (Exherbo Linux)
+1. Ali Ramadhan
 1. Alison Dowdney (Kubernetes SIG Contributor Experience Chair)
 1. Aljosha Papsch (FSFE member)
 1. Allan Day (Chair, GNOME Foundation Board of Directors)
