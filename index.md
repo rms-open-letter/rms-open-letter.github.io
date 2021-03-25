@@ -539,6 +539,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Christopher `kode54` Snowhill
 1. Christopher Lee
 1. Christopher Owens
+1. Christopher MacGown (Python Software Foundation Fellow, Former OpenStack Foundation Board Member)
 1. Christopher Patti
 1. Christopher Schmidt
 1. Christopher Swenson (sort.h author and maintainer)
