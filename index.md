@@ -601,6 +601,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Daniel Kolesa (@octaforge, Void Linux developer)
 1. Danielle Heberling
 1. Danielle Lancashire (Contributor, NixOS/Kubernetes; formerly CocoaPods, Nomad)
+1. Daniel F. Maxwell-Ross
 1. Daniel Morris
 1. Daniel Murphy (@danhatesnumbers)
 1. Daniel Nazer
