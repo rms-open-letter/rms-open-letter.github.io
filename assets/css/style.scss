@@ -7,10 +7,15 @@
 .share-links {
   display: flex;
   align-items: center;
+  padding-bottom: 1rem;
 }
 
 .share-links *:not(:last-child) {
   margin-right: 10px;
+}
+
+.share-links p {
+  margin-bottom: 0;
 }
 
 .share-links a {
