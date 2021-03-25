@@ -12,10 +12,12 @@ Please add your name in the right place in the list. If you're using the GitHub 
 These translations have been contributed by our community translators. Thanks!
 
 - [Brazilian Portuguese][pt_BR]
+- [French][fr]
 - [Spanish][es]
 - [Turkish][tr]
 
 [pt_BR]: index.pt.md
+[fr]: index.fr.md
 [es]: index.es.md
 [tr]: index.tr.md
 
