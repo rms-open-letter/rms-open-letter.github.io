@@ -1518,6 +1518,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Mark Paluch
 1. Mark Tomko
 1. Markus Bohnensack
+1. Markus Joseph Kitsinger (`SwooshyCueb`; iRODS team)
 1. Markus `kmi` S. (Chaos Computer Club)
 1. Markus Unterwaditzer
 1. Marquis Kurt
