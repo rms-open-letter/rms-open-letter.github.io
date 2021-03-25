@@ -594,6 +594,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Dominic Hayes (The Feren OS Developer)
 1. Dom Rodriguez (shymega)
 1. Donald Harper (duckunix)
+1. Donald Lobo (Founder CiviCRM and Project Tech4Dev)
 1. Don Goodman-Wilson (Founding Member and resident ethicist, Organization for Ethical Source)
 1. Donnie Barnes (former Red Hat employee #2)
 1. Dorothea Salo
