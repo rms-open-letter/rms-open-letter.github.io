@@ -80,7 +80,7 @@ Signed,
 1. Open Source Collective
 1. Open Source Diversity
 1. Public Laboratory for Open Technology and Science
-1. Radial Source 
+1. Radial Source
 1. Riseup Networks
 1. Sanctuary Computer
 1. SUSE
@@ -2178,6 +2178,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Shane Snover
 1. Shannon Dosemagen
 1. Shaohua Wen (former Mozilla zh-CN L10n Team Leader)
+1. Shashank Ram
 1. Shaun Mouton
 1. Shaun Murphy
 1. Shaurya (`coolshaurya`)
