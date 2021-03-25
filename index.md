@@ -315,6 +315,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Ben Pfaff
 1. Ben Rosengart
 1. Ben Sandeen
+1. Ben Tasker
 1. Ben Werdmuller
 1. Bernhard Hayden
 1. Bert Boeland (Drupal Netherlands)
