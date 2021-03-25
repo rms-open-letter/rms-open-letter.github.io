@@ -2014,6 +2014,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Rob Smith (SeaGL Co-Founder)
 1. Rob Vincent
 1. Rob White
+1. Robert James Miller
 1. Robyn Speer (ConceptNet)
 1. Roger Light
 1. Roger Robertson (strangrjrjr)
