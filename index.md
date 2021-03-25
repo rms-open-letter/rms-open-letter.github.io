@@ -1849,6 +1849,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Sherman Mui
 1. Shiz (former Alpine Linux developer)
 1. Shmueli Yosef Englard (@Shmuelie)
+1. Siddhesh Poyarekar (glibc contributor, FSF associate member)
 1. Síle Ekaterin Aman (APK Fission, Adélie Linux Core Team)
 1. Silje Christiansen
 1. Simeon "n0emis" Keske
