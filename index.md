@@ -1538,6 +1538,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Michael Gat
 1. Michael Hoffmann
 1. Michael Juarez
+1. Michael Käufl
 1. Michael Kees
 1. Michael Kohler (Mozilla volunteer)
 1. Michael Laird
