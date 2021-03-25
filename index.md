@@ -1429,6 +1429,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Morgan MacKechnie
 1. Morgan Thomas
 1. Moritz Schmidt
+1. Morris Jobke (Nextcloud)
 1. Morten Linderud (Arch Linux maintainer)
 1. M. Scott Ford (CEO, Corgibytes)
 1. Mx Craven
