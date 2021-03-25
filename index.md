@@ -235,6 +235,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Anuj Arora
 1. April Clyburne-Sherin (Reproducibility for Everyone)
 1. Ara Pulido
+1. Argel Ramírez Reyes (UC Davis)
 1. Aria Buckles
 1. Ariadne Conill (Alpine Developer, pkgconf)
 1. Ariela Wenner
