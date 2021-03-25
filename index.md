@@ -211,6 +211,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Andrew McDermott
 1. Andrew Pinski (GCC contributor)
 1. Andrew Stewart (@stewart)
+1. Andrew Thorp (`@athorp96`)
 1. Andrija Subotić
 1. Andy Brody (FSF associate member)
 1. Andy "@grifferz" Smith (both personally and on behalf of BitFolk Ltd)
