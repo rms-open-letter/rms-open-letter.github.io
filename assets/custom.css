@@ -1,0 +1,22 @@
+.share-links {
+  display: flex;
+  align-items: center;
+}
+
+.share-links *:not(:last-child) {
+  margin-right: 10px;
+}
+
+.share-links a {
+  color: #464646;
+}
+
+.site-title {
+  flex: 1;
+}
+
+.site-header .wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
