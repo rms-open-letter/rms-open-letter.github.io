@@ -279,6 +279,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Aurélien Hebert
 1. Avery "stars" M-W
 1. Avital Kelman
+1. Avi Douglen
 1. Avi Zajac
 1. Bailey (the2048)
 1. Bandie (Chaos Computer Club, pam_panic, former FSF member)
