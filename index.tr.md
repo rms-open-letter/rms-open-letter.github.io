@@ -1,11 +1,3 @@
----
-title: Richard M.Stallman'ın tüm liderlik pozisyonlarından tasfiye edilmesi için açık mektup
-description: Aşağıda imzası bulunan bizler, tüm FSF (Özgür Yazılım Vakfı) Yönetim Kurulu'nun istifa etmesi ve Richard M. Stallman'ın tüm liderlik pozisyonlarından tasfiye edilmesi çağrısında bulunuyoruz. Davranışlarından muzdarip olmaya, ona liderlik rolü vermeye veya başka bir şekilde onun kırıcı ve tehlikeli ideolojisini kabul edilebilir olarak tutmaya devam etmeyeceğiz.
-image: /assets/og-image.png
-twitter:
-  card: summary_large_image
----
-
 _2021-03-23_
 
 Genellikle RMS olarak bilinen Richard M. Stallman, özgür yazılım topluluğunda uzun süredir tehlikeli bir güç olmuştur. Kendisini diğer ciddi yakışıksız suçlamalarının yanı sıra kadın düşmanı, engelli düşmanı ve transfobik olarak gösterdi. Bu tür düşüncelerin özgür yazılım, dijital haklar ve teknoloji topluluklarında yeri yoktur. Kısa süre önce Özgür Yazılım Vakfı Yönetim Kurulu'na iade edilmesiyle, FSF'nin tüm Yönetim Kurulu'nun istifa etmesini ve RMS'nin tüm liderlik pozisyonlarından tasfiye edilmesini istiyoruz.
