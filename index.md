@@ -882,6 +882,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Jeff Warnica
 1. Jeff Waugh (former GNOME Foundation director)
 1. Jen Mylo (former UX Lead, Wordpress)
+1. Jen Zajac
 1. Jennie Rose Halperin (former Outreachy Intern at Mozilla)
 1. Jens Georg (GNOME Foundation member)
 1. Jeremiah C. Foster
