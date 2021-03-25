@@ -1269,6 +1269,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Luc Rocher (Imperial College London)
 1. Luca Andrea Fusè
 1. Luca Martinelli
+1. Lucas Biaggi (KDE contributor)
 1. Lucas Bickel
 1. Lucas Holt
 1. Lucas Ives (@lri)
