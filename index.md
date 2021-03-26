@@ -1113,6 +1113,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Ilya Kreymer
 1. imSofi
 1. intrigeri (Debian Developer, Tails Developer)
+1. io mintz
 1. Ioanna Dimitriou (Igalia)
 1. Ioannis Cherouvim
 1. Irina Rempt
