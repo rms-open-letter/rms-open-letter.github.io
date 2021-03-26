@@ -1184,6 +1184,7 @@ Free Software Contributor)
 1. Jack Bates
 1. Jack Burrows
 1. Jack Firth
+1. Jack Henry
 1. Jack 'jrabbit' Laxson
 1. Jack Leadford
 1. Jacky Alciné
