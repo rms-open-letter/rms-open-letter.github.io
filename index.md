@@ -1597,6 +1597,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Lup Yuen Lee
 1. Lux Amelia Phifollen
 1. Lux Miranda (they/them, University of Central Florida)
+1. Lynne "lynnux" Cure
 1. Lyre Calliope
 1. Maarten Beeckmans
 1. Maarten Dirkse
