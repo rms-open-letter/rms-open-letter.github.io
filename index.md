@@ -1679,6 +1679,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Matthilde A. Stella
 1. Mattias Bengtsson (Former GNOME Maps maintainer)
 1. Mattias Wadenstein (Debian developer and ACC sysadmin)
+1. Mattias Wernér
 1. Matt Lee (Libre.fm, former member of the GNU Project, former FSF staff)
 1. Matt Ray (former FSF member)
 1. Matt Travi
