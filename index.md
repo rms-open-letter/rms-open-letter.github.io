@@ -2083,6 +2083,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Pirate Praveen (Debian Developer, Member of FSF India Working Group)
 1. Pj Sheffield.
 1. Pouhiou Noénaute (co-director of Framasoft)
+1. Pradyun Gedam
 1. Pranav Teegavarapu
 1. Priit Laes (`@plaes`)
 1. Quentin Minster
