@@ -847,6 +847,7 @@ Free Software Contributor)
 1. Dorothea Salo
 1. Doug Harple
 1. Doug Hellmann (Python Software Foundation Fellow, former OpenStack Technical Committee)
+1. Douglas Muth (@dmuth)
 1. Douglas Shieh
 1. Doug Targett (Collabora)
 1. Dr. Chris Zimmermann (Linux Inlaws, FraLUG)
