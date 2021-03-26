@@ -2403,6 +2403,7 @@ Free Software Contributor)
 1. Sébastien Villemot (Debian Developer, FSF associate member)
 1. Seebs
 1. Selam Gano
+1. Selena Deckelmann (Mozilla, Former PostsgreSQL Major Contributor, Python Software Foundation Fellow, Former PSF Board Member)
 1. SeongHyun Lee (Kevin Lee / 케빈 리)
 1. Seraphim R.P. (Kerygma Digital)
 1. Seth Aldini
