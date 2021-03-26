@@ -347,7 +347,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Ben Hearsum
 1. Ben Hilburn (former GNU Radio lead, current GA member)
 1. Ben Hutchings (Debian Developer)
-1. Benjamin Aaron Goldberg
 1. Benjamin Bädorf 
 1. Benjamin "bizzl" Kleiner
 1. Benjamin De Kosnik
@@ -919,6 +918,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Florian Müllner (GNOME)
 1. Florian Neumann
 1. Florian Segginger
+1. Francisco Castaño (Firefox Support)
 1. Frances Hocutt
 1. Francis Gulotta (Node SerialPort maintainter, Nodebots founding memeber)
 1. Francois Caen (Former Taclug president)
@@ -1680,7 +1680,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Matthilde A. Stella
 1. Mattias Bengtsson (Former GNOME Maps maintainer)
 1. Mattias Wadenstein (Debian developer and ACC sysadmin)
-1. Mattias Wernér
 1. Matt Lee (Libre.fm, former member of the GNU Project, former FSF staff)
 1. Matt Ray (former FSF member)
 1. Matt Travi
@@ -2330,7 +2329,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Thorsten Behrens (director, The Document Foundation)
 1. Thorsten Leemhuis (Fedora and Linux kernel contributor)
 1. Tiago Carrondo
-1. Tiago Fassoni
 1. Tiago Vinicius de Andrade Almeida
 1. Tianon Gravi
 1. Tierney Cyren (Node.js Community Committee Chairperson, Electron, OpenJS Foundation CPC)
@@ -2413,7 +2411,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Vincent Wong
 1. Vincenzo Palazzo (@vincenzopalazzo)
 1. Vinicius Mignot (`@locao`)
-1. Vinícius Salazar (`@vinisalazar`)
 1. Vipul Gupta
 1. Vipul Siddharth (Fedora Project Contributor)
 1. Virgile Ferroukh
