@@ -2286,6 +2286,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Sebastian Ramacher (Debian Developer)
 1. Sebastian Spaeth (@spaetz)
 1. Sebastian Stauch (@sebidude)
+1. Sébastien Lemaire
 1. Sébastien Villemot (Debian Developer, FSF associate member)
 1. Seebs
 1. Selam Gano
