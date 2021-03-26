@@ -418,6 +418,7 @@ Free Software Contributor)
 1. Be Wilson (Mixxx developer)
 1. Bill Budington (EFF Sr. Staff Technologist, LibrePlanet 2021 Presenter, signed in personal capacity)
 1. Bill Mulligan
+1. Bill Nottingham (Ansible, Red Hat)
 1. Billy Messenger (member of the RustyDAW group)
 1. Birger Schacht (Debian Developer)
 1. Bjoern Michaelsen (former the Document Foundation director, LibreOffice developer)
