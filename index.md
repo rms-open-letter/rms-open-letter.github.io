@@ -631,6 +631,7 @@ Free Software Contributor)
 1. Chuck Mattern (Red Hat associate and Open Source evangelist since TAMU Linux in 1992)
 1. Ciaran McCarthy
 1. Claire Connelly (FSF associate member; former Debian developer)
+1. Claire Nord
 1. Clara Hobbs
 1. Clare Macrae
 1. Clarissa Borges (GNOME Foundation member)
@@ -666,7 +667,7 @@ Free Software Contributor)
 1. Cor Nouws (Collabora Productivity Marketing Lead)
 1. Cory DeVore
 1. Courtney Thurston (former Spark distro dev)
-1. Craig Maloney
+1. Craig Maloney 
 1. cricket c. piapiac
 1. Cristóbal Palmer (ibiblio.org)
 1. crt0mega
