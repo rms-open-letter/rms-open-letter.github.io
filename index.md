@@ -57,7 +57,6 @@ Signed,
 1. CH Open
 1. CommitChange
 1. Creative Commons
-1. Cusy
 1. DataMade
 1. Dot HQ
 1. Echap
@@ -212,7 +211,6 @@ Free Software Contributor)
 1. Alfredo Hernández (former member of the Ubuntu GNOME administrators board)
 1. Alfredo Matas (`@amatas` FLOSS contributor and advocator)
 1. Alice Berg
-1. Alice W. Nguyen
 1. Alicia Boya Garcia (Igalia)
 1. Ali Polatel (Exherbo Linux)
 1. Ali Ramadhan
@@ -1176,7 +1174,6 @@ Free Software Contributor)
 1. Ian Jackson (Former Debian Project Leader; former President, Software in the Public Interest; GNU Maintainer)
 1. Ian Johnson (Ubuntu)
 1. Ian Stapleton Cordasco
-1. Ian Steiger
 1. İbrahim Yöndemli
 1. Idan Gazit (Django project alumnus)
 1. Igmar Palsenberg
@@ -1637,7 +1634,6 @@ Free Software Contributor)
 1. leo60228
 1. Leo Famulari
 1. Leonard Richardson
-1. Leonardo J. Held
 1. Leon N.
 1. Leo Wagner
 1. Liam Dawe (GamingOnLinux.com)
@@ -1808,7 +1804,6 @@ Free Software Contributor)
 1. Matheus Fantinel
 1. Mathieu Comandon (Lutris)
 1. Mathieu Gaborit (matael)
-1. Mathieu Lutfy
 1. Matt
 1. Matt Barron
 1. Matt Beland
@@ -2509,6 +2504,7 @@ Free Software Contributor)
 1. Stuart Spence
 1. Subhashish P. (open culture advocate)
 1. Sune Stolborg Vuorela, (Debian, KDE)
+1. Svaksha ॥ स्वक्ष ॥  [@svaksha](https://github.com/svaksha/)
 1. Sven Aas
 1. Sven `DrMcCoy` Hesse
 1. Sven Hüster
