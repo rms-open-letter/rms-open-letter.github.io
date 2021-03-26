@@ -180,6 +180,7 @@ Free Software Contributor)
 1. Alexander Windahl
 1. Alexandra Moylett
 1. Alexandra Pereira (Collabora)
+1. Alexandra Rubleva
 1. Alexandra Stehr
 1. Alexandre Dulaunoy (former FSF associate member #53)
 1. Alexandria Christina Leal et al.
