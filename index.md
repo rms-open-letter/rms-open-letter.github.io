@@ -455,6 +455,7 @@ Free Software Contributor)
 1. Brian Bowling
 1. Brian Breniser (Red Hat app dev consultant)
 1. Brian Chen (`betaveros`)
+1. Brian Clapper (@bmc)
 1. Brian Curtin (Fellow at Python Software Foundation, former board member)
 1. Brian Dawn
 1. Brian Heim
