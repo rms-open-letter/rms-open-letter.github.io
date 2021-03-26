@@ -1775,6 +1775,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. M. Scott Ford (CEO, Corgibytes)
 1. Much0m0rek
 1. Mx Craven
+1. Mylan Connolly
 1. Myriam Rita Schweingruber
 1. Myrle Krantz (ASF member)
 1. Nabarun Pal (Kubernetes 1.21 Release Lead, PyCon India 2020/2021 Tech Lead)
