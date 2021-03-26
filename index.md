@@ -1523,6 +1523,7 @@ Free Software Contributor)
 1. Kay Marquardt (@gnadelwartz)
 1. Kay Marquardt (@gnadelwartz, kay@rrr.de)
 1. Kees Cook (Linux kernel maintainer & Technical Advisory Board member, Debian Developer, Ubuntu core developer, former Ubuntu Technical Board member)
+1. KeetKhat
 1. Keith Gable (The Museum of Art and Digital Entertainment; contributor: DreamPi, Ruby on Rails, Ember.js; core author of ignitionServer, now defunct)
 1. Kellegram
 1. Kelly Hopkins (former FSF staffer)
