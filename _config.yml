@@ -10,6 +10,8 @@ languages:
     code: "de"
   - name: "Italian"
     code: "it"
+  - name: "Japanese"
+    code: "ja"
   - name: "Polish"
     code: "pl"
   - name: "Persian"
