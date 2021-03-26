@@ -2330,6 +2330,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Thorsten Behrens (director, The Document Foundation)
 1. Thorsten Leemhuis (Fedora and Linux kernel contributor)
 1. Tiago Carrondo
+1. Tiago Fassoni
 1. Tiago Vinicius de Andrade Almeida
 1. Tianon Gravi
 1. Tierney Cyren (Node.js Community Committee Chairperson, Electron, OpenJS Foundation CPC)
