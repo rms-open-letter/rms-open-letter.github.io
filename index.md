@@ -2272,6 +2272,7 @@ Free Software Contributor)
 1. Robert Vollmert
 1. Robey Pointer (paramiko, eggdrop)
 1. Robin Bowes
+1. Robin Groppe
 1. Robin Michael
 1. Robin Ophalvens
 1. Robin Ward (Discourse Co-Founder)
