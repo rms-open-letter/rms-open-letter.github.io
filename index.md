@@ -1266,6 +1266,7 @@ Free Software Contributor)
 1. Jason Heppler
 1. Jason LACAM (open-source and free software defender)
 1. Jason Murray (@chaosaffe)
+1. Jason Perkins (Premake)
 1. Jason Riedy
 1. Jason Robinson
 1. Jason Rosenzweig
