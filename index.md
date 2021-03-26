@@ -2132,6 +2132,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Sam Bailey
 1. Sambhav Saggi
 1. Sam Buccieri-Gillett
+1. Sam Dickinson
 1. Sam Hartman (Former Debian Project Leader)
 1. Sam Hocevar (Former Debian Project Leader)
 1. Sam Kottler
