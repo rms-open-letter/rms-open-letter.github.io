@@ -2579,6 +2579,7 @@ Free Software Contributor)
 1. Vanessa Oxley
 1. Vangelis Katsikaros
 1. Vasilis Tsiligiannis (@acinonyx, Libre Space Foundation Board Member)
+1. Vasya Aristov
 1. Veeti Veteläinen (`Uumas`)
 1. Veronica Cary
 1. Vicky Rampin
