@@ -162,6 +162,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Albert Bellonch
 1. Albert Wong
 1. Alejandro AR (`kinduff`)
+1. Alejandro F. Nadal
 1. Alejandro R. Urzúa (INAOE MX, @rurz at Github)
 1. Alex A. G.
 1. Alexander Herzig (Release Manager SUSE Linux Enterprise)
@@ -397,6 +398,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Brad Geesaman
 1. Brad Solomon
 1. Bram Hagens
+1. Branden Higby
 1. Brandon Butler
 1. Brandon Frohs (@0b10011)
 1. Bread Man
@@ -928,6 +930,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Florian Segginger
 1. Frances Hocutt
 1. Francis Gulotta (Node SerialPort maintainter, Nodebots founding memeber)
+1. Francisco Castaño (Firefox Support)
 1. Francois Caen (Former Taclug president)
 1. Francois Lesage
 1. François Pelletier (President of LinuQ, Executive at FACiL, pour l'appropriation collective de l'informatique libre)
