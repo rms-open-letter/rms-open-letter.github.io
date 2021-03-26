@@ -79,6 +79,7 @@ Signed,
 1. Open Observatory of Network Interference (OONI)
 1. Open Source Collective
 1. Open Source Diversity
+1. Outreachy
 1. Public Laboratory for Open Technology and Science
 1. Radial Source
 1. Riseup Networks
@@ -2119,6 +2120,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Ryan Schmidt
 1. Ryu "SaidBySolo" JuHeon
 1. Sadie Powell (InspIRCd)
+1. Sage Sharp (Outreachy organizer)
 1. Sai Vamshi (Business Analyst)
 1. Sajid Ali
 1. Sally Jo Cunningham (Waikato University)
