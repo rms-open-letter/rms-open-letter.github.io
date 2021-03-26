@@ -2314,6 +2314,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Stefan Crain
 1. Stefanie Schirmer
 1. Stefan Kramer
+1. Stefan Moosbrugger
 1. Stefan Schindler
 1. Stefan T. Peters
 1. Stefan Weiberg (Technical Projectmanager SUSE Linux Enterprise)
