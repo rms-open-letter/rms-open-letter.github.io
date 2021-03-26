@@ -693,7 +693,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Dan Watkins (cloud-init maintainer, Ubuntu developer)
 1. Dan Winship
 1. Dan Yeaw
-1. Dario Ninicato
 1. DaShaun Carter (`@dashaun`)
 1. Davanum Srinivas (TOC, CNCF; Steering, Kubernetes)
 1. Dave Camp (Mozilla, Former GNOME Foundation)
