@@ -1,0 +1,35 @@
+---
+---
+
+@import "minima/skins/{{ site.minima.skin | default: 'classic' }}";
+@import "minima/initialize";
+
+.share-links {
+  display: flex;
+  align-items: center;
+  padding-bottom: 1rem;
+}
+
+.share-links *:not(:last-child) {
+  margin-right: 10px;
+}
+
+.share-links p {
+  margin-bottom: 0;
+}
+
+.share-links a {
+  color: #464646;
+  width: 32px;
+  height: 32px;
+}
+
+.site-title {
+  flex: 1;
+}
+
+.site-header .wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

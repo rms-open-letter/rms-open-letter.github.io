@@ -1,1 +1,22 @@
-theme: minima
+remote_theme: rms-open-letter/minima
+languages:
+  - name: "Brazilian Portuguese"
+    code: "pt"
+  - name: "Dutch"
+    code: "nl"
+  - name: "French"
+    code: "fr"
+  - name: "German"
+    code: "de"
+  - name: "Italian"
+    code: "it"
+  - name: "Polish"
+    code: "pl"
+  - name: "Persian"
+    code: "fa"
+  - name: "Spanish"
+    code: "es"
+  - name: "Turkish"
+    code: "tr"
+  - name: "Russian"
+    code: "ru"
