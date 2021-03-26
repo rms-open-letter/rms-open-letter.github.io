@@ -1823,6 +1823,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Misha Nasledov
 1. Mithun Hunsur
 1. Miu Shiina
+1. Miyoung Shin (Igalia)
 1. M. Oliver Ghingold
 1. Molly White (@molly on GitHub)
 1. Monica Ayhens-Madon
