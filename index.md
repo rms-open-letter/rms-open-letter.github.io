@@ -364,6 +364,7 @@ Free Software Contributor)
 1. Bassam Kurdali
 1. Bastien Nocera (Former director, GNOME Foundation)
 1. Behdad Esfahbod (Former director / president, GNOME Foundation)
+1. Ben Acker (@nvcexploder)
 1. Ben Bromhead
 1. Ben Brown
 1. Ben Cotton (Fedora Project contributor)
