@@ -2056,6 +2056,7 @@ Free Software Contributor)
 1. Patrick Meyer (`HerrSpace`)
 1. Patrick Pouw
 1. Patrick Robinson
+1. Patrick Schoenfeld (former Debian Developer)
 1. Patrick Wu (Ubuntu developer)
 1. Patric Mueller (NetHack DevTeam member)
 1. Patryk Nogaś (@PatrykNog)
