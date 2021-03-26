@@ -1462,6 +1462,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Katie McLaughlin (Python Software Foundation, former Linux Australia council)
 1. Katrina Riehl (NumFOCUS Board Member)
 1. Kavi Laud
+1. Kay Marquardt (@gnadelwartz)
 1. Kayla Anne Cupples
 1. Kay Marquardt (@gnadelwartz, kay@rrr.de)
 1. Kees Cook (Linux kernel maintainer & Technical Advisory Board member, Debian Developer, Ubuntu core developer, former Ubuntu Technical Board member)
