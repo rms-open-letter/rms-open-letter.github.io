@@ -725,6 +725,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. David Thompson (GNU Guile/Guix contributor, ex-FSF)
 1. David Turner (former GPL Compliance Engineer at FSF)
 1. David Wolfpaw
+1. David Zanetti (CTO, Catalyst Cloud)
 1. Dawn Leonard
 1. D. Ben Knoble
 1. Debarshi Ray (Fedora, GNOME, Red Hat; ex-GNU)
