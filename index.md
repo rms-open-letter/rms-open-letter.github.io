@@ -1282,6 +1282,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Johnny Danger Myers
 1. John Reese (The Omnilib Project)
 1. John SJ Anderson
+1. John Slee (@jsleeio)
 1. John Sturdy
 1. John "Warthog9" Hawley
 1. John Wiseman
