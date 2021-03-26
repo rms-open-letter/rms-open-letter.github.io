@@ -304,6 +304,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Aria Buckles
 1. Ariadne Conill (Alpine Developer, pkgconf)
 1. Ariela Wenner
+1. Arnaud Dupuis
 1. Arnav Jindal (aka Daggy1234, founder DaggyTech)
 1. Arne Brasseur
 1. Arne Visscher
