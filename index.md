@@ -2349,6 +2349,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Stuart Spence
 1. Subhashish P. (open culture advocate)
 1. Sune Stolborg Vuorela, (Debian, KDE)
+1. Sven Aas
 1. Sven `DrMcCoy` Hesse
 1. Sven Hüster
 1. Swapnil Kulkarni
