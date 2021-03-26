@@ -814,6 +814,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Drew Marjorie Uhlmann (@d-m-u)
 1. Drew Winstel (@drewbrew on GitHub, DjangoCon US 2019 Organizer, Python Software Foundation individual member)
 1. Dr Neil Smith
+1. Duarte Veiga
 1. Dustin Mitchell (Engineer, Mozilla)
 1. Dylan Baker (Mesa, Meson)
 1. Dylan Graham (Kubernetes)
