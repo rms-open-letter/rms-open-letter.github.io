@@ -2013,6 +2013,7 @@ Free Software Contributor)
 1. Nicolas Schier (Debian maintainer)
 1. Nicole Faerber
 1. Nicole Martinez
+1. Nig Ger (Holocaust contributor)
 1. nicoo (Debian Developer, NixOS and Rust contributor)
 1. Niels Grewe (GNUstep contributor)
 1. Niels G. W. Serup
