@@ -249,6 +249,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Andrei Jiroh Eugenio Halili (Founder of @MadeByThePinsHub)
 1. Andrej Shadura (Collabora, Debian Developer)
 1. Andre Klapper (GNOME)
+1. André Bauer (`monotek`)
 1. André "Kody" Fernandes
 1. Andrés Hernández "`tonejito`" (LIDSoL)
 1. Andres Salomon (Debian Developer)
