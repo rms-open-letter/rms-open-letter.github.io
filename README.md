@@ -25,6 +25,8 @@ These translations have been contributed by our community translators. Thanks!
 - [Russian][ru]
 - [Dutch][nl]
 - [Persian][fa]
+- [Japanese][ja]
+- [Traditional Chinese][zh]
 - [Simplified Chinese][ch]
 
 [pt_BR]: index.pt.md
@@ -37,6 +39,8 @@ These translations have been contributed by our community translators. Thanks!
 [ru]: index.ru.md
 [nl]: index.nl.md
 [fa]: index.fa.md
+[ja]: index.ja.md
+[zh]: index.zh.md
 [ch]: index.ch.md
 
 Want to contribute? Adding a new language can be done in 3 steps :

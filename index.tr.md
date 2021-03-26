@@ -12,6 +12,6 @@ RMS’nin çirkin fikirlerine ve davranışlarına yeterince tolerans gösterild
 
 [RMS'nin davranışıyla ilgili birkaç kamu olayını detaylandırdık][1]. Bazılarımızın RMS ve onunla olan etkileşimlerimiz hakkında kendi hikayesi var, bunlar e-posta başlıklarında veya videoda kaydedilmemiş şeyler. Paylaşılanları okuyacağınızı ve topluluğumuza ve diğerlerine yaptığı zararı düşüneceğinizi umuyoruz.
 
-[1]: https://rms-open-letter.github.io/appendix
+[1]: https://rms-open-letter.github.io/appendix.tr
 
 İmzalamak için lütfen digitalautonomy at riseup.net 'e e-posta gönderin veya [pull request'i yapın](https://github.com/rms-open-letter/rms-open-letter.github.io/pulls).
