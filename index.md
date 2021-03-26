@@ -1170,6 +1170,7 @@ Free Software Contributor)
 1. Italo Vignoli (OSI Director, LibreItalia Honorary President)
 1. Ivana Kellyérová
 1. Ivan Hudson (@sidpatchy)
+1. Ivan Ogasawara (xmnlab)
 1. Ivan Stegic
 1. Jaana Dogan
 1. Jacek Pruciak (@juniorjpdj)
