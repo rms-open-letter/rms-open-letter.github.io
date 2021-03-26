@@ -347,6 +347,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Ben Hearsum
 1. Ben Hilburn (former GNU Radio lead, current GA member)
 1. Ben Hutchings (Debian Developer)
+1. Benjamin Aaron Goldberg
 1. Benjamin Bädorf 
 1. Benjamin "bizzl" Kleiner
 1. Benjamin De Kosnik
