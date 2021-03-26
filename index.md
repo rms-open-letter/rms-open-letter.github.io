@@ -299,6 +299,7 @@ Free Software Contributor)
 1. Anne-laure Michel
 1. Anne Nicolas (Kernel Recipes organizer)
 1. Anne van Kesteren (Mozilla, WHATWG)
+1. Anouar Aissaoui
 1. Anthony Humphreys
 1. Anthony Maki (@4cm4k1)
 1. Anthony M. Cook (@anthony_m_cook)
