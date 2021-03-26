@@ -1174,6 +1174,7 @@ Free Software Contributor)
 1. Ian Jackson (Former Debian Project Leader; former President, Software in the Public Interest; GNU Maintainer)
 1. Ian Johnson (Ubuntu)
 1. Ian Stapleton Cordasco
+1. Ian Steiger
 1. İbrahim Yöndemli
 1. Idan Gazit (Django project alumnus)
 1. Igmar Palsenberg
