@@ -402,6 +402,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Birger Schacht (Debian Developer)
 1. Bjoern Michaelsen (former the Document Foundation director, LibreOffice developer)
 1. Björn Fahller
+1. Blair Sutherland
 1. Blair Vidakovich (vidak)
 1. Blake Ridgway (Found of Lyvia.io)
 1. BlastoiseVeteran
