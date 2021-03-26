@@ -721,6 +721,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. David Wolfpaw
 1. Dawn Leonard
 1. D. Ben Knoble
+1. Debarshi Ray (Fedora, GNOME, Red Hat; ex-GNU)
 1. Delan Azabani (Igalia)
 1. Denis Evsyukov
 1. Dennis Schubert (Mozilla, former diaspora\* maintainer)
