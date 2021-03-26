@@ -272,6 +272,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Angel Uniminin <uniminin@zoho.com>
 1. Angus Fletcher
 1. Angus Gratton
+1. Angus Salkeld
 1. Anibal Monsalve Salazar (Debian Developer)
 1. Aniol Marti (Debian Maintainer, Caliu President)
 1. Anis Tarafdar
