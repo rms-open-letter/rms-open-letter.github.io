@@ -849,6 +849,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Erik Osheim
 1. Erik Sundell (Project Juptyer)
 1. Erik Swanson
+1. Erin Moon (`barzamin`, `er1n`; blåhajctf, gcnhax/zeldaret, `rustodon`, LibrePlanet 2020 panelist)
 1. Erin Nova
 1. Erin Unterwaditzer
 1. Eriol Fox
