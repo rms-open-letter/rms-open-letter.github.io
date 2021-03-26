@@ -1574,6 +1574,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Liam Dawe (GamingOnLinux.com)
 1. Liam R. Howlett (kernel developer)
 1. Liera Zaitseva
+1. Lili Cosic (@lilic)
 1. Lili McCoy
 1. Lilly Winfree (Open Knowledge Foundation)
 1. Lily Ballard
