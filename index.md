@@ -285,6 +285,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Anne Nicolas (Kernel Recipes organizer)
 1. Anne van Kesteren (Mozilla, WHATWG)
 1. Anthony Humphreys
+1. Anthony M. Cook (@anthony_m_cook)
 1. Anthony Maki (@4cm4k1)
 1. Anthony Miller
 1. Anthony Nowocien
