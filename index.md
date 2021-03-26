@@ -1042,6 +1042,7 @@ Free Software Contributor)
 1. George DeMet
 1. George Kiagiadakis (Collabora)
 1. George Marques (Godot Engine)
+1. George Sykes (Reclaim The Night Leeds Data Analyst)
 1. Georg Gadinger
 1. Georgiana Dolocan
 1. Georgia Young (former FSF staff)
