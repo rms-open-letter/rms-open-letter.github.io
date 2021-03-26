@@ -2361,6 +2361,7 @@ Free Software Contributor)
 1. Sasi Olin (openSUSE Member, former openSUSE Board member)
 1. Satvik Sharma
 1. Savin Goyal
+1. Saya
 1. Sayan Chowdhury (@yudocaa)
 1. Scott Hain
 1. Scott Leggett (Debian Maintainer)
