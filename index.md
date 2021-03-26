@@ -1986,6 +1986,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Paul McLanahan (Engineer at Mozilla)
 1. Paul Moore (Linux Kernel maintainer, libseccomp maintainer)
 1. Paulo Henrique de Lima Santana (Debian Developer)
+1. Paulo Jorge de Oliveira Cantante de Matos (`pmatos`)
 1. Paul Oldham
 1. Paulo Pinto
 1. Paul Tagliamonte (Debian Developer and Former Director of the Open Source Initiative)
