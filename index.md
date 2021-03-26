@@ -70,7 +70,7 @@ Signed,
 1. GNU Radio
 1. Great Scott Gadgets
 1. Innatical
-1. Kludge Cyber Systems ([Public Statement](https://raw.githubusercontent.com/kludge-cs/transparency/master/open-statements/2021-03-23--RMS.md)) 
+1. Kludge Cyber Systems
 1. The HardenedBSD Foundation / The HardenedBSD Project
 1. Metaform
 1. MidnightBSD Project
