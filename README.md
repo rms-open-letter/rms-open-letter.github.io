@@ -25,6 +25,7 @@ These translations have been contributed by our community translators. Thanks!
 - [Russian][ru]
 - [Dutch][nl]
 - [Persian][fa]
+- [Japanese][ja]
 
 [pt_BR]: index.pt.md
 [fr]: index.fr.md
@@ -36,6 +37,7 @@ These translations have been contributed by our community translators. Thanks!
 [ru]: index.ru.md
 [nl]: index.nl.md
 [fa]: index.fa.md
+[ja]: index.ja.md
 
 Want to contribute? Adding a new language can be done in 3 steps :
 1. Copy `index.md` to `index.xx.md` and translate it.
@@ -46,6 +48,6 @@ _Note: Do not forget to update the link in `index` pointing to the `appendix` tr
 
 ## Contributing :raising_hand:
 
-Please note, issues about techical problems in this repository are welcome. Complaints about the content of the letter are not on topic and will be deleted - there's a lot more places that are more appropriate than opening issues.
+Please note, issues about technical problems in this repository are welcome. Complaints about the content of the letter are not on topic and will be deleted - there's a lot more places that are more appropriate than opening issues.
 
 Pull requests may be merged in batches. Thanks for your patience!
