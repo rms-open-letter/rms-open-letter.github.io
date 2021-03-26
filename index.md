@@ -344,7 +344,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Avital Kelman
 1. Avi Zajac
 1. Axel De Acetis
-1. Babak Farrokhi
+1. Babak Farrokhi (FreeBSD Developer)
 1. Baciu Florin-George ('bfgelectronics',BFG-E#2734)
 1. Bailey (the2048)
 1. Bandie (Chaos Computer Club, pam_panic, former FSF member)
