@@ -28,6 +28,4 @@
 این متن تاکنون بروز شده است، ولی همچنان transphobic است. <a href="https://web.archive.org/web/20210325014959/https://www.gnu.org/philosophy/kind-communication.html">16</a>
 در صفحه اصلی وبسایتش جمله "'They' جمع است - برای اشخاص مفرد، از ضمایر مفرد و خنثی‌جنس استفاده کنید."<a href="https://web.archive.org/web/20210325014851/https://stallman.org/">17</a>
 </p>
-[برگشت به صفحه اصلی][18]
-
-[18]: https://rms-open-letter.github.io/index.fa
+<a href="https://rms-open-letter.github.io/index.fa">[برگشت به صفحه اصلی]</a>
