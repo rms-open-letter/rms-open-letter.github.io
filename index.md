@@ -1995,6 +1995,7 @@ Free Software Contributor)
 1. Nick Ruest
 1. Nick Sieger
 1. Nick Wanninger (@nickwanninger)
+1. Nicki K-leXx
 1. Niclas Zeising (FreeBSD committer)
 1. Nicolai von Neudeck
 1. Nicolás Alvarez (KDE)
