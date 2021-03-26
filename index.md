@@ -165,6 +165,7 @@ Free Software Contributor)
 1. Alan Pope
 1. Alasdair Nottingham
 1. Albert Bellonch
+1. Albert Lee (illumos, RackTop)
 1. Alberto Ruiz (GNOME, Fedora & LibreOffice contributor)
 1. Albert Wong
 1. Alejandro AR (`kinduff`)
