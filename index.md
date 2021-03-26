@@ -1296,6 +1296,7 @@ Free Software Contributor)
 1. Jean-Philippe DUFRAIGNE
 1. Jed Brown
 1. Jeetaditya Chatterjee `@jeetelongname`
+1. Jee Gurda
 1. Jeff Byrnes (@jeffbyrnes)
 1. Jeff Forcier (aka bitprophet) (Python library maintainer, eg Fabric, Paramiko)
 1. Jeff Fortin T. (former president of the GNOME Foundation)
