@@ -1386,6 +1386,7 @@ Free Software Contributor)
 1. Johannes Nixdorf (Exherbo)
 1. Johan van Selst
 1. John Bond
+1. John Boy
 1. John Burnett (@johnburnett on GitHub)
 1. John D. Martin III
 1. John F Lieske
