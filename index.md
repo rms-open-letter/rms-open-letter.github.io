@@ -1783,6 +1783,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Michael Mattsson (@datamattsson)
 1. Michael `mythmon` Cooper (Mozilla developer)
 1. Michael `NCommander` Casadevall (Ubuntu Core Developer, former Debian Developer, former FSF Savannah Administrator)
+1. Michael `nolski` Nolan
 1. Michael Ossmann
 1. Michael `ovyerus` Mitchell
 1. Michael Perron
