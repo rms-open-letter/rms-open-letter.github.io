@@ -2324,6 +2324,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Steven R. Ringwald
 1. Steve Pletcher
 1. Steve Pomeroy
+1. Steven Toth
 1. Steve Widinghoff
 1. Stew O'Connor (former Debian debeloper, former freenode staff)
 1. Stig Sandbeck Mathisen (Debian Developer)
