@@ -2221,6 +2221,7 @@ Free Software Contributor)
 1. Roger Zanoni (Igalia)
 1. Rojen Zaman
 1. Romain Menke
+1. Romina Killpack (walkaway.wiki research cooperative)
 1. Romina Suarez (@rowasc)
 1. Romina Tidona
 1. Ronny Trommer
