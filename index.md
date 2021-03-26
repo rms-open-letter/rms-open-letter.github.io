@@ -451,6 +451,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Cadence Ember
 1. Caelan
 1. Caglar Koksal, Phd
+1. Caiden Block
 1. Caio Vinicius
 1. Caitlyn M. Martin
 1. Callum Farmer (openSUSE member & maintainer)
