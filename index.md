@@ -1126,6 +1126,7 @@ Free Software Contributor)
 1. Haïkel Guémar (Fedora Project, former Board and Fesco member)
 1. Halla Rempt (maintainer of Krita)
 1. Hanatan
+1. Hank Grabowski
 1. Hannah Aizenman (NYLUG coordinator, Matplotlib community manager)
 1. Hanns Holger Rutz
 1. Hao Ye
