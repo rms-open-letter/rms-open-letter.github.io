@@ -2346,6 +2346,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Sune Stolborg Vuorela, (Debian, KDE)
 1. Sven `DrMcCoy` Hesse
 1. Sven Hüster
+1. Swapnil Kulkarni
 1. Sy Brand (Microsoft)
 1. Sydney Schreckengost
 1. Syds Bearda (openSUSE member + treasurer)
