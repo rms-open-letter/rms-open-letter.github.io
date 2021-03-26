@@ -372,6 +372,7 @@ Free Software Contributor)
 1. Ben Cotton (Fedora Project contributor)
 1. Ben Evans
 1. Ben Ford (`@binford2k`)
+1. Ben Harris (tildeverse.org)
 1. Ben Hearsum
 1. Ben Hilburn (former GNU Radio lead, current GA member)
 1. Ben Hutchings (Debian Developer)
