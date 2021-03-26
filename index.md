@@ -1648,6 +1648,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Mads Johansen
 1. Mae Dartmann
 1. Magnus Frühling (Freifunk Frankfurt contributor, OpenWrt committer, Chaos Computer Club)
+1. Magnus Hambleton
 1. Magnus Krüger
 1. Mairi Dulaney (Fedora Project contributor)
 1. Máirín Duffy (Fedora Project, former FSF HPP committee member, former LP speaker)
