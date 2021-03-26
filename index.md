@@ -1470,6 +1470,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Kot Cat (@kotx)
 1. Koz Ross (former FSF associate student member)
 1. kpcyrd (Arch Linux, Debian, Reproducible Builds)
+1. Kris Aubuchon (Discourse)
 1. Kris Buytaert
 1. Kristi Progri
 1. Krzysztof Sakrejda
