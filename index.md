@@ -1858,6 +1858,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Neel Chauhan (FreeBSD Ports Committer, Tor Core Contributor)
 1. Neil McPhail
 1. Neil Watson (Former CFEngine Community Advisory Board Member)
+1. Neils Nesse (Former FSF associate member)
 1. Nelson Minar
 1. Nic FitzGerald (Co-Founder Sailex)
 1. Nicholas LaPointe (Krita contributor)
