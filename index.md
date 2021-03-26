@@ -1504,6 +1504,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Lily Foster (@lilyinstarlight)
 1. Lina B (elatelation)
 1. Linda Fernández
+1. Lindsay Gaff (@lgaff)
 1. Lindsay Holmwood (former Vice President of Linux Australia)
 1. Link Dupont (GNOME Foundation)
 1. Linus A. Wozniak (@MadsRach)
