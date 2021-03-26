@@ -70,6 +70,7 @@ Signed,
 1. GNU Radio
 1. Great Scott Gadgets
 1. Innatical
+1. Kludge Cyber Systems
 1. The HardenedBSD Foundation / The HardenedBSD Project
 1. Metaform
 1. MidnightBSD Project
@@ -2612,6 +2613,7 @@ Free Software Contributor)
 1. Tuna Ilgaz
 1. Tux Pacific (NuCypher)
 1. Tyler Childs (D13 Labs)
+1. Tyler J. Russell (@Nytelife26, founder and acting director of Kludge Cyber Systems)
 1. Tyrel Souza
 1. Ujjwal Sharma (Node.js Core Collaborator, TC39, Igalia)
 1. Ulrike Uhlig (Debian Developer)
