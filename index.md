@@ -186,6 +186,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. alexis richardson (former TOC chair, cloud native computing foundation)
 1. Alexis Tyler
 1. Alex Jones ( VP JPMC, Principal Engineer )
+1. Alex Lewis (@alexinea, NCC community member)
 1. Alex Macafee (@lxmcf)
 1. Alex McCabe (@alexdmccabe, Red Hat, Drupal community)
 1. Alex Murray
