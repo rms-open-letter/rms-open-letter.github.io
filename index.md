@@ -2000,6 +2000,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Pj Sheffield.
 1. Pranav Teegavarapu
 1. Priit Laes (`@plaes`)
+1. Peylight
 1. Rachel Chalmers (boardmember, The Ada Initiative)
 1. Rachel Domagalski
 1. Rachel Kadel

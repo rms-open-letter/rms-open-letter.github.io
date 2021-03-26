@@ -31,7 +31,7 @@ _2021-03-23_
 
 </p><p>
 
-جهت امضا به آدرس ایمیل digitalautonomy at riseup.net ارسال کرده و یا <a href="https://github.com/rms-open-letter/rms-open-letter.github.io/pulls">درخواست کشش کنید</a>.
+جهت امضا به آدرس digitalautonomy at riseup.net ایمیل ارسال کرده و یا <a href="https://github.com/rms-open-letter/rms-open-letter.github.io/pulls">درخواست کشش کنید</a>.
 
 </p>
 
