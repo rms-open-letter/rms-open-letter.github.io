@@ -179,6 +179,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Alexandre Dulaunoy (former FSF associate member #53)
 1. Alexandria Christina Leal et al.
 1. Alexandros Bourantas
+1. Alexandros Kosiaris
 1. Alex Arslan (Julia contributor, former Julia community manager)
 1. Alex Brown
 1. Alex Callejas
