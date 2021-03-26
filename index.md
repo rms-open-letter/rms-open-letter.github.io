@@ -202,6 +202,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Alicia Boya Garcia (Igalia)
 1. Ali Polatel (Exherbo Linux)
 1. Ali Ramadhan
+1. Alison Chaiken (former LibrePlanet speaker and _Free Software Supporter_ author)
 1. Alison Dowdney (Kubernetes SIG Contributor Experience Chair)
 1. Alison Withonel Chan (`alis0nc`)
 1. Aljosha Papsch (FSFE member)
