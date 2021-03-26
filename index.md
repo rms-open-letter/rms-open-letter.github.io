@@ -1398,6 +1398,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Joshua Brindle
 1. Joshua Conner
 1. Joshua Jun
+1. Joshua Lock
 1. Joshua Peisach (Debian, Ubuntu, GNOME/Cinnamon Desktop)
 1. Joshua Strobl (Solus Experience Lead, Budgie Desktop Lead)
 1. Joshua Timberman
