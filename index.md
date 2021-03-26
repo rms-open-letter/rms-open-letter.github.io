@@ -320,6 +320,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Arno Broekhof
 1. Arno Fleming (Community organiser)
 1. Artemis Tosini (NixOS contributor)
+1. Arthur Otte (sylveon-ari)
 1. Arthur Richards
 1. Arturs Dobrecovs
 1. Artur Tamborski (former FSF member)
