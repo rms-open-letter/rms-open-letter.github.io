@@ -1615,6 +1615,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Mark Brown (Linux, Debian)
 1. Mark Filion (Collabora)
 1. Mark Fowler
+1. Mark Hansen
 1. Markiyan Kryvonis
 1. Mark Musante
 1. Markos Fragkakis
