@@ -960,6 +960,7 @@ Free Software Contributor)
 1. Felix 'fleaz' Breidenstein
 1. Felix Fontein
 1. Félix 'passcod' Saparelli
+1. Félix Piédallu 'Salamandar'
 1. Felix 'thegoliath' Golatofski
 1. Felix Zielcke (Debian Maintainer)
 1. F / erbridge
