@@ -919,6 +919,7 @@ Free Software Contributor)
 1. Ethan Atchley (Ataraxia GNU/Linux and Dang Small Linux developer)
 1. Ethan Djeric
 1. Étienne Mollier (Debian Maintainer)
+1. Eugene Gubich
 1. Eva Knewes
 1. Eva Lauren Kelly (web & console homebrew developer, aka thejsa)
 1. Evan Brown
