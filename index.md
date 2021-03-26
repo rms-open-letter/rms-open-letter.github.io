@@ -2219,6 +2219,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Sara Stephens (SUSE)
 1. Sarina Canelake
 1. Sarven Capadisli
+1. Sascha "ch1r0x" Rudolph
 1. Sasha Cuerda
 1. Sasha Weiss
 1. Sasi Olin (openSUSE Member, former openSUSE Board member)
