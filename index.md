@@ -1203,6 +1203,7 @@ Free Software Contributor)
 1. Jaeon Park
 1. JaeYoon Whang
 1. Jaime Gutiérrez Alfaro
+1. Jaime Zhang (@TomorJM))
 1. Jake Harrison (@GloomyJD)
 1. Jakob Bornecrantz (Collabora, OpenHMD & Monado Co-Founder)
 1. Jakob 'sur5r' Haufe (Debian Developer)

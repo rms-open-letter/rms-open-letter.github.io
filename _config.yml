@@ -24,3 +24,5 @@ languages:
     code: "tr"
   - name: "Russian"
     code: "ru"
+  - name: "Simplified Chinese"
+    code: "ch"

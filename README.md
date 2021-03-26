@@ -27,6 +27,7 @@ These translations have been contributed by our community translators. Thanks!
 - [Persian][fa]
 - [Japanese][ja]
 - [Traditional Chinese][zh]
+- [Simplified Chinese][ch]
 
 [pt_BR]: index.pt.md
 [fr]: index.fr.md
@@ -40,6 +41,7 @@ These translations have been contributed by our community translators. Thanks!
 [fa]: index.fa.md
 [ja]: index.ja.md
 [zh]: index.zh.md
+[ch]: index.ch.md
 
 Want to contribute? Adding a new language can be done in 3 steps :
 1. Copy `index.md` to `index.xx.md` and translate it.
