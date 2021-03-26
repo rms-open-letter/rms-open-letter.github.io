@@ -1282,6 +1282,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. John Sturdy
 1. John "Warthog9" Hawley
 1. John Wiseman
+1. John-Mark Gurney (FreeBSD committer, long-time free software dev.)
 1. Jo Jerrica Decker
 1. Jona Azizaj (Fedora Project, Open Source Diversity)
 1. Jonas Ådahl (GNOME, freedesktop.org, Fedora)
