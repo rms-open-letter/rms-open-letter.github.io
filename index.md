@@ -232,6 +232,7 @@ Free Software Contributor)
 1. Amber Yust
 1. Amelia Andersdotter (former Member of the European Parliament (Piratpartiet), hobby Arch and network scripting aficionado)
 1. Amelia Ikeda
+1. Amin Vakil
 1. Amir Mohammadi
 1. Amir Sarabadani (Wikimedia)
 1. Amos `fasterthanlime` Wenger
