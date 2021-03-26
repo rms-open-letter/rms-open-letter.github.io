@@ -2189,6 +2189,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Sam Dickinson
 1. Sam Hartman (Former Debian Project Leader)
 1. Sam Hocevar (Former Debian Project Leader)
+1. Samuel Karp
 1. Sam Kottler
 1. Sam Muirhead
 1. Sammy Fung (GNOME, Mozilla, Open Source Hong Kong, PyCon HK)
