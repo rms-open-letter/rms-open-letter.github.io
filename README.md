@@ -25,7 +25,7 @@ These translations have been contributed by our community translators. Thanks!
 - [Russian][ru]
 - [Dutch][nl]
 - [Persian][fa]
-- [Chinese][ch]
+- [Simplified Chinese][ch]
 
 [pt_BR]: index.pt.md
 [fr]: index.fr.md
