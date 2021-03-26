@@ -1040,6 +1040,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Haelwenn (`lanodan`) Monnier (Pleroma maintainer, Gentoo contributor)
 1. Haïkel Guémar (Fedora Project, former Board and Fesco member)
 1. Halla Rempt (maintainer of Krita)
+1. Hanatan
 1. Hannah Aizenman (NYLUG coordinator, Matplotlib community manager)
 1. Hanns Holger Rutz
 1. Hao Ye
