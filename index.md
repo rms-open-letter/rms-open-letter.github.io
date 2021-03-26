@@ -909,6 +909,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Evangelos Ribeiro Tzaras
 1. Evan Hirsh
 1. Evan Hunt (BIND maintainer, ISC)
+1. Evan Light
 1. Evan Prodromou
 1. Evan Sklarski
 1. Evelin Heidel
