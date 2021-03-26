@@ -940,7 +940,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Florian Segginger
 1. Frances Hocutt
 1. Francisco Castaño (Firefox Support)
-1. Francis Gulotta (Node SerialPort maintainter, Nodebots founding memeber)
+1. Francis Gulotta (Node SerialPort maintainter, Nodebots founding member)
 1. Francois Caen (Former Taclug president)
 1. Francois Lesage
 1. François Pelletier (President of LinuQ, Executive at FACiL, pour l'appropriation collective de l'informatique libre)
@@ -1253,7 +1253,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Jesse Clark
 1. Jesse Cooke
 1. Jesse Hamner
-1. Jesse Keating (GitHub, former Fedora Project Relase Engineer)
+1. Jesse Keating (GitHub, former Fedora Project Release Engineer)
 1. Jesse Li
 1. Jesse Raleigh (Sr Security Researcher)
 1. Jesser Lemus
@@ -1263,7 +1263,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Jez Cope
 1. Jiahao Chen (JPMorgan AI Research; Julia language, `@acidflask` and `@jiahao`)
 1. Jill Pelavin
-1. Jill Rouleau (Ansible Maintainer / Steering Commitee member)
+1. Jill Rouleau (Ansible Maintainer / Steering Committee member)
 1. Jim Bair
 1. Jim Campbell
 1. Jim Gettys
@@ -1915,7 +1915,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Oliver Propst (GNOME)
 1. Olivier Berger (FSF member, or associate member since 2002)
 1. Olivier Crête (Collabora, GStreamer)
-1. Olivier Duquesne (DaffyDuke, French LUG volonteer)
+1. Olivier Duquesne (DaffyDuke, French LUG volunteer)
 1. Ollivier Robert (FreeBSD committer, long-time free software dev.)
 1. Omar Akkila (Collabora)
 1. Ondřej Surý (Debian Developer; Director of DNS Engineering @ ISC)
@@ -2301,7 +2301,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Stefan T. Peters
 1. Stefan Weiberg (Technical Projectmanager SUSE Linux Enterprise)
 1. Stelios Milidonis (Collabora)
-1. Stemy (amateur independant self-host)
+1. Stemy (amateur independent self-host)
 1. Stephan Barth (Technical Project Manager for Maintenance, SUSE)
 1. Stephane Graber (LXC, former Ubuntu Technical Board member)
 1. Stephanie Gruss (@sagruss)
@@ -2328,7 +2328,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Steve Pomeroy
 1. Steven Toth
 1. Steve Widinghoff
-1. Stew O'Connor (former Debian debeloper, former freenode staff)
+1. Stew O'Connor (former Debian developer, former freenode staff)
 1. Stig Sandbeck Mathisen (Debian Developer)
 1. Stuart Auld
 1. Stuart A Yeates (former OSS Watch staffer)
