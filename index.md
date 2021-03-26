@@ -2510,6 +2510,7 @@ Free Software Contributor)
 1. Stuart Spence
 1. Subhashish P. (open culture advocate)
 1. Sune Stolborg Vuorela, (Debian, KDE)
+1. Svaksha ॥ स्वक्ष ॥  [@svaksha](https://github.com/svaksha/)
 1. Sven Aas
 1. Sven `DrMcCoy` Hesse
 1. Sven Hüster
