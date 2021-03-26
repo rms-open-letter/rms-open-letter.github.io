@@ -1572,6 +1572,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Liz Rice (TOC chair, CNCF; OpenUK ambassador)
 1. Lleyton Gray (CEO, Innatical)
 1. Logan Kilpatrick (The Julia Language Community Manager)
+1. Loïc Bartoletti
 1. Lorena Mesa
 1. Lorenzo Gomez
 1. Louis Borsu
