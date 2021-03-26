@@ -1493,6 +1493,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Lee Hambley (Capistrano maintainer, former FSFE member)
 1. Lee-Roy King
 1. Leif Walsh
+1. Leigh Brenecki (PyCon AU 2020 conference director, DjangoCon AU 2018–19 co-organiser, Python Adelaide founding co-organiser)
 1. Leigh Scott (leigh123linux, Fedora)
 1. leo60228
 1. Leo Famulari
