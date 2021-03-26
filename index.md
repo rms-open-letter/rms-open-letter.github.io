@@ -2112,6 +2112,7 @@ Free Software Contributor)
 1. Paul Collier
 1. Paul Cutler (former GNOME Foundation)
 1. Paul Fisher (Former FSF employee and union representative)
+1. Paul Rodriguez-Ch (Software Developer)
 1. Paulino Michelazzo (Founder Brazilian Drupal Association, PT-BR Drupal revisor, Pinguino de Honor)
 1. Paul McLanahan (Engineer at Mozilla)
 1. Paul Moore (Linux Kernel maintainer, libseccomp maintainer)
