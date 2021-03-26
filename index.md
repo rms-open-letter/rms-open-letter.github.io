@@ -2630,6 +2630,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Wouter Verhelst (Debian Developer, FOSDEM orga team member)
 1. Wren Turkal (wt on GitHub; @w00tSpeaks)
 1. Wulf C. Krueger (Exherbo Linux)
+1. WORLDofPEACE (NixOS, elementary, and GNOME contributor)
 1. Xabier Rodríguez Calvar (Igalia)
 1. Xavier Claessens (Collabora)
 1. Xavier Tilley
