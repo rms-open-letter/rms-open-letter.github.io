@@ -54,6 +54,7 @@ Signed,
 1. Aaru Data Preservation Suite
 1. Calyx Institute
 1. Ceccun
+1. CH Open
 1. CommitChange
 1. Creative Commons
 1. DataMade
