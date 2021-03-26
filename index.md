@@ -81,6 +81,7 @@ Signed,
 1. Open Source Diversity
 1. Outreachy
 1. Public Laboratory for Open Technology and Science
+1. RACTF
 1. Radial Source
 1. Riseup Networks
 1. Sanctuary Computer
