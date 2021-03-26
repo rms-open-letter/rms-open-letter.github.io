@@ -941,6 +941,7 @@ Free Software Contributor)
 1. Ernesto Hernández-Novich (@iamemhn)
 1. Ernie Hartley (AudioMo Creator)
 1. Erwin Wessels
+1. Esme Xuan Lim
 1. Esteve Fernandez
 1. Esther Payne (Librecast Project)
 1. Esther Plomp
