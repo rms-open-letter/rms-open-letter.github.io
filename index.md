@@ -1985,6 +1985,7 @@ Free Software Contributor)
 1. Nathan Handler (Ubuntu/Debian Developer, freenode Staff, SeaGL Program Committee Co-Chair)
 1. Nathanial (`d0nut`) Lattimer
 1. Nathaniel J. Smith
+1. Nathan LeClaire
 1. Nathan Moos (@moosingin3space, drive-by Rust, NixOS, and Firefox contributor)
 1. Nathan Ritchie
 1. Nathan Shelly
