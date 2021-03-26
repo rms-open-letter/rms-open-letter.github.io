@@ -449,6 +449,7 @@ Free Software Contributor)
 1. Brian Kifiak
 1. brian m. carlson (@bk2204)
 1. Brian Pepple (Former Fedora Engineering Steering Committee member)
+1. Brian Sinclair (Co-organizer of JSConf US, former Dojo committer)
 1. Brian Teeman (co-founder Joomla! and OpenSourceMatters)
 1. Brig C. McCoy
 1. Bri Hatch (`daethnir`, still hopeful FSF associate member #386)
