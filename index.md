@@ -1600,6 +1600,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Luis Antonio Sánchez Romero
 1. Luis Arruda
 1. Luis Lavaire (Nitrux developer)
+1. Luis Martin Schick
 1. Luiz Irber
 1. Lukas Ekberg
 1. Lukas Fittl
