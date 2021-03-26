@@ -2431,6 +2431,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Tracy Hinds (Open Source Initiative Director)
 1. Travis Brown
 1. Travis Hardiman
+1. Travis Vachon
 1. tre murillo
 1. Trevor Bell
 1. Trevor Keller / @tkphd, enby computational scientist at NIST (National Institute of Standards and Technology)
