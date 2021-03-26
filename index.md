@@ -2471,6 +2471,7 @@ Free Software Contributor)
 1. Sylvestre Ledru (Debian, LLVM and Mozilla)
 1. Taavi Väänänen (MediaWiki)
 1. Tab Atkins-Bittner (@tabatkins, active W3C/TC39/WHATWG editor)
+1. Tabor Clayton Henderson
 1. Taher Chegini (@cheginit)
 1. Tamás Szelei
 1. Tamreen Khan
