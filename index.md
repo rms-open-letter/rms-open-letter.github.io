@@ -352,7 +352,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Ben Hilburn (former GNU Radio lead, current GA member)
 1. Ben Hutchings (Debian Developer)
 1. Benjamin Aaron Goldberg
-1. Benjamin Bädorf 
+1. Benjamin Bädorf
 1. Benjamin "bizzl" Kleiner
 1. Benjamin De Kosnik
 1. Benjamin Elder (Kubernetes SIG Testing Chair)
@@ -1480,6 +1480,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Lacey Williams Henschel (former conference chair of DjangoCon US)
 1. Lachlan Campbell
 1. Lætitia Avrot (PostgreSQL contributor, Postgres Women co-founder)
+1. Lana Brindley (Loquacity, SUSE)
 1. Lander Van den Bulcke
 1. Langlais Raphael
 1. Lars Bahner
