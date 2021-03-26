@@ -1637,6 +1637,7 @@ Free Software Contributor)
 1. leo60228
 1. Leo Famulari
 1. Leonard Richardson
+1. Leonardo J. Held
 1. Leon N.
 1. Leo Wagner
 1. Liam Dawe (GamingOnLinux.com)
