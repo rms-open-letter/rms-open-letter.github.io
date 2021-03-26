@@ -1276,6 +1276,7 @@ Free Software Contributor)
 1. Jeff Forcier (aka bitprophet) (Python library maintainer, eg Fabric, Paramiko)
 1. Jeff Fortin T. (former president of the GNOME Foundation)
 1. Jeff Hammond
+1. Jeff Griffiths ( former Mozilla, AWS )
 1. Jeffrey Blinksma (Co-founder of Robin's Media Team)
 1. Jeffrey “Jefro” Osier-Mixon
 1. Jeffrey Serio (hyperreal64)
