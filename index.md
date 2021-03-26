@@ -2534,6 +2534,7 @@ Free Software Contributor)
 1. Teor
 1. Teo Schulze
 1. Thaddée Tyl
+1. TheEpicBlock
 1. TheEssem
 1. TheEvilSkeleton
 1. Théodore Biadala
