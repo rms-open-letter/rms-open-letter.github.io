@@ -974,6 +974,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Gerard Braad
 1. Gerardo Torres
 1. Gerard Ryan
+1. Gerald Squelart (Mozilla)
 1. Germán Poo-Caamaño (GNOME)
 1. Gerry Demaret
 1. Gertjan Lettink a.k.a. Knurpht
