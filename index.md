@@ -2409,6 +2409,7 @@ Free Software Contributor)
 1. Seth Marinello (former CPLUG Officer)
 1. Seth McCombs
 1. Seth Peasley
+1. Seth Tisue
 1. Seunguk Lee
 1. Shadi Alostaz
 1. Shane Coughlan
