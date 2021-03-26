@@ -1569,6 +1569,7 @@ Free Software Contributor)
 1. Langlais Raphael
 1. Lars Bahner
 1. Lars Liedtke
+1. Lars Marowsky-Brée (Distinguished Engineer, SUSE; Ceph Foundation board member)
 1. Lars Wirzenius
 1. Laura Arjona Reina
 1. Laura Hausmann
