@@ -1319,6 +1319,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Joel Bethke (OBS Project)
 1. Joel Denning (full time open source developer)
 1. Joel 'kirch' Kirchartz
+1. Joël Galeran
 1. Joe Nosie
 1. Joe Provo
 1. Joerg Jaspert (Debian Developer, Debian Account Manager, former Vice President of SPI Inc.)
