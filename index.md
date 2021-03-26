@@ -1808,6 +1808,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Michael Kees
 1. Michael Kohler (Mozilla volunteer)
 1. Michael Laird
+1. Michael Lamb
 1. Michael `lethargilistic` MacTaggert (Programming Discussions server on Discord)
 1. Michael Lingelbach (Neovim, NixOS contributor)
 1. Michael Mattsson (@datamattsson)
