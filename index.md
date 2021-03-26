@@ -1610,6 +1610,7 @@ Free Software Contributor)
 1. Leah Lundqvist (leahlundqvist, V maintainer)
 1. Leandro A. F. Pereira
 1. Lee Hambley (Capistrano maintainer, former FSFE member)
+1. Lee Pêgas
 1. Lee-Roy King
 1. Leif Walsh
 1. Leigh Brenecki (PyCon AU 2020 conference director, DjangoCon AU 2018–19 co-organiser, Python Adelaide founding co-organiser)
