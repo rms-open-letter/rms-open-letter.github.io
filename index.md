@@ -521,6 +521,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Chris Dellaway
 1. Chris Desnoyers
 1. Chris DiBona (Google LLC.)
+1. Chris Druif (former Ubuntu member)
 1. Chris Garaffa (Tech for the People)
 1. Chris Gardner
 1. Chris Hillery (Apache committer)
