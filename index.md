@@ -1357,6 +1357,7 @@ Free Software Contributor)
 1. John Flynn
 1. John Helmert III (Gentoo developer)
 1. John Hess
+1. John Kinsella (`jlk`)
 1. John Krug (jhkrug)
 1. John L. Cooper
 1. John-Mark Gurney (FreeBSD committer, long-time free software dev.)
