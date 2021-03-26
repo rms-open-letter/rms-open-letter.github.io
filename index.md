@@ -392,6 +392,7 @@ Free Software Contributor)
 1. Ben Klemens
 1. Ben Kreeger
 1. Ben Lewis (Former GNU Octave contributor)
+1. Ben Michel (Node.js Community Committee, OpenJS Foundation, @obensource)
 1. Ben Nied
 1. Benoit Sarda (infrastructure architect)
 1. Ben Pfaff
