@@ -1038,6 +1038,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Grigorios Mingas (Research Data Scientist)
 1. Guido Panebianco
 1. Guilhem Moulin (Debian Developer)
+1. Guillaume Bernard (@guilieb)
 1. Guillaume Bréhier (Linux user, maintainer and deployer)
 1. Guillaume Desmottes (Collabora, GStreamer developer)
 1. Guillaume Gay
