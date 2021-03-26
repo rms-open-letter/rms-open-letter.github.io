@@ -1741,6 +1741,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Matthew Fernandez
 1. Matthew Helmke (open source author)
 1. Matthew `mattcen` Cengia
+1. Matthew Mattox (`mattmattox`, Principal Support Engineer at SUSE/Rancher Labs)
 1. Matthew P. Del Buono
 1. Matthew Peveler
 1. Matthew Pounsett
