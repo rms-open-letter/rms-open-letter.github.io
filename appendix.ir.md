@@ -17,20 +17,17 @@
 او در کل از پدوفیلی دفاع کرد: "مدارک کمی وجود دارد که فرض متداول رابطه بین آسیب دیدن کوکان با تمایل آنها در شرکت در پدوفیلی تایید کند."<a href="https://web.archive.org/web/20210325014249/https://stallman.org/archives/2012-nov-feb.html#04_January_2013_(Pedophilia)">9</a>
 (نکته: استالمن در 14 سپتامبر 2019 (23 شهریور 1398) بخاطر این نظر عذرخواهی کرد. <a href="https://web.archive.org/web/20210325015259/https://stallman.org/archives/2019-jul-oct.html#14_September_2019_(Sex_between_an_adult_and_a_child_is_wrong)">نقل قول</a>
 </p>
+<p dir="rtl">
+در 2015-2016 RMS 3 مطلب درباره سندرم داون در وبسایتش ایجاد کرد. او پیشنهاد داد که اگر کسی متوجه شد باردار است و بچه دارای سندرم داون است "کار درست برای این زن این است که به حاملگی خود پایان دهد."<a href="https://web.archive.org/web/20210325014348/https://stallman.org/archives/2016-jul-oct.html#31_October_2016_(Down's_syndrome)">11</a>
+او به کسانی که تصمیم می‌گیرند "جنین دارای سندرم داون را نگه دارند" به عنوان "فاسد" خطاب می‌کند و می‌گوید که هیچ "فضیلتی" در "[افزایش] جمعیت افراد دارای سندرم داون نیست."<a href="https://web.archive.org/web/20210325014343/https://stallman.org/archives/2015-jul-oct.html#21_October_2015_(Mistaking_a_fetus_for_a_baby)">12</a>
+او همچنین گفته که "وقتی یک جنین سندرم داون دارد شما باید آنرا سقط کنید و دوباره امتحان کنید."<a href="https://web.archive.org/web/20210325014628/https://stallman.org/archives/2016-mar-jun.html#23_April_2016_(Fetuses_with_Downs_syndrome)">13</a>
+فقط به یک مناسبت RMS ابراز علاقه به داشتن یک کودک دارای سندرم داون کرده آنهم به عنوان حیوان خانگی. <a href="https://web.archive.org/web/20161107050933/https://stallman.org/archives/2016-jul-oct.html#31_October_2016_(Down's_syndrome)">14</a>
+</p>
+<p dir="rtl">
+استالمن سالها علیه استفاده از ضمایر صحیح برای مردم تلاش کرده. این تلاشی رقت انگیز برای پنهان کردن ضدیت با تراجنسهاست. در نسخه اصلی راهبرد ارتباطات محبت آمیز GNU، او می‌گوید: "راههای زیادی وجود دارد که در انگلیسی سوم شخص مفرد را بدون اشاره به جنسیت بیان کنید شما لازم نیست از 'they' استفاده کنید."<a href="https://web.archive.org/web/20210325014959/https://www.gnu.org/philosophy/kind-communication.html">15</a>
+این متن تاکنون بروز شده است، ولی همچنان transphobic است. <a href="https://web.archive.org/web/20210325014959/https://www.gnu.org/philosophy/kind-communication.html">16</a>
+در صفحه اصلی وبسایتش جمله "'They' جمع است - برای اشخاص مفرد، از ضمایر مفرد و خنثی‌جنس استفاده کنید."<a href="https://web.archive.org/web/20210325014851/https://stallman.org/">17</a>
+</p>
+[برگشت به صفحه اصلی][18]
 
-In 2015 and 2016 RMS made three posts on his website about Down’s syndrome. He recommended that, should someone find out they are pregnant and the child tests positive for Down’s syndrome “the right course of action for the woman is to terminate the pregnancy.”[11] He referred to people deciding to “carry fetuses with Down’s syndrome to term” as “perverse” and said that there is “nothing virtuous” in “[increasing] the number of people that have Down’s syndrome.”[12] He also said that “when a fetus has Down's syndrome, you should abort it and try again.”[13] On at least one occasion RMS likened having a child with Down’s syndrome to having a pet.[14] (Note: Link 14 added 25 March, 2021 - 11:33 EDT.)
-
-[11]: https://web.archive.org/web/20210325014348/https://stallman.org/archives/2016-jul-oct.html#31_October_2016_(Down's_syndrome)
-[12]: https://web.archive.org/web/20210325014343/https://stallman.org/archives/2015-jul-oct.html#21_October_2015_(Mistaking_a_fetus_for_a_baby)
-[13]: https://web.archive.org/web/20210325014628/https://stallman.org/archives/2016-mar-jun.html#23_April_2016_(Fetuses_with_Downs_syndrome)
-[14]: https://web.archive.org/web/20161107050933/https://stallman.org/archives/2016-jul-oct.html#31_October_2016_(Down's_syndrome)
-
-RMS has spent years on a campaign against using people’s correct pronouns. This is poorly disguised transphobia. In the original publication of the GNU Kind Communication Guidelines, he said “there are various ways to express gender neutrality in third-person singular pronouns in English; you do not have to use 'they.'”[15] This text has since been updated, but is still transphobic.[16] The main page on his web site includes the statement that  “‘They’ is plural — for singular antecedents, use singular gender-neutral pronouns.”[17]
-
-[15]: https://web.archive.org/web/20210325014959/https://www.gnu.org/philosophy/kind-communication.html
-[16]: https://web.archive.org/web/20210325014959/https://www.gnu.org/philosophy/kind-communication.html
-[17]: https://web.archive.org/web/20210325014851/https://stallman.org/
-
-[Return to the main page][18]
-
-[18]: https://rms-open-letter.github.io/
+[18]: https://rms-open-letter.github.io/index.fa
