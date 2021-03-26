@@ -1807,6 +1807,7 @@ Free Software Contributor)
 1. Matheus Fantinel
 1. Mathieu Comandon (Lutris)
 1. Mathieu Gaborit (matael)
+1. Mathieu Lutfy
 1. Matt
 1. Matt Barron
 1. Matt Beland
