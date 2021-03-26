@@ -841,6 +841,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Emanuele Aina (Collabora)
 1. Emanuil Tolev
 1. Emery Hemingway
+1. Emiliano Langella
 1. Emilie Karlsson
 1. Emilio Coppola
 1. Emilio Escobar (Ettercap Project)
