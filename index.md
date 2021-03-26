@@ -2050,6 +2050,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Philippe Normand
 1. Philip Withnall
 1. Philip Young
+1. Phillip Thelen
 1. Phil Pemberton (`@philpem`, DiscFerret developer, ptouch-driver maintainer)
 1. Pierre-Antoine "Leny" Delnatte
 1. Pierre Dupont
