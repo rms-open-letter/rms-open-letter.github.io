@@ -414,6 +414,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Brendan Abolivier (Matrix Developer)
 1. Brendan Hickey
 1. Brendan O'Leary
+1. Brendan Zabarauskas
 1. Brenna Flood (@brennx0r, Co-Organizer of the OSFeels Conference)
 1. Brennan Ashton
 1. Brennen Bearnes
