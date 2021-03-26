@@ -2246,6 +2246,7 @@ Free Software Contributor)
 1. Roger Light
 1. Roger Robertson (strangrjrjr)
 1. Roger Zanoni (Igalia)
+1. Rohit Goswami (@HaoZeke, FOSS developer for 10+ years)
 1. Rojen Zaman
 1. Romain Menke
 1. Romina Killpack (walkaway.wiki research cooperative)
