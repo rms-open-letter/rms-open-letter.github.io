@@ -57,6 +57,7 @@ Signed,
 1. CH Open
 1. CommitChange
 1. Creative Commons
+1. Cusy
 1. DataMade
 1. Dot HQ
 1. Echap
