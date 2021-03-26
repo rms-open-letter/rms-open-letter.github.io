@@ -1349,6 +1349,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Josh Conway (CrankyLinuxUser)
 1. Josh Deprez
 1. Josh Levinger (OpenSourceActivism.tech)
+1. Josh Marantz
 1. Josh Mitchell
 1. Josh Simmons (President of the Open Source Initiative)
 1. Josh Triplett
