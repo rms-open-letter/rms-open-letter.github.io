@@ -1302,6 +1302,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Jim Hall (FreeDOS Project founder and project coordinator)
 1. Jim Madge
 1. Jim Perrin (CentOS Project, Fedora Project)
+1. Jo Liss
 1. Joachim Weinbrenner
 1. Joanna Janet Zaitseva-Doyle (aka @aoeixsz4 / `aoei`)
 1. João Carlos Almeida
