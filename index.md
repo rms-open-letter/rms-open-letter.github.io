@@ -1370,6 +1370,7 @@ Free Software Contributor)
 1. John Wiseman
 1. Jo Jerrica Decker
 1. Jo Liss
+1. Jo Shields
 1. Jona Azizaj (Fedora Project, Open Source Diversity)
 1. Jonas Ådahl (GNOME, freedesktop.org, Fedora)
 1. Jonas Anderö
