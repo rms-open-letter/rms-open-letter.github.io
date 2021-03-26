@@ -1240,6 +1240,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Jesse Keating (GitHub, former Fedora Project Relase Engineer)
 1. Jesse Li
 1. Jesse Raleigh (Sr Security Researcher)
+1. Jesse Vincent
 1. Jesser Lemus
 1. Jess Mysers
 1. Jesús Castro
