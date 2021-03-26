@@ -225,6 +225,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Amos `fasterthanlime` Wenger
 1. Amye Scavarda Perrin
 1. Amy Guy `rhiaro`
+1. Amy Grace `00p513`, `amyosx`
 1. Amy Null "`queer`"
 1. Amy Russell
 1. Amy Rust
@@ -749,7 +750,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Delan Azabani (Igalia)
 1. Denis Evsyukov
 1. Dennis Schubert (Mozilla, former diaspora\* maintainer)
-1. der.hans (FSF associate member since 2006)
 1. Derek Kozel (GNU Radio President)
 1. Derek Payton (Founder/Executive Director, Root Access Hackerspace; Former FSF Associate Member)
 1. Derick Rethans
@@ -945,7 +945,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Filip S. (`fantoro`)
 1. Fintan Horan
 1. Firdavs Zakhirov
-1. Fossdd (@fossdd, F-Droid Contributor)
 1. Flavio Curella (@fcurella)
 1. Florian Müllner (GNOME)
 1. Florian Neumann
@@ -1295,7 +1294,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. João "Johnny" Ciocca (DCG5511)
 1. João Veiga
 1. Joby Elliott
-1. Jochen Wiesel
 1. Joe Banks
 1. Joe Bowser
 1. Joe Brockmeier
@@ -1417,7 +1415,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Julien Rabier
 1. Julien Sagot
 1. julien tayon
-1. Julien Vanélian (@JulienVanelian)
 1. Julien Voisin
 1. Julien Wajsberg (Mozilla)
 1. Juliette Tisseyre
@@ -1574,7 +1571,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Liz Rice (TOC chair, CNCF; OpenUK ambassador)
 1. Lleyton Gray (CEO, Innatical)
 1. Logan Kilpatrick (The Julia Language Community Manager)
-1. Loïc Bartoletti
 1. Lorena Mesa
 1. Lorenzo Gomez
 1. Louis Borsu
@@ -1791,7 +1787,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Michael Mattsson (@datamattsson)
 1. Michael `mythmon` Cooper (Mozilla developer)
 1. Michael `NCommander` Casadevall (Ubuntu Core Developer, former Debian Developer, former FSF Savannah Administrator)
-1. Michael `nolski` Nolan
 1. Michael Ossmann
 1. Michael `ovyerus` Mitchell
 1. Michael Perron
@@ -1828,7 +1823,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Misha Nasledov
 1. Mithun Hunsur
 1. Miu Shiina
-1. Miyoung Shin (Igalia)
 1. M. Oliver Ghingold
 1. Molly White (@molly on GitHub)
 1. Monica Ayhens-Madon
@@ -1909,7 +1903,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Nikita Gillmann (ex-GNUnet developer, former GNU Guix contributor, NetBSD/pkgsrc developer)
 1. Nikita Orlov (`rozenov` Virtualization engineer, Red Hat inc. supporter, Fedora contributor and former Xen contributor)
 1. Nik Kantar
-1. Nikolai Efimenko
 1. Nikolai Vazquez
 1. Nikolaus Einhauser (Mixxx developer)
 1. Nikos Roussos (FSFE, GA member)
@@ -1993,7 +1986,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Paul McLanahan (Engineer at Mozilla)
 1. Paul Moore (Linux Kernel maintainer, libseccomp maintainer)
 1. Paulo Henrique de Lima Santana (Debian Developer)
-1. Paulo Jorge de Oliveira Cantante de Matos (`pmatos`)
 1. Paul Oldham
 1. Paulo Pinto
 1. Paul Tagliamonte (Debian Developer and Former Director of the Open Source Initiative)
@@ -2054,7 +2046,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Pouhiou Noénaute (co-director of Framasoft)
 1. Pranav Teegavarapu
 1. Priit Laes (`@plaes`)
-1. Quentin Minster
 1. Rachel Chalmers (boardmember, The Ada Initiative)
 1. Rachel Domagalski
 1. Rachel Kadel
@@ -2328,7 +2319,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Stefan Crain
 1. Stefanie Schirmer
 1. Stefan Kramer
-1. Stefan Moosbrugger
 1. Stefan Schindler
 1. Stefan T. Peters
 1. Stefan Weiberg (Technical Projectmanager SUSE Linux Enterprise)
