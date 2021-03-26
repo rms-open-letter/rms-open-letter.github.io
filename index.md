@@ -1345,6 +1345,7 @@ Free Software Contributor)
 1. Joe Bowser
 1. Joe Brockmeier
 1. Joe Carpinelli
+1. Joe Garcia (CyberArk Software, @infamousjoeg)
 1. Joe Harley
 1. Joe Julian
 1. Joel Bethke (OBS Project)
