@@ -905,6 +905,7 @@ Free Software Contributor)
 1. Eric Schrock
 1. Eric Shamow
 1. Eric "Sheppy" Shepherd
+1. Eric The IT Guy (Red Hat, Sudo Show)
 1. Eric Unangst
 1. Erik Faye-Lund (Collabora, Mesa Developer)
 1. Erik Johnson
