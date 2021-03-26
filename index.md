@@ -520,6 +520,7 @@ Free Software Contributor)
 1. Cathy Warner
 1. Cedric Kienzler
 1. Celeste Horgan
+1. Cel Skeggs
 1. Chad Booker
 1. Chad Robinson
 1. Chad Walker (@chad3814)
