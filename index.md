@@ -2325,6 +2325,7 @@ Free Software Contributor)
 1. Ryan Salsamendi
 1. Ryan Schmidt
 1. Ryu "SaidBySolo" JuHeon
+1. Sadie E. Alger
 1. Sadie Powell (InspIRCd)
 1. Sage Sharp (Outreachy organizer)
 1. Sai Vamshi (Business Analyst)
