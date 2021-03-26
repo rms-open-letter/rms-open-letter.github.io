@@ -1481,6 +1481,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Kunal Mehta (MediaWiki, Debian Developer, FSF associate member)
 1. Kurt Garloff (Sovereign Cloud Stack, Open Infrastructure Foundation BoD)
 1. Kushal Das (Tor Project core team, Python Core developer, Fedora Project contributor)
+1. Kwindla Hultman Kramer
 1. Kyle Kneitinger
 1. Kyle Mitchell
 1. Kyle Riedemann
