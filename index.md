@@ -1423,6 +1423,7 @@ Free Software Contributor)
 1. Jonathan Blandford (GNOME)
 1. Jonathan Carter (Debian Project Leader, former FSF member and one of the top referrers (#3066))
 1. Jonathan de Jong (`ShadowJonathan`)
+1. Jonathan Desrosiers
 1. Jonathan Kamens (>30yrs maintaining OSS, one-time FSF contributor)
 1. Jonathan LaCour (Python Software Foundation Fellow, Python Framework and Library Creator/Maintainer)
 1. Jonathan McDowell
