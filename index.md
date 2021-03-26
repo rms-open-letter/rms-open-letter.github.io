@@ -1722,6 +1722,7 @@ Free Software Contributor)
 1. Marco 'eukara' Hladik
 1. Marco Matos (Blockchain Director & Cloud Architect at 23 Bulbs)
 1. Marcos Sebastiao
+1. Marcus Fihlon
 1. Marcus Larborg
 1. Marcus Müller (Former GNU Radio Maintainer, GNU Radio General Assembly member)
 1. Marcus Weiner
