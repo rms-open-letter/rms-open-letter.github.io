@@ -2508,7 +2508,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Travis Hardiman
 1. Travis Vachon
 1. tre murillo
-1. Trevor Bell
+1. Trevor Bell (former FSF member)
 1. Trevor Keller / @tkphd, enby computational scientist at NIST (National Institute of Standards and Technology)
 1. Trevor Manz
 1. Trevor McNaughton
@@ -2637,4 +2637,36 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Zander Brown (GNOME and more)
 1. Zeltzin Rodríguez
 1. Zvi Gilboa
+1. Gary Barnett
+1. Jelle Hermsen
+1. Nuritzi Sanchez
+1. Manuel Bergler
+1. Karsten Samaschke (CEO, Cloudical)
+1. chairmantheboring
+1. April Hyacinth (Scala maintainer)
+1. Lizette Larrabee
+1. Marcus Larborg
+1. Ananth Bhaskararaman
+1. Sid Sun
+1. Samuel Rüegger
+1. Max Henry
+1. Brett Cornwall (Arch Linux, LibreOffice)
+1. N.D.
+1. Misty Smith (former FSF volunteer)
+1. Jeremy Hansen (Norwich University)
+1. Silvio Meira
+1. Daniel M. Spector
+1. Gwyn
+1. Sam Leonard (@_tritoke)
+1. Gary Klimowicz
+1. Samuel Henrique (Debian Developer)
+1. Janet Blackquill (jan Jan) (KDE, Fedora, openSUSE)
+1. Daniel Isaksen
+1. Pedro Giffuni
+1. Panda Mery
+1. Tom Denton
+1. Arne Dietrich
+1. peylight
+1. Sariel Har-Peled (University of Illinois, Urbana-Champaign)
+1. Ryan "Lofenyy" Medeiros
 <!-- Do not add your name to the bottom, it needs adding in alphabetical order above -->
