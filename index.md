@@ -2664,6 +2664,7 @@ Free Software Contributor)
 1. Will Lachance (Mozilla)
 1. Will Thompson
 1. Wilson "Chilly" Hightower
+1. Wilson Moura
 1. Wim Taymans (PipeWire, GStreamer)
 1. Wolthera van Hövell (Krita/KDE)
 1. Woohyeong Kim
