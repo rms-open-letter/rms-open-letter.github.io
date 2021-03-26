@@ -1769,6 +1769,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Mauro Lizaur (Former Debian Developer)
 1. Max Bruckner (`FSMaxB`)
 1. Max Burke
+1. Maxim Sabyanin
 1. Maxime Renusson (Telecom engineer, FLOSS user and advocate)
 1. Maximiliano Ferrer G. (@PandaFoss)
 1. Maxine Aubrey (NixOS contributor)
