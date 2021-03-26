@@ -129,6 +129,7 @@ Free Software Contributor)
 1. Adam H. Leventhal
 1. Adam Jackson (X.org, Fedora)
 1. Adam Katz (17y FSF associate membership canceled due to this)
+1. Adam King (Just cancelled my 10y FSF membership)
 1. Adam Miller (Ansible, Fedora)
 1. Adam Monsen (SeaGL co-founder)
 1. Adam Reichold
