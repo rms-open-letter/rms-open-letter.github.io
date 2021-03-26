@@ -2144,6 +2144,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Romain Menke
 1. Romina Suarez (@rowasc)
 1. Romina Tidona
+1. Ronny Trommer
 1. Rosanna Yuen (GNOME Foundation)
 1. Rose Davidson
 1. Rosellyne Worrall
