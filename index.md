@@ -212,6 +212,7 @@ Free Software Contributor)
 1. Alfredo Hernández (former member of the Ubuntu GNOME administrators board)
 1. Alfredo Matas (`@amatas` FLOSS contributor and advocator)
 1. Alice Berg
+1. Alice W. Nguyen
 1. Alicia Boya Garcia (Igalia)
 1. Ali Polatel (Exherbo Linux)
 1. Ali Ramadhan
