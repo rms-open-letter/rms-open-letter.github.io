@@ -2029,6 +2029,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Richard Pospesel (pospeselr, Tor Project)
 1. Richard "RichiH" Hartmann (Debian Developer; ex: freenode & OFTC; FOSDEM, CCC, DebConf); see commit message
 1. Richard Schneeman
+1. Richard Si (various Python projects, primarily the Black autoformatter project)
 1. Rich Felker (musl libc)
 1. Richo Healey
 1. Rich Sands
