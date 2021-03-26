@@ -2333,6 +2333,7 @@ Free Software Contributor)
 1. Santosh Mahto (Collabora)
 1. Saptak S
 1. Sarah Aladetan
+1. Sarah Bennert (Red Hat, Linux Foundation Member)
 1. Sarah Connor
 1. Sarah Vitak
 1. Sarah Voegeli
