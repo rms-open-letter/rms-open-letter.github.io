@@ -1700,6 +1700,7 @@ Free Software Contributor)
 1. Luke Jones (asus-nb-ctrl, ASUS ROG laptop hacker/support)
 1. Luke Triantafyllidis
 1. Lulu Cathrinus "erkin" Grimalkin
+1. Luna Catkins (`LunarLambda`)
 1. Luna Duclos
 1. Lunar (ex-Debian, ex-Tor, ex-reproducible-builds.org, Nos Oignons, La Dérivation)
 1. Lupe Canaviri
