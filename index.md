@@ -1717,6 +1717,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Martina Ferrari (Debian developer)
 1. Martin Albisetti (Ubuntu)
 1. Martin Bayo
+1. Martin Braun (GNU Radio Board Member)
 1. Martin Creutziger (former Mozilla volunteer)
 1. Martin Gollowitzer
 1. Martin Guillon
