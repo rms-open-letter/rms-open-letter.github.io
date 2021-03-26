@@ -2115,6 +2115,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Ryan Schmidt
 1. Ryu "SaidBySolo" JuHeon
 1. Sadie Powell (InspIRCd)
+1. Sage Sharp (Outreachy organizer)
 1. Sai Vamshi (Business Analyst)
 1. Sajid Ali
 1. Sally Jo Cunningham (Waikato University)
