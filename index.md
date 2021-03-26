@@ -229,6 +229,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Amy Russell
 1. Amy Rust
 1. Amy Troschinetz
+1. Amy Wright
 1. Ana Guerrero López
 1. Ananya Cleetus (@ananyacleetus)
 1. Ana Rute Mendes (Collabora)
