@@ -1251,7 +1251,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Jeff Hammond
 1. Jeffrey Blinksma (Co-founder of Robin's Media Team)
 1. Jeffrey “Jefro” Osier-Mixon
-1. Jeffreu Serio (hyperreal64)
+1. Jeffrey Serio (hyperreal64)
 1. Jeffrey Sica (Kubernetes SIG-UI Chair)
 1. Jeffrey Strauss
 1. Jeffrey Yasskin
