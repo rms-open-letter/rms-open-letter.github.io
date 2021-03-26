@@ -2498,4 +2498,5 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Zander Brown (GNOME and more)
 1. Zeltzin Rodríguez
 1. Zvi Gilboa
+1. Francisco Salgado Castaño (Firefox Support)
 <!-- Do not add your name to the bottom, it needs adding in alphabetical order above -->
