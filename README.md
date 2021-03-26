@@ -46,6 +46,6 @@ _Note: Do not forget to update the link in `index` pointing to the `appendix` tr
 
 ## Contributing :raising_hand:
 
-Please note, issues about techical problems in this repository are welcome. Complaints about the content of the letter are not on topic and will be deleted - there's a lot more places that are more appropriate than opening issues.
+Please note, issues about technical problems in this repository are welcome. Complaints about the content of the letter are not on topic and will be deleted - there's a lot more places that are more appropriate than opening issues.
 
 Pull requests may be merged in batches. Thanks for your patience!
