@@ -758,6 +758,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Deb Goodkin
 1. Delan Azabani (Igalia)
 1. Denis Evsyukov
+1. Deniz Akşimşek
 1. Dennis Schubert (Mozilla, former diaspora\* maintainer)
 1. der.hans (FSF associate member since 2006)
 1. Derek Kozel (GNU Radio President)
