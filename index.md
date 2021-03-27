@@ -1915,6 +1915,7 @@ Free Software Contributor)
 1. Max Burke
 1. Max Henry
 1. Maxime Renusson (Telecom engineer, FLOSS user and advocate)
+1. Maximiliano Bertacchini
 1. Maximiliano Ferrer G. (@PandaFoss)
 1. Maxim Sabyanin
 1. Maxine Aubrey (NixOS contributor)
