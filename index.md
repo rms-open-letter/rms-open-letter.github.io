@@ -1784,6 +1784,7 @@ Free Software Contributor)
 1. Marco Benatto
 1. Marco 'eukara' Hladik
 1. Marco Matos (Blockchain Director & Cloud Architect at 23 Bulbs)
+1. Marco Simonelli
 1. Marcos Sebastiao
 1. Marcus Fihlon
 1. Marcus Larborg
