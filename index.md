@@ -2284,6 +2284,7 @@ Free Software Contributor)
 1. Ricky White
 1. Ridley Combs (rcombs)
 1. Rigin Oommen
+1. Riley Johnson
 1. Riley V. (@hopolapola)
 1. Rima Sghaier (GlobaLeaks Outreach Director)
 1. Rin K. (ry00001)
