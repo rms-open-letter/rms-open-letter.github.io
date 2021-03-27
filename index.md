@@ -918,6 +918,7 @@ Free Software Contributor)
 1. Eric A. Smalling (@ericsmalling)
 1. Eric Casteleijn
 1. Eric Dallo (@ericdallo)
+1. Eric Eisenhart (@freiheit)
 1. Eric Freedman Goldhagen (Founding member, Openflows Community Technology Cooperative)
 1. Eric Gisse
 1. Eric Hodel
