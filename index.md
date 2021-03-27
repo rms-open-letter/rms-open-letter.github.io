@@ -752,6 +752,7 @@ Free Software Contributor)
 1. Dave Lukes
 1. Dave Marwick (Twitter)
 1. Dave Smart
+1. Dave Weiner
 1. David Anderson (Tailscale, MetalLB, Go contributor)
 1. David A. Symons
 1. David Bordowitz
