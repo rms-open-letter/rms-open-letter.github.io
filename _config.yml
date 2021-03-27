@@ -12,6 +12,8 @@ languages:
     code: "it"
   - name: "Japanese"
     code: "ja"
+  - name: "Korean"
+    code: "ko"
   - name: "Persian"
     code: "fa"
   - name: "Polish"
