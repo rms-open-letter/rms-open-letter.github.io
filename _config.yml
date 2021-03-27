@@ -1,6 +1,6 @@
 remote_theme: rms-open-letter/minima
 languages:
-  - name: "Arabic العربية"
+  - name: "Arabic"
     code: "ar"
   - name: "Brazilian Portuguese"
     code: "pt"
@@ -8,6 +8,8 @@ languages:
     code: "nl"
   - name: "French"
     code: "fr"
+  - name: "Galician"
+    code: "ga"
   - name: "German"
     code: "de"
   - name: "Italian"
