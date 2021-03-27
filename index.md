@@ -2412,6 +2412,7 @@ Free Software Contributor)
 1. Sarven Capadisli
 1. Sascha "ch1r0x" Rudolph
 1. Sasha Cuerda
+1. Sasha Vigole (.sasha.vigole#mithras:arsakiden.)
 1. Sasha Weiss
 1. Sasi Olin (openSUSE Member, former openSUSE Board member)
 1. Satvik Sharma
