@@ -71,6 +71,7 @@ Signed,
 1. GlobaLeaks
 1. GNOME Foundation
 1. GNU Radio
+1. GNU Mailman
 1. Great Scott Gadgets
 1. Innatical
 1. Kludge Cyber Systems
