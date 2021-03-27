@@ -2062,6 +2062,7 @@ Free Software Contributor)
 1. Nik Kantar
 1. Nikolai Efimenko
 1. Nikolai Vazquez
+1. Nikolas Evers
 1. Nikolaus Einhauser (Mixxx developer)
 1. Nikos Roussos (FSFE, GA member)
 1. Nils Adermann
