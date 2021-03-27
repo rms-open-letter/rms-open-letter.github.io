@@ -175,6 +175,7 @@ Free Software Contributor)
 1. Alejandro AR (`kinduff`)
 1. Alejandro F. Nadal
 1. Alejandro R. Urzúa (INAOE MX, @rurz at Github)
+1. aleksandra culver
 1. Alex A. G.
 1. Alexander Dietrich
 1. Alexander Herzig (Release Manager SUSE Linux Enterprise)
@@ -643,6 +644,7 @@ Free Software Contributor)
 1. Chuck Mattern (Red Hat associate and Open Source evangelist since TAMU Linux in 1992)
 1. Ciaran McCarthy
 1. Claire Connelly (FSF associate member; former Debian developer)
+1. Claire Chung
 1. Claire Nord
 1. Clara Hobbs
 1. Clare Macrae
@@ -1007,6 +1009,7 @@ Free Software Contributor)
 1. Felice Damken
 1. Felicia Alexa Hummel (PartKeepr)
 1. Felipe Borges (GNOME Foundation Board member)
+1. Felipe Lema
 1. Félix 'felix91gr' Fischer
 1. Felix 'fleaz' Breidenstein
 1. Felix Fontein
@@ -1025,6 +1028,7 @@ Free Software Contributor)
 1. Fintan Horan
 1. Firdavs Zakhirov
 1. Flavio Curella (@fcurella)
+1. Florian Kulla
 1. Florian Müllner (GNOME)
 1. Florian Neumann
 1. Florian Segginger
@@ -1438,6 +1442,7 @@ Free Software Contributor)
 1. John Reese (The Omnilib Project)
 1. John SJ Anderson
 1. John Slee (@jsleeio)
+1. Johnny Stene
 1. John Sturdy
 1. John "Warthog9" Hawley
 1. John Wiseman
@@ -1846,6 +1851,7 @@ Free Software Contributor)
 1. Matt Barron
 1. Matt Beland
 1. Matteo Bigoi
+1. Matthew Chan (Freedoom sprite contributor)
 1. Matteo Tammaccaro
 1. Matthew (0tcQd) Sams
 1. Matthew Adams
@@ -1862,6 +1868,7 @@ Free Software Contributor)
 1. Matthew R. Green (NetBSD core, bozohttpd, ircII)
 1. Matthew Robertson
 1. Matthew Seal
+1. Matthew Smith
 1. Matthew Stedman
 1. Matthew Stone
 1. Matthew S. Wilson (former contributor GNU Image Manipulation Program and GNU Parted, former Director, Software Freedom Conservancy)
@@ -2030,6 +2037,7 @@ Free Software Contributor)
 1. Nelson Minar
 1. Nic FitzGerald (Co-Founder Sailex)
 1. Nicholas LaPointe (Krita contributor)
+1. Nicholas Lear
 1. Nicholas Paladino
 1. Nick Badal
 1. Nick Chambers
@@ -2173,9 +2181,11 @@ Free Software Contributor)
 1. Penelope Phippen (Director at Ruby Central, former RSpec lead maintainer)
 1. Percival Lavoie
 1. Perro Tuerto (Programando LIBREros)
+1. Pete Brubaker
 1. Peter Aufner (`Adrixan`)
 1. Peter Benjamin (`pbnj`)
 1. Peter C. Jentsch
+1. Peter Desnoyers
 1. Peter Eisner
 1. Peter Hazenberg (`Peetz0r`)
 1. Peter Huene
@@ -2687,6 +2697,7 @@ Free Software Contributor)
 1. Tyler Childs (D13 Labs)
 1. Tyler J. Russell (@Nytelife26, founder and acting director of Kludge Cyber Systems)
 1. Tyrel Souza
+1. u/IAmKindOfCreative
 1. Ujjwal Sharma (Node.js Core Collaborator, TC39, Igalia)
 1. Ulrike Uhlig (Debian Developer)
 1. Ursula Junque (Ubuntu member)
