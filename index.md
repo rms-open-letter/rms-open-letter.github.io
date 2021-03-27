@@ -1217,6 +1217,7 @@ Free Software Contributor)
 1. Ian Stapleton Cordasco
 1. Ian Steiger
 1. İbrahim Yöndemli
+1. I.C. Weiner
 1. Idan Gazit (Django project alumnus)
 1. Igmar Palsenberg
 1. Ignacio Torres Masdeu
