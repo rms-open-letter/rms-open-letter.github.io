@@ -2265,6 +2265,7 @@ Free Software Contributor)
 1. Randolph West
 1. Randy J. Ray (@rjray)
 1. rany
+1. Rahul Jha
 1. Rasmus Lerdorf (PHP Project Founder)
 1. Rayan Das (@raydeeam)
 1. Raymon Skjørten Hansen
