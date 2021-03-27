@@ -35,7 +35,7 @@ _2021-03-23_
   نحث أيضا أولائك الذين هم في وضع يسمح لهم، بالتوقف عن دعم مؤسسة البرمجيات الحرة. رفض المساهمة في المشاريع التي ترجع إلى FSF و RMS. التوقف عن التحدث وحضور أحداث FSF ، أو الأحداث التي تسمح بإستقبال والترحيب ب RMS وعلامته التجارية المتعصبة. نحن نطلب من المساهمين في مشاريع البرمجيات الحرة في إتخاذ موقف ضد التعصب والكراهية في مشاريعهم، وأثناء القيام بذلك أخبر المجتمعات ومؤسسة FSF لماذا. 
   </p>
   
-    <p dir='rtl' align='right'>
+  <p dir='rtl' align='right'>
     لقد قمنا بتفصيل العديد من الحوادث العامة لسلوكيات RMS، البعض منا لديه قصصه الخاصة حول RMS وتفاعلاتنا معه
     ، أشياء لم يتم إلتقاطها في ردود الإيمايلات أو في الفيديو، نأمل أن تقرأ ما تمت مشاركته وأن تنظر في الضرر الذي ألحقه في بمجتمعنا والآخرين.
     [التفاصيل هنا][1]
@@ -43,13 +43,14 @@ _2021-03-23_
   [1]: https://rms-open-letter.github.io/appendix
 
   
-    <p dir='rtl' align='right'>
+  <p dir='rtl' align='right'>
     للتوقيع يرجى القيام/إرسال digitalautonomy إلى  riseup.net  أو القيام ب [pull request](https://github.com/rms-open-letter/rms-open-letter.github.io/pulls)
   </p>
 
-
+  <p dir='rtl' align='right'>
 إمضاء
-
+  </p>
+  
 - Molly de Blanc (Debian Project, GNOME Foundation)
 - Nathan Freitas
 - Matthew Garrett (Former member of the FSF board of directors)
@@ -67,8 +68,10 @@ _2021-03-23_
 - Luis Villa (Former Director of the Open Source Initiative and the GNOME Foundation; contributor to the GPL v3 drafting process)
 - Stefano Zacchiroli (Former Debian Project Leader and Former Director of the Open Source Initiative)
 
+  <p dir='rtl' align='right'>
 ### المؤسسات / المنظمات 
-
+  </p>
+  
 <!-- Any additional signees should go below this comment in alphabetical order (according to `sort -u`) -->
 
 1. 3NSoft
@@ -119,7 +122,9 @@ _2021-03-23_
 1. wiquaya.org
 1. X.org Foundation
 
+  <p dir='rtl' align='right'>
 ### أفراد
+  </p>
 
 <!-- Any additional signees should go below this comment in alphabetical order (according to `sort -u`) -->
 
