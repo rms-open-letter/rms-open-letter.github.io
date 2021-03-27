@@ -377,6 +377,7 @@ Free Software Contributor)
 1. Avi Douglen
 1. Avital Kelman
 1. Avi Zajac
+1. Avis "queereen" Drożniak
 1. Axel De Acetis
 1. Babak Farrokhi (FreeBSD Developer)
 1. Baciu Florin-George ('bfgelectronics',BFG-E#2734)
