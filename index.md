@@ -106,6 +106,7 @@ Signed,
 identification purposes only and does not constitute endorsement.)</small>
 
 1. 0x5c
+1. 0LlVE (Ubuntu-fr)
 1. 8ara7a
 1. A Mani (Indian Statistical Institute, International Rough Set Society,
 Free Software Contributor)
