@@ -2477,6 +2477,7 @@ Free Software Contributor)
 1. Seth Peasley
 1. Seth Tisue
 1. Seunguk Lee
+1. Seung-hyeon Hyeon (@loudcolour)
 1. Shadi Alostaz
 1. Shane Coughlan
 1. Shane Curcuru (Punderthings Consulting)
