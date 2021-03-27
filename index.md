@@ -1543,6 +1543,7 @@ Free Software Contributor)
 1. Juliette Tisseyre
 1. June Taylor
 1. Juno Suárez (@junosz)
+1. Junyoung Park (@chalkpe)
 1. Jürgen Geuter (@tante)
 1. Jürgen Nickelsen
 1. Justin Baugh (@baughj, former FSF staff)
