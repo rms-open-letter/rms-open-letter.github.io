@@ -1781,7 +1781,6 @@ Free Software Contributor)
 1. Marcel Kuehlhorn (openSUSE contributor)
 1. Marcelo Fontenele
 1. Marcelo Teider Lopes
-1. Marcel Timmer
 1. Marcin Konowalczyk (they/them, University of Oxford)
 1. Marco Benatto
 1. Marco 'eukara' Hladik
