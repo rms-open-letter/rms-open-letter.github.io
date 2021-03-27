@@ -282,6 +282,7 @@ Free Software Contributor)
 1. Andrew Schwartzmeyer (Microsoft, @andschwa)
 1. Andrew Stewart (@stewart)
 1. Andrew Sutherland
+1. Andrew Sullivan Cant
 1. Andrew Thorp (`@athorp96`)
 1. Andrija Subotić
 1. Andy Balaam
