@@ -1,11 +1,11 @@
 ---
-title: 要求撤除理查德·M·斯托曼所有领导职务的公开信
-description: 我们参与联署的人，呼吁自由软件基金会董事全体下台并要求撤除RMS所有领导职务，包括 GNU 计划在内。我们不会继续默默忍受他的行为、不会给予他任何领导职务，也不会接受他本人，和他伤害人、危险的意识形态。
 image: /assets/og-image.png
 twitter:
   card: summary_large_image
 share_text: 我支持公开信呼吁，要求自由软件基金会董事全体下台并要求撤除RMS所有领导职务。
 ---
+
+要求撤除理查德·M·斯托曼所有领导职务的公开信
 
 {% include share-links.html %}
 
