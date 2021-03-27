@@ -393,7 +393,6 @@ Free Software Contributor)
 1. Ben Bromhead
 1. Ben Brown
 1. Ben Cotton (Fedora Project contributor)
-1. Ben Dover
 1. Ben Evans
 1. Ben Ford (`@binford2k`)
 1. Ben Harris (tildeverse.org)
