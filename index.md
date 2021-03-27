@@ -719,6 +719,7 @@ Free Software Contributor)
 1. Daniel Kolesa (@octaforge, Void Linux developer)
 1. Danielle Heberling
 1. Danielle Lancashire (Contributor, NixOS/Kubernetes; formerly CocoaPods, Nomad)
+1. Daniel Martinez (@s7sost, Frontend Developer)
 1. Daniel Milnes
 1. Daniel Morris
 1. Daniel M. Spector
