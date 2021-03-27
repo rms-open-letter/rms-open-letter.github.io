@@ -1567,6 +1567,7 @@ Free Software Contributor)
 1. Kenneth Gardner
 1. Kenneth Love (PSF Fellow)
 1. Kenny Huynh
+1. Kevin A. Mitchell
 1. Kevin Ackroyd
 1. Kevin Bloch
 1. Kevin Carson (researcher on postcapitalist transition)
