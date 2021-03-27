@@ -2257,6 +2257,7 @@ Free Software Contributor)
 1. Renaud Lepage
 1. René Ladan (FreeBSD Developer)
 1. Reuben Morais
+1. Reynir Björnsson
 1. Rhea Myers (libre.fm, former Chief GNU Webmaster)
 1. Rhett Aultman (they/them, @roadriverrail)
 1. Rhonda D'Vine (Debian Developer, Open Source Diversity)
