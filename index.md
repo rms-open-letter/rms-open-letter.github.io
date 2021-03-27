@@ -581,6 +581,7 @@ Free Software Contributor)
 1. Chris Kranz
 1. Chris Lattner (LLVM)
 1. Chris Petersen (SeaGL Co-Founder)
+1. Chris Petrik
 1. Chris Riley
 1. Chris Rose
 1. Chris Sienkiewicz
