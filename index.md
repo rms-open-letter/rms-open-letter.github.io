@@ -1984,6 +1984,7 @@ Free Software Contributor)
 1. Milo Casagrande
 1. Ming-ting Yao Wei (Debian Developer, former LXTerminal developer)
 1. Minho Ryang (@minhoryang on Github)
+1. Mingye Wang (@artoria2e5)
 1. Mirko Boehm (KDE)
 1. Misha Nasledov
 1. Misty Smith (former FSF volunteer)
