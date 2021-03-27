@@ -14,8 +14,6 @@ languages:
     code: "ja"
   - name: "Korean"
     code: "ko"
-  - name: "Polish"
-    code: "pl"
   - name: "Persian"
     code: "fa"
   - name: "Polish"
