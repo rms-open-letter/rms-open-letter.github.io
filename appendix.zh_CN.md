@@ -41,7 +41,7 @@ RMS 有着欺凌女性，让女性感到不舒服、不安全、不受欢迎的�
 
 RMS 花了好几年的时间来反对使用人们的正确代词。这只不过是一种变相的跨性别恐惧症。在初版《GNU 友好交流指南》中，他写道：“在英语中，有多种方式可以用第三人称单数代词来表达性别中立，你不必使用‘they’。”[15]
 这段文字后来被更新了，但仍然是恐跨的。[16]
-他的网站的主页也有这么一句话：“‘They’是复数——对于单数的情况，要使用单数性别中立代词。”[17]
+他的个人网站主页也有这么一句话：“‘They’是复数——对于单数的情况，要使用单数性别中立代词。”[17]
 
 [15]: https://web.archive.org/web/20181022140126/https://www.gnu.org/philosophy/kind-communication.html
 [16]: https://web.archive.org/web/20210325014959/https://www.gnu.org/philosophy/kind-communication.html
