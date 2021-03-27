@@ -633,6 +633,7 @@ Free Software Contributor)
 1. Christophe Van Reeth
 1. Christoph "Sellerie" Pomaska (@lauch_gemuese)
 1. Christoph Wickert (openSUSE contributor, former Fedora Council and Advisory Board member)
+1. Chris Tse
 1. Chris Turra (@cturra)
 1. Chris `tweedge` Partridge
 1. Chris Wayne (Ubuntu)
