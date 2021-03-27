@@ -1982,6 +1982,7 @@ Free Software Contributor)
 1. Miguel Said Vieira (UFABC, Brazil)
 1. Mikalai Birukou (3NSoft)
 1. Mika Pflüger
+1. Mike Conley (mconley, Mozilla)
 1. Mike Doughney (co-founder, Digital Express Group / DIGEX Incorporated)
 1. Mike Drob (Apache Solr)
 1. Mike Elsmore (@ukmadlz everywhere)
