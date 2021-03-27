@@ -1995,6 +1995,7 @@ Free Software Contributor)
 1. Mike Wyatt
 1. Mikhail Popov (Wikimedia Foundation)
 1. Milan Pässler (Chaos Computer Club, NixOS contributor)
+1. Milkii Brewster (@mxmilkiib)
 1. Milo Casagrande
 1. Ming-ting Yao Wei (Debian Developer, former LXTerminal developer)
 1. Minho Ryang (@minhoryang on Github)
