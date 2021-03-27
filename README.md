@@ -7,9 +7,9 @@ To sign, please email digitalautonomy at riseup.net or [submit a pull request](h
 
 Please add your name in the right place in the list. If you're using the GitHub editor, please ensure that it doesn't renumber everyone. You can do this by going to the first character of the next line, press enter to create a new empty line, then type "1. My Name." Each signature should start with a "1. "
 
-### Email Privacy :closed_lock_with_key: :email:
+### Preventing harassment :closed_lock_with_key: :email:
 
-Want to keep your email private on your signature? See the writeup in [#2113](https://github.com/rms-open-letter/rms-open-letter.github.io/issues/2113#issuecomment-807539234).
+Please note, this letter has gained significant interest in places like 4chan, and there has been confirmed instances of personal harassment against people who have signed. You should consider keeping your email private, see the writeup in [#2113](https://github.com/rms-open-letter/rms-open-letter.github.io/issues/2113#issuecomment-807539234).
 
 ## Translations :globe_with_meridians:
 
@@ -25,6 +25,11 @@ These translations have been contributed by our community translators. Thanks!
 - [Russian][ru]
 - [Dutch][nl]
 - [Persian][fa]
+- [Japanese][ja]
+- [Traditional Chinese][zh_TW]
+- [Simplified Chinese][zh_CN]
+- [Korean][ko]
+- [Arabic][ar]
 
 [pt_BR]: index.pt.md
 [fr]: index.fr.md
@@ -36,6 +41,11 @@ These translations have been contributed by our community translators. Thanks!
 [ru]: index.ru.md
 [nl]: index.nl.md
 [fa]: index.fa.md
+[ja]: index.ja.md
+[zh_TW]: index.zh_TW.md
+[zh_CN]: index.zh_CN.md
+[ko]: index.ko.md
+[ar]: index.ar.md
 
 Want to contribute? Adding a new language can be done in 3 steps :
 1. Copy `index.md` to `index.xx.md` and translate it.
