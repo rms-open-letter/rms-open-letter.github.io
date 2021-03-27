@@ -2177,6 +2177,7 @@ Free Software Contributor)
 1. Paulo Pinto
 1. Paul Tagliamonte (Debian Developer and Former Director of the Open Source Initiative)
 1. Paul Visscher (former GNU chief webmaster)
+1. Paul Wackerow
 1. Paul Wankadia
 1. Paul Woolcock
 1. Paul Wouters (Libreswan, Fedora developer)
