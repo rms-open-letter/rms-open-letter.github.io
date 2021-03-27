@@ -569,6 +569,7 @@ Free Software Contributor)
 1. Chase Crum (Sr. Architect and WIT ADVOCATE @SUSE)
 1. Chen Chang
 1. Chjara Yebgui (tuxcrafting)
+1. Chloe Beelby (Lead Engineer at @Allstate)
 1. Chloe Cota (@sweetpavement)
 1. Chloe Ramos (`Chaspen`)
 1. Chris Adams (@acdha)
