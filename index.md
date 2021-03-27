@@ -1244,6 +1244,7 @@ Free Software Contributor)
 1. Jade '0x0ade' Macho
 1. Jaden Pleasants
 1. Jae Beojkkoch
+1. Jae Proctor
 1. Jaeon Park
 1. JaeYoon Whang
 1. Jaime Gutiérrez Alfaro
