@@ -253,6 +253,7 @@ Free Software Contributor)
 1. Ananya Cleetus (@ananyacleetus)
 1. Ana Rute Mendes (Collabora)
 1. Anastasia Papakosta
+1. Andrea Aranda
 1. Andrea Denisse Gómez-Martínez (Arch Linux, i3blocks maintainer)
 1. André Almeida (Collabora)
 1. Andreas Beger
