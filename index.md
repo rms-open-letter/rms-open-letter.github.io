@@ -1875,6 +1875,7 @@ Free Software Contributor)
 1. Matt Ray (former FSF member)
 1. Matt Travi
 1. Maurice Meyer (`morre`)
+1. Mauricio Herrera Cuadra (`arareko`)
 1. Mauro Lizaur (Former Debian Developer)
 1. Max Bruckner (`FSMaxB`)
 1. Max Burke
