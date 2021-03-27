@@ -299,6 +299,7 @@ Free Software Contributor)
 1. Angus Gratton
 1. Angus Salkeld
 1. Anibal Monsalve Salazar (Debian Developer)
+1. AniMerrill, a.k.a. Ethan Merrill
 1. Aniol Marti (Debian Maintainer, Caliu President)
 1. Anis Tarafdar
 1. Annabeth Parker
