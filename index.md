@@ -1847,6 +1847,7 @@ Free Software Contributor)
 1. Martin Gollowitzer
 1. Martin Guillon
 1. Martin Kühl
+1. Martin Liška (GCC contributor)
 1. Martin Michlmayr (Former Debian Project Leader)
 1. Martin Robinson (Igalia)
 1. Martin Sande Costa
