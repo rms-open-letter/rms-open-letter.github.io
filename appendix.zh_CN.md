@@ -13,7 +13,7 @@ RMS 有着欺凌女性，让女性感到不舒服、不安全、不受欢迎的�
 [4]: https://web.archive.org/web/20210325013706/https://stallman.org/archives/2018-jul-oct.html#23_September_2018_(Cody_Wilson)
 
 他经常反复提到：“将青少年自愿的的性行为贴上‘强奸’的标签，这样的法律是不正当的。”[5]
-他比较了美国法律与苏丹法律，称“美国法律将‘强奸’定义为包括与 N 岁以下的人自愿发生性关系（其中N不等）”，以及“这两部法律都篡改了‘强奸’的含义”。[6]
+他将美国法律中“将‘强奸’定义为包括与 N 岁以下的人自愿发生性关系（其中N不等）”这一条标准与苏丹法律进行了类比，并且称“这两部法律都歪曲了‘强奸’的定义”。[6]
 
 [5]: https://web.archive.org/web/20210325013844/https://stallman.org/archives/2017-sep-dec.html#13_November_2017_(Jelani_Maraj)
 [6]: https://web.archive.org/web/20210325013942/https://stallman.org/archives/2018-may-aug.html#14_May_2018_(Death_sentence_in_Sudan)
