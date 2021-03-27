@@ -1161,7 +1161,6 @@ Free Software Contributor)
 1. Haran Lakha
 1. Hardy Pottinger (DSpace Committer)
 1. Haris Sehic
-1. Harry Kurniawan
 1. Harsh Deep (`harsh183`)
 1. Harsh Shandilya
 1. Hassan Hijazi
