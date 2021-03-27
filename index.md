@@ -2426,6 +2426,7 @@ Free Software Contributor)
 1. Sam van der Kris
 1. Sander Steffann (@sjmsteffann / sjms)
 1. Sander van der Waal (Waag)
+1. Sanders Lauture
 1. Sandra McCann (samccann)
 1. Sandro Jäckel (NixOS contributor)
 1. Sandro Knauß (Debian, KDE)
