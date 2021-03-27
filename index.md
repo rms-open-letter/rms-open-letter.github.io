@@ -59,6 +59,7 @@ Signed,
 1. Creative Commons
 1. Cusy
 1. DataMade
+1. Data + Feminism Lab, MIT
 1. Dot HQ
 1. Echap
 1. Exherbo Linux
