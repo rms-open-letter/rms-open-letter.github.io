@@ -1188,6 +1188,7 @@ Free Software Contributor)
 1. Igmar Palsenberg
 1. Ignacio Torres Masdeu
 1. Ilya Kreymer
+1. Imobach González Sosa (software developer at SUSE; openSUSE contributor)
 1. imSofi
 1. intrigeri (Debian Developer, Tails Developer)
 1. Ioanna Dimitriou (Igalia)
