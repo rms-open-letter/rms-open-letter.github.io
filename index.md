@@ -1081,6 +1081,7 @@ Free Software Contributor)
 1. George Cagle (@gcagle3)
 1. George Chriss
 1. George DeMet
+1. George Hickman
 1. George Kiagiadakis (Collabora)
 1. George Marques (Godot Engine)
 1. George Sykes (Reclaim The Night Leeds Data Analyst)
