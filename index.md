@@ -1390,6 +1390,7 @@ Free Software Contributor)
 1. Jesse Raleigh (Sr Security Researcher)
 1. Jesser Lemus
 1. Jesse Vincent
+1. Jessica "tielqt" Alouette (OBS Project)
 1. Jess Mysers
 1. Jesús Castro
 1. Jez Cope
