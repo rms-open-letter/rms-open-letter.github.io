@@ -35,14 +35,13 @@ _2021-03-23_
 <p dir='rtl' align='right'>
     لقد قمنا بتفصيل العديد من الحوادث العامة لسلوكيات RMS، البعض منا لديه قصصه الخاصة حول RMS وتفاعلاتنا معه
     ، أشياء لم يتم إلتقاطها في ردود الإيمايلات أو في الفيديو، نأمل أن تقرأ ما تمت مشاركته وأن تنظر في الضرر الذي ألحقه في بمجتمعنا والآخرين.
-    [التفاصيل هنا][1]
-  [1]: https://rms-open-letter.github.io/appendix
+    التفاصيل: https://rms-open-letter.github.io/appendix
 </p>
   
 
 <p dir='rtl' align='right'>
     للتوقيع يرجى القيام/إرسال digitalautonomy إلى  riseup.net  أو القيام ب 
-  [pull request](https://github.com/rms-open-letter/rms-open-letter.github.io/pulls)
+  pull request: https://github.com/rms-open-letter/rms-open-letter.github.io/pulls
 </p>
 
 <p dir='rtl' align='right'>
