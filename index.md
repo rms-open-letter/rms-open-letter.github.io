@@ -695,6 +695,7 @@ Free Software Contributor)
 1. Cristóbal Palmer (ibiblio.org)
 1. crt0mega
 1. C. Scott Ananian (former FSF member, GNU contributor)
+1. curse2115
 1. Cynthia Hua
 1. Cyril Brulebois (Debian Developer)
 1. Cyrus Frost (a Linux user)
