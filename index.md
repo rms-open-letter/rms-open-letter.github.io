@@ -1956,6 +1956,7 @@ Free Software Contributor)
 1. Michael Staggs (tausciam)
 1. Michael T. Lombardi (@michaeltlombardi, Puppet developer)
 1. Michał Sidor
+1. Michał "phoe" Herda
 1. Michal Siedlaczek
 1. Michel Alexandre Salim (Fedora Project contributor)
 1. Michel Morin
