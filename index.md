@@ -2415,6 +2415,7 @@ Free Software Contributor)
 1. Sarina Canelake
 1. Sarven Capadisli
 1. Sascha "ch1r0x" Rudolph
+1. Sascha Mann (Exercism Julia Track Maintainer)
 1. Sasha Cuerda
 1. Sasha Vigole (.sasha.vigole#mithras:arsakiden.)
 1. Sasha Weiss
