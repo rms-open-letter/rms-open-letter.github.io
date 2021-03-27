@@ -912,6 +912,7 @@ Free Software Contributor)
 1. Emilio Coppola
 1. Emilio Escobar (Ettercap Project)
 1. Emily Carlsen
+1. Emily Crandall Fleischman
 1. Emily 'forivall' Klassen
 1. Emily Gonyer
 1. Emily Qin
