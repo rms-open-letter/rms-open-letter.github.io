@@ -23,6 +23,7 @@ These translations have been contributed by our community translators. Thanks!
 - [Polish][pl]
 - [Italian][it]
 - [Russian][ru]
+- [Galician][ga]
 - [Dutch][nl]
 - [Persian][fa]
 - [Japanese][ja]
@@ -39,6 +40,7 @@ These translations have been contributed by our community translators. Thanks!
 [pl]: index.pl.md
 [it]: index.it.md
 [ru]: index.ru.md
+[ga]: index.ga.md
 [nl]: index.nl.md
 [fa]: index.fa.md
 [ja]: index.ja.md
