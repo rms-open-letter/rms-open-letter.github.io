@@ -1643,6 +1643,7 @@ Free Software Contributor)
 1. Laura Smith
 1. Laurence Berland
 1. Lauren Liberda (@selfisekai)
+1. Laurent Bercot (skarnet.org)
 1. Laurent Doguin
 1. Laurent Peuch
 1. Laurent Pointecouteau
