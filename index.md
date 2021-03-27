@@ -1742,6 +1742,7 @@ Free Software Contributor)
 1. Magnus Hambleton
 1. Magnus Krüger
 1. Mairi Dulaney (Fedora Project contributor)
+1. Maja Stanislawska
 1. Máirín Duffy (Fedora Project, former FSF HPP committee member, former LP speaker)
 1. Malcolm Barrett
 1. Malini Bhandaru
