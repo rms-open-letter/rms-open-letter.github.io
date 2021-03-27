@@ -175,6 +175,7 @@ Free Software Contributor)
 1. Alejandro F. Nadal
 1. Alejandro R. Urzúa (INAOE MX, @rurz at Github)
 1. Alex A. G.
+1. Alexander Dietrich
 1. Alexander Herzig (Release Manager SUSE Linux Enterprise)
 1. Alexander Jacocks (Red Hat)
 1. Alexander Koderman
