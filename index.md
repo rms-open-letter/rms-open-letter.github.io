@@ -871,6 +871,7 @@ Free Software Contributor)
 1. Đorđe Mančić
 1. Dorothea Salo
 1. Dorothy Howard (UC San Diego Department of Communication)
+1. Douglas Bailey
 1. Doug Harple
 1. Doug Hellmann (Python Software Foundation Fellow, former OpenStack Technical Committee)
 1. Douglas Muth (@dmuth)
