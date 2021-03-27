@@ -2045,6 +2045,7 @@ Free Software Contributor)
 1. Niclas Zeising (FreeBSD committer)
 1. Nicolai von Neudeck
 1. Nicolás Alvarez (KDE)
+1. Nicolas `AtomicNicos` Boeckh (Digital Overdose Community Co-Owner, Student \& TA @UNIGE)
 1. Nicolas Dandrimont (Debian Developer, former FSF associate member)
 1. Nicolas Fella (KDE)
 1. Nicolas Fleurot
