@@ -241,6 +241,7 @@ Free Software Contributor)
 1. Amin Vakil
 1. Amir Mohammadi
 1. Amir Sarabadani (Wikimedia)
+1. Amir Yalon
 1. Amos `fasterthanlime` Wenger
 1. Amye Scavarda Perrin
 1. Amy Grace `00p513`, `amyosx`
