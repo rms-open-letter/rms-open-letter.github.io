@@ -514,6 +514,7 @@ Free Software Contributor)
 1. Capi Etheriel
 1. Cara Esten Hurtle
 1. Carina C. Zona (CallbackWomen)
+1. Carissa Brittain
 1. Carla Schroder (Linux nerd, uppity woman and not sorry)
 1. Carl George (CentOS Project, Fedora Project)
 1. Carlos Alexandro Becker (`caarlos0`)
