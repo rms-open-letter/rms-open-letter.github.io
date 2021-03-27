@@ -21,7 +21,7 @@ share_text: 我支持公开信呼吁，要求自由软件基金会董事全体�
 
 我们敦促有能力为之的人停止支持自由软件基金会。拒绝对自由软件基金会和RMS相关的计划作出贡献。不要参加自由软件基金会主办的、或其他欢迎 RMS 本人及其狭隘思想的活动。也不要于此类活动演讲。我们请求自由软件计划的贡献者以强硬的姿态对抗他们计划里面存在的歧视和仇恨，并告知社群和自由软件基金会，为何要对抗这些害群之马。
 
-我们详细[纪录了 RMS 公开的言行](https://rms-open-letter.github.io/appendix)。我们之中有人与 RMS 私底下交过手，但这些并无以电邮或影像纪录下来。我们希望您参阅公开数据，并考虑一下他对社群、对其他人所造成的伤害。
+我们详细[纪录了 RMS 公开的言行](https://rms-open-letter.github.io/appendix.zh)。我们之中有人与 RMS 私底下交过手，但这些并无以电邮或影像纪录下来。我们希望您参阅公开数据，并考虑一下他对社群、对其他人所造成的伤害。
 
 参与联署，请电邮 digitalautonomy at riseup.net ，或[提交 pull request](https://github.com/rms-open-letter/rms-open-letter.github.io/pulls) 。
 

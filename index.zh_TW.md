@@ -1,4 +1,13 @@
-要求革除理查·M·斯托曼所有領導職務的公開信
+---
+title: 要求革除理查·M·斯托曼所有領導職務的公開信
+description: 我們參與聯署的人，呼籲自由軟件基金會董事全體下臺並要求革除RMS所有領導職務，包括 GNU 計劃在內。我們不會繼續默默忍受他的行爲、不會給予他任何領導職務，也不會接受他本人，和他傷害人、危險的意識形態。
+image: /assets/og-image.png
+twitter:
+  card: summary_large_image
+share_text: 我支持公開信呼籲，要求自由軟件基金會董事全體下臺並要求革除RMS所有領導職務。
+---
+
+{% include share-links.html %}
 
 *2021年3月23日*
 
@@ -12,7 +21,7 @@
 
 我們敦促有能力為之的人停止支持自由軟件基金會。拒絕對自由軟件基金會和RMS相關的計劃作出貢獻。不要參加自由軟件基金會主辦的、或其他歡迎 RMS 本人及其狹隘思想的活動。也不要於此類活動演講。我們請求自由軟件計劃的貢獻者以強硬的姿態對抗他們計劃裡面存在的歧視和仇恨，並告知社群和自由軟件基金會，為何要對抗這些害群之馬。
 
-我們詳細[紀錄了 RMS 公開的言行](https://rms-open-letter.github.io/appendix)。我們之中有人與 RMS 私底下交過手，但這些並無以電郵或影像紀錄下來。我們希望您參閱公開資料，並考慮一下他對社群、對其他人所造成的傷害。
+我們詳細[紀錄了 RMS 公開的言行](https://rms-open-letter.github.io/appendix.zh)。我們之中有人與 RMS 私底下交過手，但這些並無以電郵或影像紀錄下來。我們希望您參閱公開資料，並考慮一下他對社群、對其他人所造成的傷害。
 
 參與聯署，請電郵 digitalautonomy at riseup.net ，或[提交 pull request](https://github.com/rms-open-letter/rms-open-letter.github.io/pulls) 。
 
