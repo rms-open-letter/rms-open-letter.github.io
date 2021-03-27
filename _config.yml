@@ -1,5 +1,7 @@
 remote_theme: rms-open-letter/minima
 languages:
+  - name: "Arabic العربية"
+    code: "ar"
   - name: "Brazilian Portuguese"
     code: "pt"
   - name: "Dutch"
