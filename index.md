@@ -189,6 +189,7 @@ Free Software Contributor)
 1. Alexandra Rubleva
 1. Alexandra Stehr
 1. Alexandre Dulaunoy (former FSF associate member #53)
+1. Alexandre Larouche
 1. Alexandria Christina Leal et al.
 1. Alexandros Bourantas
 1. Alexandros Kosiaris
