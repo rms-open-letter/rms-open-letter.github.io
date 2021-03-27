@@ -1929,6 +1929,7 @@ Free Software Contributor)
 1. Michel Morin
 1. Mic Whitehorn-Gillam
 1. Miguel Raz Guzmán Macedo, (Julia Language, UNAM, @miguelraz on Github)
+1. Miguel Said Vieira (UFABC, Brazil)
 1. Mikalai Birukou (3NSoft)
 1. Mika Pflüger
 1. Mike Doughney (co-founder, Digital Express Group / DIGEX Incorporated)
