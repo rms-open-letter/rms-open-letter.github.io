@@ -1,11 +1,11 @@
 ---
-title: 要求革除理查·M·斯托曼所有領導職務的公開信
-description: 我們參與聯署的人，呼籲自由軟件基金會董事全體下臺並要求革除RMS所有領導職務，包括 GNU 計劃在內。我們不會繼續默默忍受他的行爲、不會給予他任何領導職務，也不會接受他本人，和他傷害人、危險的意識形態。
 image: /assets/og-image.png
 twitter:
   card: summary_large_image
 share_text: 我支持公開信呼籲，要求自由軟件基金會董事全體下臺並要求革除RMS所有領導職務。
 ---
+
+要求革除理查·M·斯托曼所有領導職務的公開信
 
 {% include share-links.html %}
 
