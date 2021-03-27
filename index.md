@@ -2796,6 +2796,7 @@ Free Software Contributor)
 1. Wilson "Chilly" Hightower
 1. Wilson Moura
 1. Wim Taymans (PipeWire, GStreamer)
+1. Witold Kręcicki (@wupeka)
 1. Wolthera van Hövell (Krita/KDE)
 1. Woohyeong Kim
 1. Wouter Verhelst (Debian Developer, FOSDEM orga team member)
