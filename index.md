@@ -1241,6 +1241,7 @@ Free Software Contributor)
 1. Jacob Weisz
 1. Jacques 'erelde' Rimbault
 1. Jacques Favreau
+1. Jacques Marneweck
 1. Jade '0x0ade' Macho
 1. Jaden Pleasants
 1. Jae Beojkkoch
