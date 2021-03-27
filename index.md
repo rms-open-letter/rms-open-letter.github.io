@@ -2234,6 +2234,7 @@ Free Software Contributor)
 1. Raghavendra Kamath (raghukamath) (Illustrator & Designer / Krita volunteer)
 1. raichoo (maintainer and contributor for various open source projects)
 1. Rainer Bendig
+1. Ralf Rachinger (@ralf1307)
 1. Ralph FriarTech Loizzo
 1. Ralph Giles
 1. Rami Chowdhury
