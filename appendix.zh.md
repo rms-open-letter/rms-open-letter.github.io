@@ -9,7 +9,7 @@ RMS关于强奸和儿童性法律的观点在2019年秋季广受讨论，见 Sel
 [3]: https://web.archive.org/web/20210325013629/https://www.vice.com/en/article/9ke3ke/famed-computer-scientist-richard-stallman-described-epstein-victims-as-entirely-willing
 [4]: https://web.archive.org/web/20210325013706/https://stallman.org/archives/2018-jul-oct.html#23_September_2018_(Cody_Wilson)
 
-RMS经常对「忽视青少年完全自愿，将与青少年性交定为『强奸』的虚伪法律」发表评论。[5]他认为美国法律和苏丹法律在强奸方面没有区别，认为「婚内强奸」和「强奸未成年人」的概念都是「歪曲了『强奸』的意义」。[6]
+RMS经常对「忽视青少年完全自愿，将与青少年性交定为『强奸』的虚伪法律」发表评论。[5]他认为美国法律和苏丹法律在强奸方面没有区别，认为「婚内强奸」和「年龄不足即强奸」的概念都是「歪曲了『强奸』的意义」。[6]
 
 [5]: https://web.archive.org/web/20210325013844/https://stallman.org/archives/2017-sep-dec.html#13_November_2017_(Jelani_Maraj)
 [6]: https://web.archive.org/web/20210325013942/https://stallman.org/archives/2018-may-aug.html#14_May_2018_(Death_sentence_in_Sudan)
