@@ -2137,6 +2137,7 @@ Free Software Contributor)
 1. Pedro Giffuni
 1. Pedro Juan Ferrer Matoses
 1. Pedro Valentim
+1. Penelope Phippen (Director at Ruby Central, former RSpec lead maintainer)
 1. Percival Lavoie
 1. Perro Tuerto (Programando LIBREros)
 1. Peter Aufner (`Adrixan`)
