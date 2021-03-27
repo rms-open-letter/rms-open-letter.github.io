@@ -1610,6 +1610,7 @@ Free Software Contributor)
 1. Kiran Jonnalagadda
 1. Kirstie Whitaker (Programme Lead for Tools, Practices and Systems, The Alan Turing Institute; Core contributor to The Turing Way project.)
 1. Kitteh
+1. Koichi SATO (@sekia on GitHub)
 1. Kojo Idrissa (Djangocon US organizer, DEFNA North American Ambassador)
 1. Konrad Geletey (@kogeletey)
 1. Konstantina Papadea
