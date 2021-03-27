@@ -1984,6 +1984,7 @@ Free Software Contributor)
 1. Nana Yumesaki
 1. Naomi Ceder (former director & past chair, Python Software Foundation)
 1. Natacha Rault (les sans pagEs)
+1. Natalia Cholewa
 1. Natalia Portillo (aka claunia, Aaru Data Preservation Suite, Claunia Ltd., Hit Save!)
 1. Natalie Amery (née Jonathan)
 1. Natalie Kelley
