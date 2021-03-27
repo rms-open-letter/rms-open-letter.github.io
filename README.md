@@ -9,7 +9,7 @@ Please add your name in the right place in the list. If you're using the GitHub 
 
 ### Preventing harassment :closed_lock_with_key: :email:
 
-Please note, this letter has gained significant interest in places like 4chan, and there has been confirmed instances of personal harrasment against people who have signed. You should consider keeping your email private, see the writeup in [#2113](https://github.com/rms-open-letter/rms-open-letter.github.io/issues/2113#issuecomment-807539234).
+Please note, this letter has gained significant interest in places like 4chan, and there has been confirmed instances of personal harassment against people who have signed. You should consider keeping your email private, see the writeup in [#2113](https://github.com/rms-open-letter/rms-open-letter.github.io/issues/2113#issuecomment-807539234).
 
 ## Translations :globe_with_meridians:
 
