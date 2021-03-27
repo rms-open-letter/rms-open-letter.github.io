@@ -1,3 +1,7 @@
+---
+lang: es
+---
+
 RMS tiene un historial de maltrato a las mujeres y de hacerlas sentir incómodas, inseguras y no bienvenidas. Para conocer los incidentes relacionados con el RMS y el MIT, consulte [0].
 
 [0]: https://selamjie.medium.com/remove-richard-stallman-appendix-a-a7e41e784f88

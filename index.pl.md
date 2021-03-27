@@ -1,3 +1,7 @@
+---
+lang: pl
+---
+
 Richard M. Stallman, powszechnie znany jako RMS, przez długi czas był niebezpieczną siłą w społeczności wolnego oprogramowania. Wykazał się mizgonią, ableizmem i transfobią, pośród innych poważnych zarzutów o niestosowność. Tego rodzaju przekonania nie mają miejsca w wolnym oprogramowaniu, prawach cyfrowych i społecznościach technologicznych. Wraz z jego niedawnym powrotem do zarządu fundacji Free Software Foundation, wzywamy cały zarząd FSF do usunięcia RMS ze wszystkich stanowisk kierowniczych.
 
 My, niżej podpisani, wierzymy w konieczność cyfrowej autonomii i ogromną rolę, jaką wolność użytkownika odgrywa w ochronie naszych podstawowych praw człowieka. Aby zrealizować obietnicę wszystkiego, co umożliwia wolność oprogramowania, musi nastąpić radykalna zmiana w społeczności. Wierzymy w teraźniejszość i przyszłość, w której każda technologia wzmacnia - a nie uciska - ludzi. Wiemy, że jest to możliwe tylko w świecie, w którym technologia jest zbudowana, aby szanować nasze prawa na najbardziej fundamentalnym poziomie. Chociaż te idee zostały w jakiejś formie spopularyzowane przez Richarda M. Stallmana, nie mówi on za nas. Nie akceptujemy jego działań i opinii. Nie uznajemy jego przywództwa ani kierownictwa fundacji Free Software Foundation w obecnym stanie.

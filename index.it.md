@@ -1,3 +1,7 @@
+---
+lang: it
+---
+
 *2021-03-23*
 
 Richard M. Stallman, conosciuto anche come RMS, rappresenta da molto tempo un problema per la comunità del software libero. Tra le accuse di scorrettezza, ci sono comportamenti di tipo misogino, discriminanti nei confronti dei disabili e transfobici, che non sono tollerabili nel software libero, tra i diritti digitali e nelle comunità tecnologiche. A seguito del suo recente reintegro nel consiglio della Free Software Foundation, chiediamo che l'intero consiglio della FSF si dimetta e che RMS venga rimosso da tutte le posizioni di leadership.

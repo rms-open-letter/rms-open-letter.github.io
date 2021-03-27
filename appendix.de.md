@@ -1,3 +1,7 @@
+---
+lang: de
+---
+
 RMS hat in der Vergangenheit mehrfach Fehlverhalten Frauen gegenüber gezeigt; einige berichten, sich in seiner Anwesenheit unbehaglich, unsicher und nicht willkommen zu fühlen. Vorfälle bezüglich RMS’ Tätigkeit am MIT finden sich unter [0].
 
 [0]: https://selamjie.medium.com/remove-richard-stallman-appendix-a-a7e41e784f88

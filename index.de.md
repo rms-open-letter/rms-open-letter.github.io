@@ -1,3 +1,7 @@
+---
+lang: de
+---
+
 *2021-03-23*
 
 Richard M. Stallman, auch bekannt als RMS, war für lange Zeit eine gefährliche Kraft in der Gemeinschaft für freie Software. Er hat sich als frauenfeindlich, behindertenfeindlich und transphob herausgestellt, zusammen mit anderen ernsten Vorwürfen ungebührlichen Verhaltens. Für derartige Weltanschauungen gibt es keinen Platz in den Gemeinschaften von freier Software, digitalen Rechten und Technologie. Aufgrund seiner kürzlichen Wiedereinsetzung in den Vorstand der Free Software Foundation fordern wir den gesamten Vorstand der FSF zum Rücktritt auf und verlangen, RMS aus allen Führungspositionen zu entlassen.

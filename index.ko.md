@@ -5,6 +5,7 @@ image: /assets/og-image.png
 twitter:
   card: summary_large_image
 share_text: FSF 이사회 전원의 퇴진 및 리처드 스톨먼을 모든 리더직에서 퇴출시키길 요구하는 서한을 지지합니다.
+lang: ko
 ---
 
 _2021-03-23_

@@ -1,3 +1,7 @@
+---
+lang: tr
+---
+
 _2021-03-23_
 
 Genellikle RMS olarak bilinen Richard M. Stallman, özgür yazılım topluluğunda uzun süredir tehlikeli bir güç olmuştur. Kendisini diğer ciddi yakışıksız suçlamalarının yanı sıra kadın düşmanı, engelli düşmanı ve transfobik olarak gösterdi. Bu tür düşüncelerin özgür yazılım, dijital haklar ve teknoloji topluluklarında yeri yoktur. Kısa süre önce Özgür Yazılım Vakfı Yönetim Kurulu'na iade edilmesiyle, FSF'nin tüm Yönetim Kurulu'nun istifa etmesini ve RMS'nin tüm liderlik pozisyonlarından tasfiye edilmesini istiyoruz.

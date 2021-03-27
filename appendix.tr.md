@@ -1,3 +1,7 @@
+---
+lang: tr
+---
+
 RMS'nin, kadınlara kötü muamele etme, onları rahatsız, güvensiz ve istenmeyen hissettirme gibi bir geçmişi vardır. RMS ve MIT ile ilgili olaylar için lütfen [0] 'a bakın.
 
 [0]: https://selamjie.medium.com/remove-richard-stallman-appendix-a-a7e41e784f88

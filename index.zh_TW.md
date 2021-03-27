@@ -3,6 +3,7 @@ image: /assets/og-image.png
 twitter:
   card: summary_large_image
 share_text: 我支持公開信呼籲，要求自由軟件基金會董事全體下臺並要求革除RMS所有領導職務。
+lang: zh-Hant-TW
 ---
 
 # 要求革除理查·M·斯托曼所有領導職務的公開信

@@ -1,3 +1,7 @@
+---
+lang: fr
+---
+
 RMS a un historique de mauvais traitements envers les femmes et de les rendre mal à l'aise, peu sûres et indésirables. Pour les incidents relatifs à RMS et au MIT, veuillez consulter : <https://selamjie.medium.com/remove-richard-stallman-appendix-a-a7e41e784f88>.
 
 Les opinions de RMS sur le viol et les lois sur le sexe impliquant des enfants ont été discutées publiquement à l'automne 2019, lorsque Selam G a écrit à leur sujet.[1] Particulièrement glaçant est le moment où Stallman aborde les accusations selon lesquelles Marvin Minsky a agressé sexuellement l'une des victimes du trafic de Jeffrey Epstein (Virginia Giuffre) en disant “mais le scénario le plus plausible est qu'elle s'est présentée à lui comme entièrement consentante".[2] RMS dénonce le fait qu'il ne s'agit pas d'une "agression sexuelle" parce que l'expression "agression présuppose qu'il a utilisé la force ou la violence" alors que le rapport en question "ne dit rien de tel".[3] Plutôt que d'en discuter davantage, concentrons-nous sur son site web personnel, où il partage également son point de vue sur le fait que les mineurs sont "tout à fait consentants"[4] (Note : Alors que plusieurs reportages ont déformé la position de Stallman en discutant des allégations contre Minsky, Stallman a précédemment exprimé des opinions qui étaient en accord avec la dite représentation inexacte).

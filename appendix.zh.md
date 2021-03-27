@@ -2,6 +2,10 @@
 关于空行：Markdown 中的空行会转换为空格。在大部分中文语境下这不好，但数字链接之后
 正好需要空格。
 -->
+---
+lang: zh
+---
+
 RMS亏待女性，使女性感到不适、不安全、不受欢迎由来已久。关于RMS在MIT的所作所为，请见 [0]。
 
 [0]: https://selamjie.medium.com/remove-richard-stallman-appendix-a-a7e41e784f88
