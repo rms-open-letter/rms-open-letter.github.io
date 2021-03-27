@@ -29,6 +29,7 @@ These translations have been contributed by our community translators. Thanks!
 - [Traditional Chinese][zh_TW]
 - [Simplified Chinese][zh_CN]
 - [Korean][ko]
+- [Arabic][ar]
 
 [pt_BR]: index.pt.md
 [fr]: index.fr.md
@@ -44,6 +45,7 @@ These translations have been contributed by our community translators. Thanks!
 [zh_TW]: index.zh_TW.md
 [zh_CN]: index.zh_CN.md
 [ko]: index.ko.md
+[ar]: index.ar.md
 
 Want to contribute? Adding a new language can be done in 3 steps :
 1. Copy `index.md` to `index.xx.md` and translate it.
