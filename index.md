@@ -2040,6 +2040,7 @@ Free Software Contributor)
 1. Neil McPhail
 1. Neils Nesse (Former FSF associate member)
 1. Neil Watson (Former CFEngine Community Advisory Board Member)
+1. Neil Williams
 1. Nelson Minar
 1. Nic FitzGerald (Co-Founder Sailex)
 1. Nicholas LaPointe (Krita contributor)
