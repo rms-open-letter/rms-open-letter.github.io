@@ -205,6 +205,7 @@ Free Software Contributor)
 1. Alex Murray
 1. Alex Ose
 1. Alex Reynolds (BEDOPS and other open-source bioinformatics projects)
+1. Alex Ross
 1. Alex Stapleton
 1. Alex Tuckey
 1. Alex Volkov
@@ -526,6 +527,7 @@ Free Software Contributor)
 1. Carmen Bianca Bakker (Contributor to FSFE, GNOME, Fedora)
 1. Carolina Brum (FSF member)
 1. Carol Willing
+1. Carlos Maltzahn (Center for Research in Open Source Software, UC Santa Cruz)
 1. Carsten Duch
 1. Caryn Holt (MidnightBSD)
 1. Cas Eliëns
@@ -534,6 +536,7 @@ Free Software Contributor)
 1. Cas Rusnov (free software contributor, former Debian developer)
 1. Cassidy James Blaede (elementary co-founder, GNOME Foundation member)
 1. Cassidy Kattler
+1. Catherine D'Ignazio
 1. Catherine Stihler (CEO, Creative Commons)
 1. Cathy Warner
 1. Cedric Kienzler
@@ -676,6 +679,7 @@ Free Software Contributor)
 1. Cristóbal Palmer (ibiblio.org)
 1. crt0mega
 1. C. Scott Ananian (former FSF member, GNU contributor)
+1. Cynthia Hua
 1. Cyril Brulebois (Debian Developer)
 1. Cyrus Frost (a Linux user)
 1. Dag Ågren
@@ -849,6 +853,7 @@ Free Software Contributor)
 1. Donny Johnson
 1. Đorđe Mančić
 1. Dorothea Salo
+1. Dorothy Howard (UC San Diego Department of Communication)
 1. Doug Harple
 1. Doug Hellmann (Python Software Foundation Fellow, former OpenStack Technical Committee)
 1. Douglas Muth (@dmuth)
@@ -1305,6 +1310,7 @@ Free Software Contributor)
 1. Jayme Howard
 1. Jay Mueller
 1. Jayson Paul
+1. Jayson Van Dam
 1. J. Bruce Fields (kernel developer at Red Hat)
 1. JeanHeyd Meneide (ISO/IEC JTC1 SC22 WG14 - Programming Languages C, Project Editor)
 1. Jean-Paul Argudo (CEO at Dalibo, @jpargudo)
@@ -1763,6 +1769,7 @@ Free Software Contributor)
 1. Marcela Tiznado
 1. Marcel Kapfer
 1. Marcel Kuehlhorn (openSUSE contributor)
+1. Marcelo Fontenele
 1. Marcelo Teider Lopes
 1. Marcel Timmer
 1. Marcin Konowalczyk (they/them, University of Oxford)
@@ -2234,6 +2241,7 @@ Free Software Contributor)
 1. Renaud Lepage
 1. René Ladan (FreeBSD Developer)
 1. Reuben Morais
+1. Rhea Myers (libre.fm, former Chief GNU Webmaster)
 1. Rhett Aultman (they/them, @roadriverrail)
 1. Rhonda D'Vine (Debian Developer, Open Source Diversity)
 1. Rhys Davies
@@ -2482,6 +2490,7 @@ Free Software Contributor)
 1. Song Li
 1. Sophie Herold (GNOME Foundation member)
 1. Soren L. Hansen
+1. Sosha Mosleh (Volunteer at #OpenStreetMap)
 1. Spencer Hunley
 1. Srayan Jana
 1. Sriram Ramkrishna (Former GNOME board member)
@@ -2506,6 +2515,7 @@ Free Software Contributor)
 1. Stephen Augustus (Co-founder of the Inclusive Naming Initiative, CNCF SIG Contributor Strategy Chair, KubeCon + CloudNativeCon Chair, Kubernetes SIG Release Chair, Dex maintainer)
 1. Stephen Canon
 1. Stephen Hemminger (Iproute2 Maintainer)
+1. Stephen J. Sarma-Weierman
 1. Stephen Jacobs
 1. Stephen O'Grady
 1. Stephen P. Huff (@hakamadare)
@@ -2675,6 +2685,7 @@ Free Software Contributor)
 1. Vincent Broz (`@apiology`)
 1. Vincent Esche
 1. Vincent Huang Jiahao
+1. Vincent Lejeune
 1. Vincent Milum Jr (@DarkainMX)
 1. Vincent Singer (aka cukmekerb)
 1. Vincent Wong
@@ -2747,6 +2758,7 @@ Free Software Contributor)
 1. Yaroslav Kargapolov
 1. Yeaji Shin (@Bloodevil)
 1. Yegor Timoshenko (NixOS contributor)
+1. Yeon-Jae Jang (@yeoncomi/yeoncomi.ca)
 1. Yorik van Havre
 1. Youko Omori (Collabora)
 1. Youness Alaoui (@kakaroto)
