@@ -2674,7 +2674,6 @@ Free Software Contributor)
 1. Tom Henderson (Founder, ExtremeLabs)
 1. Tom Howard
 1. Tom Lakey
-1. TomoeMami
 1. Tom Prince
 1. Tom Sorensen (Zathrus on freenode irc)
 1. Tom "spot" Callaway (Fedora Council member, former LP speaker)
