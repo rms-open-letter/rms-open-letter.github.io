@@ -1900,6 +1900,7 @@ Free Software Contributor)
 1. Melody ✨
 1. Merlijn Sebrechts (`galgalesh`)
 1. Mia Nordentoft (Former FSF member)
+1. Mia Szoszkiewicz
 1. Mica Eliza Geßner
 1. Micah Anderson
 1. Micah E Scott
