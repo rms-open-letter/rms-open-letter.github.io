@@ -1044,6 +1044,7 @@ Free Software Contributor)
 1. Florian Neumann
 1. Florian Segginger
 1. Frances Hocutt
+1. Francesco Pantano (@fmount, CentOS contributor)
 1. Francisco Castaño (Firefox Support)
 1. Francis Gulotta (Node SerialPort maintainter, Nodebots founding member)
 1. Francois Caen (Former Taclug president)
