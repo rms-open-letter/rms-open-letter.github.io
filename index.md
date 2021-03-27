@@ -2710,6 +2710,7 @@ Free Software Contributor)
 1. Vipul Siddharth (Fedora Project Contributor)
 1. Virgile Ferroukh
 1. Vitor "Krammer" Cardoso
+1. Vitor Hideyoshi Nakazone Batista
 1. Vittorio Roberto Alfieri (`@rebtoor`, FSFE supporter, EFF member)
 1. Vivek Das Mohapatra (Collabora)
 1. Vivia Nikolaidou (GStreamer)
