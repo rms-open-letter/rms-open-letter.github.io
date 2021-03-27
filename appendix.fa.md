@@ -3,10 +3,6 @@ lang: fa
 dir: rtl
 ---
 
-<!-- Generate a rtl environment under non-Jekyll (e.g. GitHub) -->
-{% if false %}
-<div dir="rtl">
-{% endif %}
 
 ریچارد استالمن سابقه بدرفتاری با زنان و ایجاد احساس ناراحتی و ناامنی برایشان را داشته. برای حوادث مربوط به RMS و دانشگاه MIT لطفا <a href="https://selamjie.medium.com/remove-richard-stallman-appendix-a-a7e41e784f88">0</a> را ببینید
 
@@ -37,4 +33,3 @@ dir: rtl
 {% if false %}
 </div>
 {% endif %}
-

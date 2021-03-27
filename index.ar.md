@@ -1,6 +1,5 @@
 ---
 lang: ar
-dir: rtl
 ---
 
 <!-- Generate a rtl environment under non-Jekyll (e.g. GitHub) -->
@@ -26,7 +25,6 @@ _2021-03-23_
 
 للتوقيع يرجى القيام/إرسال digitalautonomy إلى  riseup.net  أو القيام ب
 pull request: https://github.com/rms-open-letter/rms-open-letter.github.io/pulls
-
 
 {% if false %}
 </div>
