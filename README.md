@@ -45,15 +45,9 @@ These translations have been contributed by our community translators. Thanks!
 [ko]: index.ko.md
 [ar]: index.ar.md
 
-Want to contribute? Adding a new language can be done in 3 steps :
+Adding a new language should be done in 3 steps:
 1. Copy `index.md` to `index.xx.md` and translate it.
 2. Copy `appendix.md` to `appendix.xx.md` and translate it.
 3. Add your new translation to `README.md` and `_config.yml`.
 
 _Note: Do not forget to update the link in `index` pointing to the `appendix` translation if you are adding one._
-
-## Contributing :raising_hand:
-
-Please note, issues about technical problems in this repository are welcome. Complaints about the content of the letter are not on topic and will be deleted - there's a lot more places that are more appropriate than opening issues.
-
-Pull requests may be merged in batches. Thanks for your patience!
