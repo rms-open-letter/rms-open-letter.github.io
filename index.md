@@ -476,6 +476,7 @@ Free Software Contributor)
 1. Brian Chen (`betaveros`)
 1. Brian Clapper (@bmc)
 1. Brian Curtin (Fellow at Python Software Foundation, former board member)
+1. Brian D. Carlstrom
 1. Brian Dawn
 1. Brian Heim
 1. Brian Ketelsen
@@ -715,6 +716,7 @@ Free Software Contributor)
 1. Dan Bornstein (@danfuzz)
 1. Dan Cross
 1. Dan "Fennix" Sim
+1. Daniel
 1. Daniel A. Rodriguez (Board of Directors, the Document Foundation)
 1. Daniel Bailey
 1. Daniel Baumann (Debian Developer)
@@ -768,6 +770,7 @@ Free Software Contributor)
 1. Dan Watkins (cloud-init maintainer, Ubuntu developer)
 1. Dan Winship
 1. Dan Yeaw
+1. Darren VanBuren
 1. DaShaun Carter (`@dashaun`)
 1. Davanum Srinivas (TOC, CNCF; Steering, Kubernetes)
 1. Dave Camp (Mozilla, Former GNOME Foundation)
@@ -889,6 +892,7 @@ Free Software Contributor)
 1. Drew Winstel (@drewbrew on GitHub, DjangoCon US 2019 Organizer, Python Software Foundation individual member)
 1. Dr Neil Smith
 1. Duarte Veiga
+1. Dustin Pascoe
 1. Dustin Mitchell (Engineer, Mozilla)
 1. Dylan Baker (Mesa, Meson)
 1. Dylan Graham (Kubernetes)
@@ -954,6 +958,7 @@ Free Software Contributor)
 1. Eric Casteleijn
 1. Eric Dallo (@ericdallo)
 1. Eric Eisenhart (@freiheit)
+1. Pavithra Eswaramoorthy
 1. Eric Freedman Goldhagen (Founding member, Openflows Community Technology Cooperative)
 1. Eric Gisse
 1. Eric Hodel
@@ -966,6 +971,7 @@ Free Software Contributor)
 1. Eric "Sheppy" Shepherd
 1. Eric The IT Guy (Red Hat, Sudo Show)
 1. Eric Unangst
+1. Érico Nogueira (Void Linux maintainer)
 1. Erik Faye-Lund (Collabora, Mesa Developer)
 1. Erik Johnson
 1. Erik Nygren
@@ -1272,6 +1278,7 @@ Free Software Contributor)
 1. Jae Proctor
 1. Jaeon Park
 1. JaeYoon Whang
+1. Jack Aponte (Palante Technology Cooperative, BackdropCMS Project Management Committee, Aspiration Board of Directors)
 1. Jaime Gutiérrez Alfaro
 1. Jaime Zhang (@TomorJM))
 1. Jake Harrison (@GloomyJD)
@@ -1389,6 +1396,8 @@ Free Software Contributor)
 1. Jeremy Whiting (Collabora)
 1. Jeremy Winterberg
 1. J. Eric Ivancich
+1. Jeroen Baert 
+1. Jeroen Van Antwerpen
 1. Jerome Charaoui (Debian Developer, former FSF member)
 1. Jérôme Petazzoni
 1. Jessamyn West (Vermont Mutual Aid Society)
@@ -1415,6 +1424,7 @@ Free Software Contributor)
 1. Jim Hall (FreeDOS Project founder and project coordinator)
 1. Jim Madge
 1. Jim Perrin (CentOS Project, Fedora Project)
+1. Jim Wise (former developer with The NetBSD Foundation and the SBCL project, and a current JD candidate at the CIty University of New York)
 1. Jin Shiiba (`@cyber-gene`)
 1. Jiri Srain (Release Manager SUSE Linux Enterprise)
 1. Joachim Weinbrenner
@@ -1461,8 +1471,10 @@ Free Software Contributor)
 1. John Mark Ockerbloom
 1. John Molakvoæ (skjnldsv)
 1. Johnny Danger Myers
+1. John Murray (MenaceInc)
 1. John Olson
 1. John Reese (The Omnilib Project)
+1. John Regehr
 1. John SJ Anderson
 1. John Slee (@jsleeio)
 1. Johnny Stene
@@ -1644,6 +1656,7 @@ Free Software Contributor)
 1. Kitteh
 1. Koichi SATO (@sekia on GitHub)
 1. Kojo Idrissa (Djangocon US organizer, DEFNA North American Ambassador)
+1. Kokoro Ibaragi
 1. Konrad Geletey (@kogeletey)
 1. Konstantina Papadea
 1. Kosta Harlan
@@ -1661,6 +1674,7 @@ Free Software Contributor)
 1. Kurt Garloff (Sovereign Cloud Stack, Open Infrastructure Foundation BoD)
 1. Kushal Das (Tor Project core team, Python Core developer, Fedora Project contributor)
 1. Kwindla Hultman Kramer
+1. Kyle Agronick
 1. Kyle Kneitinger
 1. Kyle Mitchell
 1. Kyle Riedemann
@@ -1874,7 +1888,9 @@ Free Software Contributor)
 1. Martin Wimpress (Former FSF member)
 1. Martyn Welch (Collabora)
 1. Mason Jones
+1. Matej Fandl
 1. Matheus Fantinel
+1. Matheus Guedes
 1. Mathieu Comandon (Lutris)
 1. Mathieu Gaborit (matael)
 1. Mathieu Lutfy
@@ -1956,6 +1972,7 @@ Free Software Contributor)
 1. Micah E Scott
 1. Micah Lee
 1. Michael Babker (Former Production Department Coordinator for Joomla!/OpenSourceMatters)
+1. Michael Bell
 1. Michael Bikovitsky
 1. Michael B. Klein
 1. Michael Bond (FSF Associate Member)
@@ -2004,11 +2021,12 @@ Free Software Contributor)
 1. Mike Harris
 1. Mike Hawk
 1. Mike Hoye (mhoye, Mozilla)
+1. Mike Johnson (Google employee)
 1. Mike Linksvayer
-1. Mikel Johnson
 1. Mike Olson (Postgres, Berkeley DB, Cloudera)
 1. Mike Patterson
 1. Mike Wyatt
+1. Mikel Johnson
 1. Mikhail Popov (Wikimedia Foundation)
 1. Milan Pässler (Chaos Computer Club, NixOS contributor)
 1. Milkii Brewster (@mxmilkiib)
@@ -2100,6 +2118,7 @@ Free Software Contributor)
 1. Nicolas Fella (KDE)
 1. Nicolas Fleurot
 1. Nicolás Javier Salazar Echeverry
+1. Nicolas M.
 1. Nicolas Machado
 1. Nicolás `nomeacuerdo` Arteaga
 1. Nicolas Schier (Debian maintainer)
@@ -2272,8 +2291,10 @@ Free Software Contributor)
 1. Pradyun Gedam
 1. Pranav Teegavarapu
 1. Pranshu Srivastava (Red Hat, Node.js Collaborator, Public Lab)
+1. Pavithra Eswaramoorthy (Bokeh)
 1. Priit Laes (`@plaes`)
 1. Protodrew
+1. Putan Gina
 1. Quentin Minster
 1. Rachel Chalmers (boardmember, The Ada Initiative)
 1. Rachel Domagalski
@@ -2304,13 +2325,13 @@ Free Software Contributor)
 1. Reed Loden
 1. Reese Rivers (@Fussmatte)
 1. Reese "xsychoreese" Todd
+1. Rei de Vries
 1. Rémi Lauzier
 1. Rémi Verschelde (Godot Engine, Mageia)
 1. Rémy Grünblatt
 1. Renata Rocha
 1. Renato Botelho (FreeBSD developer)
 1. Renaud Lepage
-1. René Ladan (FreeBSD Developer)
 1. Reuben Morais
 1. Reynir Björnsson
 1. Rhea Myers (libre.fm, former Chief GNU Webmaster)
@@ -2497,6 +2518,7 @@ Free Software Contributor)
 1. Sean McGinnis
 1. Sean O'Brien
 1. seb1g
+1. Sebastiaan Janssen
 1. Sebastian Behrens
 1. Sebastian Dröge (GStreamer, GNOME, Debian)
 1. Sebastian Kügler (KDE)
@@ -2613,6 +2635,7 @@ Free Software Contributor)
 1. Steve Pomeroy
 1. Steve Widinghoff
 1. Stew O'Connor (former Debian developer, former freenode staff)
+1. stick
 1. Stig Sandbeck Mathisen (Debian Developer)
 1. Stuart Auld
 1. Stuart A Yeates (former OSS Watch staffer)
