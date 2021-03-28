@@ -10,4 +10,4 @@ Wzywamy tych, którzy są w stanie to zrobić, do zaprzestania wspierania fundac
 
 [Opisaliśmy szczegółowo kilka publicznych incydentów z zachowaniem RMS](https://rms-open-letter.github.io/appendix). Niektórzy z nas mają własne historie na temat RMS i naszych interakcji z nim, rzeczy, które nie są uchwycone w e-mailach ani na plikach wideo. Mamy nadzieję, że przeczytasz, co zostało udostępnione i weźmiesz pod uwagę szkody, jakie wyrządził naszej społeczności i innym.
 
-Aby podpisać się, wyślij e-mail do digitalautonomy małpa riseup.net lub [prześlij pull request](https://github.com/rms-open-letter/rms-open-letter.github.io/pulls).
+Aby podpisać się, wyślij e-mail do digitalautonomy małpa riseup.net.
