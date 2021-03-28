@@ -199,6 +199,7 @@ Free Software Contributor)
 1. Alex Arslan (Julia contributor, former Julia community manager)
 1. Alex Brown
 1. Alex Callejas
+1. Alex Culliereiu
 1. Alex Desmond
 1. Alex Engelberg
 1. Alexis Danz
@@ -263,6 +264,7 @@ Free Software Contributor)
 1. Andrea Aranda
 1. Andrea Denisse Gómez-Martínez (Arch Linux, i3blocks maintainer)
 1. André Almeida (Collabora)
+1. Andrés Ricardo Garza Vela
 1. Andreas Basurto (@nitrohorse)
 1. Andreas Beger
 1. Andreas Drewke
@@ -528,6 +530,7 @@ Free Software Contributor)
 1. Camila Ayres (@camilasan, Nextcloud)
 1. Camilo Soto `tucane47`
 1. Cam Tenny (Igalia)
+1. Cameron Dugan
 1. Capi Etheriel
 1. Cara Esten Hurtle
 1. Carina C. Zona (CallbackWomen)
@@ -840,6 +843,7 @@ Free Software Contributor)
 1. Deb Goodkin
 1. Delan Azabani (Igalia)
 1. Denis Evsyukov
+1. Denis Roy
 1. Deniz Akşimşek
 1. Dennis Schubert (Mozilla, former diaspora\* maintainer)
 1. Derek Kozel (GNU Radio President)
@@ -898,8 +902,9 @@ Free Software Contributor)
 1. Drew Fisher
 1. Drew Marjorie Uhlmann (@d-m-u)
 1. Drew Winstel (@drewbrew on GitHub, DjangoCon US 2019 Organizer, Python Software Foundation individual member)
-1. Dr Neil Smith
+1. Dr. Neil Smith
 1. Duarte Veiga
+1. Duncan Overbruck (@duncaen, Void Linux developer)
 1. Dustin Pascoe
 1. Dustin Mitchell (Engineer, Mozilla)
 1. Dylan Baker (Mesa, Meson)
@@ -1072,6 +1077,7 @@ Free Software Contributor)
 1. François Pelletier (President of LinuQ, Executive at FACiL, pour l'appropriation collective de l'informatique libre)
 1. Frank Louwers
 1. Frank S. Thomas
+1. Frank Schimmel (Cologne University of Applied Sciences)
 1. Frank Wong ( @frankofsandiego )
 1. Frederic Branczyk (Kubernetes SIG Instrumentation Tech Lead, Prometheus maintainer, Thanos maintainer)
 1. Frédéric Harper (Director of Developer Relations at MeiliSearch)
@@ -1138,6 +1144,7 @@ Free Software Contributor)
 1. Giovanni Campagna (former GNOME contributor)
 1. Giovanni Pellerano (GlobaLeaks Lead Developer)
 1. Giuseppe Lavagetto
+1. Giuseppe Sacco (Debian Developer)
 1. GlitchyPSI (@GlitchyPSIX)
 1. Gökay Şatır (Collabora)
 1. Göktuğ Kayaalp
@@ -2042,6 +2049,7 @@ Free Software Contributor)
 1. Mike Wyatt
 1. Mikel Johnson
 1. Mikhail Popov (Wikimedia Foundation)
+1. mikwee
 1. Milan Pässler (Chaos Computer Club, NixOS contributor)
 1. Milkii Brewster (@mxmilkiib)
 1. Milo Casagrande
@@ -2620,6 +2628,7 @@ Free Software Contributor)
 1. Stefan Schindler
 1. Stefan T. Peters
 1. Stefan Weiberg (Technical Projectmanager SUSE Linux Enterprise)
+1. Steinar Gunderson
 1. Stelios Milidonis (Collabora)
 1. Stemy (amateur independent self-host)
 1. Stephan Barth (Technical Project Manager for Maintenance, SUSE)
@@ -2684,6 +2693,7 @@ Free Software Contributor)
 1. Tasos Latsas
 1. tastytea
 1. Ted Mielczarek (@luser, formerly Mozilla)
+1. Tegan-Jean Hillman
 1. Teor
 1. Teo Schulze
 1. Thaddée Tyl
@@ -2731,6 +2741,7 @@ Free Software Contributor)
 1. Timothy C. Quinn
 1. Tim Pierce (former GNU Guile contributor)
 1. Tim Weber (`scy`)
+1. Tinerion
 1. Tiphaine Viard (Associate professor, Telecom Paris)
 1. t. Macleod Sawyer (Founder & CEO of DNX Robotics, `@macleodsawyerms` && `@drannex42`)
 1. Tobia Alberti (creator of Precisely Private)
