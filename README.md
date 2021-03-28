@@ -45,6 +45,8 @@ These translations have been contributed by our community translators. Thanks!
 [ko]: index.ko.md
 [ar]: index.ar.md
 
+### How to add a translation
+
 Adding a new language should be done in 3 steps:
 1. Copy `index.md` to `index.xx.md` and translate it.
 2. Copy `appendix.md` to `appendix.xx.md` and translate it.
