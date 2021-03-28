@@ -340,6 +340,7 @@ Free Software Contributor)
 1. April Hyacinth (Scala maintainer)
 1. April Moh
 1. Ara Pulido
+1. Aran Menzies
 1. Argel Ramírez Reyes (UC Davis)
 1. Aria Buckles
 1. Ariadne Conill (Alpine Developer, pkgconf)
@@ -447,6 +448,7 @@ Free Software Contributor)
 1. Bob Halloran
 1. Bob Killen (Kubernetes Steering Committee Member)
 1. Bob Murphy (12 year associate member)
+1. Bobby Powers
 1. Bonnie King
 1. Brad Crittenden
 1. Brad Geesaman
@@ -547,6 +549,7 @@ Free Software Contributor)
 1. Cassidy James Blaede (elementary co-founder, GNOME Foundation member)
 1. Cassidy Kattler
 1. Catherine D'Ignazio
+1. Catherine De Mesa (@CatieSai, Trill Project, OHUB Scholar 2021)
 1. Catherine Stihler (CEO, Creative Commons)
 1. Cathy Warner
 1. Cedric Kienzler
@@ -671,6 +674,7 @@ Free Software Contributor)
 1. Colin Ian King
 1. Colin Mahns (former FSF member)
 1. Colin O'Brien
+1. Colin Polk
 1. Colin Seiler
 1. Colin Tuckley
 1. Colin Watson (Former Debian Technical Committee member)
@@ -746,6 +750,7 @@ Free Software Contributor)
 1. Daniel Soskel
 1. Daniel Srb
 1. Daniel Stone (Collabora, freedesktop.org, Wayland)
+1. Daniel T. Borelli (@daltomi)
 1. Dan Jacka
 1. Dan Leinir Turthra Jensen (kde contributor)
 1. Dan Lyke
@@ -901,6 +906,7 @@ Free Software Contributor)
 1. Eduardo Pacheco
 1. Eduardo Terrell Ferrari Otubo
 1. Eduard Tolosa (@edu4rdshl - BlackArch Linux and Nspawn.org developer, findomain.app founder)
+1. Edward Charles Bailey
 1. Edward Garbade
 1. Edward L. Platt (i3 Detroit cofounder, NetworkX contributor)
 1. Ee Durbin (PyPI Administrator)
@@ -935,6 +941,7 @@ Free Software Contributor)
 1. Emma Best (Distributed Denial of Secrets)
 1. Emma Mulqueeny OBE
 1. Emmanuele Bassi (GNOME Foundation)
+1. Emmanuel Fétille (agu3l)
 1. Emmanuel Large
 1. Emma Vargas (@4PERTURE on GitHub)
 1. Em Morales
@@ -1385,6 +1392,7 @@ Free Software Contributor)
 1. Jerome Charaoui (Debian Developer, former FSF member)
 1. Jérôme Petazzoni
 1. Jessamyn West (Vermont Mutual Aid Society)
+1. Jesse Anger
 1. Jesse Clark
 1. Jesse Cooke
 1. Jesse Hamner
@@ -1422,6 +1430,7 @@ Free Software Contributor)
 1. Joe Bowser
 1. Joe Brockmeier
 1. Joe Carpinelli
+1. Joe Decker
 1. Joe Garcia (CyberArk Software, @infamousjoeg)
 1. Joe Harley
 1. Joe Julian
@@ -1565,6 +1574,7 @@ Free Software Contributor)
 1. Justin Rush (aka prasket)
 1. Justin Wake
 1. Justin W. Flory (UNICEF, Fedora Project D&I Advisor)
+1. K.P.
 1. Kai McCormick (Devrim.Tech)
 1. Kai Ninomiya (Google LLC, W3C editor)
 1. Kaleb Alves
@@ -1740,8 +1750,10 @@ Free Software Contributor)
 1. Lucy Wyman
 1. Ludovic Gasc
 1. Ludvig Norgren Guldhag
+1. Luigi Mirabella
 1. Luis Antonio Sánchez Romero
 1. Luis Arruda
+1. Luis Gonzalo Aller Arias (Co-organizer of Gran Canaria Desktop Summit in 2009)
 1. Luis Lavaire (Nitrux developer)
 1. Luis Martin Schick
 1. Luiz Irber
@@ -1796,6 +1808,7 @@ Free Software Contributor)
 1. Manuel González
 1. Manuel Spitschan (University of Oxford)
 1. Manuel Uberti
+1. Manuela Tricoli
 1. Marc-Antoine `Keruspe` Perennou (Exherbo)
 1. Marcantonio Rendino
 1. Marcela Tiznado
@@ -1890,6 +1903,7 @@ Free Software Contributor)
 1. Matthew Stedman
 1. Matthew Stone
 1. Matthew S. Wilson (former contributor GNU Image Manipulation Program and GNU Parted, former Director, Software Freedom Conservancy)
+1. Matthew D. Hughes
 1. Matthew Venn
 1. Matthew Vernon (Debian developer)
 1. Matthew Westcott (`gasman`, Wagtail CMS maintainer)
@@ -1961,6 +1975,7 @@ Free Software Contributor)
 1. Michael Lingelbach (Neovim, NixOS contributor)
 1. Michael Mattsson (@datamattsson)
 1. Michael `mythmon` Cooper (Mozilla developer)
+1. Michael Moran
 1. Michael `NCommander` Casadevall (Ubuntu Core Developer, former Debian Developer, former FSF Savannah Administrator)
 1. Michael `nolski` Nolan
 1. Michael Ossmann
@@ -2069,6 +2084,7 @@ Free Software Contributor)
 1. Nick Gerace (Software Engineer at SUSE and Rancher Labs)
 1. Nick Guenther
 1. Nick Mathewson (Co-founder, Tor Project)
+1. Nick Moffitt
 1. Nick Morrott (Debian Developer, STEM Ambassador, Code Club volunteer)
 1. Nick Pettazzoni
 1. Nick Richards
@@ -2257,6 +2273,7 @@ Free Software Contributor)
 1. Pranav Teegavarapu
 1. Pranshu Srivastava (Red Hat, Node.js Collaborator, Public Lab)
 1. Priit Laes (`@plaes`)
+1. Protodrew
 1. Quentin Minster
 1. Rachel Chalmers (boardmember, The Ada Initiative)
 1. Rachel Domagalski
@@ -2385,6 +2402,7 @@ Free Software Contributor)
 1. Russell Keith-Magee (@freakboy3742; former President, Django Software Foundation; Founder, BeeWare Project)
 1. Rute Correia
 1. Ryan A. Pavlik (Collabora, Monado Co-Founder, OpenXR Spec Editor)
+1. Ryan Addessi
 1. Ryan Castellucci (@ryancdotorg, former LUGOD officer)
 1. Ryan C. Cooper (@cooperrc)
 1. Ryan Clark
@@ -2429,11 +2447,12 @@ Free Software Contributor)
 1. Sam Shrum
 1. Sam Sidler (10up, WordPress, former Mozilla)
 1. Sam Tobin-Hochstadt
+1. Sam van der Kris
+1. Samer Hassan (Berkman Klein Center at Harvard University, UCM, P2P Models)
 1. Samuel Henrique (Debian Developer)
 1. Samuel Karp
 1. Samuel Rüegger
 1. Samuel Scheiderich
-1. Sam van der Kris
 1. Sander Steffann (@sjmsteffann / sjms)
 1. Sander van der Waal (Waag)
 1. Sanders Lauture
@@ -2465,6 +2484,7 @@ Free Software Contributor)
 1. Saya
 1. Sayan Chowdhury (@yudocaa)
 1. Scott Hain
+1. Scott Hanselman
 1. Scott Leggett (Debian Maintainer)
 1. Scott Martin
 1. Scott Randby
@@ -2726,6 +2746,7 @@ Free Software Contributor)
 1. Tyler J. Russell (@Nytelife26, founder and acting director of Kludge Cyber Systems)
 1. Tyrel Souza
 1. u/IAmKindOfCreative
+1. u/Im__Joseph
 1. Ujjwal Sharma (Node.js Core Collaborator, TC39, Igalia)
 1. Ulrike Uhlig (Debian Developer)
 1. Ursula Junque (Ubuntu member)
@@ -2764,7 +2785,6 @@ Free Software Contributor)
 1. Vivia Nikolaidou (GStreamer)
 1. Vivian Lim (Microsoft)
 1. Vladimir Cortés
-1. void witch
 1. Volkan Yazıcı (Apache Logging Services PMC)
 1. Vyivel
 1. Ward Vandewege (Former FSF staff and FSF member)
@@ -2787,6 +2807,7 @@ Free Software Contributor)
 1. William Denton
 1. William D. Jones (`cr1901`)
 1. William Gathoye (Collabora)
+1. William Horst-Kotter Jr
 1. William Kroes
 1. William Light (@wrl)
 1. William Orr (@worr)
