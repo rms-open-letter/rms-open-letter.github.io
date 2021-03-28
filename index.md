@@ -2253,7 +2253,6 @@ Free Software Contributor)
 1. Peter Hutterer
 1. Peter Jones (Fedora developer)
 1. Peter K. G. Williams (`@pkgw`)
-1. Peter Ludikovsky
 1. Peter Robinson (Fedora developer, former Fedora Board and Council member)
 1. Peter Sharpe (@peterdsharpe)
 1. Peter Squicciarini (`@stripedpajamas`; Flossbank, VSCodium)
