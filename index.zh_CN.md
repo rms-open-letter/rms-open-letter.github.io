@@ -6,7 +6,7 @@ share_text: 我支持公开信呼吁，要求自由软件基金会董事全体�
 lang: zh-Hans-CN
 ---
 
-# 要求撤除理查德·M·斯托曼所有领导职务的公开信
+## 要求撤除理查德·M·斯托曼所有领导职务的公开信
 
 {% include share-links.html %}
 
