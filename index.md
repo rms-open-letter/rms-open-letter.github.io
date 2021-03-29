@@ -2699,7 +2699,7 @@ Free Software Contributor)
 1. TheEpicBlock
 1. TheEssem
 1. TheEvilSkeleton
-1. Théodore Biadala
+1. Théodore Biadala (Drupal maintainer)
 1. Theodor Tollersrud
 1. Theo Schlossnagle
 1. TheSpiritingPoet
