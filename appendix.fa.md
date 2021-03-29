@@ -30,6 +30,3 @@ dir: rtl
 
 <a href="https://rms-open-letter.github.io/index.fa">[برگشت به صفحه اصلی]</a>
 
-{% if false %}
-</div>
-{% endif %}

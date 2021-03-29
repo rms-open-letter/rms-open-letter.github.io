@@ -2,10 +2,6 @@
 lang: fa
 ---
 
-<!-- Generate a rtl environment under non-Jekyll (e.g. GitHub) -->
-{% if false %}
-<div dir="rtl">
-{% endif %}
 
 _2021-03-23_
 
@@ -23,6 +19,3 @@ _2021-03-23_
 
 برای امضا زدن، لطفا به digitalautonomy at riseup.net ایمیل ارسال کنید یا اینکه <a href="https://github.com/rms-open-letter/rms-open-letter.github.io/pulls">یک Pull request ارائه دهید.</a>
 
-{% if false %}
-</div>
-{% endif %}
