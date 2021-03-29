@@ -16,6 +16,7 @@ These translations have been contributed by our community translators. Thanks!
 - [Spanish][es]
 - [Turkish][tr]
 - [German][de]
+- [Danish][da]
 - [Polish][pl]
 - [Italian][it]
 - [Russian][ru]
@@ -33,6 +34,7 @@ These translations have been contributed by our community translators. Thanks!
 [es]: index.es.md
 [tr]: index.tr.md
 [de]: index.de.md
+[da]: index.da.md
 [pl]: index.pl.md
 [it]: index.it.md
 [ru]: index.ru.md

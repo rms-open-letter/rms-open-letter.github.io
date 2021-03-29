@@ -12,6 +12,8 @@ languages:
     code: "ga"
   - name: "German"
     code: "de"
+  - name: "Danish"
+    code: "da"
   - name: "Italian"
     code: "it"
   - name: "Japanese"
