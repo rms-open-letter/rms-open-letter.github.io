@@ -1999,7 +1999,6 @@ Free Software Contributor)
 1. Michael Bond (FSF Associate Member)
 1. Michael Carbone (Qubes OS)
 1. Michael Chunko
-1. Michael Dexter
 1. Michael Downey (United Nations Foundation)
 1. Michael Gat
 1. Michael Hoffmann
