@@ -351,7 +351,7 @@ Free Software Contributor)
 1. Argel Ramírez Reyes (UC Davis)
 1. Aria Buckles
 1. Ariadne Conill (Alpine Developer, pkgconf)
-1. Arian Ardeshiri 
+1. Arian Ardeshiri
 1. Ariela Wenner
 1. Arnaud Dupuis
 1. Arnav Jindal (aka Daggy1234, founder DaggyTech)
@@ -394,7 +394,7 @@ Free Software Contributor)
 1. Baptiste Fontaine
 1. Barnaby Wilks
 1. Barret Rennie (Mozilla)
-1. Basile Starynkevitch    
+1. Basile Starynkevitch
 1. Bassam Kurdali
 1. Bastien Nocera (Former director, GNOME Foundation)
 1. Behdad Esfahbod (Former director / president, GNOME Foundation)
@@ -625,7 +625,7 @@ Free Software Contributor)
 1. Christian Brauner (Linux Kernel Hacker, LXC maintainer)
 1. Christian Brunschen
 1. Christian Buhtz
-1. Christian Dose 
+1. Christian Dose
 1. Christian Glombek (Fedora Project contributor)
 1. Christian Grobmeier (Open Source contributor and author of _The Zen Programmer_)
 1. Christian “haseHH” Hase
@@ -711,7 +711,7 @@ Free Software Contributor)
 1. Cor Nouws (Collabora Productivity Marketing Lead)
 1. Cory DeVore
 1. Courtney Thurston (former Spark distro dev)
-1. Craig Maloney 
+1. Craig Maloney
 1. cricket c. piapiac
 1. Cristóbal Palmer (ibiblio.org)
 1. crt0mega
@@ -1430,7 +1430,7 @@ Free Software Contributor)
 1. Jeremy Whiting (Collabora)
 1. Jeremy Winterberg
 1. J. Eric Ivancich
-1. Jeroen Baert 
+1. Jeroen Baert
 1. Jeroen Van Antwerpen
 1. Jerome Charaoui (Debian Developer, former FSF member)
 1. Jérôme Petazzoni

@@ -3,7 +3,6 @@ lang: fa
 dir: rtl
 ---
 
-
 ریچارد استالمن سابقه بدرفتاری با زنان و ایجاد احساس ناراحتی و ناامنی برایشان را داشته. برای حوادث مربوط به RMS و دانشگاه MIT لطفا <a href="https://selamjie.medium.com/remove-richard-stallman-appendix-a-a7e41e784f88">0</a> را ببینید
 
 دیدگاه های RMS درباره قوانین مربوط به تجاوز و روابط جنسی میان کودکان در پائیز 2019 (1398) به طور عمومی بحث شده، وقتی که Selam G درباره آنها نوشت. <a href="https://web.archive.org/web/20210325013429/https://selamjie.medium.com/remove-richard-stallman-fec6ec210794">1</a> مخصوصا وقتی مأیوس کننده است که استالمن از یکی از موارد تجاوز جنسی توسط ماروین مینسکی به یکی از قربانیان قاچاق انسان جفری اپستین (Virginia Giuffre) اینگونه یاد می‌کند: "محتمل ترین سناریو این است که خودش (قربانی) کاملا موافق بوده.".<a href="https://web.archive.org/web/20210325013629/https://www.vice.com/en/article/9ke3ke/famed-computer-scientist-richard-stallman-described-epstein-victims-as-entirely-willing">2</a>
@@ -29,4 +28,3 @@ dir: rtl
 در صفحه اصلی وبسایتش جمله "'They' جمع است - برای اشخاص مفرد، از ضمایر مفرد و خنثی‌جنس استفاده کنید."<a href="https://web.archive.org/web/20210325014851/https://stallman.org/">17</a>
 
 <a href="https://rms-open-letter.github.io/index.fa">[برگشت به صفحه اصلی]</a>
-

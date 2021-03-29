@@ -41,4 +41,3 @@ RMS lleva años en una campaña contra el uso de los pronombres correctos de las
 [Volver a la pagina principal][18]
 
 [18]: https://rms-open-letter.github.io/index.es
-

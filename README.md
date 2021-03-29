@@ -1,4 +1,3 @@
-
 Thanks for volunteering to sign this open letter!
 
 ## How to sign :memo:
@@ -48,6 +47,7 @@ These translations have been contributed by our community translators. Thanks!
 ### How to add a translation
 
 Adding a new language should be done in 3 steps:
+
 1. Copy `index.md` to `index.xx.md` and translate it.
 2. Copy `appendix.md` to `appendix.xx.md` and translate it.
 3. Add your new translation to `README.md` and `_config.yml`.
