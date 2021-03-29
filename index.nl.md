@@ -1,3 +1,7 @@
+---
+lang: nl
+---
+
 *2021-03-25*
 
 Richard M. Stallman (ook bekend onder zijn initialen RMS) is al lange tijd een gevaar in de vrije softwaregemeenschap. Hij heeft laten zien dat hij naast ernstige beschuldigingen van ongepastheid, een vrouwenhater, validist en transfoob is. Dit soort overtuigingen horen niet thuis in de vrije software, de digitale rechten en technische gemeenschappen. Naar aanleiding van zijn recente herplaatsing in de Raad van Bestuur van de Free Software Foundation roepen wij de hele raad van de FSF op om af te treden, en om RMS uit alle leidinggevende posities te ontslaan.

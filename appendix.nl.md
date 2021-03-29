@@ -1,3 +1,7 @@
+---
+lang: nl
+---
+
 RMS heeft jarenlang vrouwen verkeerd behandeld en hun een ongemakkelijk, onveilig en onwelkom gevoel gegeven. Zie [0] (in het Engels) voor incidenten met betrekking tot RMS en MIT.
 
 [0]: https://selamjie.medium.com/remove-richard-stallman-appendix-a-a7e41e784f88

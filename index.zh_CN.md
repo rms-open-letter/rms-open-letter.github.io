@@ -3,6 +3,7 @@ image: /assets/og-image.png
 twitter:
   card: summary_large_image
 share_text: 我支持公开信呼吁，要求自由软件基金会董事全体下台并要求撤除RMS所有领导职务。
+lang: zh-Hans-CN
 ---
 
 # 要求撤除理查德·M·斯托曼所有领导职务的公开信

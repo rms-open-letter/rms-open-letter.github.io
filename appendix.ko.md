@@ -1,3 +1,7 @@
+---
+lang: ko
+---
+
 RMS는 오랫동안 여성혐오적 언동으로 그들에게 불편함, 불안감 및 소외감을 주었습니다. RMS와 MIT에 관한 사건사고에 대해서는 [0]을 참조해 주세요.
 
 [0]: https://selamjie.medium.com/remove-richard-stallman-appendix-a-a7e41e784f88

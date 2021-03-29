@@ -1,3 +1,7 @@
+---
+lang: pt-BR
+---
+
 *2021-03-25*
 
 Richard M. Stallman, popularmente conhecido como RMS, tem sido uma influência perigosa na comunidade de software livre por muito tempo. Ele tem se demonstrado misógino, transfóbico e discriminatório contra pessoas com incapacidades, entre outras sérias acusações de comportamentos imprórios, atitudes essas que não têm lugar nas comunidades de software livre, direitos digitais e de tecnologia. Com seu recente retorno ao Conselho Administrativo da Free Software Foundation, clamamos para que a totalidade do Conselho renuncie e que RMS seja removido de todas as posições de liderança.

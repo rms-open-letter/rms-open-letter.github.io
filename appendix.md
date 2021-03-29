@@ -1,3 +1,7 @@
+---
+lang: en
+---
+
 RMS has a history of mistreating women and making them feel uncomfortable, unsafe, and unwelcome. For incidents relating to RMS and MIT, please see [0].
 
 [0]: https://selamjie.medium.com/remove-richard-stallman-appendix-a-a7e41e784f88
