@@ -63,6 +63,7 @@ Signed,
 1. Dot HQ
 1. Echap
 1. Exherbo Linux
+1. Exodus Privacy
 1. Fivnex
 1. Freedom of the Press Foundation
 1. The FreeDOS Project
@@ -143,6 +144,7 @@ Free Software Contributor)
 1. Adam Reichold
 1. Adam Salt (Cob:web Development)
 1. Adam Schmackpfeffer
+1. Adam Schmalhofer (FSFE supporter)
 1. Adam W. Meek
 1. Adarsh K Kumar
 1. Ada Worcester (`pikhq`; former Sabotage Linux developer)
@@ -391,6 +393,7 @@ Free Software Contributor)
 1. Baptiste Fontaine
 1. Barnaby Wilks
 1. Barret Rennie (Mozilla)
+1. Basile Starynkevitch    
 1. Bassam Kurdali
 1. Bastien Nocera (Former director, GNOME Foundation)
 1. Behdad Esfahbod (Former director / president, GNOME Foundation)
@@ -410,6 +413,7 @@ Free Software Contributor)
 1. Benjamin De Kosnik
 1. Benjamin Elder (Kubernetes SIG Testing Chair)
 1. Benjamin Flesch
+1. Benjamin Gruenbaum (Node.js core collaborator, open source maintainer)
 1. Benjamin Kampmann
 1. Benjamin Ragan-Kelley (Project Jupyter)
 1. Benjamin Torell (OBS Project)
@@ -963,6 +967,7 @@ Free Software Contributor)
 1. Emma Vargas (@4PERTURE on GitHub)
 1. Em Morales
 1. Enio Gemmo (LibreItalia Chairman)
+1. Enric Balletbo i Serra (Collabora)
 1. Enrico Zini (Debian Developer)
 1. Enno Boland
 1. Enum Cohrs
@@ -1068,6 +1073,7 @@ Free Software Contributor)
 1. Florian Neumann
 1. Florian Segginger
 1. Frances Hocutt
+1. Francesco Berni
 1. Francesco Pantano (@fmount, CentOS contributor)
 1. Francisco Castaño (Firefox Support)
 1. Francis Gulotta (Node SerialPort maintainter, Nodebots founding member)
@@ -1152,6 +1158,7 @@ Free Software Contributor)
 1. Gordon Stratton
 1. Graham Christensen (NixOS contributor)
 1. Graham Freeman
+1. Graham Markall
 1. Graham Sutherland
 1. Grant Seltzer Richman
 1. Graydon Hoare (former Rust project lead)
@@ -1165,6 +1172,7 @@ Free Software Contributor)
 1. Gregory Grebe
 1. Gregory Smith (PostgreSQL, Crunchy Data)
 1. Grigorios Mingas (Research Data Scientist)
+1. Guido Günther (Debian, GNOME)
 1. Guido Panebianco
 1. Guilhem Moulin (Debian Developer)
 1. Guillaume Bernard (@guilieb)
@@ -1188,6 +1196,7 @@ Free Software Contributor)
 1. Guy Lunardi (Collabora)
 1. Guy Templeton (Kubernetes SIG Autoscaling Chair)
 1. Gwyn
+1. H. Karahan Buhan
 1. Haelwenn (`lanodan`) Monnier (Pleroma maintainer, Gentoo contributor)
 1. Haïkel Guémar (Fedora Project, former Board and Fesco member)
 1. Halla Rempt (maintainer of Krita)
@@ -1235,6 +1244,7 @@ Free Software Contributor)
 1. Hubert Figuière
 1. Hubert K. Lee
 1. Hugh Campbell
+1. Hugo Beauzée-Luyssen (VLC developer)
 1. Hugo Blom
 1. Hypolite Petovan (Friendica Developer)
 1. Iain Nicol
@@ -1697,6 +1707,7 @@ Free Software Contributor)
 1. Kyle Mitchell
 1. Kyle Riedemann
 1. Kyle Robbertze (Debian Developer)
+1. Kyuhong Byun (변규홍, `@combacsa` on github)
 1. Lacey Williams Henschel (former conference chair of DjangoCon US)
 1. Lachlan Campbell
 1. Lætitia Avrot (PostgreSQL contributor, Postgres Women co-founder)
@@ -1805,6 +1816,7 @@ Free Software Contributor)
 1. Lulu Cathrinus "erkin" Grimalkin
 1. Luna Catkins (`LunarLambda`)
 1. Luna Duclos
+1. Luna Nielsen (Twitter: @LunaFoxgirlVT, Glimpse Image Editor Project, Inochi2D Project)
 1. Lunar (ex-Debian, ex-Tor, ex-reproducible-builds.org, Nos Oignons, La Dérivation)
 1. Lupe Canaviri
 1. Lup Yuen Lee
@@ -1836,6 +1848,7 @@ Free Software Contributor)
 1. Mandy Henk
 1. Mano Marks
 1. Manuel Bergler
+1. Manuel Bovo
 1. Manuel Genovés (GNOME)
 1. Manuel González
 1. Manuel Sánchez (Manu343726)
@@ -1850,6 +1863,7 @@ Free Software Contributor)
 1. Marcelo Fontenele
 1. Marcelo Teider Lopes
 1. Marcin Konowalczyk (they/them, University of Oxford)
+1. Marco Aurélio Bomfim
 1. Marco Benatto
 1. Marco 'eukara' Hladik
 1. Marco Matos (Blockchain Director & Cloud Architect at 23 Bulbs)
@@ -2230,6 +2244,7 @@ Free Software Contributor)
 1. Patrick Schoenfeld (former Debian Developer)
 1. Patrick Wu (Ubuntu developer)
 1. Patric Mueller (NetHack DevTeam member)
+1. Patrik Perkovic
 1. Patryk Nogaś (@PatrykNog)
 1. Paul Adams
 1. Paula de la Hoz Garrido (Interferencias association president and cofounder)
@@ -2247,6 +2262,7 @@ Free Software Contributor)
 1. Paulo Jorge de Oliveira Cantante de Matos (`pmatos`)
 1. Paul Oldham
 1. Paulo Pinto
+1. Paul Smyth (Senior DevOps Engineer)
 1. Paul Tagliamonte (Debian Developer and Former Director of the Open Source Initiative)
 1. Paul Visscher (former GNU chief webmaster)
 1. Paul Wackerow
@@ -2545,6 +2561,7 @@ Free Software Contributor)
 1. Sebastian Kügler (KDE)
 1. Sebastián Monía
 1. Sebastian Ramacher (Debian Developer)
+1. Sebastian Riedel (Mojolicious, Perl Foundation, SUSE)
 1. Sebastian Spaeth (@spaetz)
 1. Sebastian Stauch (@sebidude)
 1. Sébastien Lemaire
@@ -2562,6 +2579,7 @@ Free Software Contributor)
 1. Seth Tisue
 1. Seunguk Lee
 1. Seung-hyeon Hyeon (@loudcolour)
+1. Semyon Apoikov
 1. Shadi Alostaz
 1. Shane Coughlan
 1. Shane Curcuru (Punderthings Consulting)
@@ -2624,6 +2642,7 @@ Free Software Contributor)
 1. Stefan Kramer
 1. Stefan Moosbrugger
 1. Stefan Schindler
+1. Stefan Smietanowski
 1. Stefan T. Peters
 1. Stefan Weiberg (Technical Projectmanager SUSE Linux Enterprise)
 1. Steinar Gunderson
@@ -2767,6 +2786,7 @@ Free Software Contributor)
 1. Tony Eom
 1. Tony Richards
 1. Ton Sebro
+1. Toni Prug
 1. Topi Kettunen
 1. Tor Lillqvist (Collabora)
 1. tpdcl
@@ -2832,6 +2852,7 @@ Free Software Contributor)
 1. Vivia Nikolaidou (GStreamer)
 1. Vivian Lim (Microsoft)
 1. Vladimir Cortés
+1. Владлена Сосихуиловна (@vladlenasossi)
 1. Volkan Yazıcı (Apache Logging Services PMC)
 1. Vyivel
 1. Ward Vandewege (Former FSF staff and FSF member)
