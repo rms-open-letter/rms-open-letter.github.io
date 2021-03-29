@@ -1012,7 +1012,6 @@ Free Software Contributor)
 1. Evan Brown
 1. Evan Colvin
 1. Evangelos Paterakis
-1. Evangelos Ribeiro Tzaras
 1. Evan Hirsh
 1. Evan Hunt (BIND maintainer, ISC)
 1. Evan Light
