@@ -95,6 +95,7 @@ Signed,
 1. SUSE
 1. SumoStack
 1. TEN7
+1. The Linux Experiment
 1. Tor Project
 1. Velvetyne – Libre and Open Source Foundry
 1. wiquaya.org
@@ -263,6 +264,7 @@ Free Software Contributor)
 1. Ananya Cleetus (@ananyacleetus)
 1. Ana Rute Mendes (Collabora)
 1. Anastasia Papakosta
+1. Anders Cornell
 1. Andrea Aranda
 1. Andrea Denisse Gómez-Martínez (Arch Linux, i3blocks maintainer)
 1. André Almeida (Collabora)
@@ -447,6 +449,7 @@ Free Software Contributor)
 1. Bill Budington (EFF Sr. Staff Technologist, LibrePlanet 2021 Presenter, signed in personal capacity)
 1. Bill Mulligan
 1. Bill Nottingham (Ansible, Red Hat)
+1. Billy Korando
 1. Billy Messenger (member of the RustyDAW group)
 1. Birger Schacht (Debian Developer)
 1. Bjoern Michaelsen (former the Document Foundation director, LibreOffice developer)
@@ -469,6 +472,7 @@ Free Software Contributor)
 1. Brandon Butler
 1. Brandon Dimcheff
 1. Brandon Frohs (@0b10011)
+1. Brandon Heck
 1. Bread Man
 1. Brendan Abolivier (Matrix Developer)
 1. Brendan Hickey
@@ -833,6 +837,7 @@ Free Software Contributor)
 1. David Picard
 1. David Planella
 1. David Prévot (Debian Member, Globenet President)
+1. David Rasch
 1. David Reid
 1. David Revoy (Pepper&Carrot)
 1. David Rodríguez (@davidjguru, Drupal developer and FLOSS contributor)
@@ -1150,6 +1155,7 @@ Free Software Contributor)
 1. Gianluca Bine
 1. Gianni Ceccarelli
 1. Gil Forcada Codinachs
+1. Giles Cope
 1. gimbar
 1. Gina Häußge (OctoPrint maintainer)
 1. Gina Likins (Red Hat)
@@ -1224,6 +1230,7 @@ Free Software Contributor)
 1. Haze Booth
 1. Hazel Levine
 1. Heather Leson
+1. Heather Oliver (CiviCRM Community Member)
 1. Hector Martin (Asahi Linux project lead)
 1. Heiki Lõhmus
 1. Heiko Becker (Exherbo, KDE)
@@ -1266,6 +1273,7 @@ Free Software Contributor)
 1. Idan Gazit (Django project alumnus)
 1. Igmar Palsenberg
 1. Ignacio Torres Masdeu
+1. Ilya Dmitrichenko
 1. Ilya Kreymer
 1. Imobach González Sosa (software developer at SUSE; openSUSE contributor)
 1. imSofi
@@ -1344,6 +1352,7 @@ Free Software Contributor)
 1. James Weare
 1. Jamie Gaskins
 1. Jamie Kyle
+1. Jamie McClelland (May First Movement Technology and the Progressive Technology Project)
 1. Jamie Phillips
 1. Jamie Thompson (Netgate / pfSense)
 1. Jan Alexander Steffens (`heftig`, Arch Linux)
@@ -1358,6 +1367,7 @@ Free Software Contributor)
 1. Jan Markus Wolf (@gnarflord)
 1. Janne Mareike Koschinski (developer of the Quasseldroid project)
 1. Jannis Leidel (aka "jezdez", Fellow and Director, Python Software Foundation; former Director, Django Software Foundation; Django project alumnus; Software Engineer, Mozilla; founder, PyPA; founder, Jazzband)
+1. Jannis Valault
 1. Jan Sprinz (UBports Foundation Board of Directors, Ubuntu Member)
 1. Jan van Gils
 1. Jared Hirsch (Mozilla)
@@ -1558,6 +1568,7 @@ Free Software Contributor)
 1. Jorge Gaspar Sanz Salinas
 1. Jorge Jara
 1. Jörgen Lundman (OpenZFS)
+1. Jorge Sanchez Serrano
 1. Jorge Schrauwen
 1. Jörn Huxhorn
 1. José Antonio Rey (Ubuntu Community Council, freenode Staff)
@@ -1578,6 +1589,7 @@ Free Software Contributor)
 1. Joshua Brindle
 1. Joshua Conner
 1. Joshua Jun
+1. Joshua Gowans (Project Manager, CiviCRM)
 1. Joshua Lock
 1. Joshua Peisach (Debian, Ubuntu, GNOME/Cinnamon Desktop)
 1. Joshua Strobl (Solus Experience Lead, Budgie Desktop Lead)
@@ -1743,6 +1755,7 @@ Free Software Contributor)
 1. Laurynas `NeLaurynas` K.
 1. Leah Lundqvist (leahlundqvist, V maintainer)
 1. Leandro A. F. Pereira
+1. Leandro Ribeiro (Collabora)
 1. Lee Hambley (Capistrano maintainer, former FSFE member)
 1. Lee Pêgas
 1. Lee-Roy King
@@ -1951,6 +1964,7 @@ Free Software Contributor)
 1. Matthew (0tcQd) Sams
 1. Matthew Adams
 1. Matthew Ahrens (OpenZFS)
+1. Matthew B
 1. Matthew Bakhtiari
 1. Matthew Cowie
 1. Matthew Fernandez
@@ -2042,6 +2056,7 @@ Free Software Contributor)
 1. Michael Moran
 1. Michael `NCommander` Casadevall (Ubuntu Core Developer, former Debian Developer, former FSF Savannah Administrator)
 1. Michael `nolski` Nolan
+1. Michael O'Toole
 1. Michael Ossmann
 1. Michael `ovyerus` Mitchell
 1. Michael Perron
@@ -2162,6 +2177,7 @@ Free Software Contributor)
 1. Nick Wanninger (@nickwanninger)
 1. Nicki K-leXx
 1. Niclas Zeising (FreeBSD committer)
+1. Nicol Wistreich
 1. Nicolai von Neudeck
 1. Nicolás Alvarez (KDE)
 1. Nicolas `AtomicNicos` Boeckh (Digital Overdose Community Co-Owner, Student \& TA @UNIGE)
@@ -2396,6 +2412,7 @@ Free Software Contributor)
 1. Ricardo Bánffy
 1. Ricardo Berlim Fonseca (Brasília, Brazil)
 1. Ricardo Salveti
+1. Rich Lott (Artful Robot, CiviCRM partner)
 1. Richard Brown (Former openSUSE Chairman)
 1. Richard Guy Briggs (FreeS/WAN kernel, OCLUG founding board, kaudit)
 1. Richard J. Barbalace (CEO, Ailectric)
@@ -2937,6 +2954,7 @@ Free Software Contributor)
 1. Yeaji Shin (@Bloodevil)
 1. Yegor Timoshenko (NixOS contributor)
 1. Yeon-Jae Jang (@yeoncomi/yeoncomi.ca)
+1. Yonatan Kogan (Actbue)
 1. Yorik van Havre
 1. Youko Omori (Collabora)
 1. Youness Alaoui (@kakaroto)
