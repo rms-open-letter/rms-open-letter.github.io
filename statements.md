@@ -14,6 +14,7 @@ title: Statements by other organizations on the reappointment of RMS to the FSF 
 - [Public Laboratory for Open Technology and Science](https://publiclab.org/notes/jmacha/03-25-2021/public-lab-calls-for-the-immediate-removal-of-richard-stallman)
 - [Red Hat](https://www.redhat.com/en/blog/red-hat-statement-about-richard-stallmans-return-free-software-foundation-board)
 - [Software Freedom Conservancy](https://sfconservancy.org/blog/2021/mar/23/outreachy-fsf/)
+- [Solidaires Informatique](https://solidairesinformatique.org/2021/03/30/contre-le-retour-de-stallman-pour-un-milieu-du-libre-militant-et-inclusif/)
 
 [Return to the main page][1]
 
