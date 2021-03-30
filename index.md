@@ -91,6 +91,7 @@ Signed,
 1. Open Source Diversity
 1. Organization for Ethical Source
 1. Outreachy
+1. Progressive Technology Project
 1. Public Laboratory for Open Technology and Science
 1. RACTF
 1. Radial Source
@@ -1869,6 +1870,7 @@ Free Software Contributor)
 1. Luke Triantafyllidis
 1. Lulu Cathrinus "erkin" Grimalkin
 1. Luna Catkins (`LunarLambda`)
+1. Luna Deards
 1. Luna Duclos
 1. Luna Nielsen (Twitter: @LunaFoxgirlVT, Glimpse Image Editor Project, Inochi2D Project)
 1. Lunar (ex-Debian, ex-Tor, ex-reproducible-builds.org, Nos Oignons, La Dérivation)
@@ -2555,6 +2557,7 @@ Free Software Contributor)
 1. Sage Sharp (Outreachy organizer)
 1. Sai Vamshi (Business Analyst)
 1. Sajid Ali
+1. Salar Benedizione
 1. Sally Jo Cunningham (Waikato University)
 1. Samantha N. Bueno (Fedora Project)
 1. Sam Bailey
@@ -2672,6 +2675,7 @@ Free Software Contributor)
 1. Shelly Coen
 1. Sherif Mansour (OWASP Community)
 1. Sherman Mui
+1. Shilla Saebi
 1. Shiz (former Alpine Linux developer)
 1. Shmueli Yosef Englard (@Shmuelie)
 1. Shy Ruparel
@@ -2807,6 +2811,7 @@ Free Software Contributor)
 1. Thomas Belvin
 1. Thomas Castleman (`Batcastle`, Drauger OS Founder and Lead Developer)
 1. Thomas Di Giacomo (CTO, SUSE)
+1. Thomas Friese
 1. Thomas Guillem (VLC developer)
 1. Thomas Jepp
 1. Thomas Jost
