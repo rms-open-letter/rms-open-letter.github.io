@@ -68,6 +68,7 @@ Signed,
 1. Exodus Privacy
 1. Fivnex
 1. Ferrous Systems GmbH
+1. Framasoft
 1. Freedom of the Press Foundation
 1. The FreeDOS Project
 1. Globenet
