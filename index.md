@@ -51,7 +51,6 @@ Signed,
 <!-- Any additional signees should go below this comment in alphabetical order (according to `sort -u`) -->
 
 1. 3NSoft
-1. Ааиша Членодевко (ДуплоГромосекаЛабз лтд, Барнаул сити)
 1. Aaru Data Preservation Suite
 1. Calyx Institute
 1. Ceccun
