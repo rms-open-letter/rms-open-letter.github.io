@@ -106,6 +106,8 @@ Signed,
 1. wiquaya.org
 1. X.org Foundation
 
+Some organization have published their own [statements](/statements).
+
 ### Individuals
 
 <!-- Any additional signees should go below this comment in alphabetical order (according to `sort -u`) -->
