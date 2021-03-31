@@ -1324,7 +1324,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Honza Král
 1. Horst Gutmann
 1. Hrishikesh Barman
-1. Hrishikesh Bhaskaran (@_stultus | Swathanthra Malayalam Computing)
+1. Hrishikesh Bhaskaran (@_stultus \| Swathanthra Malayalam Computing)
 1. Hubert Figuière
 1. Hubert K. Lee
 1. Hugh Campbell
