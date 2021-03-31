@@ -110,7 +110,7 @@ Signed,
 1. wiquaya.org
 1. X.org Foundation
 
-Some organization have published their own [statements](/statements).
+Some organization have published their own [statements](/statements.md).
 
 ### Individuals
 
