@@ -21,7 +21,7 @@ Der har været nok tolerance af RMSes modbydgelige idéer og opførsel. Vi kan i
 
 Vi opfordrer alle i positioner hvor de kan, at stoppe med at støtte FSF, nægter at bidrage til projekter relateret til FSF og RMS, lader være med at tale eller deltage i FSF events eller events som velkommer RMS og hans brand af intolerance. Vi beder fri software bidragydere at tage standpunkt imod bigotteri og had i deres projekter. Mens i gør disse ting, fortæl fællesskaberne og FSF hvorfor.
 
-[Vi har detajleret flere offentlige af RMSes hændelser][1]. Nogle af os har vores egne historier om RMS og vores interaktioner med ham, ting som ikke blev fanget i email-tråde eller på video. Vi håber at du vil læse hvad der er blevet delt og overveje skaden at han har gjort til vores fællesskab og andre.
+[Vi har detajleret mere af RMSes dårlige opførsel i offentligheden][1]. Nogle af os har vores egne historier om RMS og vores interaktioner med ham, ting som ikke blev fanget i email-tråde eller på video. Vi håber at du vil læse hvad der er blevet delt og overveje skaden at han har gjort til vores fællesskab og andre.
 
 [1]: https://rms-open-letter.github.io/appendix
 
