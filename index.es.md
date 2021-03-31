@@ -1,6 +1,14 @@
 ---
+title: Una carta abierta para destituir a Richard M. Stallman de todos los cargos directivos
+description: Nosotros, los abajo firmantes, pedimos que toda la Junta de la FSF dimita y que Richard M. Stallman sea retirado de todos los puestos de liderazgo. No vamos a dejar de sufrir su comportamiento, ni de darle un papel de liderazgo, ni de considerar aceptable a él y a su dañina y peligrosa ideología.
+image: /assets/og-image.png
+twitter:
+  card: summary_large_image
+share_text: Apoyo este llamamiento para que toda la Junta de la FSF dimita y para que Richard M. Stallman sea retirado de todos los puestos de liderazgo.
 lang: es
 ---
+
+{% include share-links.html %}
 
 *2021-03-23*
 
