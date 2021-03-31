@@ -7,6 +7,8 @@ twitter:
 share_text: Jeg støtter dette kald for at hele FSF-bestyrelsen skal træde af og for at Richard M. Stallman skal fjernes fra alle lederskabspositioner.
 ---
 
+{% include share-links.html %}
+
 _2021-03-23_
 
 Richard M. Stallman, også kendt som RMS, har været en farlig styrke i fri software fællesskabet i langt tid. Han har vist sig selv som kvindehader, abelistisk og transfobisk, samt andre seriøse anklager af uanstændigheder. Disse former for tro har ingen plads i fri software, digitale rættigheder og tech fællesskaber. Med hans nyelige genindførelse in i FSF-bestyrelsen, kalder vi for at hele FSF-bestyrelsen træder af, og for RMS at blive fjernet fra alle lederskabspositioner.
