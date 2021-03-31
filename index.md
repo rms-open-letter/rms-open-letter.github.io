@@ -256,7 +256,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Al Sweigart (Python Software Foundation fellow, former Noisebridge director)
 1. Alvaro Soliverez (Collabora)
 1. Alycia Sellie
-1. A Mani (Indian Statistical Institute, International Rough Set Society,
+1. A Mani (Indian Statistical Institute, International Rough Set Society, Free Software Contributor)
 1. Amber Ankerholz
 1. Amber Yust
 1. Amelia Andersdotter (former Member of the European Parliament (Piratpartiet), hobby Arch and network scripting aficionado)
@@ -2404,7 +2404,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Paul Wankadia
 1. Paul Woolcock
 1. Paul Wouters (Libreswan, Fedora developer)
-1. Pavithra Eswaramoorthy
 1. Pavithra Eswaramoorthy (Bokeh)
 1. Paweł Krupa
 1. Peder Bergebakken Sundt
@@ -2434,7 +2433,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Peter Stein
 1. Peter Van Eynde
 1. Petrohs
-1. peylight
 1. Peylight
 1. Phil Dibowitz
 1. Phil Hagelberg
@@ -2946,10 +2944,10 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Tom Sorensen (Zathrus on freenode irc)
 1. Tom "spot" Callaway (Fedora Council member, former LP speaker)
 1. Toni Prug
-1. Ton Sebro
 1. Tony Colston
 1. Tony Eom
 1. Tony Richards
+1. Tony Sebro
 1. Topi Kettunen
 1. Tor Lillqvist (Collabora)
 1. tpdcl
@@ -3103,6 +3101,4 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Zander Brown (GNOME and more)
 1. Zeltzin Rodríguez
 1. Zvi Gilboa
-1. Владлена Сосихуиловна (@vladlenasossi)
-Free Software Contributor)
 <!-- Do not add your name to the bottom, it needs adding in alphabetical order above -->
