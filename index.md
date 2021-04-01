@@ -78,6 +78,7 @@ Signed,
 1. Innatical
 1. Kludge Cyber Systems
 1. LineageOS
+1. May First Movement Technology
 1. Metaform
 1. MidnightBSD Project
 1. MousePaw Media
@@ -266,6 +267,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Amir Sarabadani (Wikimedia)
 1. Amir Yalon
 1. Amos `fasterthanlime` Wenger
+1. A.M. Rowsell (GNOME contributor, hardware hacker, Hackaday/Tindie writer)
 1. Amye Scavarda Perrin
 1. Amy Grace `00p513`, `amyosx`
 1. Amy Guy `rhiaro`
@@ -733,6 +735,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Cole Helbling (NixOS contributor)
 1. Colin Ian King
 1. Colin Mahns (former FSF member)
+1. Colin McMillen (@mcmillen)
 1. Colin O'Brien
 1. Colin Polk
 1. Colin Seiler
@@ -961,6 +964,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Douglas Shieh
 1. Doug Targett (Collabora)
 1. Dr. Chris Zimmermann (Linux Inlaws, FraLUG)
+1. Drew Beres (@drruruu, transprogrammer Founder)
 1. Drew DeVore (Jupiter Broadcasting)
 1. Drew Fisher
 1. Drew Fustini
@@ -1336,6 +1340,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Ian Hyzy
 1. Ian Jackson (Former Debian Project Leader; former President, Software in the Public Interest; GNU Maintainer)
 1. Ian Johnson (Ubuntu)
+1. Ian Santopietro
 1. Ian Stapleton Cordasco
 1. Ian Steiger
 1. İbrahim Yöndemli
@@ -1661,6 +1666,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. José Manrique López de la Fuente
 1. Josephine Seaton
 1. Joseph Jacks (Founder, OSS Capital)
+1. Joseph Miller (@joffotron)
 1. Joseph Thomas
 1. Josh Bicking (`jibby`)
 1. Josh Conway (CrankyLinuxUser)
@@ -1679,6 +1685,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Joshua Lock
 1. Joshua Peisach (Debian, Ubuntu, GNOME/Cinnamon Desktop)
 1. Joshua Strobl (Solus Experience Lead, Budgie Desktop Lead)
+1. Joshua T. Fisher
 1. Joshua Timberman
 1. Joyce Kung
 1. Joy Scharmen
@@ -2258,6 +2265,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Nathan LeClaire
 1. Nathan Moos (@moosingin3space, drive-by Rust, NixOS, and Firefox contributor)
 1. Nathan Ritchie
+1. Nathan Schneider (University of Colorado Boulder)
 1. Nathan Shelly
 1. N.D.
 1. Neal Gompa (Fedora Project contributor, Mageia Project Council Member, Mageia.Org Board Member, openSUSE Project Board Member, OpenMandriva contributor)
@@ -3014,6 +3022,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Victor Hugo Soliz Kuncar
 1. Victoria "tdfischer" Fierce (Former KDE Multimedia and Phonon-GStreamer maintainer)
 1. Victor Westerhuis
+1. Vikram Kalidindi
 1. Viktoriia Leontieva (Product Designer at GitHub)
 1. Vince Asta
 1. Vincent Broz (`@apiology`)
