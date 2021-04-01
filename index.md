@@ -87,6 +87,7 @@ Signed,
 1. Open Observatory of Network Interference (OONI)
 1. Open Source Collective
 1. Open Source Diversity
+1. OpenTelemetry
 1. Organization for Ethical Source
 1. Outreachy
 1. Palante Technology Cooperative
