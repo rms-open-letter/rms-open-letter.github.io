@@ -25,8 +25,6 @@ We urge those in a position to do so to stop supporting the Free Software Founda
 
 [1]: https://rms-open-letter.github.io/appendix
 
-To sign, please email digitalautonomy at riseup.net.
-
 Signed,
 
 - Molly de Blanc (Debian Project, GNOME Foundation)
