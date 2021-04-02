@@ -5,6 +5,7 @@ title: Statements by other organizations on the reappointment of RMS to the FSF 
 - [April](https://www.april.org/en/richard-stallman-back-board-free-software-foundation)
 - [Document Foundation](https://blog.documentfoundation.org/blog/2021/03/25/statement-on-rms-and-fsf/)
 - [EFF](https://www.eff.org/deeplinks/2021/03/statement-re-election-richard-stallman-fsf-board)
+- [Fedora Council](https://fedoramagazine.org/fedora-council-statement-on-richard-stallman-rejoining-fsf-board/)
 - [FSFE](https://fsfe.org/news/2021/news-20210324-01.en.html)
 - [KDE](https://ev.kde.org//2021/03/24/on-the-reappointment-of-rms-fsf/)
 - [Mixxx](https://mixxx.org/news/2021-03-26-fsf-statement/)
