@@ -1771,7 +1771,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Kellegram
 1. Kelly Hopkins (former FSF staffer)
 1. Kemal Akkoyun
-1. Kenasn kQuote
 1. Kendra Albert
 1. Ken Guest (PEAR, Phing)
 1. Ken Irwin
