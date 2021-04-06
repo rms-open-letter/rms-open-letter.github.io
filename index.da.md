@@ -25,6 +25,5 @@ Vi opfordrer alle i positioner hvor de kan, at stoppe med at støtte FSF, nægte
 
 [1]: https://rms-open-letter.github.io/appendix
 
-For at underskrive send en email til digitalautonomy på riseup.net.
-
 [Klik her for at se listen af underskrifter](https://rms-open-letter.github.io)
+

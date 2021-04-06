@@ -18,4 +18,3 @@ Nous demandons instamment à ceux qui sont en mesure de le faire de cesser de so
 
 [1]: https://rms-open-letter.github.io/appendix.fr
 
-Pour signer, veuillez envoyer un courriel à digitalautonomy at riseup.net ou [soumettre une pull request](https://github.com/rms-open-letter/rms-open-letter.github.io/pulls).

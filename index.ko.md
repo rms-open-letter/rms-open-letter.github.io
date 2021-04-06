@@ -26,9 +26,7 @@ _2021-03-23_
 
 [1]: https://rms-open-letter.github.io/appendix.ko
 
-연서명에 참여하시고자 하는 분은 digitalautonomy at riseup.net 으로 이메일을 보내 주시기 바랍니다.
-
-[영어 원문 및 연서명자 명단](https://rms-open-letter.github.io)
+[영어 원문 및 연서명자 명단](https://rms-open-letter.github.io)<sup>[역주12](#역주12)</sup>
 
 * <a name="역주1"><sup>[역주1]</sup></a> 리차드 스톨만, 이라는 표기가 익숙하지만 [한국어 위키백과](https://ko.wikipedia.org/wiki/%EB%A6%AC%EC%B2%98%EB%93%9C_%EC%8A%A4%ED%86%A8%EB%A8%BC)의 표기를 따랐습니다.
 * <a name="역주2"><sup>[역주2]</sup></a> Free Software.
@@ -41,3 +39,5 @@ _2021-03-23_
 * <a name="역주9"><sup>[역주9]</sup></a> tech ethics.
 * <a name="역주10"><sup>[역주10]</sup></a> contributors. *공헌자*로도 종종 번역됩니다.
 * <a name="역주11"><sup>[역주11]</sup></a> user freedom.
+* <a name="역주12"><sup>[역주12]</sup></a> 2021년 4월 1일 자정을 끝으로 연서명자 모집이 종료되었습니다.
+

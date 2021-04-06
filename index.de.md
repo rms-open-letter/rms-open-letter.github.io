@@ -19,4 +19,3 @@ Wir ersuchen Personen in entsprechenden Positionen, die Free Software Foundation
 
 [1]: https://rms-open-letter.github.io/appendix.de
 
-Um den Brief zu unterschreiben, schick bitte eine E-Mail an digitalautonomy at riseup.net oder [reiche einen Pull Request ein](https://github.com/rms-open-letter/rms-open-letter.github.io/pulls).

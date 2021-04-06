@@ -18,4 +18,3 @@ Imploramos àqueles capazes de fazê-lo, que não mais apóiem a Free Software F
 
 [1]: https://rms-open-letter.github.io/appendix
 
-Para assinar, por favor email digitalautonomy at riseup.net ou [envie um pull request](https://github.com/rms-open-letter/rms-open-letter.github.io/pulls).
