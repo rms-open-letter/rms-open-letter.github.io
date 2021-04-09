@@ -1,7 +1,8 @@
+{% assign full_url = site.url | append: page.url %}
 <div class="share-links">
   <p>Share</p>
   <a
-    href="https://twitter.com/intent/tweet?text={{page.share_text | uri_escape }}&url={{site.url | uri_escape}}"
+    href="https://twitter.com/intent/tweet?text={{page.share_text | uri_escape }}&url={{full_url | uri_escape}}"
     target="_blank"
     rel="noopener noreferrer"
   >
@@ -19,7 +20,7 @@
     </svg>
   </a>
   <a
-    href="http://www.reddit.com/submit?title={{page.share_text | uri_escape }}&url={{site.url | uri_escape}}"
+    href="http://www.reddit.com/submit?title={{page.share_text | uri_escape }}&url={{full_url | uri_escape}}"
     target="_blank"
     rel="noopener noreferrer"
   >
@@ -37,7 +38,7 @@
     </svg>
   </a>
   <a
-    href="https://www.facebook.com/sharer/sharer.php?u={{site.url | uri_escape }}"
+    href="https://www.facebook.com/sharer/sharer.php?u={{full_url | uri_escape }}"
     target="_blank"
     rel="noopener noreferrer"
   >
@@ -55,7 +56,7 @@
     </svg>
   </a>
   <a
-    href="https://www.linkedin.com/sharing/share-offsite/?url={{ site.url }}"
+    href="https://www.linkedin.com/sharing/share-offsite/?url={{ full_url }}"
     target="_blank"
     rel="noopener noreferrer"
   >
