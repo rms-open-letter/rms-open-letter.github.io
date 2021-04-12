@@ -7,6 +7,8 @@ twitter:
 share_text: I support this call for the entire Board of the FSF to step down and for Richard M. Stallman to be removed from all leadership positions.
 ---
 
+_Update (2021-04-12):_ The Board of the Free Software Foundation has [released a statement affirming their re-election of RMS](https://www.fsf.org/news/statement-of-fsf-board-on-election-of-richard-stallman). We stand by our call to action in the letter below.
+
 {% include share-links.html %}
 
 _2021-03-23_
