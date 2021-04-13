@@ -26,4 +26,3 @@ Instamos a aquellos en posición de hacerlo a que dejen de apoyar a la Free Soft
 
 [1]: https://rms-open-letter.github.io/appendix.es
 
-Para firmar, envíe un correo electrónico a digitalautonomy arroba riseup.net o [envíe un pull request](https://github.com/rms-open-letter/rms-open-letter.github.io/pulls).

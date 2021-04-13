@@ -18,4 +18,3 @@ RMS’nin çirkin fikirlerine ve davranışlarına yeterince tolerans gösterild
 
 [1]: https://rms-open-letter.github.io/appendix.tr
 
-İmzalamak için lütfen digitalautonomy at riseup.net 'e e-posta gönderin veya [pull request'i yapın](https://github.com/rms-open-letter/rms-open-letter.github.io/pulls).

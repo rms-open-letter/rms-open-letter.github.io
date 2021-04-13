@@ -23,6 +23,3 @@ lang: zh-Hans-CN
 
 我们详细[纪录了 RMS 公开的言行](https://rms-open-letter.github.io/appendix.zh)。我们之中有人与 RMS 私底下交过手，但这些并无以电邮或影像纪录下来。我们希望您参阅以上资料，并考虑一下他对社群、对其他人所造成的伤害。
 
-参与联署，请电邮 digitalautonomy at riseup.net，或[提交 PR](https://github.com/rms-open-letter/rms-open-letter.github.io/pulls) 。
-
-联署者

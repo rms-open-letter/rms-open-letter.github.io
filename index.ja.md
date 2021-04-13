@@ -18,4 +18,3 @@ RMS の言行不一致に対しても人々は寛容を示してきました。�
 
 [1]: https://rms-open-letter.github.io/appendix
 
-署名をするには、digitalautonomy at riseup.net にメールを送ってください。

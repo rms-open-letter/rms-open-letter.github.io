@@ -18,4 +18,3 @@ Instamos aos que están en condicións de facelo a que deixen de apoiar a Free S
 
 [1]: https://rms-open-letter.github.io/appendix
 
-Para asinar, pode enviar un correo electrónico a digitalautonomy en riseup.net ou [enviar unha pull request](https://github.com/rms-open-letter/rms-open-letter.github.io/pulls).

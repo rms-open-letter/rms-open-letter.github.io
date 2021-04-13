@@ -18,4 +18,3 @@ Wij dringen er bij degenen die daartoe in staat zijn aan om de Free Software Fou
 
 [1]: https://rms-open-letter.github.io/appendix.nl
 
-Als u deze open brief ook wilt ondertekenen, stuur dan een e-mail naar digitalautonomy at riseup.net of [open een pull request](https://github.com/rms-open-letter/rms-open-letter.github.io/pulls).
