@@ -267,7 +267,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Amin Vakil
 1. Amir Mohammadi
 1. Amir Sarabadani (Wikimedia)
-1. Amir Yalon
 1. Amos `fasterthanlime` Wenger
 1. A.M. Rowsell (GNOME contributor, hardware hacker, Hackaday/Tindie writer)
 1. Amye Scavarda Perrin
