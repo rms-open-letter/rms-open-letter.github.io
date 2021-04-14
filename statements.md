@@ -7,6 +7,7 @@ title: Statements by other organizations on the reappointment of RMS to the FSF 
 - [EFF](https://www.eff.org/deeplinks/2021/03/statement-re-election-richard-stallman-fsf-board)
 - [Fedora Council](https://fedoramagazine.org/fedora-council-statement-on-richard-stallman-rejoining-fsf-board/)
 - [FSFE](https://fsfe.org/news/2021/news-20210324-01.en.html)
+- [Igalia](https://www.igalia.com/2021/04/14/Change-of-course-urgently-needed-at-Free-Software-Foundation.html)
 - [KDE](https://ev.kde.org//2021/03/24/on-the-reappointment-of-rms-fsf/)
 - [May First Movement Technology](https://mayfirst.coop/en/post/2021/content-may-first-joins-call-free-software-foundation-board-resignation/)
 - [Mixxx](https://mixxx.org/news/2021-03-26-fsf-statement/)
