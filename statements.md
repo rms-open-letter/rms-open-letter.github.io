@@ -10,6 +10,7 @@ title: Statements by other organizations on the reappointment of RMS to the FSF 
 - [KDE](https://ev.kde.org//2021/03/24/on-the-reappointment-of-rms-fsf/)
 - [May First Movement Technology](https://mayfirst.coop/en/post/2021/content-may-first-joins-call-free-software-foundation-board-resignation/)
 - [Mixxx](https://mixxx.org/news/2021-03-26-fsf-statement/)
+- [OpenSUSE](https://news.opensuse.org/2021/04/12/a-message-from-the-opensuse-board/)
 - [OpenUK](https://openuk.uk/openuk-response-to-richard-stallmans-reinstatement-to-fsf-board/)
 - [Organization for Ethical Source](https://ethicalsource.dev/blog/statement-on-richard-stallman/)
 - [OSI](https://opensource.org/OSI_Response)
