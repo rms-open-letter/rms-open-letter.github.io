@@ -676,7 +676,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Christian Hergert (GNOME)
 1. Christian Kellner (GNOME, Fedora)
 1. Christian Ledermann
-1. Christian Paul (`jaller94`)
 1. Christian 'penyaskito' López Espínola (Drupal contributor, ArgoUML contributor (inactive), OpenLayers contributor (inactive), co-translator of _ProducingOSS_)
 1. Christian Salamea
 1. Christian `shibumi` Rebischke (Arch Linux)
