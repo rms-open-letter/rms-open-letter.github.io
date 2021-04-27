@@ -179,7 +179,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Agatha Rose
 1. Akhil Indurti
 1. Akiva Leffert
-1. akurushimi
 1. Alain Y. Meza H. (Planner App)
 1. Alan Ball
 1. Alan Coopersmith (former member, X.Org Foundation Board of Directors)
