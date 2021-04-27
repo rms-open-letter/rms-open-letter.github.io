@@ -2747,7 +2747,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Selena Deckelmann (Mozilla, Former PostsgreSQL Major Contributor, Python Software Foundation Fellow, Former PSF Board Member)
 1. Semyon Apoikov
 1. SeongHyun Lee (Kevin Lee / 케빈 리)
-1. Seraphim R.P. (Kerygma Digital)
 1. Seth Aldini
 1. Seth Hillbrand
 1. Seth Marinello (former CPLUG Officer)
