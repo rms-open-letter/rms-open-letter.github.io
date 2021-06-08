@@ -940,7 +940,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. D. Joe Anderson
 1. Dmitri Goosens (@dgoosens)
 1. Dmitry Borodaenko (Debian Developer, Former Fuel for OpenStack Project Technical Lead)
-1. Dmitry Kochnev
 1. Dmitry Porunov
 1. Dominic Hayes (The Feren OS Developer)
 1. Dominick DiMaggio
