@@ -370,7 +370,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Argel Ramírez Reyes (UC Davis)
 1. Aria Buckles
 1. Ariadna Vigo
-1. Ariadne Conill (Alpine Developer, pkgconf)
 1. Arian Ardeshiri 
 1. Ariela Wenner
 1. Arnaud Dupuis
