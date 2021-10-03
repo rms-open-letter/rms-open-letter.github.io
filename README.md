@@ -1,3 +1,5 @@
+## This repository is now archived.
+
 **⚠️ As of April 1, 2021 00:00 UTC we are no longer accepting signatures.**
 
 ## Translations :globe_with_meridians:
